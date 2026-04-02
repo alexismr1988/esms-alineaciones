@@ -4,6 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>ESMS Teamsheet Builder</title>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+<script>emailjs.init("gihE5mJO7auAV3NXD");</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300..700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
@@ -385,17 +387,11 @@ pre#preview-text{font-family:var(--font-mono);font-size:var(--text-xs);line-heig
       Descargar .sht
     </button>
     <hr class="divider">
-    <div class="email-form">
-      <label class="label">Enviar por email</label>
-      <div class="email-row">
-        <input class="input" id="email-input" type="email" placeholder="destino@correo.com">
-        <button class="btn btn-primary btn-sm" onclick="sendByEmail()">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
-          Enviar
-        </button>
-      </div>
-      <div class="send-status" id="send-status"></div>
-    </div>
+    <button class="btn btn-primary btn-full" id="btn-send-email" onclick="sendByEmail()" style="padding:var(--space-3) var(--space-4);font-size:var(--text-sm)">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+      Enviar alineación
+    </button>
+    <div class="send-status" id="send-status"></div>
   </div>
 </aside>
 
@@ -840,21 +836,45 @@ function downloadSHT(){
    EMAIL (mailto fallback — no backend needed)
 ═══════════════════════════════════════════════════ */
 function sendByEmail(){
-  const email = document.getElementById('email-input').value.trim();
   const status = document.getElementById('send-status');
-  if(!email||!email.includes('@')){
+  const btn = document.getElementById('btn-send-email');
+  const abbr = (document.getElementById('team-abbr').value||'').toUpperCase();
+  if(!abbr){
     status.className='send-status err';
-    status.textContent='Introduce un email válido';
+    status.style.display='block';
+    status.textContent='⚠ Introduce la abreviatura del equipo antes de enviar';
     return;
   }
-  const abbr = (document.getElementById('team-abbr').value||'equipo').toUpperCase();
   const text = generateSHT();
-  const subject = encodeURIComponent(`Alineación ${abbr} – ESMS`);
-  const body = encodeURIComponent(text);
-  const mailto = `mailto:${email}?subject=${subject}&body=${body}`;
-  window.open(mailto,'_blank');
-  status.className='send-status ok';
-  status.textContent='✓ Cliente de correo abierto con la alineación';
+  const starters = document.querySelectorAll('#starting-eleven .player-name-select');
+  const filled = Array.from(starters).filter(s=>s.value).length;
+  if(filled < 11){
+    status.className='send-status err';
+    status.style.display='block';
+    status.textContent='⚠ Faltan jugadores en el once titular';
+    return;
+  }
+  btn.disabled = true;
+  btn.textContent = 'Enviando...';
+  status.style.display='none';
+  emailjs.send('service_t6fnhbc', 'template_gr8n7j5', {
+    equipo: abbr,
+    name: abbr,
+    email: 'slialineaciones@gmail.com',
+    alineacion: text
+  }).then(()=>{
+    btn.disabled = false;
+    btn.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg> Enviar alineación';
+    status.className='send-status ok';
+    status.style.display='block';
+    status.textContent='✓ Alineación enviada correctamente a slialineaciones@gmail.com';
+  }, (err)=>{
+    btn.disabled = false;
+    btn.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg> Enviar alineación';
+    status.className='send-status err';
+    status.style.display='block';
+    status.textContent='✗ Error al enviar: ' + JSON.stringify(err);
+  });
 }
 
 /* ═══════════════════════════════════════════════════
