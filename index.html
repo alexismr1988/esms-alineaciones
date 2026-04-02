@@ -260,15 +260,30 @@ pre#preview-text{font-family:var(--font-mono);font-size:var(--text-xs);line-heig
   <div class="tab-panel active" id="tab-team">
     <div class="card">
       <div class="card-title">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 17l6-6-6-6M12 19h8"/></svg>
-        Cargar Roster (.txt)
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg>
+        Selecciona tu equipo
       </div>
-      <div class="upload-zone" id="upload-zone" onclick="document.getElementById('file-input').click()" ondragover="handleDragOver(event)" ondragleave="handleDragLeave(event)" ondrop="handleDrop(event)">
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
-        <div class="upload-text">Arrastra el archivo roster o haz clic</div>
-        <div class="upload-sub">Archivo .txt exportado por ESMS</div>
+      <div class="field">
+        <label class="label">Equipo</label>
+        <select class="select" id="team-select" onchange="loadTeamFromGitHub(this.value, this.options[this.selectedIndex].dataset.file)" style="font-size:var(--text-base)">
+          <option value="">-- Elige tu equipo --</option>
+          <option value="ARS" data-file="ars.txt">Arsenal (ARS)</option>
+          <option value="ATM" data-file="atm.txt">Atlético Madrid (ATM)</option>
+          <option value="BAR" data-file="bar.txt">Barcelona (BAR)</option>
+          <option value="BAY" data-file="bay.txt">Bayern Munich (BAY)</option>
+          <option value="BOR" data-file="bor.txt">Borussia Dortmund (BOR)</option>
+          <option value="CHE" data-file="che.txt">Chelsea (CHE)</option>
+          <option value="CIT" data-file="cit.txt">Manchester City (CIT)</option>
+          <option value="INT" data-file="int.txt">Inter Milan (INT)</option>
+          <option value="LIV" data-file="liv.txt">Liverpool (LIV)</option>
+          <option value="MAN" data-file="man.txt">Manchester United (MAN)</option>
+          <option value="NAP" data-file="nap.txt">Nápoles (NAP)</option>
+          <option value="PSG" data-file="psg.txt">PSG (PSG)</option>
+          <option value="RMA" data-file="rma.txt">Real Madrid (RMA)</option>
+          <option value="TOT" data-file="tot.txt">Tottenham (TOT)</option>
+        </select>
       </div>
-      <input type="file" id="file-input" accept=".txt" style="display:none" onchange="loadRosterFile(this)">
+      <div id="roster-load-status" style="margin-top:var(--space-3);font-size:var(--text-xs);display:none"></div>
     </div>
 
     <div class="card" id="roster-card" style="display:none">
@@ -427,6 +442,36 @@ function switchTab(name){
   });
   document.querySelectorAll('.tab-panel').forEach(p=>p.classList.remove('active'));
   document.getElementById('tab-'+name).classList.add('active');
+}
+
+/* ═══════════════════════════════════════════════════
+   GITHUB ROSTER LOADER
+═══════════════════════════════════════════════════ */
+const GITHUB_BASE = "https://raw.githubusercontent.com/alexismr1988/esms-alineaciones/main/rosters/";
+
+function loadTeamFromGitHub(abbr, file){
+  if(!abbr||!file) return;
+  const statusEl = document.getElementById('roster-load-status');
+  statusEl.style.display='block';
+  statusEl.style.color='var(--color-text-muted)';
+  statusEl.textContent='⏳ Cargando plantilla...';
+  document.getElementById('team-abbr').value = abbr;
+  fetch(GITHUB_BASE + file)
+    .then(r=>{
+      if(!r.ok) throw new Error('HTTP '+r.status);
+      return r.text();
+    })
+    .then(text=>{
+      roster = parseRoster(text);
+      onRosterLoaded();
+      statusEl.style.color='var(--color-success)';
+      statusEl.textContent='✓ Plantilla cargada: '+roster.length+' jugadores';
+      setTimeout(()=>switchTab('lineup'), 600);
+    })
+    .catch(err=>{
+      statusEl.style.color='var(--color-error)';
+      statusEl.textContent='✗ Error al cargar. Comprueba la conexión: '+err.message;
+    });
 }
 
 /* ═══════════════════════════════════════════════════
