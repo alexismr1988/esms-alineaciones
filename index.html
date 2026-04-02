@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ESMS Teamsheet Builder</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300..700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+/* ─── TOKENS ─── */
+:root, [data-theme="light"] {
+  --color-bg: #f5f4f0;
+  --color-surface: #f9f8f5;
+  --color-surface-2: #ffffff;
+  --color-surface-offset: #eeece7;
+  --color-border: oklch(0.3 0.01 80 / 0.14);
+  --color-text: #1e1c17;
+  --color-text-muted: #706e67;
+  --color-text-faint: #b0ae9f;
+  --color-primary: #1a7c3e;
+  --color-primary-hover: #145f2f;
+  --color-primary-highlight: #d0e8d9;
+  --color-error: #b02020;
+  --color-error-highlight: #fde8e8;
+  --color-warning: #a06010;
+  --color-warning-highlight: #fdf2d8;
+  --color-success: #1a7c3e;
+  --color-success-highlight: #d0e8d9;
+  --color-divider: #dbd9d3;
+  --shadow-sm: 0 1px 3px oklch(0.2 0.01 80 / 0.08);
+  --shadow-md: 0 4px 14px oklch(0.2 0.01 80 / 0.10);
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --space-1: 0.25rem; --space-2: 0.5rem; --space-3: 0.75rem;
+  --space-4: 1rem; --space-5: 1.25rem; --space-6: 1.5rem;
+  --space-8: 2rem; --space-10: 2.5rem; --space-12: 3rem;
+  --transition: 150ms cubic-bezier(0.16,1,0.3,1);
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --text-xs: clamp(0.75rem, 0.7rem + 0.25vw, 0.875rem);
+  --text-sm: clamp(0.875rem, 0.8rem + 0.35vw, 1rem);
+  --text-base: clamp(1rem, 0.95rem + 0.25vw, 1.125rem);
+  --text-lg: clamp(1.125rem, 1rem + 0.75vw, 1.5rem);
+  --text-xl: clamp(1.5rem, 1.2rem + 1.25vw, 2.25rem);
+}
+[data-theme="dark"] {
+  --color-bg: #111210;
+  --color-surface: #181916;
+  --color-surface-2: #1e201c;
+  --color-surface-offset: #232520;
+  --color-border: oklch(1 0 0 / 0.09);
+  --color-text: #d6d4cc;
+  --color-text-muted: #7a7870;
+  --color-text-faint: #4e4c46;
+  --color-primary: #3db869;
+  --color-primary-hover: #2ea057;
+  --color-primary-highlight: #1a2e21;
+  --color-error: #e05555;
+  --color-error-highlight: #2a1515;
+  --color-warning: #d08030;
+  --color-warning-highlight: #2a1e0a;
+  --color-success: #3db869;
+  --color-success-highlight: #1a2e21;
+  --color-divider: #2a2c27;
+  --shadow-sm: 0 1px 3px oklch(0 0 0 / 0.25);
+  --shadow-md: 0 4px 14px oklch(0 0 0 / 0.35);
+}
+@media (prefers-color-scheme: light) { :root:not([data-theme]) {
+  --color-bg:#f5f4f0;--color-surface:#f9f8f5;--color-surface-2:#fff;
+  --color-surface-offset:#eeece7;--color-border:oklch(0.3 0.01 80/.14);
+  --color-text:#1e1c17;--color-text-muted:#706e67;--color-text-faint:#b0ae9f;
+  --color-primary:#1a7c3e;--color-primary-hover:#145f2f;--color-primary-highlight:#d0e8d9;
+  --color-error:#b02020;--color-error-highlight:#fde8e8;--color-divider:#dbd9d3;
+  --shadow-sm:0 1px 3px oklch(0.2 0.01 80/.08);--shadow-md:0 4px 14px oklch(0.2 0.01 80/.10);
+}}
+
+/* ─── RESET ─── */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;-webkit-font-smoothing:antialiased}
+body{font-family:var(--font-body);font-size:var(--text-sm);color:var(--color-text);background:var(--color-bg);min-height:100dvh;line-height:1.55}
+input,select,button,textarea{font:inherit;color:inherit}
+button{cursor:pointer;background:none;border:none}
+img{display:block;max-width:100%}
+a,button,[role="button"]{transition:color var(--transition),background var(--transition),border-color var(--transition),box-shadow var(--transition),opacity var(--transition)}
+:focus-visible{outline:2px solid var(--color-primary);outline-offset:2px;border-radius:var(--radius-sm)}
+
+/* ─── LAYOUT ─── */
+.app{display:grid;grid-template-rows:auto 1fr;min-height:100dvh}
+.topbar{background:var(--color-surface);border-bottom:1px solid var(--color-border);padding:var(--space-3) var(--space-6);display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:100}
+.topbar-brand{display:flex;align-items:center;gap:var(--space-3)}
+.logo{width:28px;height:28px}
+.brand-name{font-size:var(--text-sm);font-weight:700;letter-spacing:-0.01em}
+.brand-sub{font-size:var(--text-xs);color:var(--color-text-muted)}
+.topbar-actions{display:flex;align-items:center;gap:var(--space-2)}
+.main-layout{display:grid;grid-template-columns:1fr 340px;gap:0;height:calc(100dvh - 49px)}
+@media(max-width:900px){.main-layout{grid-template-columns:1fr;height:auto}}
+.panel-left{overflow-y:auto;padding:var(--space-6);display:flex;flex-direction:column;gap:var(--space-5)}
+.panel-right{border-left:1px solid var(--color-border);background:var(--color-surface);overflow-y:auto;display:flex;flex-direction:column}
+
+/* ─── SECTION CARDS ─── */
+.card{background:var(--color-surface-2);border:1px solid var(--color-border);border-radius:var(--radius-lg);padding:var(--space-5);box-shadow:var(--shadow-sm)}
+.card-title{font-size:var(--text-xs);font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:var(--color-text-muted);margin-bottom:var(--space-4);display:flex;align-items:center;gap:var(--space-2)}
+.card-title svg{flex-shrink:0}
+
+/* ─── FORM CONTROLS ─── */
+.field{display:flex;flex-direction:column;gap:var(--space-1)}
+.label{font-size:var(--text-xs);font-weight:600;color:var(--color-text-muted);text-transform:uppercase;letter-spacing:0.06em}
+.input,.select{background:var(--color-surface-offset);border:1px solid var(--color-border);border-radius:var(--radius-md);padding:var(--space-2) var(--space-3);font-size:var(--text-sm);color:var(--color-text);width:100%;appearance:none;-webkit-appearance:none}
+.input:focus,.select:focus{outline:2px solid var(--color-primary);outline-offset:0;border-color:transparent}
+.input.error{border-color:var(--color-error);background:var(--color-error-highlight)}
+select.select{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23888' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right var(--space-3) center;padding-right:var(--space-8)}
+
+/* ─── PLAYER ROWS ─── */
+.player-row{display:grid;grid-template-columns:32px 80px 1fr;align-items:center;gap:var(--space-2);padding:var(--space-2) 0;border-bottom:1px solid var(--color-border)}
+.player-row:last-child{border-bottom:none}
+.player-num{font-size:var(--text-xs);color:var(--color-text-faint);font-family:var(--font-mono);text-align:right}
+.player-pos-select{width:80px}
+.player-name-select{flex:1}
+.player-status{width:8px;height:8px;border-radius:50%;flex-shrink:0;margin-left:auto}
+.status-ok{background:var(--color-success)}
+.status-inj{background:var(--color-error)}
+.status-sus{background:var(--color-warning)}
+.player-warning{font-size:var(--text-xs);color:var(--color-error);margin-top:2px;display:none}
+.player-warning.visible{display:block}
+
+/* ─── TEAM INFO GRID ─── */
+.team-info-grid{display:grid;grid-template-columns:1fr 1fr;gap:var(--space-3)}
+
+/* ─── SUBSTITUTES ─── */
+.subs-grid{display:grid;gap:var(--space-2)}
+.sub-row{display:grid;grid-template-columns:32px 80px 1fr;align-items:center;gap:var(--space-2)}
+.sub-num{font-size:var(--text-xs);color:var(--color-text-faint);font-family:var(--font-mono);text-align:right}
+
+/* ─── CONDITIONS ─── */
+.condition-block{background:var(--color-surface-offset);border:1px solid var(--color-border);border-radius:var(--radius-md);padding:var(--space-3);margin-bottom:var(--space-3);position:relative}
+.condition-type{font-size:var(--text-xs);font-weight:700;text-transform:uppercase;letter-spacing:0.07em;color:var(--color-primary);margin-bottom:var(--space-2)}
+.condition-fields{display:grid;gap:var(--space-2)}
+.condition-fields-row{display:flex;flex-wrap:wrap;gap:var(--space-2);align-items:flex-end}
+.condition-fields-row .field{flex:1;min-width:80px}
+.condition-fields-row .field.shrink{flex:0 0 auto;min-width:60px}
+.cond-remove{position:absolute;top:var(--space-2);right:var(--space-2);padding:var(--space-1);color:var(--color-text-faint);border-radius:var(--radius-sm);line-height:1}
+.cond-remove:hover{color:var(--color-error);background:var(--color-error-highlight)}
+.cond-add-row{display:flex;flex-wrap:wrap;gap:var(--space-2)}
+.btn-cond{display:flex;align-items:center;gap:var(--space-1);padding:var(--space-2) var(--space-3);border:1px dashed var(--color-border);border-radius:var(--radius-md);font-size:var(--text-xs);color:var(--color-text-muted);background:transparent}
+.btn-cond:hover{border-color:var(--color-primary);color:var(--color-primary);background:var(--color-primary-highlight)}
+.if-label{font-size:var(--text-xs);color:var(--color-text-muted);padding-bottom:var(--space-2);align-self:flex-end;white-space:nowrap}
+
+/* ─── BUTTONS ─── */
+.btn{display:inline-flex;align-items:center;gap:var(--space-2);padding:var(--space-2) var(--space-4);border-radius:var(--radius-md);font-size:var(--text-sm);font-weight:600;transition:all var(--transition)}
+.btn-primary{background:var(--color-primary);color:#fff}
+.btn-primary:hover{background:var(--color-primary-hover)}
+.btn-ghost{background:transparent;border:1px solid var(--color-border);color:var(--color-text-muted)}
+.btn-ghost:hover{background:var(--color-surface-offset);color:var(--color-text)}
+.btn-icon{padding:var(--space-2);border-radius:var(--radius-md)}
+.btn-sm{padding:var(--space-1) var(--space-3);font-size:var(--text-xs)}
+.btn-full{width:100%;justify-content:center}
+
+/* ─── PREVIEW PANEL ─── */
+.preview-header{padding:var(--space-4) var(--space-5);border-bottom:1px solid var(--color-border);display:flex;align-items:center;justify-content:space-between;flex-shrink:0}
+.preview-title{font-size:var(--text-xs);font-weight:700;text-transform:uppercase;letter-spacing:0.08em;color:var(--color-text-muted)}
+.preview-body{flex:1;padding:var(--space-4) var(--space-5);overflow-y:auto}
+pre#preview-text{font-family:var(--font-mono);font-size:var(--text-xs);line-height:1.7;color:var(--color-text);white-space:pre;tab-size:4}
+.preview-actions{padding:var(--space-4) var(--space-5);border-top:1px solid var(--color-border);display:flex;flex-direction:column;gap:var(--space-3);flex-shrink:0}
+
+/* ─── EMAIL SECTION ─── */
+.email-form{display:flex;flex-direction:column;gap:var(--space-2)}
+.email-row{display:flex;gap:var(--space-2)}
+.email-row .input{flex:1}
+.send-status{font-size:var(--text-xs);padding:var(--space-2) var(--space-3);border-radius:var(--radius-md);display:none}
+.send-status.ok{display:block;background:var(--color-success-highlight);color:var(--color-success)}
+.send-status.err{display:block;background:var(--color-error-highlight);color:var(--color-error)}
+
+/* ─── UPLOAD ZONE ─── */
+.upload-zone{border:2px dashed var(--color-border);border-radius:var(--radius-lg);padding:var(--space-6);text-align:center;cursor:pointer;transition:all var(--transition);color:var(--color-text-muted)}
+.upload-zone:hover,.upload-zone.drag{border-color:var(--color-primary);background:var(--color-primary-highlight);color:var(--color-primary)}
+.upload-zone svg{margin:0 auto var(--space-2)}
+.upload-text{font-size:var(--text-sm);font-weight:500}
+.upload-sub{font-size:var(--text-xs);color:var(--color-text-faint);margin-top:var(--space-1)}
+
+/* ─── BADGE ─── */
+.badge{display:inline-flex;align-items:center;gap:4px;padding:2px 8px;border-radius:9999px;font-size:var(--text-xs);font-weight:600}
+.badge-inj{background:var(--color-error-highlight);color:var(--color-error)}
+.badge-sus{background:var(--color-warning-highlight);color:var(--color-warning)}
+.badge-ok{background:var(--color-primary-highlight);color:var(--color-primary)}
+
+/* ─── PLAYER LIST IN ROSTER ─── */
+.roster-table{width:100%;border-collapse:collapse;font-size:var(--text-xs);font-family:var(--font-mono)}
+.roster-table th{text-align:left;padding:var(--space-2);border-bottom:2px solid var(--color-border);color:var(--color-text-muted);font-size:10px;text-transform:uppercase;letter-spacing:0.06em}
+.roster-table td{padding:var(--space-1) var(--space-2);border-bottom:1px solid var(--color-border)}
+.roster-table tr:last-child td{border-bottom:none}
+.roster-table tr.inj td{color:var(--color-error);opacity:0.7}
+.roster-table tr.sus td{color:var(--color-warning);opacity:0.8}
+.roster-table tr.inj td:first-child::before{content:'🔴 '}
+.roster-table tr.sus td:first-child::before{content:'🟡 '}
+
+/* ─── SECTION DIVIDERS ─── */
+.divider{border:none;border-top:1px solid var(--color-divider);margin:var(--space-3) 0}
+
+/* ─── TABS ─── */
+.tabs{display:flex;border-bottom:1px solid var(--color-border);margin-bottom:var(--space-5)}
+.tab{padding:var(--space-2) var(--space-4);font-size:var(--text-xs);font-weight:600;color:var(--color-text-muted);border-bottom:2px solid transparent;margin-bottom:-1px;cursor:pointer;background:none;border-top:none;border-left:none;border-right:none;text-transform:uppercase;letter-spacing:0.06em}
+.tab.active{color:var(--color-primary);border-bottom-color:var(--color-primary)}
+.tab-panel{display:none}
+.tab-panel.active{display:block}
+
+/* ─── SCROLLBAR ─── */
+::-webkit-scrollbar{width:6px;height:6px}
+::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:var(--color-divider);border-radius:3px}
+
+/* ─── RESPONSIVE ─── */
+@media(max-width:900px){
+  .panel-right{border-left:none;border-top:1px solid var(--color-border)}
+  .main-layout{height:auto}
+}
+</style>
+</head>
+<body>
+
+<!-- TOPBAR -->
+<div class="app">
+<header class="topbar">
+  <div class="topbar-brand">
+    <svg class="logo" viewBox="0 0 28 28" fill="none" aria-label="ESMS Logo">
+      <rect width="28" height="28" rx="6" fill="var(--color-primary)"/>
+      <rect x="5" y="9" width="18" height="2.5" rx="1.25" fill="white"/>
+      <rect x="5" y="13.5" width="13" height="2.5" rx="1.25" fill="white" opacity="0.7"/>
+      <rect x="5" y="18" width="9" height="2.5" rx="1.25" fill="white" opacity="0.4"/>
+    </svg>
+    <div>
+      <div class="brand-name">ESMS Teamsheet</div>
+      <div class="brand-sub">Generador de alineaciones</div>
+    </div>
+  </div>
+  <div class="topbar-actions">
+    <button class="btn btn-ghost btn-icon btn-sm" data-theme-toggle aria-label="Cambiar tema">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+    </button>
+  </div>
+</header>
+
+<!-- MAIN -->
+<div class="main-layout">
+
+<!-- ── LEFT PANEL ── -->
+<div class="panel-left" id="main-panel">
+
+  <!-- TABS -->
+  <div class="tabs">
+    <button class="tab active" onclick="switchTab('team')">Plantilla</button>
+    <button class="tab" onclick="switchTab('lineup')">Alineación</button>
+    <button class="tab" onclick="switchTab('conditions')">Condicionales</button>
+  </div>
+
+  <!-- ── TAB: PLANTILLA ── -->
+  <div class="tab-panel active" id="tab-team">
+    <div class="card">
+      <div class="card-title">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 17l6-6-6-6M12 19h8"/></svg>
+        Cargar Roster (.txt)
+      </div>
+      <div class="upload-zone" id="upload-zone" onclick="document.getElementById('file-input').click()" ondragover="handleDragOver(event)" ondragleave="handleDragLeave(event)" ondrop="handleDrop(event)">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+        <div class="upload-text">Arrastra el archivo roster o haz clic</div>
+        <div class="upload-sub">Archivo .txt exportado por ESMS</div>
+      </div>
+      <input type="file" id="file-input" accept=".txt" style="display:none" onchange="loadRosterFile(this)">
+    </div>
+
+    <div class="card" id="roster-card" style="display:none">
+      <div class="card-title">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg>
+        Jugadores cargados
+        <span id="roster-count" class="badge badge-ok" style="margin-left:auto"></span>
+      </div>
+      <div id="roster-display"></div>
+    </div>
+  </div>
+
+  <!-- ── TAB: ALINEACIÓN ── -->
+  <div class="tab-panel" id="tab-lineup">
+    <div class="card">
+      <div class="card-title">ℹ️ Info del equipo</div>
+      <div class="team-info-grid">
+        <div class="field">
+          <label class="label">Abreviatura</label>
+          <input class="input" id="team-abbr" maxlength="4" placeholder="ej: CIT" style="text-transform:uppercase" oninput="this.value=this.value.toUpperCase();generatePreview()">
+        </div>
+        <div class="field">
+          <label class="label">Táctica inicial</label>
+          <select class="select" id="tactic-start" onchange="generatePreview()">
+            <option value="">-- Selecciona --</option>
+            <option value="L">L – Long Ball</option>
+            <option value="N">N – Normal</option>
+            <option value="P">P – Passing</option>
+            <option value="E">E – Pressing</option>
+            <option value="5-3-2">5-3-2</option>
+            <option value="4-4-2">4-4-2</option>
+            <option value="4-3-3">4-3-3</option>
+            <option value="4-5-1">4-5-1</option>
+            <option value="3-5-2">3-5-2</option>
+            <option value="3-4-3">3-4-3</option>
+          </select>
+        </div>
+        <div class="field">
+          <label class="label">Lanzador penaltis</label>
+          <select class="select" id="penalty-taker" onchange="generatePreview()">
+            <option value="">-- Selecciona --</option>
+          </select>
+        </div>
+        <div class="field">
+          <label class="label">Agresividad (1-20)</label>
+          <input class="input" id="aggression-start" type="number" min="1" max="20" value="10" onchange="generatePreview()">
+        </div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-title">⚽ Once Titular</div>
+      <div id="starting-eleven">
+        <!-- generated by JS -->
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-title">🪑 Banquillo (12-16)</div>
+      <div class="subs-grid" id="bench">
+        <!-- generated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- ── TAB: CONDICIONALES ── -->
+  <div class="tab-panel" id="tab-conditions">
+    <div class="card">
+      <div class="card-title">🔁 Sustituciones</div>
+      <div id="subs-conditions"></div>
+      <button class="btn-cond" onclick="addCondition('sub')">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+        Añadir sustitución
+      </button>
+    </div>
+
+    <div class="card">
+      <div class="card-title">🎯 Cambio de táctica</div>
+      <div id="tactic-conditions"></div>
+      <button class="btn-cond" onclick="addCondition('tactic')">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+        Añadir cambio de táctica
+      </button>
+    </div>
+
+    <div class="card">
+      <div class="card-title">🔀 Reposicionar jugador</div>
+      <div id="changepos-conditions"></div>
+      <button class="btn-cond" onclick="addCondition('changepos')">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+        Añadir reposicionamiento
+      </button>
+    </div>
+
+    <div class="card">
+      <div class="card-title">💢 Cambio de agresividad</div>
+      <div id="agg-conditions"></div>
+      <button class="btn-cond" onclick="addCondition('agg')">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+        Añadir cambio de agresividad
+      </button>
+    </div>
+  </div>
+
+</div><!-- /panel-left -->
+
+<!-- ── RIGHT PANEL: PREVIEW ── -->
+<aside class="panel-right">
+  <div class="preview-header">
+    <span class="preview-title">The Teamsheet</span>
+    <div id="validation-badges" style="display:flex;gap:var(--space-2)"></div>
+  </div>
+  <div class="preview-body">
+    <pre id="preview-text"></pre>
+  </div>
+  <div class="preview-actions">
+    <button class="btn btn-ghost btn-full" onclick="downloadSHT()">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+      Descargar .sht
+    </button>
+    <hr class="divider">
+    <div class="email-form">
+      <label class="label">Enviar por email</label>
+      <div class="email-row">
+        <input class="input" id="email-input" type="email" placeholder="destino@correo.com">
+        <button class="btn btn-primary btn-sm" onclick="sendByEmail()">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+          Enviar
+        </button>
+      </div>
+      <div class="send-status" id="send-status"></div>
+    </div>
+  </div>
+</aside>
+
+</div><!-- /main-layout -->
+</div><!-- /app -->
+
+<script>
+/* ═══════════════════════════════════════════════════
+   THEME TOGGLE
+═══════════════════════════════════════════════════ */
+(function(){
+  const t=document.querySelector('[data-theme-toggle]'),r=document.documentElement;
+  let d=r.getAttribute('data-theme')||'dark';
+  function setTheme(v){d=v;r.setAttribute('data-theme',v);if(t)t.innerHTML=v==='dark'?'<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>':'<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>'}
+  setTheme(d);
+  if(t) t.addEventListener('click',()=>setTheme(d==='dark'?'light':'dark'));
+})();
+
+/* ═══════════════════════════════════════════════════
+   STATE
+═══════════════════════════════════════════════════ */
+let roster = [];  // {name, age, nat, st, inj, sus, fit}
+const POSITIONS = ['GK','DF','DM','MF','AM','FW'];
+const TACTICS = ['L','N','P','E','5-3-2','4-4-2','4-3-3','4-5-1','3-5-2','3-4-3'];
+
+/* ═══════════════════════════════════════════════════
+   TABS
+═══════════════════════════════════════════════════ */
+function switchTab(name){
+  document.querySelectorAll('.tab').forEach((t,i)=>{
+    const tabs=['team','lineup','conditions'];
+    t.classList.toggle('active',tabs[i]===name);
+  });
+  document.querySelectorAll('.tab-panel').forEach(p=>p.classList.remove('active'));
+  document.getElementById('tab-'+name).classList.add('active');
+}
+
+/* ═══════════════════════════════════════════════════
+   ROSTER PARSING
+═══════════════════════════════════════════════════ */
+function parseRoster(text){
+  const lines = text.split(/\r?\n/);
+  const players = [];
+  for(const line of lines){
+    if(!line.trim() || line.startsWith('Name') || line.startsWith('---')) continue;
+    const parts = line.trim().split(/\s+/);
+    if(parts.length < 27) continue;
+    const name = parts[0];
+    if(!name || name.includes('-')) continue;
+    const inj = parseInt(parts[24]) || 0;
+    const sus = parseInt(parts[25]) || 0;
+    const fit = parseInt(parts[26]) || 100;
+    const st = parseInt(parts[3]) || 0;
+    players.push({name, age:parts[1], nat:parts[2], st, inj, sus, fit});
+  }
+  return players;
+}
+
+function loadRosterFile(input){
+  const file = input.files[0];
+  if(!file) return;
+  const reader = new FileReader();
+  reader.onload = e => {
+    roster = parseRoster(e.target.result);
+    onRosterLoaded();
+  };
+  reader.readAsText(e => {}, file);
+  reader.readAsText(file, 'utf-8');
+}
+
+function handleDragOver(e){e.preventDefault();document.getElementById('upload-zone').classList.add('drag')}
+function handleDragLeave(e){document.getElementById('upload-zone').classList.remove('drag')}
+function handleDrop(e){
+  e.preventDefault();
+  document.getElementById('upload-zone').classList.remove('drag');
+  const file = e.dataTransfer.files[0];
+  if(!file) return;
+  const reader = new FileReader();
+  reader.onload = ev => { roster = parseRoster(ev.target.result); onRosterLoaded(); };
+  reader.readAsText(file, 'utf-8');
+}
+
+function onRosterLoaded(){
+  showRosterTable();
+  buildLineupSelects();
+  buildConditionPlayerOptions();
+  document.getElementById('roster-card').style.display='block';
+  document.getElementById('roster-count').textContent = roster.length + ' jugadores';
+  generatePreview();
+}
+
+function showRosterTable(){
+  const el = document.getElementById('roster-display');
+  let html = '<table class="roster-table"><thead><tr><th>Jugador</th><th>Nat</th><th>Fit</th><th>Estado</th></tr></thead><tbody>';
+  for(const p of roster){
+    const cls = p.inj>0?'inj':p.sus>0?'sus':'';
+    const status = p.inj>0?`<span class="badge badge-inj">Inj ${p.inj}</span>`:p.sus>0?`<span class="badge badge-sus">Sus ${p.sus}</span>`:`<span class="badge badge-ok">OK</span>`;
+    html += `<tr class="${cls}"><td>${p.name}</td><td>${p.nat}</td><td>${p.fit}</td><td>${status}</td></tr>`;
+  }
+  html += '</tbody></table>';
+  el.innerHTML = html;
+}
+
+/* ═══════════════════════════════════════════════════
+   LINEUP BUILDER
+═══════════════════════════════════════════════════ */
+function buildLineupSelects(){
+  buildStarting();
+  buildBench();
+  buildPenaltySelect();
+}
+
+function getAvailablePlayers(exclude=[]){
+  return roster.filter(p => !exclude.includes(p.name));
+}
+
+function playerOption(p, selected='', showWarning=false){
+  const warn = p.inj>0?'⚠️ Lesionado':p.sus>0?'⚠️ Sancionado':'';
+  return `<option value="${p.name}" ${p.name===selected?'selected':''} data-warn="${warn}">${p.name}${warn?' ('+warn+')':''}</option>`;
+}
+
+function buildStarting(){
+  const container = document.getElementById('starting-eleven');
+  container.innerHTML='';
+  const defaultPos = ['GK','DF','DF','DF','DF','MF','MF','MF','AM','FW','FW'];
+  for(let i=0;i<11;i++){
+    const row = document.createElement('div');
+    row.className='player-row';
+    row.dataset.slot=i;
+    row.innerHTML=`
+      <span class="player-num">${i+1}</span>
+      <select class="select player-pos-select" data-slot="${i}" onchange="onLineupChange()">
+        ${POSITIONS.map(p=>`<option value="${p}" ${p===defaultPos[i]?'selected':''}>${p}</option>`).join('')}
+      </select>
+      <select class="select player-name-select" data-slot="${i}" onchange="onLineupChange()">
+        <option value="">-- Jugador --</option>
+        ${roster.map(p=>playerOption(p)).join('')}
+      </select>
+    `;
+    container.appendChild(row);
+  }
+}
+
+function buildBench(){
+  const container = document.getElementById('bench');
+  container.innerHTML='';
+  const defaultPos=['GK','DF','MF','MF','FW'];
+  for(let i=0;i<5;i++){
+    const row=document.createElement('div');
+    row.className='sub-row';
+    row.innerHTML=`
+      <span class="sub-num">${i+12}</span>
+      <select class="select player-pos-select" data-bench="${i}" onchange="onLineupChange()">
+        ${POSITIONS.map(p=>`<option value="${p}" ${p===defaultPos[i]?'selected':''}>${p}</option>`).join('')}
+      </select>
+      <select class="select player-name-select" data-bench="${i}" onchange="onLineupChange()">
+        <option value="">-- Jugador --</option>
+        ${roster.map(p=>playerOption(p)).join('')}
+      </select>
+    `;
+    container.appendChild(row);
+  }
+}
+
+function buildPenaltySelect(){
+  const sel = document.getElementById('penalty-taker');
+  const cur = sel.value;
+  sel.innerHTML='<option value="">-- Selecciona --</option>';
+  roster.filter(p=>p.inj===0&&p.sus===0).forEach(p=>{
+    sel.innerHTML+=`<option value="${p.name}" ${p.name===cur?'selected':''}>${p.name}</option>`;
+  });
+}
+
+function onLineupChange(){
+  validateDuplicates();
+  generatePreview();
+}
+
+function validateDuplicates(){
+  const allSelects = document.querySelectorAll('.player-name-select');
+  const selected = [];
+  allSelects.forEach(s=>{
+    if(s.value) selected.push({el:s, val:s.value});
+  });
+  allSelects.forEach(s=>{
+    s.classList.remove('error');
+    const player = roster.find(p=>p.name===s.value);
+    if(player && (player.inj>0||player.sus>0)){
+      s.classList.add('error');
+    }
+    const dups = selected.filter(x=>x.val===s.value);
+    if(dups.length>1) s.classList.add('error');
+  });
+  updateValidationBadges();
+}
+
+function getSelectedNames(){
+  return Array.from(document.querySelectorAll('.player-name-select')).map(s=>s.value).filter(Boolean);
+}
+
+function updateValidationBadges(){
+  const sel = getSelectedNames();
+  const dups = sel.filter((v,i)=>sel.indexOf(v)!==i);
+  const injSus = sel.filter(n=>{const p=roster.find(x=>x.name===n);return p&&(p.inj>0||p.sus>0)});
+  const container = document.getElementById('validation-badges');
+  let html='';
+  if(sel.length<11) html+=`<span class="badge badge-sus">Faltan titulares</span>`;
+  if(dups.length) html+=`<span class="badge badge-inj">Duplicados</span>`;
+  if(injSus.length) html+=`<span class="badge badge-inj">⚠️ Baja</span>`;
+  if(!html&&sel.length>=11) html=`<span class="badge badge-ok">✓ OK</span>`;
+  container.innerHTML=html;
+}
+
+/* ═══════════════════════════════════════════════════
+   CONDITIONS
+═══════════════════════════════════════════════════ */
+let condCount = 0;
+
+function getPlayerSelectOptions(includeNumbers=false){
+  const starters = Array.from(document.querySelectorAll('#starting-eleven .player-name-select')).map((s,i)=>({num:i+1,name:s.value})).filter(x=>x.name);
+  const bench = Array.from(document.querySelectorAll('#bench .player-name-select')).map((s,i)=>({num:i+12,name:s.value})).filter(x=>x.name);
+  if(includeNumbers){
+    return [...starters,...bench].map(p=>`<option value="${p.num}">${p.num} – ${p.name}</option>`).join('');
+  }
+  return [...starters,...bench].map(p=>`<option value="${p.name}">${p.name}</option>`).join('');
+}
+
+function ifFields(){
+  return `
+    <div class="condition-fields-row">
+      <span class="if-label">IF</span>
+      <div class="field shrink"><label class="label">MIN</label>
+        <select class="select cond-field" data-key="min_op" onchange="generatePreview()">
+          <option value="">--</option><option value=">=">&gt;=</option><option value="<=">&lt;=</option><option value="=">=</option>
+        </select>
+      </div>
+      <div class="field shrink"><label class="label">&nbsp;</label>
+        <input class="input cond-field" data-key="min_val" type="number" min="1" max="90" placeholder="min" style="width:56px" onchange="generatePreview()">
+      </div>
+      <div class="field shrink"><label class="label">SCORE</label>
+        <select class="select cond-field" data-key="score_op" onchange="generatePreview()">
+          <option value="">--</option><option value=">=">&gt;=</option><option value="<=">&lt;=</option><option value="=">=</option>
+        </select>
+      </div>
+      <div class="field shrink"><label class="label">&nbsp;</label>
+        <input class="input cond-field" data-key="score_val" type="number" min="-10" max="10" placeholder="goles" style="width:56px" onchange="generatePreview()">
+      </div>
+      <div class="field shrink"><label class="label">RED</label>
+        <select class="select cond-field" data-key="red_pos" onchange="generatePreview()">
+          <option value="">--</option>${POSITIONS.map(p=>`<option value="${p}">${p}</option>`).join('')}
+        </select>
+      </div>
+      <div class="field shrink"><label class="label">YEL</label>
+        <select class="select cond-field" data-key="yel_pos" onchange="generatePreview()">
+          <option value="">--</option>${POSITIONS.map(p=>`<option value="${p}">${p}</option>`).join('')}
+        </select>
+      </div>
+      <div class="field shrink"><label class="label">INJ</label>
+        <select class="select cond-field" data-key="inj_pos" onchange="generatePreview()">
+          <option value="">--</option>${POSITIONS.map(p=>`<option value="${p}">${p}</option>`).join('')}
+        </select>
+      </div>
+    </div>
+  `;
+}
+
+function addCondition(type){
+  const id = ++condCount;
+  const containerId = {sub:'subs-conditions',tactic:'tactic-conditions',changepos:'changepos-conditions',agg:'agg-conditions'}[type];
+  const block = document.createElement('div');
+  block.className='condition-block';
+  block.dataset.id=id;
+  block.dataset.type=type;
+
+  let innerHtml = `<button class="cond-remove" onclick="removeCondition(${id})" title="Eliminar"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>`;
+
+  if(type==='sub'){
+    innerHtml+=`<div class="condition-type">SUSTITUCIÓN</div><div class="condition-fields">
+      <div class="condition-fields-row">
+        <div class="field"><label class="label">Sale (nº)</label>
+          <select class="select cond-field" data-key="off" onchange="generatePreview()"><option value="">--</option>${getPlayerSelectOptions(true)}</select></div>
+        <div class="field"><label class="label">Entra (nº)</label>
+          <select class="select cond-field" data-key="on" onchange="generatePreview()"><option value="">--</option>${getPlayerSelectOptions(true)}</select></div>
+        <div class="field"><label class="label">Posición</label>
+          <select class="select cond-field" data-key="pos" onchange="generatePreview()"><option value="">--</option>${POSITIONS.map(p=>`<option>${p}</option>`).join('')}</select></div>
+      </div>
+      ${ifFields()}
+    </div>`;
+  } else if(type==='tactic'){
+    innerHtml+=`<div class="condition-type">CAMBIO DE TÁCTICA</div><div class="condition-fields">
+      <div class="condition-fields-row">
+        <div class="field"><label class="label">Nueva táctica</label>
+          <select class="select cond-field" data-key="tactic" onchange="generatePreview()">${TACTICS.map(t=>`<option value="${t}">${t}</option>`).join('')}</select></div>
+      </div>
+      ${ifFields()}
+    </div>`;
+  } else if(type==='changepos'){
+    innerHtml+=`<div class="condition-type">REPOSICIONAMIENTO</div><div class="condition-fields">
+      <div class="condition-fields-row">
+        <div class="field"><label class="label">Jugador (nº)</label>
+          <select class="select cond-field" data-key="player" onchange="generatePreview()"><option value="">--</option>${getPlayerSelectOptions(true)}</select></div>
+        <div class="field"><label class="label">Nueva pos.</label>
+          <select class="select cond-field" data-key="newpos" onchange="generatePreview()"><option value="">--</option>${POSITIONS.map(p=>`<option>${p}</option>`).join('')}</select></div>
+      </div>
+      ${ifFields()}
+    </div>`;
+  } else if(type==='agg'){
+    innerHtml+=`<div class="condition-type">CAMBIO AGRESIVIDAD</div><div class="condition-fields">
+      <div class="condition-fields-row">
+        <div class="field"><label class="label">Agresividad</label>
+          <input class="input cond-field" data-key="agg_val" type="number" min="1" max="20" placeholder="1-20" style="width:80px" onchange="generatePreview()"></div>
+      </div>
+      ${ifFields()}
+    </div>`;
+  }
+
+  block.innerHTML = innerHtml;
+  document.getElementById(containerId).appendChild(block);
+  generatePreview();
+}
+
+function removeCondition(id){
+  const el = document.querySelector(`.condition-block[data-id="${id}"]`);
+  if(el) el.remove();
+  generatePreview();
+}
+
+function buildConditionPlayerOptions(){
+  // Refresh player options in existing condition selects after roster load
+  document.querySelectorAll('.cond-field[data-key="off"],.cond-field[data-key="on"],.cond-field[data-key="player"]').forEach(sel=>{
+    const cur=sel.value;
+    sel.innerHTML=`<option value="">--</option>${getPlayerSelectOptions(true)}`;
+    if(cur) sel.value=cur;
+  });
+}
+
+/* ═══════════════════════════════════════════════════
+   SHT GENERATOR
+═══════════════════════════════════════════════════ */
+function buildIfClause(block){
+  const get = key => block.querySelector(`[data-key="${key}"]`)?.value||'';
+  let parts=[];
+  const min_op=get('min_op'), min_val=get('min_val');
+  const score_op=get('score_op'), score_val=get('score_val');
+  const red_pos=get('red_pos'), yel_pos=get('yel_pos'), inj_pos=get('inj_pos');
+  if(min_op&&min_val) parts.push(`MIN ${min_op} ${min_val}`);
+  if(score_op&&score_val) parts.push(`SCORE ${score_op} ${score_val}`);
+  if(red_pos) parts.push(`RED ${red_pos}`);
+  if(yel_pos) parts.push(`YELLOW ${yel_pos}`);
+  if(inj_pos) parts.push(`INJURED ${inj_pos}`);
+  return parts.length ? ' IF '+parts.join(', ') : '';
+}
+
+function generateSHT(){
+  const abbr = (document.getElementById('team-abbr').value||'XXX').toUpperCase();
+  const tactic = document.getElementById('tactic-start').value||'N';
+  const pkTaker = document.getElementById('penalty-taker').value;
+  const agg = document.getElementById('aggression-start').value||'10';
+
+  const starters = Array.from(document.querySelectorAll('#starting-eleven .player-row')).map(row=>({
+    pos: row.querySelector('.player-pos-select')?.value||'',
+    name: row.querySelector('.player-name-select')?.value||''
+  })).filter(p=>p.name);
+
+  const bench = Array.from(document.querySelectorAll('#bench .sub-row')).map(row=>({
+    pos: row.querySelector('.player-pos-select')?.value||'',
+    name: row.querySelector('.player-name-select')?.value||''
+  })).filter(p=>p.name);
+
+  let lines = [];
+  lines.push(abbr);
+  lines.push(tactic);
+  lines.push('');
+  starters.forEach(p=>lines.push(`${p.pos} ${p.name}`));
+  lines.push('');
+  bench.forEach(p=>lines.push(`${p.pos} ${p.name}`));
+  lines.push('');
+  if(pkTaker) lines.push(`PK: ${pkTaker}`);
+  lines.push('');
+  lines.push(`AGG ${agg}`);
+
+  // Conditions
+  document.querySelectorAll('.condition-block').forEach(block=>{
+    const type = block.dataset.type;
+    const get = key => block.querySelector(`[data-key="${key}"]`)?.value||'';
+    const ifClause = buildIfClause(block);
+    if(type==='sub'){
+      const off=get('off'), on=get('on'), pos=get('pos');
+      if(off&&on) lines.push(`SUB ${off} ${on} ${pos}${ifClause}`);
+    } else if(type==='tactic'){
+      const tac=get('tactic');
+      if(tac) lines.push(`TACTIC ${tac}${ifClause}`);
+    } else if(type==='changepos'){
+      const player=get('player'), newpos=get('newpos');
+      if(player&&newpos) lines.push(`CHANGEPOS ${player} ${newpos}${ifClause}`);
+    } else if(type==='agg'){
+      const val=get('agg_val');
+      if(val) lines.push(`AGG ${val}${ifClause}`);
+    }
+  });
+
+  return lines.join('\r\n');
+}
+
+function generatePreview(){
+  const text = generateSHT();
+  document.getElementById('preview-text').textContent = text;
+  updateValidationBadges();
+}
+
+/* ═══════════════════════════════════════════════════
+   DOWNLOAD
+═══════════════════════════════════════════════════ */
+function downloadSHT(){
+  const abbr = (document.getElementById('team-abbr').value||'equipo').toLowerCase();
+  const text = generateSHT();
+  const blob = new Blob([text], {type:'text/plain'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = abbr+'.sht';
+  a.click();
+}
+
+/* ═══════════════════════════════════════════════════
+   EMAIL (mailto fallback — no backend needed)
+═══════════════════════════════════════════════════ */
+function sendByEmail(){
+  const email = document.getElementById('email-input').value.trim();
+  const status = document.getElementById('send-status');
+  if(!email||!email.includes('@')){
+    status.className='send-status err';
+    status.textContent='Introduce un email válido';
+    return;
+  }
+  const abbr = (document.getElementById('team-abbr').value||'equipo').toUpperCase();
+  const text = generateSHT();
+  const subject = encodeURIComponent(`Alineación ${abbr} – ESMS`);
+  const body = encodeURIComponent(text);
+  const mailto = `mailto:${email}?subject=${subject}&body=${body}`;
+  window.open(mailto,'_blank');
+  status.className='send-status ok';
+  status.textContent='✓ Cliente de correo abierto con la alineación';
+}
+
+/* ═══════════════════════════════════════════════════
+   INIT
+═══════════════════════════════════════════════════ */
+buildStarting();
+buildBench();
+generatePreview();
+</script>
+</body>
+</html>
