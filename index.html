@@ -292,16 +292,13 @@ pre#preview-text{font-family:var(--font-mono);font-size:var(--text-xs);line-heig
           <label class="label">Táctica inicial</label>
           <select class="select" id="tactic-start" onchange="generatePreview()">
             <option value="">-- Selecciona --</option>
-            <option value="L">L – Long Ball</option>
             <option value="N">N – Normal</option>
-            <option value="P">P – Passing</option>
-            <option value="E">E – Pressing</option>
-            <option value="5-3-2">5-3-2</option>
-            <option value="4-4-2">4-4-2</option>
-            <option value="4-3-3">4-3-3</option>
-            <option value="4-5-1">4-5-1</option>
-            <option value="3-5-2">3-5-2</option>
-            <option value="3-4-3">3-4-3</option>
+            <option value="P">P – Pases</option>
+            <option value="C">C – Contraataque</option>
+            <option value="L">L – Balón Largo</option>
+            <option value="A">A – Ataque</option>
+            <option value="D">D – Defensiva</option>
+            <option value="E">E – Europea</option>
           </select>
         </div>
         <div class="field">
@@ -422,7 +419,7 @@ pre#preview-text{font-family:var(--font-mono);font-size:var(--text-xs);line-heig
 ═══════════════════════════════════════════════════ */
 let roster = [];  // {name, age, nat, st, inj, sus, fit}
 const POSITIONS = ['GK','DF','DM','MF','AM','FW'];
-const TACTICS = ['L','N','P','E','5-3-2','4-4-2','4-3-3','4-5-1','3-5-2','3-4-3'];
+const TACTICS = ['N','P','C','L','A','D','E'];
 
 /* ═══════════════════════════════════════════════════
    TABS
@@ -461,11 +458,10 @@ function loadRosterFile(input){
   const file = input.files[0];
   if(!file) return;
   const reader = new FileReader();
-  reader.onload = e => {
+  reader.onload = function(e) {
     roster = parseRoster(e.target.result);
     onRosterLoaded();
   };
-  reader.readAsText(e => {}, file);
   reader.readAsText(file, 'utf-8');
 }
 
@@ -492,11 +488,11 @@ function onRosterLoaded(){
 
 function showRosterTable(){
   const el = document.getElementById('roster-display');
-  let html = '<table class="roster-table"><thead><tr><th>Jugador</th><th>Nat</th><th>Fit</th><th>Estado</th></tr></thead><tbody>';
+  let html = '<table class="roster-table"><thead><tr><th>Jugador</th><th>Edad</th><th>Nac</th><th>Estado</th></tr></thead><tbody>';
   for(const p of roster){
     const cls = p.inj>0?'inj':p.sus>0?'sus':'';
     const status = p.inj>0?`<span class="badge badge-inj">Inj ${p.inj}</span>`:p.sus>0?`<span class="badge badge-sus">Sus ${p.sus}</span>`:`<span class="badge badge-ok">OK</span>`;
-    html += `<tr class="${cls}"><td>${p.name}</td><td>${p.nat}</td><td>${p.fit}</td><td>${status}</td></tr>`;
+    html += `<tr class="${cls}"><td>${p.name}</td><td>${p.age}</td><td>${p.nat}</td><td>${status}</td></tr>`;
   }
   html += '</tbody></table>';
   el.innerHTML = html;
@@ -626,6 +622,11 @@ function getPlayerSelectOptions(includeNumbers=false){
   return [...starters,...bench].map(p=>`<option value="${p.name}">${p.name}</option>`).join('');
 }
 
+function posAndNumOptions(){
+  const starters = Array.from(document.querySelectorAll('#starting-eleven .player-row')).map((r,i)=>{const n=r.querySelector('.player-name-select')?.value;return n?`<option value="${i+1}">${i+1} – ${n}</option>`:''}).join('');
+  const bench = Array.from(document.querySelectorAll('#bench .sub-row')).map((r,i)=>{const n=r.querySelector('.player-name-select')?.value;return n?`<option value="${i+12}">${i+12} – ${n}</option>`:''}).join('');
+  return POSITIONS.map(p=>`<option value="${p}">${p}</option>`).join('')+'<optgroup label="──────"></optgroup>'+starters+bench;
+}
 function ifFields(){
   return `
     <div class="condition-fields-row">
@@ -646,19 +647,30 @@ function ifFields(){
       <div class="field shrink"><label class="label">&nbsp;</label>
         <input class="input cond-field" data-key="score_val" type="number" min="-10" max="10" placeholder="goles" style="width:56px" onchange="generatePreview()">
       </div>
+      <div class="field shrink"><label class="label">SHOTS</label>
+        <select class="select cond-field" data-key="shots_op" onchange="generatePreview()">
+          <option value="">--</option><option value=">=">&gt;=</option><option value="<=">&lt;=</option><option value="=">=</option>
+        </select>
+      </div>
+      <div class="field shrink"><label class="label">&nbsp;</label>
+        <input class="input cond-field" data-key="shots_val" type="number" min="0" max="50" placeholder="disp." style="width:56px" onchange="generatePreview()">
+      </div>
+    </div>
+    <div class="condition-fields-row">
+      <span class="if-label" style="visibility:hidden">IF</span>
       <div class="field shrink"><label class="label">RED</label>
         <select class="select cond-field" data-key="red_pos" onchange="generatePreview()">
-          <option value="">--</option>${POSITIONS.map(p=>`<option value="${p}">${p}</option>`).join('')}
+          <option value="">--</option>${posAndNumOptions()}
         </select>
       </div>
-      <div class="field shrink"><label class="label">YEL</label>
+      <div class="field shrink"><label class="label">AMARILLA</label>
         <select class="select cond-field" data-key="yel_pos" onchange="generatePreview()">
-          <option value="">--</option>${POSITIONS.map(p=>`<option value="${p}">${p}</option>`).join('')}
+          <option value="">--</option>${posAndNumOptions()}
         </select>
       </div>
-      <div class="field shrink"><label class="label">INJ</label>
+      <div class="field shrink"><label class="label">LESIÓN</label>
         <select class="select cond-field" data-key="inj_pos" onchange="generatePreview()">
-          <option value="">--</option>${POSITIONS.map(p=>`<option value="${p}">${p}</option>`).join('')}
+          <option value="">--</option>${posAndNumOptions()}
         </select>
       </div>
     </div>
@@ -743,9 +755,11 @@ function buildIfClause(block){
   let parts=[];
   const min_op=get('min_op'), min_val=get('min_val');
   const score_op=get('score_op'), score_val=get('score_val');
+  const shots_op=get('shots_op'), shots_val=get('shots_val');
   const red_pos=get('red_pos'), yel_pos=get('yel_pos'), inj_pos=get('inj_pos');
   if(min_op&&min_val) parts.push(`MIN ${min_op} ${min_val}`);
   if(score_op&&score_val) parts.push(`SCORE ${score_op} ${score_val}`);
+  if(shots_op&&shots_val) parts.push(`SHOTS ${shots_op} ${shots_val}`);
   if(red_pos) parts.push(`RED ${red_pos}`);
   if(yel_pos) parts.push(`YELLOW ${yel_pos}`);
   if(inj_pos) parts.push(`INJURED ${inj_pos}`);
