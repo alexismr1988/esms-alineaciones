@@ -447,7 +447,7 @@ function switchTab(name){
 /* ═══════════════════════════════════════════════════
    GITHUB ROSTER LOADER
 ═══════════════════════════════════════════════════ */
-const GITHUB_BASE = "https://raw.githubusercontent.com/alexismr1988/esms-alineaciones/main/rosters/";
+const GITHUB_BASE = "https://cdn.jsdelivr.net/gh/alexismr1988/esms-alineaciones@main/rosters/";
 
 function loadTeamFromGitHub(abbr, file){
   if(!abbr||!file) return;
@@ -666,7 +666,9 @@ function getPlayerSelectOptions(includeNumbers=false){
 function posAndNumOptions(){
   const starters = Array.from(document.querySelectorAll('#starting-eleven .player-row')).map((r,i)=>{const n=r.querySelector('.player-name-select')?.value;return n?`<option value="${i+1}">${i+1} – ${n}</option>`:''}).join('');
   const bench = Array.from(document.querySelectorAll('#bench .sub-row')).map((r,i)=>{const n=r.querySelector('.player-name-select')?.value;return n?`<option value="${i+12}">${i+12} – ${n}</option>`:''}).join('');
-  return POSITIONS.map(p=>`<option value="${p}">${p}</option>`).join('')+'<optgroup label="──────"></optgroup>'+starters+bench;
+  const nums = starters + bench;
+  const pos = POSITIONS.map(p=>`<option value="${p}">${p}</option>`).join('');
+  return nums + (nums?'<optgroup label="── Posición ──"></optgroup>':'') + pos;
 }
 function ifFields(){
   return `
@@ -731,10 +733,10 @@ function addCondition(type){
   if(type==='sub'){
     innerHtml+=`<div class="condition-type">SUSTITUCIÓN</div><div class="condition-fields">
       <div class="condition-fields-row">
-        <div class="field"><label class="label">Sale (nº)</label>
-          <select class="select cond-field" data-key="off" onchange="generatePreview()"><option value="">--</option>${getPlayerSelectOptions(true)}</select></div>
-        <div class="field"><label class="label">Entra (nº)</label>
-          <select class="select cond-field" data-key="on" onchange="generatePreview()"><option value="">--</option>${getPlayerSelectOptions(true)}</select></div>
+        <div class="field"><label class="label">Sale</label>
+          <select class="select cond-field" data-key="off" onchange="generatePreview()"><option value="">--</option>${posAndNumOptions()}</select></div>
+        <div class="field"><label class="label">Entra</label>
+          <select class="select cond-field" data-key="on" onchange="generatePreview()"><option value="">--</option>${posAndNumOptions()}</select></div>
         <div class="field"><label class="label">Posición</label>
           <select class="select cond-field" data-key="pos" onchange="generatePreview()"><option value="">--</option>${POSITIONS.map(p=>`<option>${p}</option>`).join('')}</select></div>
       </div>
@@ -751,8 +753,8 @@ function addCondition(type){
   } else if(type==='changepos'){
     innerHtml+=`<div class="condition-type">REPOSICIONAMIENTO</div><div class="condition-fields">
       <div class="condition-fields-row">
-        <div class="field"><label class="label">Jugador (nº)</label>
-          <select class="select cond-field" data-key="player" onchange="generatePreview()"><option value="">--</option>${getPlayerSelectOptions(true)}</select></div>
+        <div class="field"><label class="label">Jugador</label>
+          <select class="select cond-field" data-key="player" onchange="generatePreview()"><option value="">--</option>${posAndNumOptions()}</select></div>
         <div class="field"><label class="label">Nueva pos.</label>
           <select class="select cond-field" data-key="newpos" onchange="generatePreview()"><option value="">--</option>${POSITIONS.map(p=>`<option>${p}</option>`).join('')}</select></div>
       </div>
