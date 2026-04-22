@@ -663,10 +663,22 @@ function getPlayerSelectOptions(includeNumbers=false){
   return [...starters,...bench].map(p=>`<option value="${p.name}">${p.name}</option>`).join('');
 }
 
-function posAndNumOptions(){
+function getPlayerNums(){
   const starters = Array.from(document.querySelectorAll('#starting-eleven .player-row')).map((r,i)=>{const n=r.querySelector('.player-name-select')?.value;return n?`<option value="${i+1}">${i+1} – ${n}</option>`:''}).join('');
   const bench = Array.from(document.querySelectorAll('#bench .sub-row')).map((r,i)=>{const n=r.querySelector('.player-name-select')?.value;return n?`<option value="${i+12}">${i+12} – ${n}</option>`:''}).join('');
-  const nums = starters + bench;
+  return starters + bench;
+}
+// Sale/Entra/Reposición: posiciones propias + números propios
+function posAndNumOptions(){
+  const nums = getPlayerNums();
+  const ownPos = POSITIONS.map(p=>`<option value="${p}">${p}</option>`).join('');
+  return ownPos
+    + (nums?'<optgroup label="── Jugador ──"></optgroup>':'')
+    + nums;
+}
+// Roja/Amarilla/Lesión: posiciones propias + posiciones rival + números propios
+function posNumWithOpponent(){
+  const nums = getPlayerNums();
   const ownPos = POSITIONS.map(p=>`<option value="${p}">${p}</option>`).join('');
   const oppPos = POSITIONS.map(p=>`<option value="O${p}">O${p}</option>`).join('');
   return ownPos
@@ -706,19 +718,19 @@ function ifFields(){
     </div>
     <div class="condition-fields-row">
       <span class="if-label" style="visibility:hidden">IF</span>
-      <div class="field shrink"><label class="label">RED</label>
+      <div class="field shrink"><label class="label">ROJA</label>
         <select class="select cond-field" data-key="red_pos" onchange="generatePreview()">
-          <option value="">--</option>${posAndNumOptions()}
+          <option value="">--</option>${posNumWithOpponent()}
         </select>
       </div>
       <div class="field shrink"><label class="label">AMARILLA</label>
         <select class="select cond-field" data-key="yel_pos" onchange="generatePreview()">
-          <option value="">--</option>${posAndNumOptions()}
+          <option value="">--</option>${posNumWithOpponent()}
         </select>
       </div>
       <div class="field shrink"><label class="label">LESIÓN</label>
         <select class="select cond-field" data-key="inj_pos" onchange="generatePreview()">
-          <option value="">--</option>${posAndNumOptions()}
+          <option value="">--</option>${posNumWithOpponent()}
         </select>
       </div>
     </div>
