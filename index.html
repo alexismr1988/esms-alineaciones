@@ -667,8 +667,13 @@ function posAndNumOptions(){
   const starters = Array.from(document.querySelectorAll('#starting-eleven .player-row')).map((r,i)=>{const n=r.querySelector('.player-name-select')?.value;return n?`<option value="${i+1}">${i+1} – ${n}</option>`:''}).join('');
   const bench = Array.from(document.querySelectorAll('#bench .sub-row')).map((r,i)=>{const n=r.querySelector('.player-name-select')?.value;return n?`<option value="${i+12}">${i+12} – ${n}</option>`:''}).join('');
   const nums = starters + bench;
-  const pos = POSITIONS.map(p=>`<option value="${p}">${p}</option>`).join('');
-  return nums + (nums?'<optgroup label="── Posición ──"></optgroup>':'') + pos;
+  const ownPos = POSITIONS.map(p=>`<option value="${p}">${p}</option>`).join('');
+  const oppPos = POSITIONS.map(p=>`<option value="O${p}">O${p}</option>`).join('');
+  return ownPos
+    + '<optgroup label="── Rival ──"></optgroup>'
+    + oppPos
+    + (nums?'<optgroup label="── Jugador ──"></optgroup>':'')
+    + nums;
 }
 function ifFields(){
   return `
