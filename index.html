@@ -447,7 +447,7 @@ function switchTab(name){
 /* ═══════════════════════════════════════════════════
    GITHUB ROSTER LOADER
 ═══════════════════════════════════════════════════ */
-const GITHUB_BASE = "https://cdn.jsdelivr.net/gh/alexismr1988/esms-alineaciones@main/rosters/";
+const GITHUB_BASE = "https://raw.githubusercontent.com/alexismr1988/esms-alineaciones/main/rosters/";
 
 function loadTeamFromGitHub(abbr, file){
   if(!abbr||!file) return;
@@ -480,17 +480,32 @@ function loadTeamFromGitHub(abbr, file){
 function parseRoster(text){
   const lines = text.split(/\r?\n/);
   const players = [];
-  for(const line of lines){
-    if(!line.trim() || line.startsWith('Name') || line.startsWith('---')) continue;
-    const parts = line.trim().split(/\s+/);
-    if(parts.length < 27) continue;
-    const name = parts[0];
-    if(!name || name.includes('-')) continue;
-    const inj = parseInt(parts[24]) || 0;
-    const sus = parseInt(parts[25]) || 0;
-    const fit = parseInt(parts[26]) || 100;
-    const st = parseInt(parts[3]) || 0;
-    players.push({name, age:parts[1], nat:parts[2], st, inj, sus, fit});
+  for(const rawLine of lines){
+    const line = rawLine.trim();
+    if(!line || line.startsWith('Name') || line.startsWith('---')) continue;
+
+    const parts = line.split(/\s+/);
+    if(parts.length < 10) continue;
+
+    let ageIdx = -1;
+    for(let i=1; i<parts.length; i++){
+      if(/^\d+$/.test(parts[i])){
+        ageIdx = i;
+        break;
+      }
+    }
+    if(ageIdx < 0) continue;
+
+    const name = parts.slice(0, ageIdx).join('_');
+    if(!name) continue;
+
+    const n = parts.length;
+    const fit = parseInt(parts[n-1], 10) || 100;
+    const sus = parseInt(parts[n-2], 10) || 0;
+    const inj = parseInt(parts[n-3], 10) || 0;
+    const st = parseInt(parts[ageIdx+2], 10) || 0;
+
+    players.push({name, age:parts[ageIdx], nat:parts[ageIdx+1]||'', st, inj, sus, fit});
   }
   return players;
 }
