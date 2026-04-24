@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Estadísticas — Liga SLI</title>
+<style>
+  :root{
+    --bg:#0d0d0d;--surface:#161616;--surface2:#1e1e1e;--border:#2a2a2a;
+    --accent:#f5a623;--text:#e8e8e8;--text-muted:#888;
+    --gold:#ffd700;--c-goals:#e8395a;--c-ass:#f5a623;--c-shots:#ff6b35;
+    --c-saves:#3498db;--c-tack:#2ecc71;--c-pass:#9b59b6;
+    --c-mom:#ffd700;--c-mins:#1abc9c;--c-gc:#e74c3c;--c-ratio:#e67e22;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{background:var(--bg);color:var(--text);font-family:'Segoe UI',sans-serif;min-height:100vh;}
+
+  header{
+    background:var(--surface);border-bottom:2px solid var(--accent);
+    padding:0 2rem;display:flex;align-items:center;justify-content:space-between;
+    height:60px;position:sticky;top:0;z-index:100;
+  }
+  .logo{font-size:1.4rem;font-weight:800;color:var(--accent);letter-spacing:2px;}
+  nav{display:flex;gap:1.2rem;align-items:center;}
+  nav a{color:var(--text-muted);text-decoration:none;font-size:1.5rem;transition:color .2s;}
+  nav a:hover{color:var(--accent);}
+
+  .page-title{
+    padding:2rem 2rem 1rem;border-bottom:1px solid var(--border);
+    display:flex;align-items:center;gap:.8rem;flex-wrap:wrap;
+  }
+  .page-title h1{font-size:1.6rem;color:var(--accent);}
+
+  #loading{
+    text-align:center;padding:5rem 2rem;color:var(--text-muted);font-size:1rem;
+  }
+  .spinner{
+    width:40px;height:40px;border:3px solid var(--border);
+    border-top-color:var(--accent);border-radius:50%;
+    animation:spin .7s linear infinite;margin:0 auto 1.2rem;
+  }
+  @keyframes spin{to{transform:rotate(360deg);}}
+
+  .stats-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(460px,1fr));
+    gap:1.5rem;padding:2rem;
+  }
+
+  .stat-block{
+    background:var(--surface);border:1px solid var(--border);
+    border-radius:10px;overflow:hidden;
+  }
+  .stat-block-header{
+    padding:.9rem 1.2rem;font-weight:700;font-size:.95rem;
+    display:flex;align-items:center;gap:.6rem;
+    border-bottom:1px solid var(--border);
+  }
+  .hdr-goals   {background:linear-gradient(90deg,#e8395a22,transparent);color:var(--c-goals);}
+  .hdr-assists {background:linear-gradient(90deg,#f5a62322,transparent);color:var(--c-ass);}
+  .hdr-shots   {background:linear-gradient(90deg,#ff6b3522,transparent);color:var(--c-shots);}
+  .hdr-saves   {background:linear-gradient(90deg,#3498db22,transparent);color:var(--c-saves);}
+  .hdr-tackles {background:linear-gradient(90deg,#2ecc7122,transparent);color:var(--c-tack);}
+  .hdr-passes  {background:linear-gradient(90deg,#9b59b622,transparent);color:var(--c-pass);}
+  .hdr-mom     {background:linear-gradient(90deg,#ffd70022,transparent);color:var(--c-mom);}
+  .hdr-mins    {background:linear-gradient(90deg,#1abc9c22,transparent);color:var(--c-mins);}
+  .hdr-conceded{background:linear-gradient(90deg,#e74c3c22,transparent);color:var(--c-gc);}
+  .hdr-ratio   {background:linear-gradient(90deg,#e67e2222,transparent);color:var(--c-ratio);}
+
+  .stat-table{width:100%;border-collapse:collapse;font-size:.88rem;}
+  .stat-table thead tr{background:var(--surface2);}
+  .stat-table th{
+    padding:.55rem 1rem;text-align:left;color:var(--text-muted);
+    font-weight:600;font-size:.78rem;text-transform:uppercase;letter-spacing:.5px;
+  }
+  .stat-table th.r,.stat-table td.r{text-align:right;}
+  .stat-table tbody tr{border-bottom:1px solid var(--border);transition:background .15s;}
+  .stat-table tbody tr:hover{background:var(--surface2);}
+  .stat-table td{padding:.5rem 1rem;}
+  .stat-table tr.bar-row td{padding:0 1rem .45rem;}
+
+  .rank-1 .name-cell::before{content:"🥇 ";}
+  .rank-2 .name-cell::before{content:"🥈 ";}
+  .rank-3 .name-cell::before{content:"🥉 ";}
+
+  .badge{
+    display:inline-block;background:var(--surface2);border:1px solid var(--border);
+    border-radius:4px;padding:.1rem .4rem;font-size:.73rem;color:var(--text-muted);
+  }
+  .val{color:var(--accent);font-weight:700;}
+
+  .bar-wrap{background:var(--border);border-radius:3px;height:4px;width:100%;}
+  .bar{height:4px;border-radius:3px;}
+
+  @media(max-width:560px){
+    .stats-grid{grid-template-columns:1fr;padding:1rem;}
+  }
+</style>
+</head>
+<body>
+<header>
+  <span class="logo">Liga SLI</span>
+  <nav>
+    <a href="main.html" title="Inicio">🏠</a>
+    <a href="index.html" title="Alineaciones">📋</a>
+  </nav>
+</header>
+
+<div class="page-title">
+  <h1>📊 Líderes Estadísticos</h1>
+</div>
+
+<div id="loading">
+  <div class="spinner"></div>
+  Cargando plantillas de todos los equipos…
+</div>
+
+<div id="stats-grid" class="stats-grid" style="display:none"></div>
+
+<script>
+const BASE = "https://raw.githubusercontent.com/alexismr1988/esms-alineaciones/main/rosters/";
+const TEAMS = ['ars','atm','bar','bay','bor','che','cit','int','liv','man','nap','psg','rma','tot'];
+const LABEL = {
+  ars:'Arsenal',atm:'Atlético',bar:'Barça',bay:'Bayern',bor:'Dortmund',
+  che:'Chelsea',cit:'Man City',int:'Inter',liv:'Liverpool',man:'Man Utd',
+  nap:'Nápoles',psg:'PSG',rma:'R. Madrid',tot:'Tottenham'
+};
+
+function parseRoster(text, team){
+  const players = [];
+  for(const rawLine of text.split(/\r?\n/)){
+    const line = rawLine.trim();
+    if(!line || line.startsWith('Name') || line.startsWith('---')) continue;
+    const parts = line.split(/\s+/);
+    if(parts.length < 10) continue;
+    let ai = -1;
+    for(let i=1;i<parts.length;i++){ if(/^\d+$/.test(parts[i])){ ai=i; break; } }
+    if(ai<0) continue;
+    const name = parts.slice(0,ai).join('_');
+    if(!name) continue;
+    const n = parts.length;
+    const p = {
+      name, team,
+      st:  parseInt(parts[ai+2])||0,
+      gam: parseInt(parts[n-15])||0,
+      sub: parseInt(parts[n-14])||0,
+      min: parseInt(parts[n-13])||0,
+      mom: parseInt(parts[n-12])||0,
+      sav: parseInt(parts[n-11])||0,
+      con: parseInt(parts[n-10])||0,
+      ktk: parseInt(parts[n-9]) ||0,
+      kps: parseInt(parts[n-8]) ||0,
+      sht: parseInt(parts[n-7]) ||0,
+      gls: parseInt(parts[n-6]) ||0,
+      ass: parseInt(parts[n-5]) ||0,
+    };
+    players.push(p);
+  }
+  return players;
+}
+
+async function init(){
+  const results = await Promise.all(
+    TEAMS.map(t => fetch(BASE+t+'.txt').then(r=>r.ok?r.text():'').then(txt=>parseRoster(txt,t)))
+  );
+  const all = results.flat();
+  document.getElementById('loading').style.display='none';
+  const grid = document.getElementById('stats-grid');
+  grid.style.display='grid';
+  grid.innerHTML = buildAll(all);
+}
+
+function top(arr, key, n=12){ return arr.filter(p=>p[key]>0).sort((a,b)=>b[key]-a[key]).slice(0,n); }
+function topAsc(arr, fn, filter, n=12){ return arr.filter(filter).sort((a,b)=>fn(a)-fn(b)).slice(0,n); }
+function mpg(p){ return p.gls>0&&p.min>0 ? p.min/p.gls : Infinity; }
+function gc90(p){ return p.min>=45 ? p.con/p.min*90 : Infinity; }
+function pct(p){ return p.sht>0 ? p.gls/p.sht*100 : 0; }
+
+function barColor(hdrClass){
+  const map={
+    'hdr-goals':'var(--c-goals)','hdr-assists':'var(--c-ass)','hdr-shots':'var(--c-shots)',
+    'hdr-saves':'var(--c-saves)','hdr-tackles':'var(--c-tack)','hdr-passes':'var(--c-pass)',
+    'hdr-mom':'var(--c-mom)','hdr-mins':'var(--c-mins)','hdr-conceded':'var(--c-gc)',
+    'hdr-ratio':'var(--c-ratio)'
+  };
+  return map[hdrClass]||'var(--accent)';
+}
+
+function block(title, emoji, hdrClass, players, cols, rowFn, barFn){
+  if(!players.length) return '';
+  const maxVal = barFn ? Math.max(...players.map(barFn), 1) : 1;
+  const color = barColor(hdrClass);
+  const heads = cols.map((c,i)=>`<th${i===cols.length-1?' class="r"':''}>${c}</th>`).join('');
+  const rows = players.map((p,i)=>{
+    const cells = rowFn(p).map((v,j)=>`<td${j===rowFn(p).length-1?' class="r"':''}>${v}</td>`).join('');
+    const rankCls = i<3?`rank-${i+1}`:'';
+    const bar = barFn ? `<tr class="bar-row"><td colspan="${cols.length}">
+      <div class="bar-wrap"><div class="bar" style="width:${Math.round(barFn(p)/maxVal*100)}%;background:${color}"></div></div>
+    </td></tr>` : '';
+    return `<tr class="${rankCls}">${cells}</tr>${bar}`;
+  }).join('');
+  return `<div class="stat-block">
+    <div class="stat-block-header ${hdrClass}"><span>${emoji}</span>${title}</div>
+    <table class="stat-table"><thead><tr>${heads}</tr></thead><tbody>${rows}</tbody></table>
+  </div>`;
+}
+
+function n(v){ return `<span class="val">${v}</span>`; }
+function badge(t){ return `<span class="badge">${LABEL[t]||t}</span>`; }
+function nm(p){ return `<span class="name-cell">${p.name.replace(/_/g,' ')}</span>`; }
+
+function buildAll(all){
+  const gk = all.filter(p=>p.st>=25);
+  return [
+    block('Goleadores','⚽','hdr-goals', top(all,'gls'),
+      ['Jugador','Equipo','PJ','Min',n('Gols')],
+      p=>[nm(p),badge(p.team),p.gam,p.min,n(p.gls)], p=>p.gls),
+
+    block('Asistencias','🎯','hdr-assists', top(all,'ass'),
+      ['Jugador','Equipo','PJ',n('Asis')],
+      p=>[nm(p),badge(p.team),p.gam,n(p.ass)], p=>p.ass),
+
+    block('Disparos a puerta','🔫','hdr-shots', top(all,'sht'),
+      ['Jugador','Equipo','Gols',n('Disp')],
+      p=>[nm(p),badge(p.team),p.gls,n(p.sht)], p=>p.sht),
+
+    block('Paradas (porteros)','🧤','hdr-saves', top(gk,'sav'),
+      ['Portero','Equipo','Min',n('Paradas')],
+      p=>[nm(p),badge(p.team),p.min,n(p.sav)], p=>p.sav),
+
+    block('Cortes defensivos','🛡️','hdr-tackles', top(all,'ktk'),
+      ['Jugador','Equipo','PJ',n('Cortes')],
+      p=>[nm(p),badge(p.team),p.gam,n(p.ktk)], p=>p.ktk),
+
+    block('Pases completados','🔵','hdr-passes', top(all,'kps'),
+      ['Jugador','Equipo','PJ',n('Pases')],
+      p=>[nm(p),badge(p.team),p.gam,n(p.kps)], p=>p.kps),
+
+    block('MVP del partido','⭐','hdr-mom', top(all,'mom'),
+      ['Jugador','Equipo','PJ',n('MVP')],
+      p=>[nm(p),badge(p.team),p.gam,n(p.mom)], p=>p.mom),
+
+    block('Minutos jugados','⏱️','hdr-mins', top(all,'min'),
+      ['Jugador','Equipo','PJ',n('Min')],
+      p=>[nm(p),badge(p.team),p.gam,n(p.min)], p=>p.min),
+
+    block('Goles encajados (porteros)','🚨','hdr-conceded',
+      gk.filter(p=>p.min>=45).sort((a,b)=>a.con-b.con).slice(0,12),
+      ['Portero','Equipo','Min',n('GC')],
+      p=>[nm(p),badge(p.team),p.min,n(p.con)], null),
+
+    block('Minutos por gol ↑ eficiente','⚡','hdr-ratio',
+      topAsc(all, mpg, p=>p.gls>0&&p.min>0),
+      ['Jugador','Equipo','Gols','Min',n('Min/Gol')],
+      p=>[nm(p),badge(p.team),p.gls,p.min,n(mpg(p).toFixed(1))], null),
+
+    block('% Conversión (Gol/Disparo)','🏹','hdr-goals',
+      all.filter(p=>p.sht>0&&p.gls>0).sort((a,b)=>pct(b)-pct(a)).slice(0,12),
+      ['Jugador','Equipo','Gols','Disp',n('% Conv')],
+      p=>[nm(p),badge(p.team),p.gls,p.sht,n(pct(p).toFixed(1)+'%')], null),
+
+    block('Portero menos goleado/90min','🏆','hdr-saves',
+      topAsc(gk, gc90, p=>p.min>=45),
+      ['Portero','Equipo','Min','GC',n('GC/90')],
+      p=>[nm(p),badge(p.team),p.min,p.con,n(gc90(p).toFixed(2))], null),
+  ].join('');
+}
+
+init();
+</script>
+</body>
+</html>
