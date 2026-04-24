@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ESMS — Liga de Campeones</title>
+<style>
+  :root {
+    --bg: #0d0d0d;
+    --surface: #161616;
+    --surface2: #1e1e1e;
+    --border: #2a2a2a;
+    --accent: #f5a623;
+    --accent2: #e8395a;
+    --text: #e8e8e8;
+    --text-muted: #888;
+    --gold: #ffd700;
+    --silver: #c0c0c0;
+    --bronze: #cd7f32;
+    --green: #2ecc71;
+    --radius: 10px;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', sans-serif; min-height: 100vh; }
+
+  /* ── NAV ── */
+  header {
+    background: var(--surface);
+    border-bottom: 2px solid var(--accent);
+    padding: 0 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    position: sticky; top: 0; z-index: 100;
+  }
+  .logo { font-size: 1.3rem; font-weight: 700; color: var(--accent); letter-spacing: 1px; }
+  .logo span { color: var(--text); font-weight: 300; }
+  nav a {
+    color: var(--text-muted);
+    text-decoration: none;
+    margin-left: 2rem;
+    font-size: .9rem;
+    transition: color .2s;
+  }
+  nav a:hover, nav a.active { color: var(--accent); }
+
+  /* ── HERO ── */
+  .hero {
+    background: linear-gradient(135deg, #0d0d0d 0%, #1a0a00 100%);
+    padding: 5rem 2rem 4rem;
+    text-align: center;
+    border-bottom: 1px solid var(--border);
+  }
+  .hero h1 { font-size: clamp(2rem, 5vw, 3.5rem); font-weight: 800; line-height: 1.1; }
+  .hero h1 em { color: var(--accent); font-style: normal; }
+  .hero p { color: var(--text-muted); margin-top: 1rem; font-size: 1.1rem; }
+
+  /* ── CARDS PRINCIPALES ── */
+  .main-cards {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 3rem 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 2.5rem 2rem;
+    text-align: center;
+    flex: 1 1 280px;
+    max-width: 380px;
+    transition: transform .2s, border-color .2s, box-shadow .2s;
+    cursor: pointer;
+    text-decoration: none;
+    color: var(--text);
+    display: block;
+  }
+  .card:hover {
+    transform: translateY(-4px);
+    border-color: var(--accent);
+    box-shadow: 0 8px 30px rgba(245,166,35,.15);
+  }
+  .card .icon { font-size: 3rem; margin-bottom: 1rem; display: block; }
+  .card h2 { font-size: 1.3rem; margin-bottom: .5rem; color: var(--accent); }
+  .card p { font-size: .9rem; color: var(--text-muted); line-height: 1.6; }
+
+  /* ── PÁGINA STATS ── */
+  #page-stats { display: none; }
+  #page-home { display: block; }
+
+  .stats-header {
+    padding: 2rem 2rem 1rem;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  .stats-header h2 { font-size: 1.5rem; color: var(--accent); flex: 1; }
+  .btn-back {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    padding: .5rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: .85rem;
+    transition: border-color .2s, color .2s;
+  }
+  .btn-back:hover { border-color: var(--accent); color: var(--accent); }
+
+  #loading-stats {
+    text-align: center;
+    padding: 4rem;
+    color: var(--text-muted);
+    font-size: 1rem;
+  }
+  .spinner {
+    width: 36px; height: 36px;
+    border: 3px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin .7s linear infinite;
+    margin: 0 auto 1rem;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ── STAT TABLES ── */
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(460px, 1fr));
+    gap: 1.5rem;
+    padding: 2rem;
+  }
+  .stat-block {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+  .stat-block-header {
+    padding: .9rem 1.2rem;
+    font-weight: 700;
+    font-size: .95rem;
+    display: flex;
+    align-items: center;
+    gap: .6rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .stat-block-header .emoji { font-size: 1.2rem; }
+
+  /* Colores de cabecera por categoría */
+  .hdr-goals    { background: linear-gradient(90deg,#e8395a22,transparent); color: #e8395a; }
+  .hdr-assists  { background: linear-gradient(90deg,#f5a62322,transparent); color: var(--accent); }
+  .hdr-shots    { background: linear-gradient(90deg,#ff6b3522,transparent); color: #ff6b35; }
+  .hdr-saves    { background: linear-gradient(90deg,#3498db22,transparent); color: #3498db; }
+  .hdr-tackles  { background: linear-gradient(90deg,#2ecc7122,transparent); color: #2ecc71; }
+  .hdr-passes   { background: linear-gradient(90deg,#9b59b622,transparent); color: #9b59b6; }
+  .hdr-mom      { background: linear-gradient(90deg,#ffd70022,transparent); color: var(--gold); }
+  .hdr-mins     { background: linear-gradient(90deg,#1abc9c22,transparent); color: #1abc9c; }
+  .hdr-conceded { background: linear-gradient(90deg,#e74c3c22,transparent); color: #e74c3c; }
+  .hdr-ratio    { background: linear-gradient(90deg,#e67e2222,transparent); color: #e67e22; }
+
+  .stat-table { width: 100%; border-collapse: collapse; font-size: .88rem; }
+  .stat-table thead tr { background: var(--surface2); }
+  .stat-table th {
+    padding: .55rem 1rem;
+    text-align: left;
+    color: var(--text-muted);
+    font-weight: 600;
+    font-size: .78rem;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+  }
+  .stat-table th:last-child, .stat-table td:last-child { text-align: right; }
+  .stat-table tbody tr { border-bottom: 1px solid var(--border); transition: background .15s; }
+  .stat-table tbody tr:hover { background: var(--surface2); }
+  .stat-table td { padding: .5rem 1rem; }
+
+  .rank-1 td:first-child::before { content: "🥇 "; }
+  .rank-2 td:first-child::before { content: "🥈 "; }
+  .rank-3 td:first-child::before { content: "🥉 "; }
+
+  .team-badge {
+    display: inline-block;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: .1rem .4rem;
+    font-size: .75rem;
+    color: var(--text-muted);
+    margin-left: .4rem;
+  }
+  .val-highlight { color: var(--accent); font-weight: 700; }
+
+  .bar-wrap { background: var(--border); border-radius: 3px; height: 5px; margin-top: 3px; width: 100%; }
+  .bar { height: 5px; border-radius: 3px; background: var(--accent); }
+
+  /* ── RESPONSIVE ── */
+  @media(max-width:560px){
+    .stats-grid { grid-template-columns: 1fr; padding: 1rem; }
+    .hero h1 { font-size: 1.8rem; }
+    .main-cards { padding: 1.5rem 1rem; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <span class="logo">ESMS <span>Liga de Campeones</span></span>
+  <nav>
+    <a href="#" id="nav-home" class="active" onclick="showPage('home');return false;">Inicio</a>
+    <a href="#" id="nav-stats" onclick="showPage('stats');return false;">Estadísticas</a>
+    <a href="index.html" target="_blank">Alineaciones</a>
+  </nav>
+</header>
+
+<!-- HOME -->
+<div id="page-home">
+  <div class="hero">
+    <h1>Liga de Campeones<br><em>ESMS Plus</em></h1>
+    <p>Gestión de alineaciones y estadísticas de jugadores en tiempo real</p>
+  </div>
+
+  <div class="main-cards">
+    <a class="card" href="index.html" target="_blank">
+      <span class="icon">📋</span>
+      <h2>Enviar Alineación</h2>
+      <p>Selecciona tu equipo, configura tu once titular, banquillo, sustituciones y táctica. Genera el fichero listo para enviar.</p>
+    </a>
+
+    <a class="card" href="#" onclick="showPage('stats');return false;">
+      <span class="icon">📊</span>
+      <h2>Estadísticas</h2>
+      <p>Líderes en goles, asistencias, disparos, paradas, cortes, pases, minutos, MVP y ratios derivados. Actualizado en cada jornada.</p>
+    </a>
+  </div>
+</div>
+
+<!-- STATS PAGE -->
+<div id="page-stats">
+  <div class="stats-header">
+    <button class="btn-back" onclick="showPage('home')">← Volver</button>
+    <h2>📊 Líderes Estadísticos</h2>
+  </div>
+  <div id="loading-stats">
+    <div class="spinner"></div>
+    Cargando plantillas…
+  </div>
+  <div id="stats-content" style="display:none"></div>
+</div>
+
+<script>
+const GITHUB_BASE = "https://raw.githubusercontent.com/alexismr1988/esms-alineaciones/main/rosters/";
+const TEAMS = ['ars','atm','bar','bay','bor','che','cit','int','liv','man','nap','psg','rma','tot'];
+const TEAM_LABEL = {
+  ars:'Arsenal', atm:'Atlético', bar:'Barça', bay:'Bayern',
+  bor:'Dortmund', che:'Chelsea', cit:'Man City', int:'Inter',
+  liv:'Liverpool', man:'Man Utd', nap:'Nápoles', psg:'PSG',
+  rma:'Real Madrid', tot:'Tottenham'
+};
+
+let statsLoaded = false;
+
+function showPage(page){
+  document.getElementById('page-home').style.display  = page === 'home'  ? 'block' : 'none';
+  document.getElementById('page-stats').style.display = page === 'stats' ? 'block' : 'none';
+  document.getElementById('nav-home').classList.toggle('active', page === 'home');
+  document.getElementById('nav-stats').classList.toggle('active', page === 'stats');
+  if(page === 'stats' && !statsLoaded){ loadAllStats(); }
+}
+
+/* ── PARSER (igual al de index.html) ── */
+function parseRoster(text, teamCode){
+  const lines = text.split(/?
+/);
+  const players = [];
+  for(const rawLine of lines){
+    const line = rawLine.trim();
+    if(!line || line.startsWith('Name') || line.startsWith('---')) continue;
+    const parts = line.split(/\s+/);
+    if(parts.length < 10) continue;
+    let ageIdx = -1;
+    for(let i = 1; i < parts.length; i++){
+      if(/^\d+$/.test(parts[i])){ ageIdx = i; break; }
+    }
+    if(ageIdx < 0) continue;
+    const name = parts.slice(0, ageIdx).join('_');
+    if(!name) continue;
+    const n = parts.length;
+    players.push({
+      name, team: teamCode,
+      age:  parseInt(parts[ageIdx])   || 0,
+      nat:  parts[ageIdx+1] || '',
+      st:   parseInt(parts[ageIdx+2]) || 0,
+      gam:  parseInt(parts[n-15])     || 0,
+      sub:  parseInt(parts[n-14])     || 0,
+      min:  parseInt(parts[n-13])     || 0,
+      mom:  parseInt(parts[n-12])     || 0,
+      sav:  parseInt(parts[n-11])     || 0,
+      con:  parseInt(parts[n-10])     || 0,
+      ktk:  parseInt(parts[n-9])      || 0,
+      kps:  parseInt(parts[n-8])      || 0,
+      sht:  parseInt(parts[n-7])      || 0,
+      gls:  parseInt(parts[n-6])      || 0,
+      ass:  parseInt(parts[n-5])      || 0,
+      inj:  parseInt(parts[n-3])      || 0,
+      sus:  parseInt(parts[n-2])      || 0,
+      fit:  parseInt(parts[n-1])      || 100,
+    });
+  }
+  return players;
+}
+
+async function loadAllStats(){
+  statsLoaded = true;
+  const fetches = TEAMS.map(t =>
+    fetch(GITHUB_BASE + t + '.txt').then(r => r.ok ? r.text() : '').then(text => parseRoster(text, t))
+  );
+  const results = await Promise.all(fetches);
+  const all = results.flat();
+  document.getElementById('loading-stats').style.display = 'none';
+  document.getElementById('stats-content').style.display = 'block';
+  document.getElementById('stats-content').innerHTML = buildStatsHTML(all);
+}
+
+/* ── RATIO utilities ── */
+function minsPerGoal(p){ return p.gls > 0 && p.min > 0 ? p.min / p.gls : Infinity; }
+function conPerMin(p)   { return p.min > 0 && p.st >= 25 ? p.con / p.min * 90 : Infinity; } // portero: st>=25
+function shotConversion(p){ return p.sht > 0 && p.gls > 0 ? (p.gls / p.sht * 100) : 0; }
+
+function buildStatsHTML(all){
+  const top = (arr, key, n=10) => arr.filter(p => p[key] > 0).sort((a,b)=>b[key]-a[key]).slice(0,n);
+  const topAsc = (arr, fn, filter, n=10) => arr.filter(filter).sort((a,b)=>fn(a)-fn(b)).slice(0,n);
+
+  /* bloques */
+  const blocks = [
+    {
+      title: 'Goleadores', emoji: '⚽', hdrClass: 'hdr-goals',
+      players: top(all,'gls'),
+      cols: ['Jugador','Equipo','Pj','Min','Goles'],
+      row: p => [fmt(p.name), badge(p.team), p.gam, p.min, `<span class="val-highlight">${p.gls}</span>`],
+      barKey: p => p.gls, barMax: top(all,'gls')[0]?.gls || 1
+    },
+    {
+      title: 'Asistencias', emoji: '🎯', hdrClass: 'hdr-assists',
+      players: top(all,'ass'),
+      cols: ['Jugador','Equipo','Pj','Asistencias'],
+      row: p => [fmt(p.name), badge(p.team), p.gam, `<span class="val-highlight">${p.ass}</span>`],
+      barKey: p => p.ass, barMax: top(all,'ass')[0]?.ass || 1
+    },
+    {
+      title: 'Disparos', emoji: '🔫', hdrClass: 'hdr-shots',
+      players: top(all,'sht'),
+      cols: ['Jugador','Equipo','Goles','Disparos'],
+      row: p => [fmt(p.name), badge(p.team), p.gls, `<span class="val-highlight">${p.sht}</span>`],
+      barKey: p => p.sht, barMax: top(all,'sht')[0]?.sht || 1
+    },
+    {
+      title: 'Paradas (porteros)', emoji: '🧤', hdrClass: 'hdr-saves',
+      players: top(all.filter(p=>p.st>=25), 'sav'),
+      cols: ['Jugador','Equipo','Min','Paradas'],
+      row: p => [fmt(p.name), badge(p.team), p.min, `<span class="val-highlight">${p.sav}</span>`],
+      barKey: p => p.sav, barMax: top(all.filter(p=>p.st>=25),'sav')[0]?.sav || 1
+    },
+    {
+      title: 'Cortes defensivos', emoji: '🛡️', hdrClass: 'hdr-tackles',
+      players: top(all,'ktk'),
+      cols: ['Jugador','Equipo','Pj','Cortes'],
+      row: p => [fmt(p.name), badge(p.team), p.gam, `<span class="val-highlight">${p.ktk}</span>`],
+      barKey: p => p.ktk, barMax: top(all,'ktk')[0]?.ktk || 1
+    },
+    {
+      title: 'Pases completados', emoji: '🔵', hdrClass: 'hdr-passes',
+      players: top(all,'kps'),
+      cols: ['Jugador','Equipo','Pj','Pases'],
+      row: p => [fmt(p.name), badge(p.team), p.gam, `<span class="val-highlight">${p.kps}</span>`],
+      barKey: p => p.kps, barMax: top(all,'kps')[0]?.kps || 1
+    },
+    {
+      title: 'MVP del partido', emoji: '⭐', hdrClass: 'hdr-mom',
+      players: top(all,'mom'),
+      cols: ['Jugador','Equipo','Pj','MVP'],
+      row: p => [fmt(p.name), badge(p.team), p.gam, `<span class="val-highlight">${p.mom}</span>`],
+      barKey: p => p.mom, barMax: top(all,'mom')[0]?.mom || 1
+    },
+    {
+      title: 'Minutos jugados', emoji: '⏱️', hdrClass: 'hdr-mins',
+      players: top(all,'min'),
+      cols: ['Jugador','Equipo','Pj','Minutos'],
+      row: p => [fmt(p.name), badge(p.team), p.gam, `<span class="val-highlight">${p.min}</span>`],
+      barKey: p => p.min, barMax: top(all,'min')[0]?.min || 1
+    },
+    {
+      title: 'Goles encajados (porteros)', emoji: '🚨', hdrClass: 'hdr-conceded',
+      players: all.filter(p => p.st >= 25 && p.con > 0).sort((a,b)=>a.con-b.con).slice(0,10),
+      cols: ['Jugador','Equipo','Min','Goles enc.'],
+      row: p => [fmt(p.name), badge(p.team), p.min, `<span class="val-highlight">${p.con}</span>`],
+      barKey: null
+    },
+    /* ── RATIOS ── */
+    {
+      title: 'Minutos por gol', emoji: '⚡', hdrClass: 'hdr-ratio',
+      players: topAsc(all, minsPerGoal, p => p.gls > 0 && p.min > 0),
+      cols: ['Jugador','Equipo','Goles','Min','Min/Gol'],
+      row: p => [fmt(p.name), badge(p.team), p.gls, p.min, `<span class="val-highlight">${(minsPerGoal(p)).toFixed(1)}</span>`],
+      barKey: null
+    },
+    {
+      title: '% Conversión disparos', emoji: '🎯', hdrClass: 'hdr-goals',
+      players: all.filter(p=>p.sht>0 && p.gls>0).sort((a,b)=>shotConversion(b)-shotConversion(a)).slice(0,10),
+      cols: ['Jugador','Equipo','Goles','Disparos','%Conv'],
+      row: p => [fmt(p.name), badge(p.team), p.gls, p.sht, `<span class="val-highlight">${shotConversion(p).toFixed(1)}%</span>`],
+      barKey: null
+    },
+    {
+      title: 'Portero: goles enc./90 min', emoji: '🏆', hdrClass: 'hdr-saves',
+      players: topAsc(all, conPerMin, p => p.st >= 25 && p.min >= 45),
+      cols: ['Jugador','Equipo','Min','GC','GC/90'],
+      row: p => [fmt(p.name), badge(p.team), p.min, p.con, `<span class="val-highlight">${conPerMin(p).toFixed(2)}</span>`],
+      barKey: null
+    },
+  ];
+
+  return `<div class="stats-grid">${blocks.map(b => renderBlock(b)).join('')}</div>`;
+}
+
+function renderBlock(b){
+  if(b.players.length === 0) return '';
+  const maxBar = b.barMax || 1;
+  let rows = b.players.map((p,i) => {
+    const cells = b.row(p).map(c => `<td>${c}</td>`).join('');
+    const rankCls = i<3 ? `rank-${i+1}` : '';
+    const barHTML = b.barKey ? `<tr><td colspan="${b.cols.length}" style="padding:0 1rem .5rem">
+      <div class="bar-wrap"><div class="bar" style="width:${Math.round(b.barKey(p)/maxBar*100)}%"></div></div></td></tr>` : '';
+    return `<tr class="${rankCls}">${cells}</tr>${barHTML}`;
+  }).join('');
+
+  const headers = b.cols.map(c=>`<th>${c}</th>`).join('');
+  return `
+  <div class="stat-block">
+    <div class="stat-block-header ${b.hdrClass}"><span class="emoji">${b.emoji}</span>${b.title}</div>
+    <table class="stat-table">
+      <thead><tr>${headers}</tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+  </div>`;
+}
+
+function fmt(name){ return name.replace(/_/g,' '); }
+function badge(team){ return `<span class="team-badge">${TEAM_LABEL[team]||team.toUpperCase()}</span>`; }
+</script>
+</body>
+</html>
