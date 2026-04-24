@@ -20,83 +20,51 @@ header{
 .logo{font-size:1.3rem;font-weight:800;color:var(--accent);letter-spacing:2px;}
 nav a{color:var(--muted);text-decoration:none;font-size:1.4rem;margin-left:1rem;transition:color .2s;}
 nav a:hover{color:var(--accent);}
-
-.page-title{
-  padding:2rem 1.5rem 1.5rem;border-bottom:1px solid var(--border);
-  display:flex;align-items:center;gap:.8rem;
-}
+.page-title{padding:2rem 1.5rem 1.5rem;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:.8rem;}
 .page-title h1{font-size:1.5rem;font-weight:800;color:var(--accent);}
-
 #loading{text-align:center;padding:4rem;color:var(--muted);}
-.spinner{
-  width:38px;height:38px;border:3px solid var(--border);
-  border-top-color:var(--accent);border-radius:50%;
-  animation:spin .7s linear infinite;margin:0 auto 1rem;
-}
+.spinner{width:38px;height:38px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .7s linear infinite;margin:0 auto 1rem;}
 @keyframes spin{to{transform:rotate(360deg);}}
-
 .table-wrap{padding:1.5rem;max-width:900px;margin:0 auto;}
-
-/* Zona de colores */
-.zone-label{
-  font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;
-  padding:.3rem .8rem;border-radius:4px;margin-bottom:.5rem;display:inline-block;
-}
-.zone-champions{background:#ffd70022;color:#ffd700;border:1px solid #ffd70044;}
-.zone-knockout  {background:#3498db22;color:#3498db;border:1px solid #3498db44;}
-.zone-out       {background:#e74c3c22;color:#e74c3c;border:1px solid #e74c3c44;}
-
 table{width:100%;border-collapse:collapse;font-size:.9rem;}
 thead tr{background:var(--s2);border-bottom:2px solid var(--border);}
-th{
-  padding:.7rem 1rem;text-align:center;
-  font-size:.73rem;text-transform:uppercase;letter-spacing:.6px;color:var(--muted);font-weight:700;
-}
+th{padding:.7rem 1rem;text-align:center;font-size:.73rem;text-transform:uppercase;letter-spacing:.6px;color:var(--muted);font-weight:700;}
 th.left,td.left{text-align:left;}
-th.r,td.r{text-align:right;}
 tbody tr{border-bottom:1px solid var(--border);transition:background .15s;}
-tbody tr:hover{background:var(--s2);}
+tbody tr:hover{filter:brightness(1.15);}
 td{padding:.65rem 1rem;text-align:center;vertical-align:middle;}
 
-/* posicion */
+/* bola de posicion */
 .pos-num{
-  width:28px;height:28px;border-radius:50%;display:inline-flex;
-  align-items:center;justify-content:center;font-weight:800;font-size:.82rem;
+  width:30px;height:30px;border-radius:50%;display:inline-flex;
+  align-items:center;justify-content:center;font-weight:800;font-size:.85rem;
+  border:2px solid;
 }
-.p1,.p2,.p3,.p4{background:#ffd70033;color:#ffd700;border:1px solid #ffd70066;}
-.p5,.p6,.p7,.p8{background:#3498db22;color:#3498db;border:1px solid #3498db44;}
-.p9,.p10,.p11,.p12,.p13,.p14{background:#e74c3c18;color:#e74c3c;border:1px solid #e74c3c33;}
 
-/* nombre equipo */
+/* colores de zona como borde izquierdo de fila */
+tbody tr.z-green { border-left: 3px solid #2ecc71; }
+tbody tr.z-yellow{ border-left: 3px solid #f1c40f; }
+tbody tr.z-blue  { border-left: 3px solid #3498db; }
+tbody tr.z-red   { border-left: 3px solid #e74c3c; }
+tbody tr.z-darkred{ border-left: 3px solid #8e0000; }
+
+/* colores bola segun zona */
+.c-green  { background:#2ecc7122; color:#2ecc71; border-color:#2ecc71; }
+.c-yellow { background:#f1c40f22; color:#f1c40f; border-color:#f1c40f; }
+.c-blue   { background:#3498db22; color:#3498db; border-color:#3498db; }
+.c-red    { background:#e74c3c22; color:#e74c3c; border-color:#e74c3c; }
+.c-darkred{ background:#8e000022; color:#c0392b; border-color:#8e0000; }
+
 .team-name{font-weight:700;font-size:.95rem;}
-
-/* forma (W/D/L) */
-.forma{display:flex;gap:3px;justify-content:center;}
-.f-w,.f-d,.f-l{
-  width:20px;height:20px;border-radius:3px;display:inline-flex;
-  align-items:center;justify-content:center;font-size:.65rem;font-weight:800;
-}
-.f-w{background:var(--win);color:#fff;}
-.f-d{background:var(--draw);color:#fff;}
-.f-l{background:var(--loss);color:#fff;}
-
-/* puntos destacados */
 .pts-cell{font-size:1.2rem;font-weight:800;color:var(--accent);}
-
-/* gd colores */
-.gd-pos{color:var(--win);}
-.gd-neg{color:var(--loss);}
+.gd-pos{color:#2ecc71;}
+.gd-neg{color:#e74c3c;}
 .gd-zero{color:var(--muted);}
-
-/* lineas de zona */
-tbody tr.zone-border-bottom td{border-bottom:2px solid #ffd70044;}
-tbody tr.zone-border-bottom2 td{border-bottom:2px solid #3498db44;}
-
-@media(max-width:640px){
-  .hide-sm{display:none;}
-  td,th{padding:.5rem .5rem;}
-  .team-name{font-size:.85rem;}
-}
+.f-w{display:inline-flex;width:20px;height:20px;border-radius:3px;align-items:center;justify-content:center;font-size:.65rem;font-weight:800;background:#2ecc71;color:#fff;}
+.f-d{display:inline-flex;width:20px;height:20px;border-radius:3px;align-items:center;justify-content:center;font-size:.65rem;font-weight:800;background:#3498db;color:#fff;}
+.f-l{display:inline-flex;width:20px;height:20px;border-radius:3px;align-items:center;justify-content:center;font-size:.65rem;font-weight:800;background:#e74c3c;color:#fff;}
+tbody tr.sep-bottom td{border-bottom:2px solid #333;}
+@media(max-width:640px){.hide-sm{display:none;}td,th{padding:.5rem .5rem;}.team-name{font-size:.85rem;}}
 </style>
 </head>
 <body>
@@ -108,16 +76,13 @@ tbody tr.zone-border-bottom2 td{border-bottom:2px solid #3498db44;}
     <a href="index.html" title="Alineaciones">&#128203;</a>
   </nav>
 </header>
-
 <div class="page-title">
   <h1>&#127942; Clasificacion</h1>
 </div>
-
 <div id="loading">
   <div class="spinner"></div>
   Cargando clasificacion...
 </div>
-
 <div class="table-wrap" id="table-wrap" style="display:none"></div>
 
 <script>
@@ -129,7 +94,6 @@ function parseTable(text){
   for(var i=0;i<lines.length;i++){
     var line = lines[i].trim();
     if(!line || line.indexOf('Pl')===0 || line.indexOf('-')===0) continue;
-    // split por 2+ espacios
     var parts = line.split(/\s{2,}/);
     if(parts.length < 9) continue;
     rows.push({
@@ -148,42 +112,37 @@ function parseTable(text){
   return rows;
 }
 
+function getZone(pl, total){
+  if(pl === 1)           return {row:'z-green',  ball:'c-green'};
+  if(pl <= 4)            return {row:'z-yellow', ball:'c-yellow'};
+  if(pl <= total - 4)    return {row:'z-blue',   ball:'c-blue'};
+  if(pl < total)         return {row:'z-red',    ball:'c-red'};
+  return                        {row:'z-darkred',ball:'c-darkred'};
+}
+
 function gdHtml(v){
-  if(v>0)  return '<span class="gd-pos">+'+v+'</span>';
-  if(v<0)  return '<span class="gd-neg">'+v+'</span>';
+  if(v>0) return '<span class="gd-pos">+'+v+'</span>';
+  if(v<0) return '<span class="gd-neg">'+v+'</span>';
   return '<span class="gd-zero">0</span>';
 }
 
 function formaHtml(t){
-  if(t.w>0) return '<span class="f-w">V</span>';
-  if(t.d>0) return '<span class="f-d">E</span>';
-  if(t.l>0) return '<span class="f-l">D</span>';
-  return '';
-}
-
-function posClass(pl){
-  if(pl<=4)  return 'p'+pl;
-  if(pl<=8)  return 'p'+pl;
-  return 'p'+pl;
+  var html = '<div style="display:flex;gap:3px;justify-content:center">';
+  for(var i=0;i<t.w;i++) html += '<span class="f-w">V</span>';
+  for(var i=0;i<t.d;i++) html += '<span class="f-d">E</span>';
+  for(var i=0;i<t.l;i++) html += '<span class="f-l">D</span>';
+  return html + '</div>';
 }
 
 function buildTable(rows){
-  var html = '';
-
-  // leyenda zonas
-  html += '<div style="display:flex;gap:.8rem;flex-wrap:wrap;margin-bottom:1.2rem;align-items:center;">'
-    +'<span class="zone-label zone-champions">&#127942; Fase siguiente (1-4)</span>'
-    +'<span class="zone-label zone-knockout">&#128308; Repesca (5-8)</span>'
-    +'<span class="zone-label zone-out">&#9940; Eliminados (9+)</span>'
-    +'</div>';
-
-  html += '<table><thead><tr>'
-    +'<th style="width:40px">#</th>'
+  var total = rows.length;
+  var html = '<table><thead><tr>'
+    +'<th style="width:44px">#</th>'
     +'<th class="left">Equipo</th>'
     +'<th title="Partidos jugados">PJ</th>'
-    +'<th title="Victorias" class="hide-sm">V</th>'
-    +'<th title="Empates" class="hide-sm">E</th>'
-    +'<th title="Derrotas" class="hide-sm">D</th>'
+    +'<th title="Victorias" class="hide-sm" style="color:#2ecc71">V</th>'
+    +'<th title="Empates" class="hide-sm" style="color:#3498db">E</th>'
+    +'<th title="Derrotas" class="hide-sm" style="color:#e74c3c">D</th>'
     +'<th title="Goles a favor">GF</th>'
     +'<th title="Goles en contra">GC</th>'
     +'<th title="Diferencia de goles">DG</th>'
@@ -193,21 +152,21 @@ function buildTable(rows){
 
   for(var i=0;i<rows.length;i++){
     var t = rows[i];
-    var pl = t.pl;
-    var borderClass = pl===4 ? 'zone-border-bottom' : pl===8 ? 'zone-border-bottom2' : '';
-    var posNum = 'pos-num p'+pl;
+    var z = getZone(t.pl, total);
+    // linea separadora tras pos 1 y pos 4
+    var sepClass = (t.pl===1||t.pl===4) ? 'sep-bottom' : '';
 
-    html += '<tr class="'+borderClass+'">'
-      +'<td><div class="'+posNum+'">'+pl+'</div></td>'
+    html += '<tr class="'+z.row+' '+sepClass+'">'
+      +'<td><div class="pos-num '+z.ball+'">'+t.pl+'</div></td>'
       +'<td class="left"><span class="team-name">'+t.team+'</span></td>'
       +'<td>'+t.p+'</td>'
-      +'<td class="hide-sm" style="color:var(--win);font-weight:600">'+t.w+'</td>'
-      +'<td class="hide-sm" style="color:#3498db;font-weight:600">'+t.d+'</td>'
-      +'<td class="hide-sm" style="color:var(--loss);font-weight:600">'+t.l+'</td>'
+      +'<td class="hide-sm" style="color:#2ecc71;font-weight:700">'+t.w+'</td>'
+      +'<td class="hide-sm" style="color:#3498db;font-weight:700">'+t.d+'</td>'
+      +'<td class="hide-sm" style="color:#e74c3c;font-weight:700">'+t.l+'</td>'
       +'<td>'+t.gf+'</td>'
       +'<td>'+t.ga+'</td>'
       +'<td>'+gdHtml(t.gd)+'</td>'
-      +'<td class="hide-sm"><div class="forma">'+formaHtml(t)+'</div></td>'
+      +'<td class="hide-sm">'+formaHtml(t)+'</td>'
       +'<td><span class="pts-cell">'+t.pts+'</span></td>'
       +'</tr>';
   }
@@ -227,7 +186,7 @@ fetch(BASE + '?v=' + Date.now())
   })
   .catch(function(err){
     document.getElementById('loading').innerHTML =
-      '<p style="color:#e74c3c">Error al cargar la clasificacion ('+err+'). Comprueba que existe clasificacion/table.txt en el repositorio.</p>';
+      '<p style="color:#e74c3c;padding:2rem">Error al cargar ('+err+'). Comprueba que existe clasificacion/table.txt en el repositorio.</p>';
   });
 </script>
 </body>
