@@ -401,8 +401,8 @@ function renderInfoBox(team, info, color){
   var rows = [
     {lbl:'&#11088; MVP', val:info.mvp},
     {lbl:'&#9917; Goles', val:info.goles, cls:'goal-event'},
-    {lbl:'&#128308; Amarillas', val:info.amo},
-    {lbl:'&#129001; Expulsados', val:info.exp},
+    {lbl:'&#129000; Amarillas', val:info.amo},
+    {lbl:'&#128997; Expulsados', val:info.exp},
     {lbl:'&#129657; Lesionados', val:info.les}
   ];
   var h = '<div class="info-box"><h3 style="color:'+color+'">'+team+'</h3>';
@@ -509,7 +509,7 @@ function renderPlayerStats(team, rows, color){
   if(!rows.length) return '';
   var h = '<div class="pstats"><h3 style="color:'+color+'">'+team+' — Estadisticas individuales</h3>'
     +'<table><thead><tr><th>Jugador</th><th>Pos</th><th>Min</th><th>Sav</th><th>Ktk</th><th>Kps</th><th>Ass</th><th>Sht</th>'
-    +'<th style="color:#2ecc71">Gls</th><th style="color:#f5a623">&#128308;</th><th style="color:#e74c3c">&#129001;</th>'
+    +'<th style="color:#2ecc71">Gls</th><th style="color:#f5a623">&#129000;</th><th style="color:#e74c3c">&#128997;</th>'
     +'</tr></thead><tbody>';
   rows.forEach(function(p){
     var np = p.min===0;
