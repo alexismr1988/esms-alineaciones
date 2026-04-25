@@ -226,7 +226,7 @@ function selectJornada(id){
       Promise.all(txts.map(function(f){
         return fetch(f.download_url)
           .then(function(r){ return r.text(); })
-          .then(function(txt){ return {name:f.name.replace('.txt',''), txt:txt}; })
+          .then(function(txt){ return {name:f.name.replace('.txt',''), txt:txt.replace(/\r/g,'')}; })
           .catch(function(){ return {name:f.name.replace('.txt',''), txt:''}; });
       })).then(renderPartidosGrid);
     })
@@ -245,11 +245,12 @@ function getTeams(filename){
 }
 
 function extractFinalScore(txt){
-  var m = txt.match(/Marcador\s*:\s*[^\n]+ (\d+) - (\d+) /);
-  if(m) return {l:m[1], v:m[2]};
-  var m2 = txt.match(/(\d+) - (\d+)/g);
-  if(m2 && m2.length) {
-    var last = m2[m2.length-1].match(/(\d+) - (\d+)/);
+  var m = txt.match(/Marcador\s*:\s*[^\n]+(\d+)\s*-\s*(\d+)/);
+  if(m) return {l:m[1].trim(), v:m[2].trim()};
+  // fallback: último marcador parcial del relato (ej: "FC Barcelona 1-3 Real Madrid ...")
+  var m2 = txt.match(/\d+\s*-\s*\d+[^\n]*\.\.\./g);
+  if(m2 && m2.length){
+    var last = m2[m2.length-1].match(/(\d+)\s*-\s*(\d+)/);
     if(last) return {l:last[1], v:last[2]};
   }
   return {l:'?',v:'?'};
@@ -407,11 +408,15 @@ function renderInfoBox(team, info, color){
 
 // ── PARSER ESTADISTICAS ──
 function parseStats(txt){
-  var m = txt.match(/Estad[ií]sticas del partido([\s\S]*?)(?=Player Statistics|$)/);
-  if(!m) return [];
   var rows = [];
-  m[1].split('\n').forEach(function(line){
-    var r = line.match(/^([^:]+):\s*(\d+)\s*\|\s*(\d+)/);
+  var inStats = false;
+  txt.split('\n').forEach(function(line){
+    line = line.replace(/\r/g,'');
+    if(line.indexOf('Estad')>=0 && line.indexOf('sticas')>=0) { inStats=true; return; }
+    if(inStats && line.indexOf('Player Statistics')>=0) { inStats=false; return; }
+    if(!inStats) return;
+    if(line.indexOf('Marcador')>=0) return;
+    var r = line.match(/^([^:\|]{3,30}):\s*(\d+)\s*\|\s*(\d+)/);
     if(r) rows.push({label:r[1].trim(), l:parseInt(r[2]), r:parseInt(r[3])});
   });
   return rows;
@@ -443,7 +448,7 @@ function parseRelato(txt){
     var line = lines[i];
     if(!inRelato && line.match(/^Min\.\s*\d+/)) inRelato = true;
     if(!inRelato) continue;
-    if(line.match(/\*+\s*FINAL\s*\*+/)){
+    if(line.match(/\*+\s*FINAL/)){
       html += '<div class="ev-break">&#9654;&#9654; FINAL DEL PARTIDO &#9664;&#9664;</div>'; break;
     }
     if(line.match(/\*+\s*DESCANSO\s*\*+/)){
@@ -514,7 +519,7 @@ function renderPlayerStats(team, rows, color){
 
 // ── VISOR PRINCIPAL ──
 function renderVisor(partido){
-  var txt = partido.txt;
+  var txt = partido.txt.replace(/\r/g, '');
   var teams = getTeams(partido.name);
   var score = extractFinalScore(txt);
   var ht = extractHT(txt);
