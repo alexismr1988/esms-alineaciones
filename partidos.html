@@ -372,20 +372,28 @@ function renderLineup(team, players, color){
 
 // ── PARSER INFO EQUIPO ──
 function parseInfo(txt, teamName){
-  var re = new RegExp(teamName.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'\\s*-\\s*Informaci[oó]n del partido([\\s\\S]*?)(?=---+\\s*\\n\\S|Player Statistics|$)');
-  var m = txt.match(re);
-  if(!m) return null;
-  var b = m[0];
+  var marker = teamName + '  - Informaci';
+  var alt    = teamName + ' - Informaci';
+  var start  = txt.indexOf(marker);
+  if(start<0) start = txt.indexOf(alt);
+  if(start<0) return null;
+  var end = txt.indexOf('Player Statistics', start);
+  var block = end>0 ? txt.substring(start, end) : txt.substring(start);
   function get(label){
-    var r = b.match(new RegExp(label+'\\s*:\\s*([^\\n]+)'));
-    return r ? r[1].trim() : 'N/A';
+    var li = block.indexOf(label);
+    if(li<0) return 'N/A';
+    var ci = block.indexOf(':', li);
+    if(ci<0) return 'N/A';
+    var ni = block.indexOf('\n', ci);
+    var val = ni>0 ? block.substring(ci+1, ni).trim() : block.substring(ci+1).trim();
+    return val || 'N/A';
   }
   return {
-    mvp: get('Mejor jugador'),
+    mvp:   get('Mejor jugador'),
     goles: get('Goleadores'),
-    exp: get('Expulsados'),
-    amo: get('Amonestados'),
-    les: get('Lesionados')
+    exp:   get('Expulsados'),
+    amo:   get('Amonestados'),
+    les:   get('Lesionados')
   };
 }
 function renderInfoBox(team, info, color){
@@ -536,6 +544,8 @@ function renderVisor(partido){
   var lineups = parseLineups(txt);
   var infoL = parseInfo(txt, teams.local);
   var infoV = parseInfo(txt, teams.visit);
+  console.log('[SLI] infoL:', infoL, '| infoV:', infoV);
+  console.log('[SLI] teams:', teams.local, '/', teams.visit);
   var stats = parseStats(txt);
   var pstL = parsePlayerStats(txt, true);
   var pstV = parsePlayerStats(txt, false);
@@ -561,14 +571,14 @@ function renderVisor(partido){
   h += '<div style="margin-top:.5rem;font-size:.8rem;color:var(--muted)">&#9878; '+arbitro+'</div>';
   h += '</div>';
 
-  // Info
-  h += '<div class="info-grid">'+renderInfoBox(teams.local,infoL,'#e8395a')+renderInfoBox(teams.visit,infoV,'#3498db')+'</div>';
-
   // Alineaciones
   h += '<div class="lineups">'+renderLineup(teams.local,lineups.local,'#e8395a')+renderLineup(teams.visit,lineups.visit,'#3498db')+'</div>';
 
   // Relato
   h += '<div class="relato-box"><h3>&#127908; Relato del partido</h3>'+relato+'</div>';
+
+  // Info (después del relato para no hacer spoiler)
+  h += '<div class="info-grid">'+renderInfoBox(teams.local,infoL,'#e8395a')+renderInfoBox(teams.visit,infoV,'#3498db')+'</div>';
 
   // Stats
   h += renderStats(stats);
