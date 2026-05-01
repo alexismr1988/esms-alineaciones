@@ -26,6 +26,7 @@ nav a:hover{color:var(--accent);}
 }
 .page-title h1{font-size:1.5rem;font-weight:800;color:var(--accent);}
 
+/* TEAMS SELECTOR */
 .teams-wrap{padding:0 1.5rem 1.5rem;}
 .teams{display:flex;flex-wrap:wrap;gap:.6rem;}
 .team-btn{
@@ -40,12 +41,14 @@ nav a:hover{color:var(--accent);}
 .spinner{width:38px;height:38px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .7s linear infinite;margin:0 auto 1rem;}
 @keyframes spin{to{transform:rotate(360deg);}}
 
+/* TABLE */
 .table-wrap{padding:0 1.5rem 3rem;overflow-x:auto;display:none;}
 table{width:100%;border-collapse:collapse;font-size:.85rem;min-width:900px;}
 thead tr{background:var(--s2);border-bottom:2px solid var(--border);}
 th{
   padding:.6rem .8rem;text-align:center;font-size:.7rem;
   text-transform:uppercase;letter-spacing:.5px;color:var(--muted);font-weight:700;
+  
 }
 th.left,td.left{text-align:left;}
 tbody tr{border-bottom:1px solid var(--border);transition:background .15s;}
@@ -56,17 +59,20 @@ td{padding:.6rem .8rem;text-align:center;vertical-align:middle;}
 .age{color:var(--muted);font-size:.8rem;}
 .nat{text-transform:uppercase;font-size:.7rem;font-weight:800;opacity:.8;display:inline-block;width:32px;}
 
+/* Skills styling */
 .sk-gk{color:#3498db;font-weight:700;}
 .sk-tk{color:#2ecc71;font-weight:700;}
 .sk-ps{color:#9b59b6;font-weight:700;}
 .sk-sh{color:#e8395a;font-weight:700;}
 .sk-zero{color:#444;}
 
+/* Condition */
 .val-susp{color:#e74c3c;font-weight:800;}
 .val-inj{color:#e67e22;font-weight:800;}
 .val-fit{color:#2ecc71;font-weight:700;}
 .val-lowfit{color:#e74c3c;font-weight:700;}
 
+/* Stats */
 .st-hl{font-weight:600;color:#ccc;}
 
 @media(max-width:600px){
@@ -76,14 +82,13 @@ td{padding:.6rem .8rem;text-align:center;vertical-align:middle;}
 </style>
 </head>
 <body>
-
 <header>
   <span class="logo">Liga SLI</span>
   <nav>
-    <a href="main.html">&#127968;</a>
-    <a href="index.html">&#128203;</a>
-    <a href="stats.html">&#128202;</a>
-    <a href="clasificacion.html">&#127942;</a>
+    <a href="main.html" title="Inicio">&#127968;</a>
+    <a href="index.html" title="Alineaciones">&#128203;</a>
+    <a href="stats.html" title="Estadisticas">&#128202;</a>
+    <a href="clasificacion.html" title="Clasificacion">&#127942;</a>
   </nav>
 </header>
 
@@ -99,9 +104,7 @@ td{padding:.6rem .8rem;text-align:center;vertical-align:middle;}
 <div class="table-wrap" id="table-wrap"></div>
 
 <script>
-/* === CAMBIO CLAVE AQUÍ === */
-var BASE = "https://raw.githubusercontent.com/alexismr1988/esms-alineaciones/main/rosters/";
-
+var BASE = "https://cdn.jsdelivr.net/gh/alexismr1988/esms-alineaciones@main/rosters/";
 var TEAMS = [
   {id:'ars', name:'Arsenal'}, {id:'atm', name:'Atletico Madrid'},
   {id:'bar', name:'FC Barcelona'}, {id:'bay', name:'Bayern Munich'},
@@ -112,7 +115,7 @@ var TEAMS = [
   {id:'rma', name:'Real Madrid'}, {id:'tot', name:'Tottenham'}
 ];
 
-var activeId = null;
+var activeTeam = null;
 
 function renderTeams(){
   var c = document.getElementById('teams-container');
@@ -146,6 +149,7 @@ function parseRosterFull(text){
       ps:   parseInt(p[ai+4])||0,
       sh:   parseInt(p[ai+5])||0,
       ag:   parseInt(p[ai+6])||0,
+
       gam:  parseInt(p[n-15])||0,
       min:  parseInt(p[n-13])||0,
       mom:  parseInt(p[n-12])||0,
@@ -169,44 +173,110 @@ function skHtml(val, cls){
   return val > 2 ? '<span class="'+cls+'">'+val+'</span>' : '<span class="sk-zero">'+val+'</span>';
 }
 
-function renderTable(players){
+function renderTable(players, teamId){
   var wrap = document.getElementById('table-wrap');
+
   if(!players.length){
-    wrap.innerHTML = '<p style="color:#e74c3c;padding:2rem">Error al procesar plantilla</p>';
+    wrap.innerHTML = '<p style="color:#e74c3c;padding:2rem">Error al procesar la plantilla. Archivo vacio o formato incorrecto.</p>';
     wrap.style.display = 'block';
     return;
   }
 
-  var html = '<table><tbody>';
+  var html = '<table><thead><tr>'
+    +'<th class="left">Jugador</th>'
+    +'<th>Edad</th>'
+    +'<th>Nac</th>'
+    +'<th title="Habilidad Portero">ST</th>'
+    +'<th title="Habilidad Defensa">TK</th>'
+    +'<th title="Habilidad Pase">PS</th>'
+    +'<th title="Habilidad Disparo">SH</th>'
+    +'<th title="Agresividad" style="border-right:1px solid #333">AG</th>'
+    +'<th title="Partidos Jugados">PJ</th>'
+    +'<th title="Minutos">Min</th>'
+    +'<th title="MVP">MoM</th>'
+    +'<th title="Paradas">Sav</th>'
+    +'<th title="Goles Encajados">Con</th>'
+    +'<th title="Cortes">Ktk</th>'
+    +'<th title="Pases Clave">Kps</th>'
+    +'<th title="Disparos">Sht</th>'
+    +'<th title="Goles">Gls</th>'
+    +'<th title="Asistencias">Ass</th>'
+    +'<th title="Puntos Disciplinarios" style="border-right:1px solid #333">DP</th>'
+    +'<th title="Lesion">Inj</th>'
+    +'<th title="Sancion">Sus</th>'
+    +'<th title="Forma Fisica">Fit</th>'
+    +'</tr></thead><tbody>';
+
   for(var i=0;i<players.length;i++){
     var p = players[i];
-    html += '<tr><td class="left">'+p.name+'</td><td>'+p.age+'</td></tr>';
-  }
-  html += '</tbody></table>';
 
+    var fitClass = p.fit < 85 ? 'val-lowfit' : 'val-fit';
+    var injHtml = p.inj > 0 ? '<span class="val-inj">'+p.inj+'</span>' : '<span class="sk-zero">0</span>';
+    var susHtml = p.sus > 0 ? '<span class="val-susp">'+p.sus+'</span>' : '<span class="sk-zero">0</span>';
+
+    html += '<tr>'
+      +'<td class="left"><span class="pname">'+p.name+'</span></td>'
+      +'<td><span class="age">'+p.age+'</span></td>'
+      +'<td><span class="nat">'+p.nat+'</span></td>'
+      +'<td>'+skHtml(p.st, 'sk-gk')+'</td>'
+      +'<td>'+skHtml(p.tk, 'sk-tk')+'</td>'
+      +'<td>'+skHtml(p.ps, 'sk-ps')+'</td>'
+      +'<td>'+skHtml(p.sh, 'sk-sh')+'</td>'
+      +'<td style="border-right:1px solid #333"><span class="st-hl">'+p.ag+'</span></td>'
+      +'<td>'+(p.gam||'-')+'</td>'
+      +'<td>'+(p.min||'-')+'</td>'
+      +'<td>'+(p.mom||'-')+'</td>'
+      +'<td>'+(p.sav||'-')+'</td>'
+      +'<td>'+(p.con||'-')+'</td>'
+      +'<td>'+(p.ktk||'-')+'</td>'
+      +'<td>'+(p.kps||'-')+'</td>'
+      +'<td>'+(p.sht||'-')+'</td>'
+      +'<td style="color:#e8395a;font-weight:600">'+(p.gls||'-')+'</td>'
+      +'<td style="color:#f5a623;font-weight:600">'+(p.ass||'-')+'</td>'
+      +'<td style="border-right:1px solid #333">'+(p.dp||'-')+'</td>'
+      +'<td>'+injHtml+'</td>'
+      +'<td>'+susHtml+'</td>'
+      +'<td><span class="'+fitClass+'">'+p.fit+'</span></td>'
+      +'</tr>';
+  }
+
+  html += '</tbody></table>';
   wrap.innerHTML = html;
   wrap.style.display = 'block';
 }
 
 function loadTeam(id){
+  if(activeId){
+    var old = document.getElementById('btn-'+activeId);
+    if(old) old.classList.remove('active');
+  }
   activeId = id;
+  var btn = document.getElementById('btn-'+id);
+  btn.classList.add('active');
+
   document.getElementById('table-wrap').style.display = 'none';
   document.getElementById('loading').style.display = 'block';
 
-  fetch(BASE + id + '.txt?t=' + Date.now(), { cache: "no-store" })
-    .then(r => r.text())
-    .then(txt=>{
+  fetch(BASE + id + '.txt?v=' + Date.now())
+    .then(function(r){ return r.ok ? r.text() : Promise.reject(r.status); })
+    .then(function(txt){
       document.getElementById('loading').style.display = 'none';
-      renderTable(parseRosterFull(txt));
+      var players = parseRosterFull(txt);
+      renderTable(players, id);
     })
-    .catch(()=>{
+    .catch(function(e){
       document.getElementById('loading').style.display = 'none';
+      var wrap = document.getElementById('table-wrap');
+      wrap.innerHTML = '<p style="color:#e74c3c;padding:2rem">Error al cargar la plantilla ('+e+'). Verifica que '+id+'.txt existe.</p>';
+      wrap.style.display = 'block';
     });
 }
 
+// Inicializar la interfaz
+var activeId = null;
 renderTeams();
+// Cargar por defecto el primero
 loadTeam('ars');
 </script>
-
 </body>
 </html>
