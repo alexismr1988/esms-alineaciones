@@ -359,9 +359,9 @@ function parseLP(s, side){
 }
 function renderLineup(team, players, color, tactic){
   var TACTIC_NAMES = {'A':'Ofensiva','D':'Defensiva','N':'Normal','L':'Balones en largo','C':'Contrataque','P':'Pasando','E':'Europea','T':'Random'};
-  var tacLetter = tactic ? tactic.replace(/.*\s+([A-Z])$/, '$1') : '';
+  var tacLetter = tactic ? tactic.slice(-1) : '';
   var tacName = tacLetter && TACTIC_NAMES[tacLetter] ? TACTIC_NAMES[tacLetter] : null;
-  var tacHtml = (tactic && tacName) ? '<div style="font-size:.75rem;color:var(--muted);margin-top:.2rem;margin-bottom:.6rem">\u2699\ufe0f T\u00e1ctica inicial: <span style="color:var(--accent);font-weight:700">'+tactic+' \u2014 '+tacName+'</span></div>' : '';
+  var tacHtml = tacName ? '<div style="font-size:.75rem;color:var(--muted);margin-top:.2rem;margin-bottom:.6rem">⚙️ Táctica inicial: <span style=\"color:var(--accent);font-weight:700\">'+tactic+' — '+tacName+'</span></div>' : '';
   var h = '<div class="lineup-box"><h3 style="color:'+color+'">'+team+'</h3>'+tacHtml;
   var sep = false;
   for(var i=0;i<players.length;i++){
@@ -525,8 +525,8 @@ function renderVisor(partido){
 
   var tacL='', tacV='';
   txt.split('\n').forEach(function(line){
-    var m = line.match(/^\s*(\S+-\S+|\S+)\s+\|\s+(\S+-\S+|\S+)\s*$/);
-    if(m && m[1].match(/\d/) && !tacL){ tacL=m[1]; tacV=m[2]; }
+    var m = line.match(/^\s*([\d][\d-]+ [A-Z])\s+\|\s+([\d][\d-]+ [A-Z])\s*$/);
+    if(m && !tacL){ tacL=m[1]; tacV=m[2]; }
   });
 
   var refM = txt.match(/[AÁ]rbitro:\s*(\S+)/);
