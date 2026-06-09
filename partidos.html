@@ -359,8 +359,9 @@ function parseLP(s, side){
 }
 function renderLineup(team, players, color, tactic){
   var TACTIC_NAMES = {'A':'Ofensiva','D':'Defensiva','N':'Normal','L':'Balones en largo','C':'Contrataque','P':'Pasando','E':'Europea','T':'Random'};
-  var tacName = tactic && TACTIC_NAMES[tactic] ? TACTIC_NAMES[tactic] : null;
-  var tacHtml = tacName ? '<div style="font-size:.75rem;color:var(--muted);margin-top:.2rem;margin-bottom:.6rem">⚙️ Táctica inicial: <span style=\"color:var(--accent);font-weight:700\">'+tacName+'</span></div>' : '';
+  var tacLetter = tactic ? tactic.replace(/.*\s+([A-Z])$/, '$1') : '';
+  var tacName = tacLetter && TACTIC_NAMES[tacLetter] ? TACTIC_NAMES[tacLetter] : null;
+  var tacHtml = (tactic && tacName) ? '<div style="font-size:.75rem;color:var(--muted);margin-top:.2rem;margin-bottom:.6rem">\u2699\ufe0f T\u00e1ctica inicial: <span style="color:var(--accent);font-weight:700">'+tactic+' \u2014 '+tacName+'</span></div>' : '';
   var h = '<div class="lineup-box"><h3 style="color:'+color+'">'+team+'</h3>'+tacHtml;
   var sep = false;
   for(var i=0;i<players.length;i++){
@@ -522,14 +523,10 @@ function renderVisor(partido){
   var score = extractFinalScore(txt);
   var ht = extractHT(txt);
 
-  var tacL='', tacV='', tacLetterL='', tacLetterV='';
+  var tacL='', tacV='';
   txt.split('\n').forEach(function(line){
-    var m = line.match(/^\s*(\S+(?:-\S+)*)\s+\|\s+(\S+(?:-\S+)*)\s*$/);
-    if(m && m[1].match(/\d/) && !tacL){
-      tacL=m[1]; tacV=m[2];
-      var ml = m[1].match(/([A-Z])$/); tacLetterL = ml ? ml[1] : '';
-      var mv = m[2].match(/([A-Z])$/); tacLetterV = mv ? mv[1] : '';
-    }
+    var m = line.match(/^\s*(\S+-\S+|\S+)\s+\|\s+(\S+-\S+|\S+)\s*$/);
+    if(m && m[1].match(/\d/) && !tacL){ tacL=m[1]; tacV=m[2]; }
   });
 
   var refM = txt.match(/[AÁ]rbitro:\s*(\S+)/);
@@ -567,7 +564,7 @@ function renderVisor(partido){
   h += '<div class="info-grid">'+renderInfoBox(teams.local,infoL,'#e8395a')+renderInfoBox(teams.visit,infoV,'#3498db')+'</div>';
 
   // Alineaciones
-  h += '<div class="lineups">'+renderLineup(teams.local,lineups.local,'#e8395a',tacLetterL)+renderLineup(teams.visit,lineups.visit,'#3498db',tacLetterV)+'</div>';
+  h += '<div class="lineups">'+renderLineup(teams.local,lineups.local,'#e8395a',tacL)+renderLineup(teams.visit,lineups.visit,'#3498db',tacV)+'</div>';
 
   // Relato
   h += '<div class="relato-box"><h3>&#127908; Relato del partido</h3>'+relato+'</div>';
