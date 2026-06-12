@@ -15,7 +15,7 @@ nav a:hover{color:var(--accent);}
 .section{padding:1.5rem;}
 .section-title{font-size:1rem;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:1px;margin-bottom:1rem;}
 .comp-grid{display:flex;flex-wrap:wrap;gap:.8rem;}
-.comp-btn{padding:.8rem 1.4rem;border-radius:10px;border:1px solid var(--border);background:var(--surface);cursor:pointer;color:var(--text);font-weight:700;font-size:.9rem;transition:all .2s;display:flex;align-items:center;gap:.6rem;}
+.comp-btn{padding:.8rem 1.4rem;border-radius:10px;border:1px solid var(--border);background:var(--surface);cursor:pointer;color:var(--text);font-weight:700;font-size:.9rem;transition:all .2s;display:flex;align-items:center;gap:.5rem;}
 .comp-btn:hover{border-color:var(--accent);color:var(--accent);}
 .comp-btn.active{background:var(--accent);color:#000;border-color:var(--accent);}
 #jornadas-section{display:none;}
@@ -30,7 +30,7 @@ nav a:hover{color:var(--accent);}
 .partido-teams{display:flex;align-items:center;justify-content:space-between;gap:1rem;}
 .team-name{font-weight:700;font-size:1rem;flex:1;}
 .team-name.right{text-align:right;}
-.score-box{background:var(--s2);border:1px solid var(--border);border-radius:8px;padding:.4rem .8rem;font-size:1.3rem;font-weight:800;color:var(--accent);white-space:nowrap;cursor:pointer;transition:all .2s;user-select:none;}
+.score-box{background:var(--s2);border:1px solid var(--border);border-radius:8px;padding:.4rem .8rem;font-size:1.3rem;font-weight:800;color:var(--accent);white-space:nowrap;cursor:pointer;transition:all .2s;}
 .score-box:hover{border-color:var(--accent);}
 .score-hidden{color:transparent;background:var(--border);border-radius:4px;letter-spacing:2px;}
 .score-hidden::after{content:'\1F441\FE0F\200D\1F5E8\FE0F';color:var(--muted);font-size:1rem;}
@@ -361,7 +361,7 @@ function renderLineup(team, players, color, tactic){
   var TACTIC_NAMES = {'A':'Ofensiva','D':'Defensiva','N':'Normal','L':'Balones en largo','C':'Contrataque','P':'Pasando','E':'Europea','T':'Random'};
   var tacLetter = tactic ? tactic.slice(-1) : '';
   var tacName = tacLetter && TACTIC_NAMES[tacLetter] ? TACTIC_NAMES[tacLetter] : null;
-  var tacHtml = tacName ? '<div style="font-size:.75rem;color:var(--muted);margin-top:.2rem;margin-bottom:.6rem">⚙️ Táctica inicial: <span style=\"color:var(--accent);font-weight:700\">'+tactic+' — '+tacName+'</span></div>' : '';
+  var tacHtml = tacName ? '<div style="font-size:.75rem;color:var(--muted);margin-top:.2rem;margin-bottom:.6rem">⚙️ Táctica inicial: <span style="color:var(--accent);font-weight:700">'+tactic+'</span></div>' : '';
   var h = '<div class="lineup-box"><h3 style="color:'+color+'">'+team+'</h3>'+tacHtml;
   var sep = false;
   for(var i=0;i<players.length;i++){
@@ -411,7 +411,7 @@ function renderInfoBox(team, info, color){
 
 // ── PARSER ESTADISTICAS ──
 function parseStats(txt){
-  var m = txt.match(/Estad[ií]sticas del partido([\s\S]*?)(?=Player Statistics|$)/);
+  var m = txt.match(/Estad.sticas del partido([\s\S]*?)(?=\-{10,}|Player Statistics|$)/i);
   if(!m) return [];
   var rows = [];
   m[1].split('\n').forEach(function(line){
@@ -548,7 +548,7 @@ function renderVisor(partido){
   h += '<div class="match-teams-row">';
   h += '<div class="match-team">'+teams.local+'</div>';
   h += '<div>'
-    +'<div class="match-score visor-score-box" id="visor-score" data-score="'+score.l+' - '+score.v+'" data-ht="'+(ht||'')+'" data-revealed="0" title="Pulsa para ver el resultado" style="cursor:pointer">'
+    +'<div class="match-score visor-score-box" id="visor-score" data-score="'+score.l+' - '+score.v+'" data-ht="'+(ht||'')+'" data-revealed="0" title="Pulsa para ver el resultado" style="cursor:pointer;">'
     +'<span style="font-size:1rem;opacity:.5">&#128065;&#8205;&#128488;</span>'
     +'</div>'
     +'<div class="match-score-sub" id="visor-ht" style="display:none">'+(ht?'Descanso: '+ht:'')+'</div>'
