@@ -247,6 +247,7 @@ function getTeams(filename){
 function extractFinalScore(txt){
   var m = txt.match(/Marcador\s*:\s*[^\n]+(\d+)\s*-\s*(\d+)/);
   if(m) return {l:m[1].trim(), v:m[2].trim()};
+  // fallback: último marcador parcial del relato (ej: "FC Barcelona 1-3 Real Madrid ...")
   var m2 = txt.match(/\d+\s*-\s*\d+[^\n]*\.\.\./g);
   if(m2 && m2.length){
     var last = m2[m2.length-1].match(/(\d+)\s*-\s*(\d+)/);
@@ -358,10 +359,10 @@ function parseLP(s, side){
   return {name:name.replace(/_/g,' '), pos:pos, sub:pos==='SUB'};
 }
 function renderLineup(team, players, color, tactic){
-  var TACTIC_NAMES = {'A':'Ofensiva','D':'Defensiva','N':'Normal','L':'Balones en largo','C':'Contrataque','P':'Pasando','E':'Europea','T':'Random'};
-  var tacLetter = tactic ? tactic.slice(-1) : '';
+  var TACTIC_NAMES = {"A":"Ofensiva","D":"Defensiva","N":"Normal","L":"Balones en largo","C":"Contrataque","P":"Pasando","E":"Europea","T":"Random"};
+  var tacLetter = tactic ? tactic.slice(-1) : "";
   var tacName = tacLetter && TACTIC_NAMES[tacLetter] ? TACTIC_NAMES[tacLetter] : null;
-  var tacHtml = tacName ? '<div style="font-size:.75rem;color:var(--muted);margin-top:.2rem;margin-bottom:.6rem">⚙️ Táctica inicial: <span style="color:var(--accent);font-weight:700">'+tactic+' — '+tacName+'</span></div>' : '';
+  var tacHtml = tacName ? '<div style="font-size:.78rem;color:var(--accent);font-weight:700;margin:.3rem 0 .7rem">'+ tactic +' — '+ tacName +'</div>' : "";
   var h = '<div class="lineup-box"><h3 style="color:'+color+'">'+team+'</h3>'+tacHtml;
   var sep = false;
   for(var i=0;i<players.length;i++){
@@ -375,20 +376,28 @@ function renderLineup(team, players, color, tactic){
 
 // ── PARSER INFO EQUIPO ──
 function parseInfo(txt, teamName){
-  var re = new RegExp(teamName.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'\\s*-\\s*Informaci[oó]n del partido([\\s\\S]*?)(?=---+\\s*\\n\\S|Player Statistics|$)');
-  var m = txt.match(re);
-  if(!m) return null;
-  var b = m[0];
+  var marker = teamName + '  - Informaci';
+  var alt    = teamName + ' - Informaci';
+  var start  = txt.indexOf(marker);
+  if(start<0) start = txt.indexOf(alt);
+  if(start<0) return null;
+  var end = txt.indexOf('Player Statistics', start);
+  var block = end>0 ? txt.substring(start, end) : txt.substring(start);
   function get(label){
-    var r = b.match(new RegExp(label+'\\s*:\\s*([^\\n]+)'));
-    return r ? r[1].trim() : 'N/A';
+    var li = block.indexOf(label);
+    if(li<0) return 'N/A';
+    var ci = block.indexOf(':', li);
+    if(ci<0) return 'N/A';
+    var ni = block.indexOf('\n', ci);
+    var val = ni>0 ? block.substring(ci+1, ni).trim() : block.substring(ci+1).trim();
+    return val || 'N/A';
   }
   return {
-    mvp: get('Mejor jugador'),
+    mvp:   get('Mejor jugador'),
     goles: get('Goleadores'),
-    exp: get('Expulsados'),
-    amo: get('Amonestados'),
-    les: get('Lesionados')
+    exp:   get('Expulsados'),
+    amo:   get('Amonestados'),
+    les:   get('Lesionados')
   };
 }
 function renderInfoBox(team, info, color){
@@ -396,8 +405,8 @@ function renderInfoBox(team, info, color){
   var rows = [
     {lbl:'&#11088; MVP', val:info.mvp},
     {lbl:'&#9917; Goles', val:info.goles, cls:'goal-event'},
-    {lbl:'&#128308; Amarillas', val:info.amo},
-    {lbl:'&#129001; Expulsados', val:info.exp},
+    {lbl:'&#129000; Amarillas', val:info.amo},
+    {lbl:'&#128997; Expulsados', val:info.exp},
     {lbl:'&#129657; Lesionados', val:info.les}
   ];
   var h = '<div class="info-box"><h3 style="color:'+color+'">'+team+'</h3>';
@@ -411,11 +420,15 @@ function renderInfoBox(team, info, color){
 
 // ── PARSER ESTADISTICAS ──
 function parseStats(txt){
-  var m = txt.match(/Estad[ií]sticas del partido([\s\S]*?)(?=Player Statistics|$)/);
-  if(!m) return [];
   var rows = [];
-  m[1].split('\n').forEach(function(line){
-    var r = line.match(/^([^:]+):\s*(\d+)\s*\|\s*(\d+)/);
+  var inStats = false;
+  txt.split('\n').forEach(function(line){
+    line = line.replace(/\r/g,'');
+    if(line.indexOf('Estad')>=0 && line.indexOf('sticas')>=0) { inStats=true; return; }
+    if(inStats && line.indexOf('Player Statistics')>=0) { inStats=false; return; }
+    if(!inStats) return;
+    if(line.indexOf('Marcador')>=0) return;
+    var r = line.match(/^([^:\|]{3,30}):\s*(\d+)\s*\|\s*(\d+)/);
     if(r) rows.push({label:r[1].trim(), l:parseInt(r[2]), r:parseInt(r[3])});
   });
   return rows;
@@ -454,6 +467,7 @@ function parseRelato(txt){
       html += '<div class="ev-break">&#9660; DESCANSO &#9660;</div>'; continue;
     }
     if(line.match(/^Min\.\s*\d+/)){
+      // lookahead para clasificar el evento
       var isGol=false, isYellow=false, isRed=false;
       for(var k=i;k<Math.min(i+10,lines.length);k++){
         if(lines[k].indexOf('GOOOOOL')>=0) isGol=true;
@@ -499,7 +513,7 @@ function renderPlayerStats(team, rows, color){
   if(!rows.length) return '';
   var h = '<div class="pstats"><h3 style="color:'+color+'">'+team+' — Estadisticas individuales</h3>'
     +'<table><thead><tr><th>Jugador</th><th>Pos</th><th>Min</th><th>Sav</th><th>Ktk</th><th>Kps</th><th>Ass</th><th>Sht</th>'
-    +'<th style="color:#2ecc71">Gls</th><th style="color:#f5a623">&#128308;</th><th style="color:#e74c3c">&#129001;</th>'
+    +'<th style="color:#2ecc71">Gls</th><th style="color:#f5a623">&#129000;</th><th style="color:#e74c3c">&#128997;</th>'
     +'</tr></thead><tbody>';
   rows.forEach(function(p){
     var np = p.min===0;
@@ -524,8 +538,8 @@ function renderVisor(partido){
 
   var tacL='', tacV='';
   txt.split('\n').forEach(function(line){
-    var m = line.match(/^\s*(\S+-\S+|\S+)\s+\|\s+(\S+-\S+|\S+)\s*$/);
-    if(m && m[1].match(/\d/) && !tacL){ tacL=m[1]; tacV=m[2]; }
+    var m = line.match(/^\s*([\d][\d-]+ [A-Z])\s+\|\s+([\d][\d-]+ [A-Z])\s*$/);
+    if(m && !tacL){ tacL=m[1]; tacV=m[2]; }
   });
 
   var refM = txt.match(/[AÁ]rbitro:\s*(\S+)/);
@@ -534,6 +548,8 @@ function renderVisor(partido){
   var lineups = parseLineups(txt);
   var infoL = parseInfo(txt, teams.local);
   var infoV = parseInfo(txt, teams.visit);
+  console.log('[SLI] infoL:', infoL, '| infoV:', infoV);
+  console.log('[SLI] teams:', teams.local, '/', teams.visit);
   var stats = parseStats(txt);
   var pstL = parsePlayerStats(txt, true);
   var pstV = parsePlayerStats(txt, false);
