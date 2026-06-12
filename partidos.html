@@ -226,7 +226,7 @@ function selectJornada(id){
       Promise.all(txts.map(function(f){
         return fetch(f.download_url)
           .then(function(r){ return r.text(); })
-          .then(function(txt){ return {name:f.name.replace('.txt',''), txt:txt}; })
+          .then(function(txt){ return {name:f.name.replace('.txt',''), txt:txt.replace(/\r/g,'')}; })
           .catch(function(){ return {name:f.name.replace('.txt',''), txt:''}; });
       })).then(renderPartidosGrid);
     })
@@ -245,11 +245,11 @@ function getTeams(filename){
 }
 
 function extractFinalScore(txt){
-  var m = txt.match(/Marcador\s*:\s*[^\n]+ (\d+) - (\d+) /);
-  if(m) return {l:m[1], v:m[2]};
-  var m2 = txt.match(/(\d+) - (\d+)/g);
-  if(m2 && m2.length) {
-    var last = m2[m2.length-1].match(/(\d+) - (\d+)/);
+  var m = txt.match(/Marcador\s*:\s*[^\n]+(\d+)\s*-\s*(\d+)/);
+  if(m) return {l:m[1].trim(), v:m[2].trim()};
+  var m2 = txt.match(/\d+\s*-\s*\d+[^\n]*\.\.\./g);
+  if(m2 && m2.length){
+    var last = m2[m2.length-1].match(/(\d+)\s*-\s*(\d+)/);
     if(last) return {l:last[1], v:last[2]};
   }
   return {l:'?',v:'?'};
@@ -447,14 +447,13 @@ function parseRelato(txt){
     var line = lines[i];
     if(!inRelato && line.match(/^Min\.\s*\d+/)) inRelato = true;
     if(!inRelato) continue;
-    if(line.match(/\*+\s*FINAL\s*\*+/)){
+    if(line.match(/\*+\s*FINAL/)){
       html += '<div class="ev-break">&#9654;&#9654; FINAL DEL PARTIDO &#9664;&#9664;</div>'; break;
     }
     if(line.match(/\*+\s*DESCANSO\s*\*+/)){
       html += '<div class="ev-break">&#9660; DESCANSO &#9660;</div>'; continue;
     }
     if(line.match(/^Min\.\s*\d+/)){
-      // lookahead para clasificar el evento
       var isGol=false, isYellow=false, isRed=false;
       for(var k=i;k<Math.min(i+10,lines.length);k++){
         if(lines[k].indexOf('GOOOOOL')>=0) isGol=true;
@@ -518,15 +517,15 @@ function renderPlayerStats(team, rows, color){
 
 // ── VISOR PRINCIPAL ──
 function renderVisor(partido){
-  var txt = partido.txt;
+  var txt = partido.txt.replace(/\r/g, '');
   var teams = getTeams(partido.name);
   var score = extractFinalScore(txt);
   var ht = extractHT(txt);
 
   var tacL='', tacV='';
   txt.split('\n').forEach(function(line){
-    var m = line.match(/^\s*([\d][\d-]+ [A-Z])\s+\|\s+([\d][\d-]+ [A-Z])\s*$/);
-    if(m && !tacL){ tacL=m[1]; tacV=m[2]; }
+    var m = line.match(/^\s*(\S+-\S+|\S+)\s+\|\s+(\S+-\S+|\S+)\s*$/);
+    if(m && m[1].match(/\d/) && !tacL){ tacL=m[1]; tacV=m[2]; }
   });
 
   var refM = txt.match(/[AÁ]rbitro:\s*(\S+)/);
@@ -560,16 +559,16 @@ function renderVisor(partido){
   h += '<div style="margin-top:.5rem;font-size:.8rem;color:var(--muted)">&#9878; '+arbitro+'</div>';
   h += '</div>';
 
-  // Info
-  h += '<div class="info-grid">'+renderInfoBox(teams.local,infoL,'#e8395a')+renderInfoBox(teams.visit,infoV,'#3498db')+'</div>';
-
-  // Alineaciones (con tácticas en los headers)
+  // Alineaciones
   h += '<div class="lineups">'+renderLineup(teams.local,lineups.local,'#e8395a',tacL)+renderLineup(teams.visit,lineups.visit,'#3498db',tacV)+'</div>';
 
   // Relato
   h += '<div class="relato-box"><h3>&#127908; Relato del partido</h3>'+relato+'</div>';
 
-  // Stats (ahora abajo donde debe estar)
+  // Info (después del relato para no hacer spoiler)
+  h += '<div class="info-grid">'+renderInfoBox(teams.local,infoL,'#e8395a')+renderInfoBox(teams.visit,infoV,'#3498db')+'</div>';
+
+  // Stats
   h += renderStats(stats);
 
   // Player stats
