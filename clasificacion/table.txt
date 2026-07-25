@@ -1,17 +1,17 @@
 Pl   Team                    P    W   D   L    GF   GA   GD   Pts
 -----------------------------------------------------------------
-1    FC Barcelona           13   10   1   2    43   21   22    31
-2    PSG                    13    7   2   4    34   16   18    23
-3    Manchester City        13    7   2   4    18   13    5    23
-4    Atletico Madrid        13    6   4   3    25   18    7    22
-5    Inter Milan            13    6   3   4    24   20    4    21
-6    Real Madrid            13    5   5   3    29   21    8    20
-7    Arsenal                13    4   7   2    27   18    9    19
-8    Liverpool              13    5   3   5    25   35  -10    18
-9    Bayern Munich          13    5   2   6    23   30   -7    17
-10   Napoles                13    4   2   7    17   24   -7    14
-11   Tottenham              13    3   4   6     9   16   -7    13
-12   Manchester United      13    2   6   5    20   30  -10    12
-13   Chelsea                13    1   6   6    15   26  -11     9
-14   Borussia Dortmund      13    2   1  10    17   38  -21     7
+1    FC Barcelona           14   11   1   2    44   21   23    34
+2    PSG                    14    8   2   4    38   19   19    26
+3    Manchester City        14    8   2   4    25   14   11    26
+4    Arsenal                14    5   7   2    32   18   14    22
+5    Atletico Madrid        14    6   4   4    28   22    6    22
+6    Real Madrid            14    5   6   3    33   25    8    21
+7    Inter Milan            14    6   3   5    24   25   -1    21
+8    Liverpool              14    6   3   5    28   37   -9    21
+9    Bayern Munich          14    6   2   6    28   31   -3    20
+10   Napoles                14    4   2   8    18   31  -13    14
+11   Tottenham              14    3   4   7     9   17   -8    13
+12   Manchester United      14    2   6   6    21   35  -14    12
+13   Chelsea                14    1   6   7    17   29  -12     9
+14   Borussia Dortmund      14    2   2  10    21   42  -21     8
 
