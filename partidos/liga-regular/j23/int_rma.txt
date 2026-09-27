@@ -1,0 +1,271 @@
+Liga SLI, Inter Milan vs. Real Madrid (Sun Sep 27)
+
+
+                          Inter Milan  |  Real Madrid
+                              5-2-3 D  |  4-2-1-3 C
+                                       |
+                                       |
+                        J_Martinez GK  |  GK T_Courtois
+                         A_Bastoni DF  |  DF R_Asencio
+                         Y_Bisseck DF  |  DF J_Carreras
+                          S_DeVrij DF  |  DF F_Mendy
+                         F_Dimarco DF  |  DF D_Alaba
+                        D_Dumfries DF  |  MF E_Camavinga
+                      H_Calhanoglu MF  |  MF J_Bellingham
+                        D_Fratessi MF  |  FW B_Diaz
+                        L_Martinez FW  |  AM Mastantuono
+                          M_Thuram FW  |  FW Endrick
+                      E_Sebastiano FW  |  FW V_Junior
+                                       |
+                          Y_Sommer SUB |  SUB A_Lunin
+                        T_Palacios SUB |  SUB E_Militao
+                         C_Augusto SUB |  SUB F_Valverde
+                       P_Zielinski SUB |  SUB K_Mbappe
+                          M_Taremi SUB |  SUB Rodrygo
+
+Árbitro: Rafa_Guerrero (Spain)
+
+
+Min. 4  :(int) H_Calhanoglu golpea el balón al hueco. L_Martinez aparece de la nada 
+          ...  V_Junior salta de cabeza con su rival 
+          ...  Falta, lo ha empujado antes del salto 
+          ...  (AMARILLA), una más... y fuera 
+Min. 7  :(int) A_Bastoni avanza pegado a la línea de banda 
+          ...  Despista al defensa con un gran regate 
+          ...  Y la pone en el área por bajo hacia H_Calhanoglu 
+          ...  J_Carreras placa a su oponente 
+          ...  "FUERA, FUERA, FUERA" ruge el estadio 
+          ...  El colegiado le muestra la cartulina (AMARILLA) 
+          ...  Chico, frena que te vas a la calle 
+Min. 24 :(int) L_Martinez mira a la derecha 
+          ...  Y cruza a la izquierda para E_Sebastiano. Eso lo hacía Laudrup 
+          ...  F_Mendy corta la jugada con un cabezazo en plancha 
+Min. 25 :(int) L_Martinez está cerrado por tres contrarios 
+          ...  Pisa el balón dos veces y los deja sentados 
+          ...  ¡OH! ¡Qué calse! Ahora mete el pase a E_Sebastiano 
+          ...  E_Sebastiano golpea el balón a bote pronto 
+          ...  T_Courtois se zambulle espectacularmente hacia su izquierda 
+          ...  Qué paradón Se le ha aparecido la vírgen 
+Min. 25 :(rma) J_Bellingham pide desesperado un apoyo 
+          ...  No aparece nadie Está rodeado 
+          ...  Abre hacia el extremo 
+          ...  V_Junior controla el cuero 
+          ...  A_Bastoni pone el pie y se apodera del balón 
+Min. 29 :(int) M_Thuram se tira el balón largo ante D_Alaba 
+          ...  Se lleva al defensa por velocidad 
+          ...  R_Asencio sega el césped con una entrada terrorífica 
+          ...  El delantero evita a su rival, pero pierde el cuero 
+Min. 31 :(rma) V_Junior tira hacia arriba 
+          ...  H_Calhanoglu placa a su oponente 
+          ...  Rafa_Guerrero le hace señas de que se acerque 
+Min. 31 :(int) M_Thuram supera a F_Mendy 
+          ...  Este defensa es un tronco No tiene cintura 
+          ...  J_Carreras se desliza e impacta violentamente en su oponente 
+          ...  Le ha pegado con toda la mala leche del mundo 
+          ...  (ROJA) 
+          ...  Se ha pasado dos pueblos 
+Min. 33 :(rma) J_Bellingham pone el balón al hueco 
+          ...  V_Junior corre hacia el cuero 
+          ...  Y_Bisseck arriesga con una entrada a ras de suelo 
+          ...  ¡OOOHHHH! 
+          ...  El balón le queda rebotado al delantero 
+          ...  Pero mete el pie de nuevo 
+Min. 36 :(int) H_Calhanoglu encuentra el pasadizo 
+          ...  Por ahí no pasaba ni un alfiler 
+          ...  H_Calhanoglu remacha el balón a ras de suelo 
+          ...  Se estrella en el larguero 
+          ...  Controla el rebote con el pecho 
+          ...  OHHHHHHHH 
+          ...  Un defensa ha estado más rápido y ha enviado el balón fuera 
+Min. 39 :(int) E_Sebastiano supera a E_Camavinga 
+          ...  Este defensa es un tronco No tiene cintura 
+          ...  E_Sebastiano prueba suerte 
+          ...  El disparo rebota en el defensa y va directo hacía la grada 
+          ...  CÓRNER 
+          ...  D_Fratessi con un peligroso lanzamiento al segundo palo 
+          ...  R_Asencio controla el balón tras varios rebotes 
+          ...  Sale jugando por bajo 
+Min. 41 :(rma) Mastantuono dispara en carrera 
+          ...  Hay un rebote 
+          ...  le cae a Endrick 
+          ...  El lanzamiento rebota en el muslo de Endrick y se encamina a puerta 
+          ...  El balón le bota antes de disparar 
+          ...  Y se va a la grada. Hay risas en algunos sectores del campo 
+Min. 43 :(REF) El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario
+Min. 45 :(int) P_Zielinski va a tener su oportunidad en este partido 
+          ...  D_Fratessi deja el terreno de juego con cara de pocos amigos 
+          ...  Su sustituto jugará de MF 
+Min. 45 :(rma) J_Bellingham controla el balón suelto 
+          ...  Lo juega hacia B_Diaz 
+          ...  B_Diaz toca el balón con mucha sutileza 
+          ...  Pero se las arregla para fallar 
+          ...  Los aficionados del Inter Milan se ríen de él 
+Min. 48 :(int) M_Thuram en el centro del campo 
+          ...  Cruza hacia S_DeVrij 
+          ...  D_Alaba se lanza hacia su oponente 
+          ...  Y toca el balón Que clase 
+Min. 48 :(rma) Mastantuono llega primero al balón suelto 
+          ...  Pero P_Zielinski aparece de la nada y corta el balón 
+
+*************  DESCANSO  ****************
+Resultado al descanso: Inter Milan 0-0 Real Madrid
+
+Min. 49 :(int) L_Martinez va en carrera 
+          ...  L_Martinez le da mucho efecto a su disparo 
+          ...  Pero T_Courtois alcanza el cuero con el puño 
+          ...  Es el amo de su área. Buen portero 
+Min. 51 :(int) H_Calhanoglu recupera el cuero 
+          ...  H_Calhanoglu le pega 'mordida' 
+          ...  El balón va haciendo extraños en el aire 
+          ...  Al palo y fuera 
+          ...  Bueno, a veces entra, a veces no... 
+Min. 53 :(int) Y_Bisseck pasa hacia L_Martinez 
+          ...  V_Junior chuta el cuero con fuerza hacia la grada 
+          ...  Ui Los ha cabreado Le tiran de todo 
+Min. 54 :(rma) J_Bellingham en carrera con su marcador. Mete el hombro 
+          ...  Lo aparta del cuero 
+          ...  Continúa avanzando 
+          ...  Balón para la entrada de V_Junior 
+          ...  A_Bastoni arriesgo con una entrada a ras de suelo Ay Le ha dado 
+          ...  El árbitro no lo ha visto así 
+Min. 55 :(int) M_Taremi se despoja del chándal. Entrará por E_Sebastiano 
+          ...  Jugará de FW 
+          ...  El entrenador reza para que el cambio de sus frutos 
+Min. 56 :(int) El defensa hace un mal control 
+          ...  L_Martinez está atento. Roba el cuero y prepara el disparo 
+          ...  El balón golpea a F_Mendy en la cara 
+          ...  Peligro despejado Al defensa no le hace ninguna gracia 
+Min. 62 :(int) M_Thuram se aprovecha un horrible pase hacia atrás 
+          ...  M_Thuram remata forzado... con la cabeza 
+          ...  Bota en la línea tras golpear en el travesaño 
+          ...  El colegiado duda... mira al asistente 
+          ...  ¡Sigan! Dice 
+          ...  No ha dado el gol 
+          ...  Pues parecía que había cruzado la línea 
+Min. 64 :(int) L_Martinez se aprovecha de un error de F_Mendy 
+          ...  Corre hacia el marco 
+          ...  B_Diaz realiza una entrada terrorífica 
+          ...  Toma Eso ha sido muy feo 
+          ...  Rafa_Guerrero le indica que se gire 
+          ...  ¿Será tarjeta, pero tendrá valor para expulsarlo? 
+          ...  ¡NO! (AMARILLA) 
+Min. 66 :(rma) E_Camavinga Con un pase demasiado fuerte. Endrick va a llegar 
+          ...  Pero S_DeVrij conjura el peligro 
+Min. 72 :(int) M_Thuram orienta su control 
+          ...  Pisa área y tiene hueco 
+          ...  D_Alaba se lleva el balón con la mano 
+          ...  No hay falta 
+Min. 75 :(int) M_Taremi envía un pase desde su propio campo hacia A_Bastoni 
+          ...  A_Bastoni peina el balón hacia atrás 
+          ...  T_Courtois vuela sobre la línea de gol 
+          ...  Y atrapa el cuero ¡Uau!, fue digno de la Araña Negra 
+Min. 78 :(rma) Mastantuono va directo a puerta 
+          ...  Pero S_DeVrij cuelga el balón a la grada Z 
+Min. 81 :(int) L_Martinez controla el balón suelto 
+          ...  Lo juega hacia M_Thuram 
+          ...  M_Thuram se levanta sobre su marcador, carga el cabezazo, lo suelta... 
+          ...  ¡Peligro! 
+          ...  El balón busca el ángulo Peligro 
+          ...  T_Courtois salta con agilidad 
+          ...  ¿Llegará a tiempo? 
+          ...  T_Courtois detiene el remate con estilo Su técnico aplaude 
+Min. 82 :(rma) Endrick con un pase de 50 metros B_Diaz 
+          ...  P_Zielinski se juega el físico con una entrada durísima. Era su única opción 
+Min. 86 :(int) P_Zielinski inicia el contraataque 
+          ...  Sale rápidamente 
+          ...  Y envía un gran pase con la defensa descolocada. M_Thuram recibe solo 
+          ...  M_Thuram empalma con la derecha 
+          ...  T_Courtois flota sobre la línea de meta 
+          ...  Mete la mano 
+          ...  ¿Córner? No se equivocó 
+Min. 86 :(int) L_Martinez trata de levantarse tras la entrada 
+          ...  Imposible Se ha hecho daño 
+Min. 86 :(int) C_Augusto sustituye a L_Martinez en la posición de FW 
+Min. 88 :(REF) El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario
+Min. 92 :(rma) E_Camavinga ve el desmarque de Endrick 
+          ...  Pero A_Bastoni roba el cuero 
+
+*************  FINAL DEL PARTIDO  ***************
+
+
+
+
+
+(DDP)
+-------------------------------------------------------------------------------------------
+Inter Milan  - Información del partido
+-------------------------------------------------------------------------------------------
+Mejor jugador        : A_Bastoni (Jugador del partido)
+Goleadores           : N/A
+Expulsados           : N/A
+Amonestados          : N/A
+Lesionados           : L_Martinez (86)
+-------------------------------------------------------------------------------------------
+Real Madrid  - Información del partido
+-------------------------------------------------------------------------------------------
+Mejor jugador        : T_Courtois
+Goleadores           : N/A
+Expulsados           : J_Carreras (31)
+Amonestados          : V_Junior (4), B_Diaz (64)
+Lesionados           : N/A
+-------------------------------------------------------------------------------------------
+
+Estadísticas del partido
+-------------------------------------------------------------------------------------------
+                             Inter Milan  |    Real Madrid
+Ocasiones de gol     :           9        |       2
+Tiros fuera          :           4        |       2
+Disparos a puerta    :           5        |       0
+Posesión             :          63        |       37
+Córners              :           1        |       0
+Tarjetas rojas       :           0        |       1
+Tarjetas amarillas   :           0        |       3
+Sustituciones        :           3        |       0
+Faltas               :           5        |       10
+Entradas             :           8        |       6
+Pases clave          :           9        |       8
+-------------------------------------------------------------------------------------------
+Resultado final      : Inter Milan 0 - 0 Real Madrid
+-------------------------------------------------------------------------------------------
+
+
+Player Statistics - Inter Milan
+Name          Pos  St  Tk  Ps  Sh  Ag | Min Sav Ktk Kps Ass Sht Gls Yel Red KAb TAb PAb SAb
+-------------------------------------------------------------------------------------------
+J_Martinez     GK  40   3   2   2  21 |  96   0   0   0   0   0   0   0   0  22   0   0   0
+A_Bastoni      DF   2  45  16   4  24 |  96   0   3   1   0   1   0   0   0   0 100  20   5
+Y_Bisseck      DF   2  38  14   4  23 |  96   0   1   1   0   0   0   0   0   0  26  20   0
+S_DeVrij       DF   2  36  16   4  21 |  96   0   2   0   0   0   0   0   0   0  52   0   0
+F_Dimarco      DF   2  33  36  14  24 |  96   0   0   0   0   0   0   0   0   0   0   0   0
+D_Dumfries     DF   2  33  31  16  24 |  96   0   0   0   0   0   0   0   0   0   0   0   0
+H_Calhanoglu   MF   2  19  40  19  25 |  96   0   0   1   0   2   0   0   0   0   0  20   2
+D_Fratessi     MF   2  21  38  21  24 |  45   0   0   0   0   0   0   0   0   0   0   0   0
+L_Martinez     FW   2  16  26  44  26 |  89   0   0   3   0   1   0   0   0   0   0  60   5
+M_Thuram       FW   2  16  28  40  25 |  96   0   0   1   0   3   0   0   0   0   0  20  11
+E_Sebastiano   FW   2  14  24  36  22 |  58   0   0   0   0   2   0   0   0   0   0   0   6
+Y_Sommer       GK  35   2   2   2  20 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+T_Palacios     DF   2  31  16   7  20 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+C_Augusto      FW   2  31  32  14  23 |   7   0   0   0   0   0   0   0   0   0   0   0   0
+P_Zielinski    MF   2  21  38   9  23 |  51   0   2   1   0   0   0   0   0   0  52  20   0
+M_Taremi       FW   2  14  26  35  21 |  38   0   0   1   0   0   0   0   0   0   0  20   0
+
+Player Statistics - Real Madrid
+Name          Pos  St  Tk  Ps  Sh  Ag | Min Sav Ktk Kps Ass Sht Gls Yel Red KAb TAb PAb SAb
+-------------------------------------------------------------------------------------------
+T_Courtois     GK  45   2   2   2  24 |  96   5   0   0   0   0   0   0   0 132   0   0   0
+R_Asencio      DF   2  32  14   4  24 |  96   0   2   0   0   0   0   0   0   0  52   0   0
+J_Carreras     DF   2  37  16   7  25 |  31   0   0   0   0   0   0   0   1   0 -10 -10 -10
+F_Mendy        DF   2  38  14   4  25 |  96   0   2   0   0   0   0   0   0   0  74   0   0
+D_Alaba        DF   2  32  14   4  23 |  96   0   2   0   0   0   0   0   0   0  52   0   0
+E_Camavinga    MF   2  21  38  14  26 |  96   0   0   2   0   0   0   0   0   0   0  40   0
+J_Bellingham   MF   2  16  45  24  28 |  96   0   0   4   0   0   0   0   0   0   0  80   0
+B_Diaz         FW   2   9  21  35  26 |  96   0   0   0   0   1   0   1   0   0  -3  -3  -2
+Mastantuono    AM   2   9  19  34  24 |  96   0   0   1   0   0   0   0   0   0   0  20   0
+Endrick        FW   2   9  16  37  26 |  96   0   0   1   0   1   0   0   0   0   0  20   1
+V_Junior       FW   2  12  23  45  30 |  96   0   1   0   0   0   0   1   0   0  23  -3  -3
+A_Lunin        GK  37   2   2   2  22 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+E_Militao      DF   2  40  12   4  26 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+F_Valverde     MF   2  27  43  16  27 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+K_Mbappe       FW   2  12  24  49  30 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+Rodrygo        FW   2   9  19  40  28 |   0   0   0   0   0   0   0   0   0   0   0   0   0
+1790509871 Produced from ESMS+ V3.35
