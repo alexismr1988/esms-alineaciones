@@ -3,6 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
 <title>Clasificacion - Liga SLI</title>
 <style>
 :root{
@@ -66,8 +69,8 @@ tbody tr.z-darkred{ border-left: 3px solid #8e0000; }
 tbody tr.sep-bottom td{border-bottom:2px solid #333;}
 @media(max-width:640px){.hide-sm{display:none;}td,th{padding:.5rem .5rem;}.team-name{font-size:.85rem;}}
 </style>
-<link rel="stylesheet" href="./assets/site.css">
-<script type="module" src="./assets/site-nav.js"></script>
+<link rel="stylesheet" href="./assets/site.css?v=20261002-j24-2">
+<script type="module" src="./assets/site-nav.js?v=20261002-j24-2"></script>
 </head>
 <body class="league-page" data-page="clasificacion">
 <sli-header></sli-header>
@@ -184,6 +187,6 @@ fetch(BASE + '?v=' + Date.now())
       '<p style="color:#e74c3c;padding:2rem">Error al cargar ('+err+'). Comprueba que existe clasificacion/table.txt en el repositorio.</p>';
   });
 </script>
-<script type="module" src="./assets/clasificacion.js"></script>
+<script type="module" src="./assets/clasificacion.js?v=20261002-j24-2"></script>
 </body>
 </html>
