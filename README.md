@@ -11,7 +11,15 @@ No hace falta convertir los archivos a mano:
 3. Si cambia, actualiza `clasificacion/table.txt`.
 4. Haz el commit y el push como hasta ahora.
 
-La acción de GitHub valida todos los TXT, ejecuta las pruebas y regenera la carpeta `data/`. La web lee esos JSON normalizados, por lo que admite los TXT de ESMS en Windows-1252 y evita problemas de tildes, columnas y formatos de marcador.
+El hook local de Git valida los TXT, ejecuta las pruebas y regenera la carpeta `data/` justo antes de cada commit. La acción de GitHub repite la comprobación como red de seguridad. La web lee esos JSON normalizados, por lo que admite los TXT de ESMS en Windows-1252 y evita problemas de tildes, columnas y formatos de marcador.
+
+El hook se activa una sola vez por clon con:
+
+```bash
+git config core.hooksPath .githooks
+```
+
+En la copia habitual de este proyecto ya queda configurado.
 
 ## Comprobación local
 
