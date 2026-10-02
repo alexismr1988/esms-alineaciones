@@ -21,7 +21,7 @@ function balance(row) {
 
 function render(rows) {
   const total = rows.length;
-  document.getElementById('table-wrap').innerHTML = `<table><thead><tr><th>#</th><th class="left">Equipo</th><th>PJ</th><th class="hide-sm">V</th><th class="hide-sm">E</th>
+  document.getElementById('table-wrap').innerHTML = `<table class="classification-table"><thead><tr><th>#</th><th class="left">Equipo</th><th>PJ</th><th class="hide-sm">V</th><th class="hide-sm">E</th>
     <th class="hide-sm">D</th><th>GF</th><th>GC</th><th>DG</th><th class="hide-sm">Balance</th><th>Pts</th></tr></thead><tbody>${rows.map(row => {
       const colors = zone(row.position, total);
       return `<tr class="${colors.row} ${(row.position === 1 || row.position === 4) ? 'sep-bottom' : ''}"><td><div class="pos-num ${colors.ball}">${row.position}</div></td>

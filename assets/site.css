@@ -88,6 +88,7 @@ sli-header {
   color: #9aa4b3 !important;
   font: 650 0.78rem/1 "Segoe UI", sans-serif !important;
   text-decoration: none;
+  margin: 0 !important;
   transition: color 0.18s ease, background 0.18s ease, border-color 0.18s ease, transform 0.18s ease;
 }
 
@@ -164,6 +165,10 @@ sli-header {
 .builder-page .app { min-height: calc(100dvh - var(--site-header-height)); }
 .builder-page .main-layout { height: calc(100dvh - var(--site-header-height) - 49px); }
 .league-page #loadbar { top: var(--site-header-height); }
+.league-page,
+.builder-page { overflow-x: hidden; }
+
+.league-page #tbl-wrap { max-width: 100%; overflow-x: auto; }
 
 .league-page {
   background:
@@ -284,15 +289,55 @@ sli-header {
 @media (max-width: 680px) {
   :root { --site-header-height: 60px; }
 
-  .site-header { padding: 0 0.55rem !important; }
+  .site-header { padding: 0 0.4rem !important; }
   .site-header-inner { gap: 0.35rem; }
   .site-brand { gap: 0; }
-  .site-brand-mark { width: 38px; height: 38px; border-radius: 10px; }
+  .site-brand-mark { width: 35px; height: 35px; border-radius: 9px; font-size: 0.72rem; }
   .site-brand-copy, .site-nav-label { display: none; }
-  .site-nav { gap: 0.08rem !important; }
-  .site-nav-link { width: 36px; min-height: 38px !important; padding: 0.45rem !important; }
-  .site-nav-icon { font-size: 1.08rem; }
+  .site-nav { min-width: 0; gap: 0 !important; }
+  .site-nav-link { width: 34px; min-height: 36px !important; padding: 0.35rem !important; }
+  .site-nav-icon { font-size: 1rem; }
   .club-strip { overflow-x: auto; justify-content: flex-start; }
+
+  .league-page .section { padding: 1rem 0.75rem; }
+  .league-page .comp-grid { gap: 0.5rem; }
+  .league-page .comp-btn { flex: 1 1 calc(50% - 0.5rem); min-width: 0; padding: 0.7rem 0.75rem; justify-content: center; }
+  .league-page .jornadas-grid { gap: 0.4rem; }
+  .league-page .jornada-btn { padding: 0.48rem 0.65rem; }
+
+  .league-page .partidos-grid { display: grid; grid-template-columns: 1fr; gap: 0.75rem; }
+  .league-page .partido-card { width: 100%; min-width: 0; max-width: none; padding: 0.9rem 0.75rem; }
+  .league-page .partido-teams { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); gap: 0.45rem; }
+  .league-page .partido-teams .team-name { min-width: 0; gap: 0.35rem; font-size: 0.85rem; line-height: 1.18; }
+  .league-page .partido-teams .team-crest { width: 23px; height: 23px; }
+  .league-page .score-box { padding: 0.35rem 0.55rem; font-size: 1.05rem; }
+  .league-page #visor { padding: 0 0.75rem 2rem; }
+  .league-page .match-header { padding: 1.15rem 0.65rem; }
+  .league-page .match-teams-row { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); gap: 0.4rem; }
+  .league-page .match-team { min-width: 0; font-size: 0.9rem; line-height: 1.15; flex-direction: column; text-align: center; }
+  .league-page .match-team.right { flex-direction: column-reverse; text-align: center; }
+  .league-page .match-team-crest { width: 42px; height: 42px; }
+  .league-page .match-score { font-size: 2rem; }
+  .league-page .match-tactics { gap: 0.7rem; font-size: 0.72rem; }
+
+  .league-page .table-wrap { width: 100%; max-width: 100%; padding: 0.75rem; overflow-x: auto; }
+  .league-page .classification-table { width: 100%; table-layout: fixed; font-size: 0.78rem; }
+  .league-page .classification-table :is(th, td) { padding: 0.48rem 0.28rem; }
+  .league-page .classification-table :is(th, td):nth-child(4),
+  .league-page .classification-table :is(th, td):nth-child(5),
+  .league-page .classification-table :is(th, td):nth-child(6),
+  .league-page .classification-table :is(th, td):nth-child(7),
+  .league-page .classification-table :is(th, td):nth-child(8),
+  .league-page .classification-table :is(th, td):nth-child(10) { display: none; }
+  .league-page .classification-table :is(th, td):first-child { width: 40px; }
+  .league-page .classification-table :is(th, td):nth-child(3),
+  .league-page .classification-table :is(th, td):nth-child(9),
+  .league-page .classification-table :is(th, td):nth-child(11) { width: 36px; }
+  .league-page .classification-table .team-identity { gap: 0.35rem; }
+  .league-page .classification-table .table-team-crest { width: 21px !important; height: 21px !important; max-width: 21px; }
+  .league-page .classification-table .team-name { min-width: 0; overflow: hidden; font-size: 0.78rem; line-height: 1.1; text-overflow: ellipsis; white-space: nowrap; }
+  .league-page .classification-table .pos-num { width: 25px; height: 25px; font-size: 0.72rem; }
+  .league-page .classification-table .pts-cell { font-size: 1rem; }
 
   .league-page > header {
     height: auto;
@@ -314,6 +359,13 @@ sli-header {
     min-width: 100%;
     max-width: none;
   }
+}
+
+@media (max-width: 360px) {
+  .site-header { padding-inline: 0.25rem !important; }
+  .site-header-inner { gap: 0.15rem; }
+  .site-brand-mark { width: 32px; height: 32px; }
+  .site-nav-link { width: 31px; min-height: 34px !important; }
 }
 
 @media (min-width: 681px) and (max-width: 980px) {
