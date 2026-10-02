@@ -10,15 +10,25 @@ async function decoded(...parts) {
   return decodeEsmsBuffer(await readFile(join(root, ...parts)));
 }
 
-test('interpreta una plantilla ESMS completa', async () => {
-  const source = await decoded('rosters', 'rma.txt');
-  const roster = parseRoster(source.text, 'rma');
-  assert.equal(roster.warnings.length, 0);
-  assert.equal(roster.players.length, 25);
+test('interpreta las columnas de una plantilla ESMS', () => {
+  const roster = parseRoster(`
+Name         Age Nat St Tk Ps Sh Ag KAb TAb PAb SAb Gam Sub  Min Mom Sav Con Ktk Kps Sht Gls Ass DP Inj Sus Fit
+T_Courtois    34 bel 45  2  2  2 24 333 300 300 300  25   0 2408   0 216  48   0   0   0   0   0  0   0   0 100
+`, 'rma');
   assert.deepEqual(
     Object.fromEntries(['name', 'age', 'nat', 'st', 'gam', 'min', 'inj', 'sus', 'fit'].map(key => [key, roster.players[0][key]])),
-    { name: 'T_Courtois', age: 34, nat: 'bel', st: 45, gam: 24, min: 2312, inj: 0, sus: 0, fit: 100 }
+    { name: 'T_Courtois', age: 34, nat: 'bel', st: 45, gam: 25, min: 2408, inj: 0, sus: 0, fit: 100 }
   );
+});
+
+test('acepta las plantillas actuales sin depender de sus estadísticas', async () => {
+  for (const team of ['ars', 'atm', 'bar', 'bay', 'bor', 'che', 'cit', 'int', 'liv', 'man', 'nap', 'psg', 'rma', 'tot']) {
+    const source = await decoded('rosters', `${team}.txt`);
+    const roster = parseRoster(source.text, team);
+    assert.equal(roster.warnings.length, 0, `${team}: ${roster.warnings.join(', ')}`);
+    assert.ok(roster.players.length >= 20, `${team}: plantilla incompleta`);
+    assert.ok(roster.players.every(player => player.name && player.age > 0 && player.fit >= 0));
+  }
 });
 
 test('interpreta la clasificacion y valida sus invariantes', async () => {
@@ -26,10 +36,9 @@ test('interpreta la clasificacion y valida sus invariantes', async () => {
   const standings = parseStandings(source.text);
   assert.equal(standings.rows.length, 14);
   assert.equal(standings.warnings.length, 0);
-  assert.deepEqual(standings.rows[0], {
-    position: 1, team: 'PSG', played: 23, won: 14, drawn: 4, lost: 5,
-    goalsFor: 54, goalsAgainst: 26, goalDifference: 28, points: 46
-  });
+  assert.deepEqual(standings.rows.map(row => row.position), Array.from({ length: 14 }, (_, index) => index + 1));
+  assert.equal(new Set(standings.rows.map(row => row.team)).size, 14);
+  assert.ok(standings.rows.every(row => row.played === row.won + row.drawn + row.lost));
 });
 
 test('mantiene correctamente un empate a cero', async () => {
