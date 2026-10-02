@@ -218,8 +218,12 @@ pre#preview-text{font-family:var(--font-mono);font-size:var(--text-xs);line-heig
   .main-layout{height:auto}
 }
 </style>
+<link rel="stylesheet" href="./assets/site.css">
+<script type="module" src="./assets/site-nav.js"></script>
 </head>
-<body>
+<body class="builder-page" data-page="alineaciones">
+
+<sli-header></sli-header>
 
 <!-- TOPBAR -->
 <div class="app">
@@ -237,7 +241,6 @@ pre#preview-text{font-family:var(--font-mono);font-size:var(--text-xs);line-heig
     </div>
   </div>
   <div class="topbar-actions">
-    <a class="btn btn-ghost btn-icon btn-sm" href="main.html" aria-label="Volver a Liga SLI" title="Liga SLI">⌂</a>
     <button class="btn btn-ghost btn-icon btn-sm" data-theme-toggle aria-label="Cambiar tema">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
     </button>
@@ -283,6 +286,10 @@ pre#preview-text{font-family:var(--font-mono);font-size:var(--text-xs);line-heig
           <option value="RMA" data-file="rma.txt">Real Madrid (RMA)</option>
           <option value="TOT" data-file="tot.txt">Tottenham (TOT)</option>
         </select>
+      </div>
+      <div class="builder-team-badge" id="builder-team-badge">
+        <img class="team-crest" id="builder-team-crest" src="" alt="" aria-hidden="true">
+        <span id="builder-team-name"></span>
       </div>
       <div id="roster-load-status" style="margin-top:var(--space-3);font-size:var(--text-xs);display:none"></div>
     </div>
@@ -467,6 +474,10 @@ function getRosterData(){
 
 function loadTeamFromGitHub(abbr, file){
   if(!abbr||!file) return;
+  const selected = document.getElementById('team-select').selectedOptions[0];
+  document.getElementById('builder-team-crest').src='./assets/crests/'+abbr.toLowerCase()+'.svg';
+  document.getElementById('builder-team-name').textContent=selected.textContent;
+  document.getElementById('builder-team-badge').classList.add('visible');
   const statusEl = document.getElementById('roster-load-status');
   statusEl.style.display='block';
   statusEl.style.color='var(--color-text-muted)';

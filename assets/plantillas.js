@@ -1,6 +1,8 @@
 const host = document.getElementById('table-wrap');
 const teamsHost = document.getElementById('teams-container');
 const loading = document.getElementById('loading');
+import { crestImage } from './team-crests.js';
+
 const esc = value => String(value ?? '').replace(/[&<>'"]/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' })[char]);
 let data;
 let activeTeam;
@@ -37,7 +39,7 @@ async function init() {
     const response = await fetch('./data/rosters.json');
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     data = await response.json();
-    teamsHost.innerHTML = data.teams.map(team => `<button class="team-btn" type="button" data-id="${esc(team.code)}">${esc(team.name)}</button>`).join('');
+    teamsHost.innerHTML = data.teams.map(team => `<button class="team-btn" type="button" data-id="${esc(team.code)}">${crestImage(team.code, team.name)}<span>${esc(team.name)}</span></button>`).join('');
     teamsHost.querySelectorAll('button').forEach(button => button.addEventListener('click', () => loadTeam(button.dataset.id)));
     loading.style.display = 'none';
     loadTeam(data.teams[0].code);

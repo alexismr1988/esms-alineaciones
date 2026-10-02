@@ -49,6 +49,12 @@ Abre `http://127.0.0.1:4173/main.html` después de iniciar el servidor.
 - `assets/`: comportamiento y estilos compartidos de la web.
 - `tests/`: casos automáticos que protegen los formatos del simulador.
 
+## Escudos
+
+Los escudos incluidos en `assets/crests/` proceden del proyecto
+[`JoseArroyave/football-logos`](https://github.com/JoseArroyave/football-logos) y se distribuyen bajo licencia MIT.
+La copia de la licencia está en `assets/crests/LICENSE.txt`.
+
 ## Recuperación
 
 El cambio se preparó en la rama `codex/pipeline-esms`. La etiqueta local `backup/pre-pipeline-2026-10-02` apunta al estado anterior, de modo que siempre se puede comparar o restaurar la versión previa.

@@ -67,19 +67,10 @@ tbody tr.sep-bottom td{border-bottom:2px solid #333;}
 @media(max-width:640px){.hide-sm{display:none;}td,th{padding:.5rem .5rem;}.team-name{font-size:.85rem;}}
 </style>
 <link rel="stylesheet" href="./assets/site.css">
+<script type="module" src="./assets/site-nav.js"></script>
 </head>
-<body class="league-page">
-<header>
-  <span class="logo">Liga SLI</span>
-  <nav aria-label="Navegación principal">
-    <a href="main.html" title="Inicio" aria-label="Inicio">&#127968;</a>
-    <a href="index.html" title="Alineaciones" aria-label="Alineaciones">&#128203;</a>
-    <a href="plantillas.html" title="Plantillas" aria-label="Plantillas">&#128101;</a>
-    <a href="partidos.html" title="Partidos" aria-label="Partidos">&#127953;</a>
-    <a href="stats.html" title="Estadísticas" aria-label="Estadísticas">&#128202;</a>
-    <a href="clasificacion.html" title="Clasificación" aria-label="Clasificación" aria-current="page">&#127942;</a>
-  </nav>
-</header>
+<body class="league-page" data-page="clasificacion">
+<sli-header></sli-header>
 <div class="page-title">
   <h1>&#127942; Clasificacion</h1>
 </div>

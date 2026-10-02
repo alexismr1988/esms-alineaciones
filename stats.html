@@ -66,20 +66,11 @@ td{padding:.6rem 1.1rem;vertical-align:middle;}
 @media(max-width:600px){.cats{gap:.5rem;}.cat-btn{min-width:140px;}.main-val{font-size:1rem;}}
 </style>
 <link rel="stylesheet" href="./assets/site.css">
+<script type="module" src="./assets/site-nav.js"></script>
 </head>
-<body class="league-page">
+<body class="league-page" data-page="estadisticas">
 <div id="loadbar"></div>
-<header>
-  <span class="logo">Liga SLI</span>
-  <nav aria-label="Navegación principal">
-    <a href="main.html" title="Inicio" aria-label="Inicio">&#127968;</a>
-    <a href="index.html" title="Alineaciones" aria-label="Alineaciones">&#128203;</a>
-    <a href="plantillas.html" title="Plantillas" aria-label="Plantillas">&#128101;</a>
-    <a href="partidos.html" title="Partidos" aria-label="Partidos">&#127953;</a>
-    <a href="stats.html" title="Estadísticas" aria-label="Estadísticas" aria-current="page">&#128202;</a>
-    <a href="clasificacion.html" title="Clasificación" aria-label="Clasificación">&#127942;</a>
-  </nav>
-</header>
+<sli-header></sli-header>
 <div class="selector-wrap">
   <div class="selector-title">&#128202; Elige una estadistica</div>
   <div class="cats" id="cats"></div>

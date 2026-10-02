@@ -1,3 +1,5 @@
+import { crestImage } from './team-crests.js';
+
 const categories = [
   { id: 'gls', icon: '⚽', label: 'Goleadores', desc: 'Más goles marcados', color: '#e8395a' },
   { id: 'ass', icon: '🎯', label: 'Asistencias', desc: 'Más asistencias', color: '#f5a623' },
@@ -43,7 +45,7 @@ function renderTable(id) {
   }
   if (category.list) {
     host.innerHTML = `<table><thead><tr><th class="left">Jugador</th><th>Equipo</th><th>${category.id === 'sus' ? 'Sanción' : 'Lesión'}</th></tr></thead><tbody>${list.map(player =>
-      `<tr><td class="left"><span class="pname">${esc(player.displayName)}</span></td><td>${esc(player.teamName)}</td><td class="r"><span class="main-val" style="color:${category.color}">${player[category.id]}</span></td></tr>`
+      `<tr><td class="left"><span class="pname">${esc(player.displayName)}</span></td><td><span class="team-identity">${crestImage(player.teamCode, player.teamName, 'team-crest table-team-crest')}<span>${esc(player.teamName)}</span></span></td><td class="r"><span class="main-val" style="color:${category.color}">${player[category.id]}</span></td></tr>`
     ).join('')}</tbody></table>`;
     return;
   }
@@ -52,7 +54,7 @@ function renderTable(id) {
     const width = Math.max(2, Math.round(player.value / maximum * 100));
     const value = category.id === 'conv' ? `${player.value}%` : player.value;
     return `<tr class="${index === 0 ? 'top1' : index === 1 ? 'top2' : index === 2 ? 'top3' : ''}"><td><div class="pos ${index < 3 ? `pos${index + 1}` : 'posn'}">${index + 1}</div></td>
-      <td><span class="pname">${esc(player.displayName)}</span></td><td><span class="chip" style="color:${category.color};border-color:${category.color}">${esc(player.teamName)}</span></td>
+      <td><span class="pname">${esc(player.displayName)}</span></td><td><span class="team-identity">${crestImage(player.teamCode, player.teamName, 'team-crest table-team-crest')}<span class="chip" style="color:${category.color};border-color:${category.color}">${esc(player.teamName)}</span></span></td>
       <td>${player.gam}</td><td>${player.min}</td><td><div class="bar-bg"><div class="bar-fill" style="width:${width}%;background:${category.color}"></div></div></td>
       <td class="r"><span class="main-val" style="color:${category.color}">${value}</span></td></tr>`;
   }).join('')}</tbody></table>`;

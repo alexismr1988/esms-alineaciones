@@ -1,3 +1,5 @@
+import { crestImage } from './team-crests.js';
+
 const manifestUrl = './data/matches.json';
 const state = { manifest: null, competition: null, round: null, summaries: [], detailCache: new Map() };
 
@@ -59,9 +61,9 @@ function renderMatchCards(summaries) {
   host.innerHTML = `<div class="partidos-grid">${summaries.map(summary => `
     <article class="partido-card" data-id="${esc(summary.id)}">
       <div class="partido-teams">
-        <span class="team-name">${esc(summary.homeTeam)}</span>
+        <span class="team-name team-identity">${crestImage(summary.homeCode, summary.homeTeam)}<span>${esc(summary.homeTeam)}</span></span>
         <button class="score-box score-hidden" type="button" data-score="${esc(scoreText(summary))}" data-revealed="0" aria-label="Mostrar resultado"></button>
-        <span class="team-name right">${esc(summary.awayTeam)}</span>
+        <span class="team-name team-identity right"><span>${esc(summary.awayTeam)}</span>${crestImage(summary.awayCode, summary.awayTeam)}</span>
       </div>
       <div class="eye-hint">Pulsa el marcador para evitar spoilers · <button class="open-match" type="button">Ver partido</button></div>
     </article>`).join('')}</div>`;
@@ -155,10 +157,10 @@ function renderViewer(match) {
   const referee = match.referee ? `${match.referee.name}${match.referee.country ? ` · ${match.referee.country}` : ''}` : 'No disponible';
   byId('visor-content').innerHTML = `
     <header class="match-header"><div class="match-comp">${esc(match.competitionLabel)} · ${esc(match.roundLabel)}</div>
-      <div class="match-teams-row"><div class="match-team">${esc(match.homeTeam)}</div>
+      <div class="match-teams-row"><div class="match-team team-identity">${crestImage(match.homeCode, match.homeTeam, 'team-crest match-team-crest')}<span>${esc(match.homeTeam)}</span></div>
         <div><button class="match-score visor-score-box" id="visor-score" type="button" data-score="${esc(result)}" data-revealed="0" aria-label="Mostrar resultado">👁</button>
         <div class="match-score-sub" id="visor-ht" hidden>${match.halfTime ? `Descanso: ${esc(match.halfTime)}` : ''}</div></div>
-        <div class="match-team right">${esc(match.awayTeam)}</div></div>
+        <div class="match-team team-identity right"><span>${esc(match.awayTeam)}</span>${crestImage(match.awayCode, match.awayTeam, 'team-crest match-team-crest')}</div></div>
       <div class="match-tactics"><span>${esc(match.formation.home)}</span><span style="color:var(--muted)">vs</span><span>${esc(match.formation.away)}</span></div>
       <div class="data-note">⚖ ${esc(referee)}</div></header>
     <div class="lineups">${renderLineup(match.homeTeam, match.lineups.home, '#e8395a', match.formation.home)}${renderLineup(match.awayTeam, match.lineups.away, '#3498db', match.formation.away)}</div>
