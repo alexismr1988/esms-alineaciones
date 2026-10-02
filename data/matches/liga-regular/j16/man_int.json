@@ -1,0 +1,1128 @@
+{
+  "id": "liga-regular/j16/man_int",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j16",
+  "roundLabel": "Jornada 16",
+  "fileName": "man_int.txt",
+  "homeCode": "man",
+  "awayCode": "int",
+  "homeTeam": "Manchester United",
+  "awayTeam": "Inter Milan",
+  "result": {
+    "home": 1,
+    "away": 0,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Manchester United 0-0 Inter Milan",
+  "formation": {
+    "home": "5-4-1 P",
+    "away": "5-4-1 D"
+  },
+  "referee": {
+    "name": "Manuel Mejuto",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "A_Onana",
+        "displayName": "A Onana",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "de_Ligt",
+        "displayName": "de Ligt",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Martinez",
+        "displayName": "L Martinez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Yoro",
+        "displayName": "L Yoro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "H_Maguire",
+        "displayName": "H Maguire",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Shaw",
+        "displayName": "L Shaw",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Fernandes",
+        "displayName": "B Fernandes",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Casemiro",
+        "displayName": "M Casemiro",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Mount",
+        "displayName": "M Mount",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Ugarte",
+        "displayName": "M Ugarte",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Mbeumo",
+        "displayName": "B Mbeumo",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Bayindir",
+        "displayName": "A Bayindir",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Dalot",
+        "displayName": "D Dalot",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "P_Dorgu",
+        "displayName": "P Dorgu",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_Mainoo",
+        "displayName": "K Mainoo",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_Garnacho",
+        "displayName": "A Garnacho",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "J_Martinez",
+        "displayName": "J Martinez",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "A_Bastoni",
+        "displayName": "A Bastoni",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Pavard",
+        "displayName": "B Pavard",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Y_Bisseck",
+        "displayName": "Y Bisseck",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "S_DeVrij",
+        "displayName": "S DeVrij",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "F_Dimarco",
+        "displayName": "F Dimarco",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Barella",
+        "displayName": "N Barella",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "H_Calhanoglu",
+        "displayName": "H Calhanoglu",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Fratessi",
+        "displayName": "D Fratessi",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "P_Zielinski",
+        "displayName": "P Zielinski",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Martinez",
+        "displayName": "L Martinez",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Y_Sommer",
+        "displayName": "Y Sommer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Dumfries",
+        "displayName": "D Dumfries",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "T_Palacios",
+        "displayName": "T Palacios",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "P_Sucic",
+        "displayName": "P Sucic",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Thuram",
+        "displayName": "M Thuram",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Manchester United",
+      "mvp": "L_Yoro (Jugador del partido)",
+      "goals": "B_Fernandes (55)",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "N/A"
+    },
+    {
+      "team": "Inter Milan",
+      "mvp": "D_Fratessi",
+      "goals": "N/A",
+      "sentOff": "N/A",
+      "booked": "Y_Bisseck (46)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Posesión",
+      "home": 47,
+      "away": 53
+    },
+    {
+      "label": "Córners",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 0,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 6,
+      "away": 8
+    },
+    {
+      "label": "Entradas",
+      "home": 6,
+      "away": 8
+    },
+    {
+      "label": "Pases clave",
+      "home": 6,
+      "away": 4
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Manchester United",
+      "players": [
+        {
+          "name": "A_Onana",
+          "displayName": "A Onana",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "de_Ligt",
+          "displayName": "de Ligt",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Martinez",
+          "displayName": "L Martinez",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 19,
+          "sh": 7,
+          "ag": 26,
+          "min": 93,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Yoro",
+          "displayName": "L Yoro",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 4,
+          "ag": 23,
+          "min": 93,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Maguire",
+          "displayName": "H Maguire",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 4,
+          "ag": 24,
+          "min": 93,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Shaw",
+          "displayName": "L Shaw",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Fernandes",
+          "displayName": "B Fernandes",
+          "position": "MF",
+          "st": 2,
+          "tk": 9,
+          "ps": 43,
+          "sh": 26,
+          "ag": 27,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Casemiro",
+          "displayName": "M Casemiro",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 42,
+          "sh": 12,
+          "ag": 25,
+          "min": 93,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Mount",
+          "displayName": "M Mount",
+          "position": "MF",
+          "st": 2,
+          "tk": 7,
+          "ps": 39,
+          "sh": 21,
+          "ag": 26,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Ugarte",
+          "displayName": "M Ugarte",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 38,
+          "sh": 8,
+          "ag": 25,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Mbeumo",
+          "displayName": "B Mbeumo",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 15,
+          "sh": 41,
+          "ag": 26,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Bayindir",
+          "displayName": "A Bayindir",
+          "position": "GK",
+          "st": 33,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Dalot",
+          "displayName": "D Dalot",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 48,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Dorgu",
+          "displayName": "P Dorgu",
+          "position": "DF",
+          "st": 2,
+          "tk": 30,
+          "ps": 14,
+          "sh": 5,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Mainoo",
+          "displayName": "K Mainoo",
+          "position": "MF",
+          "st": 2,
+          "tk": 4,
+          "ps": 38,
+          "sh": 19,
+          "ag": 25,
+          "min": 48,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Garnacho",
+          "displayName": "A Garnacho",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 28,
+          "sh": 40,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Inter Milan",
+      "players": [
+        {
+          "name": "J_Martinez",
+          "displayName": "J Martinez",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 21,
+          "min": 93,
+          "sav": 1,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Bastoni",
+          "displayName": "A Bastoni",
+          "position": "DF",
+          "st": 2,
+          "tk": 45,
+          "ps": 16,
+          "sh": 4,
+          "ag": 24,
+          "min": 93,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Pavard",
+          "displayName": "B Pavard",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 9,
+          "ag": 23,
+          "min": 93,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Bisseck",
+          "displayName": "Y Bisseck",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 4,
+          "ag": 23,
+          "min": 93,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "S_DeVrij",
+          "displayName": "S DeVrij",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 4,
+          "ag": 21,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Dimarco",
+          "displayName": "F Dimarco",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 36,
+          "sh": 14,
+          "ag": 24,
+          "min": 45,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Barella",
+          "displayName": "N Barella",
+          "position": "MF",
+          "st": 2,
+          "tk": 25,
+          "ps": 43,
+          "sh": 24,
+          "ag": 25,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Calhanoglu",
+          "displayName": "H Calhanoglu",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 40,
+          "sh": 19,
+          "ag": 25,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Fratessi",
+          "displayName": "D Fratessi",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 21,
+          "ag": 24,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Zielinski",
+          "displayName": "P Zielinski",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 9,
+          "ag": 23,
+          "min": 66,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Martinez",
+          "displayName": "L Martinez",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 26,
+          "sh": 44,
+          "ag": 26,
+          "min": 93,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Sommer",
+          "displayName": "Y Sommer",
+          "position": "GK",
+          "st": 35,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Dumfries",
+          "displayName": "D Dumfries",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 31,
+          "sh": 16,
+          "ag": 24,
+          "min": 48,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Palacios",
+          "displayName": "T Palacios",
+          "position": "DF",
+          "st": 2,
+          "tk": 31,
+          "ps": 16,
+          "sh": 7,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Sucic",
+          "displayName": "P Sucic",
+          "position": "MF",
+          "st": 2,
+          "tk": 12,
+          "ps": 36,
+          "sh": 21,
+          "ag": 23,
+          "min": 27,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Thuram",
+          "displayName": "M Thuram",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 40,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "int",
+      "text": "L_Martinez pisa el balón ante L_Martinez Le suelta el túnel y recibe un agarrón de la camiseta Manuel_Mejuto da la ley de la ventaja L_Martinez se lanza al corte Despeja el cuero Trata de evitar el córner Ha salido CÓRNER H_Calhanoglu centra hacia el área L_Yoro cabecea hacia su portero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "int",
+      "text": "D_Fratessi ve especio entre el central y el lateral Qué pase en diagonal L_Martinez pisa área. Peligro L_Yoro chuta el cuero hacia las vallas. Ui Le ha dado a un pobre fotógrafo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "man",
+      "text": "B_Fernandes salta sobre la tremenda entrada de A_Bastoni F_Dimarco entra al corte y despeja el balón Pero lo echa fuera CÓRNER de_Ligt cuelga el balón J_Martinez sale con valentía y atrapa el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "man",
+      "text": "M_Mount se anticipa a su marcador Creo que lo ha empujado \"Sigan\" Dice Manuel_Mejuto Pero A_Bastoni corta el ataque con mucha sobriedad CÓRNER M_Mount acaricia el cuero A_Bastoni se lanza en plancha y despeja el balón. Se ha jugado el físico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "man",
+      "text": "B_Fernandes retrocede ante la presión Golpea el balón hacia arriba sin sentido y le cae a M_Ugarte Ha sacado petróleo de esa jugada Y_Bisseck con una entrada desmesurada Creo que buscaba el balón, pero debería calmarse un poquito",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "man",
+      "text": "L_Shaw supera a A_Bastoni Tiene mucho espacio L_Martinez corta con mucha tranquilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "man",
+      "text": "M_Casemiro mete el balón a la espalda de la defensa Su compañero ya había empezado la carrera B_Mbeumo controla el balón P_Zielinski sale al corte Se lleva al oponente por delante El árbitro dice que... sigan",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "int",
+      "text": "S_DeVrij se revuelve buscando espacio para el disparo Desliza un pase hacia H_Calhanoglu Corte finísimo y preciso de M_Casemiro Ha medido muy bien",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "int",
+      "text": "B_Pavard va al choque con el defensa y lo tira al suelo L_Martinez se hace con el balón Y lo manda hacia arriba",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que va a haber 1 minuto de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "man",
+      "text": "K_Mainoo va a entrar por M_Ugarte. Apostaría a que juega de MF. Sí",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "man",
+      "text": "Aparece el cartel electrónico - D_Dalot entra por L_Shaw y jugará de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "int",
+      "text": "El ayudante del entrenador llama a D_Dumfries F_Dimarco va a ser sustituído Está decepcionado porque no puede seguir Su sustituto jugará de DF",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "man",
+      "text": "K_Mainoo busca algún apoyo Ojo Casi pierde el balón en una zona peligrosa Pero consigue meter el pase para M_Mount Y_Bisseck llega segundos tarde al corte Creo que buscaba el balón (AMARILLA) Por unos momentos lo vi expulsado El técnico de Manchester United parece asombrado de que no fuera roja",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "man",
+      "text": "D_Dalot se aprovecha de un error de Y_Bisseck Corre hacia el marco Corte finísimo de B_Pavard Pero no puede evitar el córner Era pedir demasiado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "man",
+      "text": "B_Mbeumo supera a P_Zielinski H_Calhanoglu agarra de la camiseta a su rival",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "man",
+      "text": "L_Yoro ubica el balón a la espalda de la defensa. B_Fernandes busca el desmarque B_Fernandes peina el balón hacia atrás Se va fuera No, ha tomado efecto GOOOOOL El Manchester United golpea. Ahora manda en el marcador Manchester United 1-0 Inter Milan ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "man",
+      "text": "L_Martinez conecta con B_Fernandes. Qué entendimiento hay entre ambos Y_Bisseck envía el balón suelto a las nubues. Cuidado con los pájaros",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "int",
+      "text": "H_Calhanoglu con el preciso regate Se va de cara a puerta H_Calhanoglu acomoda el balón Y le pega Se estrella en el larguero Controla el rebote con el pecho OHHHHHHHH Un defensa ha estado más rápido y ha enviado el balón fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "man",
+      "text": "B_Fernandes se interna Le hace dos bicicletas a A_Bastoni Lo ha roto. Centra a L_Martinez Y_Bisseck entra con los tacos por delante \"FUERA, FUERA, FUERA\" ruge el estadio Manuel_Mejuto le pega una sonora reprimenda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "man",
+      "text": "M_Mount se tira el balón largo ante N_Barella Se lleva al defensa por velocidad Falla en el control y B_Pavard no desaprovecha el regalo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "int",
+      "text": "P_Sucic entra por P_Zielinski y jugará de MF para regocizo de sus aficionados",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "man",
+      "text": "L_Martinez engaña a N_Barella con una finta de cuerpo L_Martinez pisa el balón, se lo acomoda a la derecha y... chuta Rebota en el palo Se anticipa al defensa para el rebote Tiene la portería para él solo ¡NOOOOOOOO! La ha tirado fuera Imposible No me lo creo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "man",
+      "text": "B_Fernandes cambia el juego hacia B_Mbeumo Pero pisa un charco y cae al suelo Y_Bisseck recoge el balón. Menudo marcaje le está haciendo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "int",
+      "text": "P_Sucic pone el balón a la espalda de los centrales L_Martinez se cuela desde atrás Corte finísimo de L_Yoro Pero no puede evitar el córner Era pedir demasiado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "man",
+      "text": "B_Fernandes se cambia el balón de pierna Regatea al defensa Vaya obra de arte N_Barella entra con los tacos por delante ¡Ufff! Lleva la marca de la bota impresa en el muslo Tiene suerte de no ser amonestado El técnico de Inter Milan respira tranquilo El técnico de Manchester United se encara con el árbitro árbitro pidiéndole explicaciones",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 86,
+      "teamCode": "int",
+      "text": "D_Fratessi se interna por una banda Túnel al defensa Oh ¿Lo han visto? Quiebra al lateral Qué jugada D_Dumfries tira el desmarque en el centro Le pone una pase medido H_Maguire zancadillea a su oponente El árbitro se da la vuelta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 2 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

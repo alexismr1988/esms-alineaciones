@@ -1,0 +1,1152 @@
+{
+  "id": "liga-regular/j8/man_atm",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j8",
+  "roundLabel": "Jornada 8",
+  "fileName": "man_atm.txt",
+  "homeCode": "man",
+  "awayCode": "atm",
+  "homeTeam": "Manchester United",
+  "awayTeam": "Atletico Madrid",
+  "result": {
+    "home": 0,
+    "away": 1,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Manchester United 0-1 Atletico Madrid",
+  "formation": {
+    "home": "5-3-2 E",
+    "away": "4-3-3 L"
+  },
+  "referee": {
+    "name": "Howard Webb",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "A_Onana",
+        "displayName": "A Onana",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "de_Ligt",
+        "displayName": "de Ligt",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Martinez",
+        "displayName": "L Martinez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Yoro",
+        "displayName": "L Yoro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "H_Maguire",
+        "displayName": "H Maguire",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Shaw",
+        "displayName": "L Shaw",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Fernandes",
+        "displayName": "B Fernandes",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Casemiro",
+        "displayName": "M Casemiro",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Mount",
+        "displayName": "M Mount",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Mbeumo",
+        "displayName": "B Mbeumo",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Garnacho",
+        "displayName": "A Garnacho",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Bayindir",
+        "displayName": "A Bayindir",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Dalot",
+        "displayName": "D Dalot",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "P_Dorgu",
+        "displayName": "P Dorgu",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Ugarte",
+        "displayName": "M Ugarte",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Cunha",
+        "displayName": "M Cunha",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "J_Oblak",
+        "displayName": "J Oblak",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "R_LeNormand",
+        "displayName": "R LeNormand",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Gimenez",
+        "displayName": "J Gimenez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Llorente",
+        "displayName": "M Llorente",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Hancko",
+        "displayName": "D Hancko",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Koke",
+        "displayName": "Koke",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Baena",
+        "displayName": "A Baena",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "P_Barrios",
+        "displayName": "P Barrios",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Griezmann",
+        "displayName": "A Griezmann",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Alvarez",
+        "displayName": "J Alvarez",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "G_Raspadori",
+        "displayName": "G Raspadori",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Musso",
+        "displayName": "J Musso",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Ruggeri",
+        "displayName": "M Ruggeri",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "N_Molina",
+        "displayName": "N Molina",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "C_Gallagher",
+        "displayName": "C Gallagher",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_Sorloth",
+        "displayName": "A Sorloth",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Manchester United",
+      "mvp": "M_Mount",
+      "goals": "N/A",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "N/A"
+    },
+    {
+      "team": "Atletico Madrid",
+      "mvp": "M_Llorente (Jugador del partido)",
+      "goals": "A_Griezmann (21)",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 7,
+      "away": 7
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 3,
+      "away": 2
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 4,
+      "away": 5
+    },
+    {
+      "label": "Posesión",
+      "home": 61,
+      "away": 39
+    },
+    {
+      "label": "Córners",
+      "home": 4,
+      "away": 2
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 9,
+      "away": 3
+    },
+    {
+      "label": "Entradas",
+      "home": 3,
+      "away": 8
+    },
+    {
+      "label": "Pases clave",
+      "home": 9,
+      "away": 6
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Manchester United",
+      "players": [
+        {
+          "name": "A_Onana",
+          "displayName": "A Onana",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 93,
+          "sav": 4,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "de_Ligt",
+          "displayName": "de Ligt",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 93,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Martinez",
+          "displayName": "L Martinez",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 19,
+          "sh": 7,
+          "ag": 26,
+          "min": 93,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Yoro",
+          "displayName": "L Yoro",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 4,
+          "ag": 23,
+          "min": 93,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Maguire",
+          "displayName": "H Maguire",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 4,
+          "ag": 24,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Shaw",
+          "displayName": "L Shaw",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Fernandes",
+          "displayName": "B Fernandes",
+          "position": "MF",
+          "st": 2,
+          "tk": 9,
+          "ps": 43,
+          "sh": 26,
+          "ag": 27,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Casemiro",
+          "displayName": "M Casemiro",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 42,
+          "sh": 12,
+          "ag": 25,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Mount",
+          "displayName": "M Mount",
+          "position": "MF",
+          "st": 2,
+          "tk": 7,
+          "ps": 39,
+          "sh": 21,
+          "ag": 26,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Mbeumo",
+          "displayName": "B Mbeumo",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 15,
+          "sh": 41,
+          "ag": 26,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Garnacho",
+          "displayName": "A Garnacho",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 28,
+          "sh": 40,
+          "ag": 26,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Bayindir",
+          "displayName": "A Bayindir",
+          "position": "GK",
+          "st": 33,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Dalot",
+          "displayName": "D Dalot",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 48,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Dorgu",
+          "displayName": "P Dorgu",
+          "position": "DF",
+          "st": 2,
+          "tk": 30,
+          "ps": 14,
+          "sh": 5,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Ugarte",
+          "displayName": "M Ugarte",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 38,
+          "sh": 8,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Cunha",
+          "displayName": "M Cunha",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 19,
+          "sh": 40,
+          "ag": 27,
+          "min": 48,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Atletico Madrid",
+      "players": [
+        {
+          "name": "J_Oblak",
+          "displayName": "J Oblak",
+          "position": "GK",
+          "st": 45,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 93,
+          "sav": 4,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_LeNormand",
+          "displayName": "R LeNormand",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 93,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Gimenez",
+          "displayName": "J Gimenez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 93,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Llorente",
+          "displayName": "M Llorente",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 36,
+          "sh": 14,
+          "ag": 27,
+          "min": 93,
+          "sav": 0,
+          "ktk": 5,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Hancko",
+          "displayName": "D Hancko",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 93,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Koke",
+          "displayName": "Koke",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 43,
+          "sh": 12,
+          "ag": 25,
+          "min": 93,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Baena",
+          "displayName": "A Baena",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 39,
+          "sh": 21,
+          "ag": 25,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Barrios",
+          "displayName": "P Barrios",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 12,
+          "ag": 26,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Griezmann",
+          "displayName": "A Griezmann",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 28,
+          "sh": 44,
+          "ag": 28,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Alvarez",
+          "displayName": "J Alvarez",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 21,
+          "sh": 42,
+          "ag": 29,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Raspadori",
+          "displayName": "G Raspadori",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 21,
+          "sh": 36,
+          "ag": 26,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Musso",
+          "displayName": "J Musso",
+          "position": "GK",
+          "st": 30,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Ruggeri",
+          "displayName": "M Ruggeri",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Molina",
+          "displayName": "N Molina",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 19,
+          "sh": 7,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Gallagher",
+          "displayName": "C Gallagher",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 14,
+          "ag": 26,
+          "min": 48,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Sorloth",
+          "displayName": "A Sorloth",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 36,
+          "ag": 27,
+          "min": 48,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "man",
+      "text": "M_Casemiro pasa de rabona hacia A_Garnacho. Madre mía ¿Ha nacido en Brasil? A_Garnacho recibe el balón de espaldas Oh Se ha sacado una tijereta J_Oblak mete la manopla y fuerza el córner CÓRNER M_Mount saca a la zona de peligro D_Hancko cabecea hacia su portero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "man",
+      "text": "H_Maguire se abre a la banda y cambie el juego hacia A_Garnacho A_Garnacho trata de sorprender a J_Oblak J_Oblak la desvía a centímetros del palo Muy buena parada CÓRNER M_Mount centra hacia el área M_Llorente cubre el segundo palo Y evita el remate del delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "atm",
+      "text": "G_Raspadori gambetea ante L_Yoro, lo está desquiciando G_Raspadori chuta con el interior A_Onana está tapado. No ve venir el balón Pero lo despeja con los puños. Poco ortodoxo, pero efectivo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "man",
+      "text": "L_Yoro se anticipa a su marcador M_Llorente entra con dureza cerca de la línea de fondo Envía al jugador y la pelota fuera del campo CÓRNER M_Casemiro le de mucho efecto a su lanzamiento Koke cubre el segundo palo Y evita el remate del delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "man",
+      "text": "M_Mount va al choque con el defensa y lo tira al suelo D_Hancko pone el pie en el momento oportuno y despeja el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "atm",
+      "text": "Koke con un pase milimétrico El balón pasa por encima de L_Martinez Y le llega a A_Griezmann El defensa resbala en el momento de controlar el balón A_Griezmann es más rápido que nadie y controla el cuero Está cara a cara con A_Onana Amaga el disparo y chuta de cuchara A_Onana GOOOOOL El Atletico Madrid golpea. Ahora manda en el marcador Manchester United 0-1 Atletico Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "man",
+      "text": "A_Garnacho se va en un palmo de terreno D_Hancko se lanza al corte Howard_Webb lo llama inmediatamente Se marcha con una simple amonestación",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "man",
+      "text": "M_Mount golpea el balón al hueco. B_Mbeumo aparece de la nada M_Llorente se hace con el balón y lo cede al portero J_Oblak ve con sorpresa como el pase va demasiado fuerte Se tira... no va a llegar Ui Salió rozando el palo CÓRNER M_Mount centra hacia el área H_Maguire trata de colocar su disparo J_Oblak resbala Pero el balón se pierde por la línea de fondo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "atm",
+      "text": "G_Raspadori se hace con el balón suelto G_Raspadori cabecea con claridad El diparo coge el efecto cambiado ¡Fuera! Impactó mal el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 27,
+      "teamCode": "atm",
+      "text": "A_Baena dispara Pega en la espalda de un compañero y va a parar a J_Alvarez Vaya suerte J_Alvarez se anticipa a su marcador solo A_Onana puede detenerle Sienta a A_Onana con un regate seco A_Onana mete la mano en el último moneto y evita el gol",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "man",
+      "text": "M_Mount en un arranque de verticalidad M_Mount hace un quiebro y dispara rápidamente Pero J_Oblak saca una pierna milagrosa y desvía el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 33,
+      "teamCode": "atm",
+      "text": "A_Baena le pega al balón con el exterior El efecto despista a la defensa, que no puede evitar que le llegue a M_Llorente M_Llorente trata de sorprender al portero con una inesperada vaselina Pero A_Onana responde con una parada impresionante CÓRNER P_Barrios centra con fuerza al área pequeña L_Yoro aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "atm",
+      "text": "R_LeNormand con un balón a la espalda del lateral D_Hancko corre hacia el cuero Llega antes que el defensa, qué gran esfuerzo D_Hancko remata con los ojos cerrados A_Onana bloca el balón con sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "atm",
+      "text": "Koke está escorado en la banda izquierda Cambia el juego a la derecha hacia G_Raspadori Pero de_Ligt se hace con el balón Gran anticipación",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que va a haber 1 minuto de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "man",
+      "text": "M_Cunha se despoja del chándal. Entrará por A_Garnacho Jugará de FW El entrenador reza para que el cambio de sus frutos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "man",
+      "text": "D_Dalot entra por L_Shaw y jugará de DF para regocizo de sus aficionados",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "atm",
+      "text": "El ayudante del entrenador llama a A_Sorloth G_Raspadori va a ser sustituído Está decepcionado porque no puede seguir Su sustituto jugará de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "atm",
+      "text": "El ayudante del entrenador llama a C_Gallagher P_Barrios va a ser sustituído El técnico le indica que juegue de MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "man",
+      "text": "L_Martinez le pega al balón con el exterior El efecto despista a la defensa, que no puede evitar que le llegue a M_Casemiro M_Casemiro hace un quiebro y dispara rápidamente J_Oblak ve salir el balón demasiado alto Pero ojo con el efecto Pega en el palo Y fuera. J_Oblak parece sorprendido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "atm",
+      "text": "A_Griezmann se va en un palmo de terreno A_Griezmann remata con los ojos cerrados Coloca el balón lejos del alcance del portero Pero da en el palo Bueno, los palos también juegan",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "man",
+      "text": "M_Mount salta con mucha potencia Se adelanta a su marcador Cabecea hacia M_Cunha Pero M_Llorente cuelga el balón a la grada Z",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "man",
+      "text": "B_Fernandes se aprovecha de un error de A_Baena J_Gimenez se lleva el balón con la mano No hay falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "man",
+      "text": "M_Casemiro cambia de dirección Ve a un compañero desdoblándolo Le cede el cuero a B_Mbeumo, que va lanzado en carrera M_Llorente se recompone y mete el pie",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "man",
+      "text": "M_Mount pisa el balón ante M_Llorente Se lo enseña, se lo esconde, otra vez... lo va a marear R_LeNormand levanta al delantero dos metros del suelo ¡Ay va! Qué entrada El colegiado se acerca corriendo Y le dice al delantero que no haga cuento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "man",
+      "text": "B_Fernandes busca a B_Mbeumo en profundidad B_Mbeumo le pega como puede... con la espinilla J_Oblak se anticipa al remate y lo atrapa con sencillez",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "man",
+      "text": "M_Mount con un preciso pase hacia B_Fernandes Corte finísimo de A_Sorloth Y evita el córner Está en un momento dulce",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "man",
+      "text": "L_Martinez va al choque con el defensa Ambos caen al suelo Pero el delantero se levanta antes y coge el balón M_Llorente efectúa un espectacular tackle El colegiado indica la falta... hacia el otro lado Howard_Webb lo reclama No hay tarjeta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "atm",
+      "text": "J_Alvarez pisa el balón Sortea a H_Maguire con un taconazo Han visto eso Es una pieza de arte Pero L_Martinez corta el ataque con mucha sobriedad CÓRNER C_Gallagher con un cerrado lanzamiento al primer palo de_Ligt controla el balón tras varios rebotes Sale jugando por bajo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "man",
+      "text": "M_Casemiro hace una bicicleta y mete el pase sobre la llegada de B_Mbeumo Envenenado trallazo de B_Mbeumo Ay va Ha tirado a metros de la portería Creo que el míster lo va a poner a patear toda la semana como castigo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "atm",
+      "text": "A_Sorloth avanza pegado a la línea de banda Mete el balón al área J_Gimenez L_Yoro llega antes al balón",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

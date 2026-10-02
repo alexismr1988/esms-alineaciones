@@ -1,0 +1,1215 @@
+{
+  "id": "liga-regular/j19/tot_liv",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j19",
+  "roundLabel": "Jornada 19",
+  "fileName": "tot_liv.txt",
+  "homeCode": "tot",
+  "awayCode": "liv",
+  "homeTeam": "Tottenham",
+  "awayTeam": "Liverpool",
+  "result": {
+    "home": 3,
+    "away": 1,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Tottenham 2-1 Liverpool",
+  "formation": {
+    "home": "5-4-1 N",
+    "away": "4-1-3-2 P"
+  },
+  "referee": {
+    "name": "Enriquez Negreira",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "G_Vicario",
+        "displayName": "G Vicario",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "C_Romero",
+        "displayName": "C Romero",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_VandeVen",
+        "displayName": "M VandeVen",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Dragusin",
+        "displayName": "R Dragusin",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "K_Danso",
+        "displayName": "K Danso",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Udogie",
+        "displayName": "D Udogie",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Maddison",
+        "displayName": "J Maddison",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "R_Bentancur",
+        "displayName": "R Bentancur",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Kulusevski",
+        "displayName": "D Kulusevski",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Gray",
+        "displayName": "A Gray",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Johnson",
+        "displayName": "B Johnson",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Kinsky",
+        "displayName": "A Kinsky",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Davies",
+        "displayName": "B Davies",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Spence",
+        "displayName": "D Spence",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Y_Bissouma",
+        "displayName": "Y Bissouma",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Richarlison",
+        "displayName": "Richarlison",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "Marmardashvili",
+        "displayName": "Marmardashvili",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "J_Frimpong",
+        "displayName": "J Frimpong",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Williams",
+        "displayName": "R Williams",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "I_Konate",
+        "displayName": "I Konate",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Kerkez",
+        "displayName": "M Kerkez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Gravenberch",
+        "displayName": "R Gravenberch",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "C_Jones",
+        "displayName": "C Jones",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "F_Wirtz",
+        "displayName": "F Wirtz",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Szoboszlai",
+        "displayName": "D Szoboszlai",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Etikite",
+        "displayName": "Etikite",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "M_Salah",
+        "displayName": "M Salah",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Alisson",
+        "displayName": "Alisson",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "V_van_Dijk",
+        "displayName": "V van Dijk",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_MacAllister",
+        "displayName": "A MacAllister",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "T_Endo",
+        "displayName": "T Endo",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Chiesa",
+        "displayName": "F Chiesa",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Tottenham",
+      "mvp": "J_Maddison",
+      "goals": "K_Danso (20), C_Romero (41), R_Bentancur (56)",
+      "sentOff": "N/A",
+      "booked": "Y_Bissouma (55)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Liverpool",
+      "mvp": "M_Salah (Jugador del partido)",
+      "goals": "M_Salah (43)",
+      "sentOff": "N/A",
+      "booked": "R_Gravenberch (47)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 10,
+      "away": 13
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 4,
+      "away": 7
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 6,
+      "away": 6
+    },
+    {
+      "label": "Posesión",
+      "home": 52,
+      "away": 48
+    },
+    {
+      "label": "Córners",
+      "home": 3,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 0
+    },
+    {
+      "label": "Faltas",
+      "home": 5,
+      "away": 9
+    },
+    {
+      "label": "Entradas",
+      "home": 4,
+      "away": 7
+    },
+    {
+      "label": "Pases clave",
+      "home": 11,
+      "away": 10
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Tottenham",
+      "players": [
+        {
+          "name": "G_Vicario",
+          "displayName": "G Vicario",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 97,
+          "sav": 5,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Romero",
+          "displayName": "C Romero",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 15,
+          "sh": 7,
+          "ag": 23,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_VandeVen",
+          "displayName": "M VandeVen",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 4,
+          "sh": 7,
+          "ag": 22,
+          "min": 97,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Dragusin",
+          "displayName": "R Dragusin",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 7,
+          "ag": 22,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Danso",
+          "displayName": "K Danso",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 5,
+          "sh": 7,
+          "ag": 21,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Udogie",
+          "displayName": "D Udogie",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 18,
+          "sh": 12,
+          "ag": 23,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Maddison",
+          "displayName": "J Maddison",
+          "position": "MF",
+          "st": 2,
+          "tk": 12,
+          "ps": 41,
+          "sh": 18,
+          "ag": 23,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 1,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Bentancur",
+          "displayName": "R Bentancur",
+          "position": "MF",
+          "st": 2,
+          "tk": 28,
+          "ps": 38,
+          "sh": 16,
+          "ag": 23,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Kulusevski",
+          "displayName": "D Kulusevski",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 14,
+          "ag": 23,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Gray",
+          "displayName": "A Gray",
+          "position": "MF",
+          "st": 2,
+          "tk": 8,
+          "ps": 36,
+          "sh": 14,
+          "ag": 22,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Johnson",
+          "displayName": "B Johnson",
+          "position": "FW",
+          "st": 2,
+          "tk": 19,
+          "ps": 20,
+          "sh": 41,
+          "ag": 23,
+          "min": 59,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Kinsky",
+          "displayName": "A Kinsky",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Davies",
+          "displayName": "B Davies",
+          "position": "DF",
+          "st": 2,
+          "tk": 32,
+          "ps": 9,
+          "sh": 4,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Spence",
+          "displayName": "D Spence",
+          "position": "DF",
+          "st": 2,
+          "tk": 32,
+          "ps": 16,
+          "sh": 12,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Bissouma",
+          "displayName": "Y Bissouma",
+          "position": "MF",
+          "st": 2,
+          "tk": 18,
+          "ps": 36,
+          "sh": 14,
+          "ag": 22,
+          "min": 52,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Richarlison",
+          "displayName": "Richarlison",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 26,
+          "sh": 40,
+          "ag": 23,
+          "min": 38,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Liverpool",
+      "players": [
+        {
+          "name": "Marmardashvili",
+          "displayName": "Marmardashvili",
+          "position": "GK",
+          "st": 43,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 97,
+          "sav": 5,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Frimpong",
+          "displayName": "J Frimpong",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 21,
+          "sh": 7,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Williams",
+          "displayName": "R Williams",
+          "position": "DF",
+          "st": 2,
+          "tk": 28,
+          "ps": 12,
+          "sh": 4,
+          "ag": 22,
+          "min": 97,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "I_Konate",
+          "displayName": "I Konate",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Kerkez",
+          "displayName": "M Kerkez",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 12,
+          "sh": 7,
+          "ag": 24,
+          "min": 97,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Gravenberch",
+          "displayName": "R Gravenberch",
+          "position": "DM",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 14,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "C_Jones",
+          "displayName": "C Jones",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 16,
+          "ag": 24,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Wirtz",
+          "displayName": "F Wirtz",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 46,
+          "sh": 22,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Szoboszlai",
+          "displayName": "D Szoboszlai",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 24,
+          "ag": 27,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Etikite",
+          "displayName": "Etikite",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 12,
+          "sh": 38,
+          "ag": 18,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Salah",
+          "displayName": "M Salah",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 26,
+          "sh": 45,
+          "ag": 22,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 6,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Alisson",
+          "displayName": "Alisson",
+          "position": "GK",
+          "st": 44,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_van_Dijk",
+          "displayName": "V van Dijk",
+          "position": "DF",
+          "st": 2,
+          "tk": 48,
+          "ps": 19,
+          "sh": 7,
+          "ag": 27,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_MacAllister",
+          "displayName": "A MacAllister",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 16,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Endo",
+          "displayName": "T Endo",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 35,
+          "sh": 12,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Chiesa",
+          "displayName": "F Chiesa",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 14,
+          "sh": 42,
+          "ag": 14,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "liv",
+      "text": "C_Jones conecta con F_Wirtz. Qué entendimiento hay entre ambos B_Johnson va al choque Y se lleva el cuero. El delantero no sabe si ha sido un contrario o un tren de mercancías",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "tot",
+      "text": "D_Udogie hace una bicicleta y mete el pase sobre la llegada de C_Romero M_Kerkez empuja al delantero Qué listo, engañó al árbitro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "tot",
+      "text": "D_Kulusevski supera a J_Frimpong Tiene mucho espacio D_Kulusevski busca el palo por bajo Ay va Ha tirado a metros de la portería Creo que el míster lo va a poner a patear toda la semana como castigo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "liv",
+      "text": "M_Salah gana el balón en su propio campo M_Salah impacta el cuero en un alarde de calidad G_Vicario no va a llegar OH Se pierde por encima del larguero G_Vicario sonríe ¿Sabía que iba fuera? No se, no se...",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "tot",
+      "text": "J_Maddison con un preciso pase hacia K_Danso K_Danso se lanza en plancha... ¡Qué valentía! GOOOOOL Está haciendo pases con una muleta imaginaria El Tottenham jugará con ventaja a partir de ahora Tottenham 1-0 Liverpool ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "liv",
+      "text": "M_Salah supera al defensa M_Salah suelta una rabona Pero se las arregla para fallar No ha estado nada fino",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "tot",
+      "text": "B_Johnson supera al defensor R_Williams se lanza al corte Despeja el cuero Trata de evitar el córner Ha salido CÓRNER Picado por B_Johnson Marmardashvili se eleva entre los contrarios y caza el centro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "tot",
+      "text": "A_Gray pierde el balón, pero mete el pie... y se lo lleva A_Gray tiene tiempo y espacio ¡Dispara por bajo! Marmardashvili mete la mano y alcanza el balón con la punta de los dedos córner, marca Enriquez_Negreira Pero el asistente lo corrige ¿Eso es asistir?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "tot",
+      "text": "J_Maddison de tacón para B_Johnson Pero M_Kerkez se hace con el balón Gran anticipación",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "tot",
+      "text": "B_Johnson golpea el balón hacia C_Romero C_Romero suelta un chut con un efecto endiablado GOOOOOL ¡Qué golazo! Es para hacerle un monumento Tottenham 2-0 Liverpool ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 4 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "liv",
+      "text": "J_Frimpong volea el cuero. Va directo hacia M_Salah M_Salah impacta el cuero al primer toque Podría haberla parado GOOOOOL Se agarra la camiseta y la enseña a la grada rival Vaya lluvia de objetos le está cayendo Y van 20 esta temporada Tottenham 2-1 Liverpool ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "tot",
+      "text": "Confirmado Hay cambio Y_Bissouma entrará en lugar de A_Gray. Se ubica como MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "tot",
+      "text": "J_Maddison encuentra un hueco en la defensa rival J_Maddison recibe el balón de espaldas Oh Se ha sacado una tijereta Al lateral de la red",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "liv",
+      "text": "F_Wirtz regatea a su marcador y pasa rápidamente a M_Salah K_Danso entra con todo Y corta el balón. Ha intimidado al delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "tot",
+      "text": "Y_Bissouma de tacón hacia J_Maddison. Gran pase J_Maddison prueba suerte con un disparo raso Marmardashvili mete la planta del pie y despeja el cuero CÓRNER C_Romero saca el balón a la frontal Marmardashvili mete los puños con fuerza y aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "liv",
+      "text": "M_Salah para el balón Levanta la vista y ve a un compañero completamente solo Le envía el pase con el exterior Etikite controla el milimétrico pase. Hasta yo lo hubiera hecho M_VandeVen lee la jugada antes de que se produzca y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "tot",
+      "text": "A ver qué inventa D_Udogie ahora. Pase de interior hacia C_Romero R_Gravenberch entra con los tacos por delante Enriquez_Negreira lo llama inmediatamente (AMARILLA) Increíble Una de las más rigurosas de la historia de TSM",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "tot",
+      "text": "R_Bentancur al primer toque para B_Johnson Corte finísimo y preciso de R_Williams Ha medido muy bien",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "liv",
+      "text": "M_Salah avanza en carrera y gira súbitamente El cambio de dirección sorprendió a C_Romero M_Salah busca un disparo con efecto Esto es fútbol G_Vicario despeja... con la cabeza Estaba despistado Su entrenador se está comiendo el banquillo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "tot",
+      "text": "La grada ruge ya que Richarlison substituye a B_Johnson para jugar de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "tot",
+      "text": "Y_Bissouma escupe a R_Gravenberch Eso le puede costar muy caro En mala situación Enriquez_Negreira busca en su bolsillo Comprueba su número (AMARILLA) Creo que se la merecía con creces",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "tot",
+      "text": "Richarlison recibe de espalda. Se inventa un taconazo hacia R_Bentancur R_Bentancur tiene tiempo y espacio Busca la vaselina Impacta el cuero con precisión y suavidad GOOOOOL Levanta los brazos ¡Qué frialdad! ¡Qué calidad! ¡Qué golazo! Tottenham 3-1 Liverpool ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "tot",
+      "text": "Richarlison envía el balón por el lado derecho de F_Wirtz y lo escoge por el otro R_Williams intuye el peligro y corta la acción",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "tot",
+      "text": "D_Udogie controla el balón con facilidad D_Udogie tiene tiempo y espacio Chuta Demasiado alta, la ha tirado a Agraria",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "liv",
+      "text": "M_Kerkez va flechado hacia la portería Sortea a K_Danso Encara portería M_Kerkez impacta el balón con dureza G_Vicario flota sobre la línea de meta Mete la mano ¿Córner? No se equivocó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "liv",
+      "text": "F_Wirtz mira a la derecha Y cruza a la izquierda para M_Salah. Eso lo hacía Laudrup M_Salah acomoda su cuerpo y suelta... ¡Uau! ¡Qué cañonazo! G_Vicario bloca el balón con sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "tot",
+      "text": "D_Kulusevski tiene espacio y tiempo A ver qué inventa Amaga el disparo y mete un pase K_Danso controla con el pecho Encara puerta J_Frimpong va en carrera y mete el codo El delantero va al suelo Ha sido sutil, el árbitro no lo ha visto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "liv",
+      "text": "M_Kerkez sale a la contra. Mete un pase medido a Etikite Etikite rompe el intento de fuera de juego rival Creo que estaba más adelante que el último defensa G_Vicario sale a la desesperada Sienta a G_Vicario con un regate seco G_Vicario mete la mano en el último moneto y evita el gol",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "tot",
+      "text": "J_Maddison con un balón a la espalda del lateral Richarlison corre hacia el cuero Llega antes que el defensa, qué gran esfuerzo Richarlison controla el balón, amaga y... dispara ¡Oh! Pero golpea en un defensa y se va córner CÓRNER D_Kulusevski cuelga el balón I_Konate salta en el primer palo Y mete la cabeza. Ha cortado la jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "liv",
+      "text": "R_Gravenberch baja el balón con el pecho. Lo pisa... y asiste a Etikite Pero M_VandeVen aparece a su lado y aborta el ataque",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "tot",
+      "text": "J_Maddison hace una bicicleta y descoloca a M_Kerkez J_Maddison suelta un disparo muy débil Marmardashvili para el lanzamiento Y aleja el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "liv",
+      "text": "F_Wirtz salta sobre la tremenda entrada de R_Dragusin F_Wirtz trata de sorprender a G_Vicario con una inesperada vaselina Sale fuera y será saque de puerta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "liv",
+      "text": "D_Szoboszlai controla de espaldas a la portería. Ojo Se ha girado R_Dragusin gana el balón fácilmente Enriquez_Negreira ha visto algo. La pregunta es qué Enriquez_Negreira le pide que se acerque Luego que se calme El técnico de Tottenham no verá la tarjeta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "tot",
+      "text": "K_Danso tiene espacio y tiempo A ver qué inventa Amaga el disparo y mete un pase Richarlison controla con el pecho Encara puerta Pero J_Frimpong aparece de la nada y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "liv",
+      "text": "M_Salah con el saque de banda Limpia el balón en su camiseta Y saca fuerte hacia Etikite Etikite prueba suerte desde la lejanía G_Vicario resbala Pero ve como el disparo se pierde lejos de su marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "liv",
+      "text": "R_Gravenberch volea el cuero. Va directo hacia C_Jones C_Jones mira fijamente al marco ¡Dispara! El balón hace un mal bote sobre el césped y su disparo se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "liv",
+      "text": "D_Szoboszlai levanta la cabeza Ve perfectamente a M_Salah M_Salah acomoda el balón Y le pega Coloca el balón suavemente lejos del alcance del portero Pero sale rozando el palo G_Vicario estaba vendido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "liv",
+      "text": "Etikite controla el balón y encara a K_Danso. ¡Qué regate! Etikite chuta sin mirar al portero G_Vicario desvía ligeramente el balón Fuera Lo ha logrado ¿Saque de puerta? Vi claramente como la tocaba el cancerbero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "liv",
+      "text": "R_Gravenberch se para ante K_Danso... y le hace la 'cola de vaca' Oh Increíble solo se lo había visto hacer a Ronaldo y Romario R_Gravenberch trata de sorprender a G_Vicario G_Vicario detiene el balón con una mano El rebote cae al centro, limpio para el delantero Remata FUERA Qué fallo Está desesperado",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

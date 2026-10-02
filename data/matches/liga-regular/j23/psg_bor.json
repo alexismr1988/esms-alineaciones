@@ -1,0 +1,1124 @@
+{
+  "id": "liga-regular/j23/psg_bor",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j23",
+  "roundLabel": "Jornada 23",
+  "fileName": "psg_bor.txt",
+  "homeCode": "psg",
+  "awayCode": "bor",
+  "homeTeam": "PSG",
+  "awayTeam": "Borussia Dortmund",
+  "result": {
+    "home": 1,
+    "away": 0,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "PSG 1-0 Borussia Dortmund",
+  "formation": {
+    "home": "4-1-2-1-2 P",
+    "away": "3-6-1 L"
+  },
+  "referee": {
+    "name": "Mateu Lahoz",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "G_Donnarumma",
+        "displayName": "G Donnarumma",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "A_Hakimi",
+        "displayName": "A Hakimi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Mendes",
+        "displayName": "N Mendes",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "I_Zabarnyi",
+        "displayName": "I Zabarnyi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Marquinhos",
+        "displayName": "Marquinhos",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Neves",
+        "displayName": "J Neves",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "Vitinha",
+        "displayName": "Vitinha",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Asensio",
+        "displayName": "M Asensio",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Doue",
+        "displayName": "D Doue",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "O_Dembele",
+        "displayName": "O Dembele",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Rafael_Leao",
+        "displayName": "Rafael Leao",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Diogo_Costa",
+        "displayName": "Diogo Costa",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_HernÃ¡ndez",
+        "displayName": "L HernÃ¡ndez",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Ruiz",
+        "displayName": "F Ruiz",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "W_ZaireEmery",
+        "displayName": "W ZaireEmery",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Barcola",
+        "displayName": "B Barcola",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "G_Kobel",
+        "displayName": "G Kobel",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "N_Schlotterbeck",
+        "displayName": "N Schlotterbeck",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Anton",
+        "displayName": "W Anton",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Sule",
+        "displayName": "N Sule",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "P_Gross",
+        "displayName": "P Gross",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "E_Can",
+        "displayName": "E Can",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Sabitzer",
+        "displayName": "M Sabitzer",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "G_Reyna",
+        "displayName": "G Reyna",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "S_Ozcan",
+        "displayName": "S Ozcan",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "F_Nmecha",
+        "displayName": "F Nmecha",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "S_Guirassy",
+        "displayName": "S Guirassy",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Meyer",
+        "displayName": "A Meyer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "R_Bensebaini",
+        "displayName": "R Bensebaini",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Y_Couto",
+        "displayName": "Y Couto",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Jobe_Bellingham",
+        "displayName": "Jobe Bellingham",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Beier",
+        "displayName": "M Beier",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "PSG",
+      "mvp": "D_Doue (Jugador del partido)",
+      "goals": "Rafael_Leao (36)",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "N/A"
+    },
+    {
+      "team": "Borussia Dortmund",
+      "mvp": "G_Reyna",
+      "goals": "N/A",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 4,
+      "away": 1
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 3,
+      "away": 0
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Posesión",
+      "home": 65,
+      "away": 35
+    },
+    {
+      "label": "Córners",
+      "home": 3,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 4,
+      "away": 6
+    },
+    {
+      "label": "Entradas",
+      "home": 7,
+      "away": 5
+    },
+    {
+      "label": "Pases clave",
+      "home": 6,
+      "away": 3
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "PSG",
+      "players": [
+        {
+          "name": "G_Donnarumma",
+          "displayName": "G Donnarumma",
+          "position": "GK",
+          "st": 46,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 76,
+          "sav": 1,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Hakimi",
+          "displayName": "A Hakimi",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 27,
+          "sh": 14,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Mendes",
+          "displayName": "N Mendes",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 16,
+          "sh": 12,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "I_Zabarnyi",
+          "displayName": "I Zabarnyi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 7,
+          "sh": 4,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Marquinhos",
+          "displayName": "Marquinhos",
+          "position": "DF",
+          "st": 2,
+          "tk": 45,
+          "ps": 9,
+          "sh": 4,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Neves",
+          "displayName": "J Neves",
+          "position": "DM",
+          "st": 2,
+          "tk": 24,
+          "ps": 45,
+          "sh": 16,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Vitinha",
+          "displayName": "Vitinha",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 44,
+          "sh": 16,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Asensio",
+          "displayName": "M Asensio",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 33,
+          "ag": 24,
+          "min": 76,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Doue",
+          "displayName": "D Doue",
+          "position": "AM",
+          "st": 2,
+          "tk": 16,
+          "ps": 33,
+          "sh": 42,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Dembele",
+          "displayName": "O Dembele",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 45,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rafael_Leao",
+          "displayName": "Rafael Leao",
+          "position": "FW",
+          "st": 2,
+          "tk": 18,
+          "ps": 20,
+          "sh": 44,
+          "ag": 11,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Diogo_Costa",
+          "displayName": "Diogo Costa",
+          "position": "GK",
+          "st": 41,
+          "tk": 1,
+          "ps": 1,
+          "sh": 1,
+          "ag": 21,
+          "min": 18,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_HernÃ¡ndez",
+          "displayName": "L HernÃ¡ndez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 19,
+          "sh": 12,
+          "ag": 24,
+          "min": 18,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Ruiz",
+          "displayName": "F Ruiz",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 40,
+          "sh": 16,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_ZaireEmery",
+          "displayName": "W ZaireEmery",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 16,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Barcola",
+          "displayName": "B Barcola",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 21,
+          "sh": 40,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Borussia Dortmund",
+      "players": [
+        {
+          "name": "G_Kobel",
+          "displayName": "G Kobel",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 94,
+          "sav": 1,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Schlotterbeck",
+          "displayName": "N Schlotterbeck",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 17,
+          "sh": 7,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Anton",
+          "displayName": "W Anton",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 7,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Sule",
+          "displayName": "N Sule",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 4,
+          "ag": 22,
+          "min": 66,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Gross",
+          "displayName": "P Gross",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 19,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Can",
+          "displayName": "E Can",
+          "position": "MF",
+          "st": 2,
+          "tk": 28,
+          "ps": 38,
+          "sh": 16,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Sabitzer",
+          "displayName": "M Sabitzer",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 38,
+          "sh": 21,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Reyna",
+          "displayName": "G Reyna",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 24,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Ozcan",
+          "displayName": "S Ozcan",
+          "position": "MF",
+          "st": 2,
+          "tk": 28,
+          "ps": 36,
+          "sh": 14,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Nmecha",
+          "displayName": "F Nmecha",
+          "position": "MF",
+          "st": 2,
+          "tk": 26,
+          "ps": 36,
+          "sh": 16,
+          "ag": 22,
+          "min": 66,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Guirassy",
+          "displayName": "S Guirassy",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 25,
+          "sh": 43,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Meyer",
+          "displayName": "A Meyer",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Bensebaini",
+          "displayName": "R Bensebaini",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 12,
+          "ag": 22,
+          "min": 28,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Couto",
+          "displayName": "Y Couto",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 31,
+          "sh": 14,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Jobe_Bellingham",
+          "displayName": "Jobe Bellingham",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 33,
+          "sh": 16,
+          "ag": 22,
+          "min": 28,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Beier",
+          "displayName": "M Beier",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 24,
+          "sh": 38,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "bor",
+      "text": "G_Reyna acelera por la banda izquierda Juega para S_Guirassy O_Dembele llega tarde al corte No hubo mala intención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "psg",
+      "text": "J_Neves le pega mal Pero le llega a M_Asensio Eso ha sido de leche M_Asensio salta y pica el balón perfectamente de cabeza El disparo coge un efecto envenenado G_Kobel reacciona rápidamente y corrige su posición No va a llegar Pero sale rozando el palo G_Kobel estaba batido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "bor",
+      "text": "S_Ozcan recibe el balón en el extremo Se va de su marcador por el interior Está en una posición inmejorable A_Hakimi envía al delantero al suelo y el balón sale fuera de banda El asistente indica... Saque de banda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "bor",
+      "text": "S_Guirassy en carrera Le hace un túnel a I_Zabarnyi Ui, le ha soltado el pie Si lo pilla... Vitinha se anticipa a la jugada y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "psg",
+      "text": "M_Asensio llega primero al balón que ha quedado muerto Ve a su compañero entrando desde atrás Rafael_Leao controla en carrera N_Schlotterbeck entra con todo El balón rueda y cruza la línea de fondo CÓRNER O_Dembele con un cerrado lanzamiento al primer palo N_Mendes trata de colocar su disparo Pero se las arregla para fallar Los aficionados del Borussia Dortmund se ríen de él",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "psg",
+      "text": "D_Doue llega el priimero al balóm suelto Y lo mete en profundidad hacia Rafael_Leao Rafael_Leao se ha deshecho de la defensa rival Pisa área, está completamente solo Encara a G_Kobel Es medio gol Le levanta el balón sobre la salida GOOOOOL A ver como administra su ventaja el PSG PSG 1-0 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "psg",
+      "text": "M_Asensio se anticipa a su marcador Creo que lo ha empujado \"Sigan\" Dice Mateu_Lahoz W_Anton con una entrada asesina Ha sido un acto frío y deliberado. Indignante Mateu_Lahoz le pide que se acerque Luego que se calme El técnico de Borussia Dortmund no verá la tarjeta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "psg",
+      "text": "O_Dembele en carrera Le hace un túnel a M_Sabitzer Ui, le ha soltado el pie Si lo pilla... F_Nmecha con una entrada desmesurada Mateu_Lahoz le pega una sonora reprimenda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se va a añadir 1 minuto al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "psg",
+      "text": "A_Hakimi para el balón con el pecho Lo pisa, levanta la cabeza y pasa Madre mía, eso es de manual D_Doue recibe un pase medido Ojo que tiene espacio Pero P_Gross lo aparta del balón con el codo. El delantero se queja, el defensa, sonríe",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "psg",
+      "text": "D_Doue busca algún apoyo Ojo Casi pierde el balón en una zona peligrosa Pero consigue meter el pase para Rafael_Leao N_Schlotterbeck llega como un tren y arrolla a delantero y balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "bor",
+      "text": "Peligroso centro de E_Can a S_Guirassy Pero D_Doue está muy metido en el partido y le roba la cartera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "psg",
+      "text": "O_Dembele se cuela por la banda Centra hacia Rafael_Leao E_Can se desliza a ras de suelo con la pierna por delante Sale fuera. Tocó en el delantero... No Córner CÓRNER M_Asensio le de mucho efecto a su lanzamiento G_Reyna cabecea hacia su portero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "bor",
+      "text": "La grada ruge ya que R_Bensebaini substituye a N_Sule para jugar de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "bor",
+      "text": "Jobe_Bellingham está a punto para pisar el césped. Entrará por F_Nmecha Todo apunta a que jugará de MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "psg",
+      "text": "D_Doue se aprovecha de un error de M_Sabitzer ¿Lo aprovechará? W_Anton mete la pierna y manda el balón a córner CÓRNER El lanzamiento va a cargo de N_Mendes G_Kobel sale con valentía y atrapa el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "bor",
+      "text": "G_Reyna aprovecha un fallo defensivo Eso ha sido afortunado G_Reyna le pega con dureza No ha precisado demasiado G_Donnarumma llega con la punta de los dedos al balón y sale rozando el palo Qué gran intervención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "bor",
+      "text": "W_Anton hace un tremendo control al borde del área Pero Vitinha cabecea el balón hacia el portero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "psg",
+      "text": "O_Dembele con un inteligente cambio de dirección O_Dembele empalma con la derecha Fuera Menos fuerza y más puntería chico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "psg",
+      "text": "Cambio Diogo_Costa es el elegido en lugar de G_Donnarumma. El técnico le ordena que juegue de GK",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "psg",
+      "text": "L_HernÃ¡ndez se despoja del chándal. Entrará por M_Asensio y se ubicará de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "psg",
+      "text": "PSG jugará ahora D tras los cambios ordenados por su técnico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "bor",
+      "text": "P_Gross hace una pared con un compañero Se va directo a puerta N_Mendes comete la falta Se ha pasado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "bor",
+      "text": "P_Gross encara al defensa Se va de Marquinhos en velocidad Menudo cambio de ritmo Corte finísimo y preciso de A_Hakimi",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "bor",
+      "text": "M_Sabitzer avanza pegado a la línea de banda Despista al defensa con un gran regate Y la pone en el área por bajo hacia E_Can L_HernÃ¡ndez le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "psg",
+      "text": "N_Mendes hace una pared con un compañero Se va directo a puerta R_Bensebaini con una entrada asesina Le ha pegado con toda la mala leche del mundo Mateu_Lahoz le pega una sonora reprimenda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 93,
+      "teamCode": "bor",
+      "text": "R_Bensebaini se cuela hasta la línea de fondo Centra al segundo palo S_Ozcan entra el remate L_HernÃ¡ndez se anticipa a la jugada y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

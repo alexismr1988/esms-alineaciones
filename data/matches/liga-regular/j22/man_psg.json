@@ -1,0 +1,1299 @@
+{
+  "id": "liga-regular/j22/man_psg",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j22",
+  "roundLabel": "Jornada 22",
+  "fileName": "man_psg.txt",
+  "homeCode": "man",
+  "awayCode": "psg",
+  "homeTeam": "Manchester United",
+  "awayTeam": "PSG",
+  "result": {
+    "home": 1,
+    "away": 1,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Manchester United 1-1 PSG",
+  "formation": {
+    "home": "4-4-2 P",
+    "away": "4-1-2-1-2 E"
+  },
+  "referee": {
+    "name": "Martin Andersson",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "A_Onana",
+        "displayName": "A Onana",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "de_Ligt",
+        "displayName": "de Ligt",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Martinez",
+        "displayName": "L Martinez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Yoro",
+        "displayName": "L Yoro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "H_Maguire",
+        "displayName": "H Maguire",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Casemiro",
+        "displayName": "M Casemiro",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Mount",
+        "displayName": "M Mount",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Ugarte",
+        "displayName": "M Ugarte",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "K_Mainoo",
+        "displayName": "K Mainoo",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Mbeumo",
+        "displayName": "B Mbeumo",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Garnacho",
+        "displayName": "A Garnacho",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Bayindir",
+        "displayName": "A Bayindir",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_Shaw",
+        "displayName": "L Shaw",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Dalot",
+        "displayName": "D Dalot",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "N_Mazraoui",
+        "displayName": "N Mazraoui",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Cunha",
+        "displayName": "M Cunha",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "G_Donnarumma",
+        "displayName": "G Donnarumma",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "A_Hakimi",
+        "displayName": "A Hakimi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Mendes",
+        "displayName": "N Mendes",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Pacho",
+        "displayName": "W Pacho",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "I_Zabarnyi",
+        "displayName": "I Zabarnyi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Neves",
+        "displayName": "J Neves",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "Vitinha",
+        "displayName": "Vitinha",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Asensio",
+        "displayName": "M Asensio",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Doue",
+        "displayName": "D Doue",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "O_Dembele",
+        "displayName": "O Dembele",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Rafael_Leao",
+        "displayName": "Rafael Leao",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Diogo_Costa",
+        "displayName": "Diogo Costa",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Marquinhos",
+        "displayName": "Marquinhos",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Ruiz",
+        "displayName": "F Ruiz",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Nico_Paz",
+        "displayName": "Nico Paz",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Barcola",
+        "displayName": "B Barcola",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Manchester United",
+      "mvp": "B_Mbeumo (Jugador del partido)",
+      "goals": "B_Mbeumo (14)",
+      "sentOff": "N/A",
+      "booked": "K_Mainoo (5)",
+      "injured": "M_Cunha (46)"
+    },
+    {
+      "team": "PSG",
+      "mvp": "D_Doue",
+      "goals": "O_Dembele (9)",
+      "sentOff": "N/A",
+      "booked": "W_Pacho (38), I_Zabarnyi (69)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 14,
+      "away": 19
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 8,
+      "away": 10
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 6,
+      "away": 9
+    },
+    {
+      "label": "Posesión",
+      "home": 47,
+      "away": 53
+    },
+    {
+      "label": "Córners",
+      "home": 4,
+      "away": 1
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Sustituciones",
+      "home": 3,
+      "away": 0
+    },
+    {
+      "label": "Faltas",
+      "home": 6,
+      "away": 8
+    },
+    {
+      "label": "Entradas",
+      "home": 6,
+      "away": 6
+    },
+    {
+      "label": "Pases clave",
+      "home": 9,
+      "away": 11
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Manchester United",
+      "players": [
+        {
+          "name": "A_Onana",
+          "displayName": "A Onana",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 96,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "de_Ligt",
+          "displayName": "de Ligt",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Martinez",
+          "displayName": "L Martinez",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 19,
+          "sh": 7,
+          "ag": 26,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Yoro",
+          "displayName": "L Yoro",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 4,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Maguire",
+          "displayName": "H Maguire",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 4,
+          "ag": 24,
+          "min": 45,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Casemiro",
+          "displayName": "M Casemiro",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 42,
+          "sh": 12,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Mount",
+          "displayName": "M Mount",
+          "position": "MF",
+          "st": 2,
+          "tk": 7,
+          "ps": 39,
+          "sh": 21,
+          "ag": 26,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Ugarte",
+          "displayName": "M Ugarte",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 38,
+          "sh": 8,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Mainoo",
+          "displayName": "K Mainoo",
+          "position": "MF",
+          "st": 2,
+          "tk": 4,
+          "ps": 38,
+          "sh": 19,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "B_Mbeumo",
+          "displayName": "B Mbeumo",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 15,
+          "sh": 41,
+          "ag": 26,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 9,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Garnacho",
+          "displayName": "A Garnacho",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 28,
+          "sh": 40,
+          "ag": 26,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Bayindir",
+          "displayName": "A Bayindir",
+          "position": "GK",
+          "st": 33,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Shaw",
+          "displayName": "L Shaw",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 51,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Dalot",
+          "displayName": "D Dalot",
+          "position": "FW",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 50,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Mazraoui",
+          "displayName": "N Mazraoui",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 27,
+          "sh": 9,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Cunha",
+          "displayName": "M Cunha",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 19,
+          "sh": 40,
+          "ag": 27,
+          "min": 1,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "PSG",
+      "players": [
+        {
+          "name": "G_Donnarumma",
+          "displayName": "G Donnarumma",
+          "position": "GK",
+          "st": 46,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 96,
+          "sav": 7,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Hakimi",
+          "displayName": "A Hakimi",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 27,
+          "sh": 14,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Mendes",
+          "displayName": "N Mendes",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 16,
+          "sh": 12,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Pacho",
+          "displayName": "W Pacho",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 7,
+          "sh": 4,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "I_Zabarnyi",
+          "displayName": "I Zabarnyi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 7,
+          "sh": 4,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "J_Neves",
+          "displayName": "J Neves",
+          "position": "DM",
+          "st": 2,
+          "tk": 24,
+          "ps": 45,
+          "sh": 16,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Vitinha",
+          "displayName": "Vitinha",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 44,
+          "sh": 16,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Asensio",
+          "displayName": "M Asensio",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 33,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Doue",
+          "displayName": "D Doue",
+          "position": "AM",
+          "st": 2,
+          "tk": 16,
+          "ps": 33,
+          "sh": 42,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 5,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Dembele",
+          "displayName": "O Dembele",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 45,
+          "ag": 26,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rafael_Leao",
+          "displayName": "Rafael Leao",
+          "position": "FW",
+          "st": 2,
+          "tk": 18,
+          "ps": 20,
+          "sh": 44,
+          "ag": 11,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Diogo_Costa",
+          "displayName": "Diogo Costa",
+          "position": "GK",
+          "st": 41,
+          "tk": 1,
+          "ps": 1,
+          "sh": 1,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Marquinhos",
+          "displayName": "Marquinhos",
+          "position": "DF",
+          "st": 2,
+          "tk": 45,
+          "ps": 9,
+          "sh": 4,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Ruiz",
+          "displayName": "F Ruiz",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 40,
+          "sh": 16,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Nico_Paz",
+          "displayName": "Nico Paz",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 39,
+          "sh": 21,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Barcola",
+          "displayName": "B Barcola",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 21,
+          "sh": 40,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "man",
+      "text": "K_Mainoo salta sobre la tremenda entrada de Vitinha Se lleva el balón y sigue con la pierna pegada al cuerpo K_Mainoo con un toque sutil ¡El balón va a puerta! El disparo rebota en el defensa y va directo hacía la grada CÓRNER M_Mount saca a la zona de peligro N_Mendes cubre el segundo palo Y evita el remate del delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "man",
+      "text": "M_Casemiro mira a la derecha Y cruza a la izquierda para B_Mbeumo. Eso lo hacía Laudrup Preciso cabezazo de B_Mbeumo G_Donnarumma despeja con problemas",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "psg",
+      "text": "D_Doue ha roto por completo el fuera de juego Encara a A_Onana K_Mainoo lo derriba en el área Ojo que pede irse a la calle por eso Martin_Andersson le hace señas para que se acerque El colegiado lo mira fijamente ay (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "man",
+      "text": "M_Casemiro de tacón para A_Garnacho A_Garnacho salta por encima de la defensa rival y mete la cabeza G_Donnarumma llega con la punta de los dedos al balón Y lo desvía lo suficiente como para que salga por encima CÓRNER H_Maguire acaricia el cuero El centro va directo a las manos de G_Donnarumma",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "psg",
+      "text": "J_Neves hace una pared con un compañero y mete de primeras para D_Doue D_Doue recibe el balón de espaldas Oh Se ha sacado una tijereta Qué agilidad A_Onana ha estado tremendo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "psg",
+      "text": "Vitinha hace una croqueta Evita la dura entrada de H_Maguire. ¡Qué clase! de_Ligt intuye el peligro y corta la acción",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "psg",
+      "text": "O_Dembele controla el balón y encara a H_Maguire. ¡Qué regate! O_Dembele busca la escuadra A_Onana desvía el balón con el guante izquierdo Pero el rebote le cae al delantero GOOOOOL El PSG gana momentáneamente Manchester United 0-1 PSG ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "psg",
+      "text": "Vitinha busca a M_Asensio en profundidad H_Maguire sale al corte Se lleva al oponente por delante El árbitro dice que... sigan",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 13,
+      "teamCode": "man",
+      "text": "M_Casemiro baja el balón con el pecho. Lo pisa... y asiste a A_Garnacho M_Asensio corta la jugada con un cabezazo en plancha",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "man",
+      "text": "B_Mbeumo hace la croqueta ante A_Hakimi El defensa mete la pierna, pero el rebote va a parar al delantero B_Mbeumo trata de ajustar el cuero al palo G_Donnarumma no va a llegar Impacta en la madera GOOOOOL Imparable Este ha sido su gol número 10 de la temporada Manchester United nivela el luminoso Manchester United 1-1 PSG ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "man",
+      "text": "A_Garnacho va directo a puerta N_Mendes corta con claridad Midió a la perfección Su entrenador aplaude",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "man",
+      "text": "B_Mbeumo con un regate eléctrico ante O_Dembele I_Zabarnyi corta la jugada con un cabezazo en plancha",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "psg",
+      "text": "D_Doue hace una vuelta entera pisando el balón y se va solo de cara a puerta Menudo obús de D_Doue Hala Al tercer anfiteatro A_Onana cubre el ángulo Pero el efecto aleja el balón A_Onana mete la mano Gran parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "psg",
+      "text": "Vitinha asiste a J_Neves con espacio por delante J_Neves saca un disparo durísimo desde lejos A_Onana para el balón, que queda muerto A_Onana se levanta rápidamente y para el segundo remate Qué bueno",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "psg",
+      "text": "J_Neves avanza con el balón controlado Ve a un compañero completamente solo Juega el balón hacia él N_Mendes llega al balón N_Mendes se abre un hueco entre la defensa rival y dispara A_Onana resbala Pero el balón se pierde por la línea de fondo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "psg",
+      "text": "A_Hakimi se tira el balón largo ante L_Yoro Se lleva al defensa por velocidad A_Hakimi mete la cabeza con valentía A_Onana para el lanzamiento Y aleja el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "psg",
+      "text": "Vitinha se anticipa a su marcador Le ha ganado la espalda Vitinha recibe el balón de espaldas Oh Se ha sacado una tijereta A_Onana adivina la trayectoria del cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "man",
+      "text": "A_Garnacho se hace con el balón suelto A_Garnacho golpea el balón a bote pronto G_Donnarumma para el balón, que queda muerto G_Donnarumma se levanta rápidamente y para el segundo remate Qué bueno",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "man",
+      "text": "M_Casemiro contral el balón I_Zabarnyi mete la puntera de la bota y aleja el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "man",
+      "text": "A_Garnacho controla el cuero. ¡Uau! Qué detalle Busca el pase Pero rebote en un defensa y lea cae limpia. Se va solo W_Pacho le pone la zancadilla ¡Qué entrada más ruin! Martin_Andersson le hace señas. Esto no pinta bien (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "psg",
+      "text": "I_Zabarnyi avanza de cara a puerta I_Zabarnyi hace un gran control ¡Y dispara! Chuta con muy poca precisión El balón se pierde lejos del marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 4 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "man",
+      "text": "H_Maguire pica el balón por encima de la defensa B_Mbeumo ya había iniciado la diagonal Hacia él va el balón A_Hakimi levanta demasiado la pierna Lo dice en el reglamento: FALTA FALTA DIRECTA Muy lejana, no creo que llegue L_Yoro dispara a puerta B_Mbeumo trata de desviar la trayectoria B_Mbeumo llega forzado al remate G_Donnarumma observa como el balón se va lejos de su marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "man",
+      "text": "M_Cunha está a punto para pisar el césped. Entrará por A_Garnacho Todo apunta a que jugará de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "man",
+      "text": "L_Shaw sustituye a un descontento H_Maguire para jugar de DF",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "man",
+      "text": "M_Cunha hace ostensibles gestos de dolor Trata de seguir... Imposible",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "man",
+      "text": "D_Dalot se despoja del chándal. Entrará por M_Cunha Jugará de FW El entrenador reza para que el cambio de sus frutos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "man",
+      "text": "K_Mainoo con un giro rapidísimo Le enseña el dorsal al defensa I_Zabarnyi salta sobre su oponente y lo derriba Midió mal sus fuerzas Martin_Andersson le da una sonora reprimenda... pero no lo amonesta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "man",
+      "text": "M_Ugarte corre metros La defensa rival se ha despistado, hay hueco Pone un peligroso balón sobre la entrada de de_Ligt de_Ligt chuta Al lateral de la red Parte del estadio cantó gol",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "man",
+      "text": "B_Mbeumo quiebra a W_Pacho con un suave toque hacia el exterior le rompió la cintura B_Mbeumo saca un disparo durísimo desde lejos Bota mal sobre un césped demasiado mojado Pero impacta en el lateral de la red CÓRNER K_Mainoo centra con fuerza al área pequeña Vuela hacia B_Mbeumo se anticipa a su marcador Dispara precipitadamente Fuera No puedo precisar el remate",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "psg",
+      "text": "Rafael_Leao mete el pie Roba el balón Trata de entrar en el área Rafael_Leao impacta el cuero al primer toque Podría haberla parado A_Onana desvía ligeramente el balón Fuera Lo ha logrado ¿Saque de puerta? Vi claramente como la tocaba el cancerbero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "man",
+      "text": "L_Martinez regatea a su marcador Va a disparar No Pasa hacia M_Mount Ha engañado a todos M_Mount se saca una vaselina magistral de la chistera G_Donnarumma para. Le vino directo a las manos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "psg",
+      "text": "D_Doue aguanta el balón Cambia súbitamente hacia Rafael_Leao Rafael_Leao prueba suerte con un disparo raso El disparo coge un efecto envenenado ¡Fuera! Si llega a ir a puerta...",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "psg",
+      "text": "M_Asensio se aprovecha de un error de L_Yoro Ha tenido suerte L_Shaw sale al corte como un búfalo salvaje",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "psg",
+      "text": "A_Hakimi pisa el balón ante M_Ugarte Le suelta el túnel y recibe un agarrón de la camiseta Martin_Andersson da la ley de la ventaja A_Hakimi impacta el cuero al primer toque Podría haberla parado Pero se las arregla para fallar Los aficionados del Manchester United se ríen de él",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "man",
+      "text": "B_Mbeumo está solo. Peligro B_Mbeumo dispara un verdadero obús Los aficionados se levantan de sus asientos Pero el balón se va por encima del larguero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "man",
+      "text": "K_Mainoo hace una inteligente pared con un compañero Le sale al paso un defensa Se va de él y mira la portería I_Zabarnyi suelta una entrada muy bien medida pero Martin_Andersson está cortando demasiado fino hoy. Falta Martin_Andersson lo llama a parte Martin_Andersson le dice que ya le ha advertido suficientes veces (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "man",
+      "text": "L_Martinez con el saque de banda Coge carrerilla Y saca larco hacia B_Mbeumo B_Mbeumo busca la red Remata justo cuando el balón hace un mal bote A las nubes Los aficionados rivales se ríen de él",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "psg",
+      "text": "Rafael_Leao tiene varias opciones de pase, pero busca la individual Rafael_Leao tiene tiempo y espacio Busca la vaselina A_Onana llega con la punta de los dedos al balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "psg",
+      "text": "Vitinha controla en carrera Le hace un sombrero a L_Yoro Vitinha no va a llegar. Sí, mete el pie... Impacta mal al cuero Se pierde inofensivamente por la línea de fondo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "psg",
+      "text": "Vitinha en carrera con su marcador. Mete el hombro Lo aparta del cuero Continúa avanzando Balón para la entrada de D_Doue D_Doue busca el palo largo A_Onana está tapado. No verá el balón Qué reflejos Lo ha atrapado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "psg",
+      "text": "O_Dembele hace una bicicleta M_Casemiro cae al suelo Lo ha ridiculizado de_Ligt pone el pie y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "man",
+      "text": "M_Mount corta el balón con dureza Desde el suelo mete la puntera Y hace llegar el cuero a B_Mbeumo B_Mbeumo trata de sorprender a G_Donnarumma Terrorífico disparo Rebota en el pie del defensa Se aleja del marco Pero el portero no puede evitar el córner CÓRNER L_Martinez con un peligroso lanzamiento al segundo palo G_Donnarumma mete los puños con fuerza y aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "psg",
+      "text": "M_Asensio controla el balón suelto Lo juega hacia Vitinha Vitinha trata de sorprender a A_Onana Se estrella en el palo Y cae directamente a las manos de A_Onana Qué suerte ¿Habrá pisado... ? Es igual",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "psg",
+      "text": "Vitinha acelera por la banda derecha Hace la pared con el delantero Quiebra al lateral O_Dembele se la pide dentro del área Le pone el balón en el pie ¡Qué pase! O_Dembele se escapa ¡Cuidado! Rebota en el palo El rebote le cae en los pies Trata de regatear al portero Se ha enredado con el balón Vaya fallo Su entrenador está dando puñetazos al banquillo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "psg",
+      "text": "D_Doue aguanta el balón Cambia súbitamente hacia J_Neves L_Martinez lee la jugada antes de que se produzca y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "man",
+      "text": "B_Mbeumo recupera el balón suelto O_Dembele se le anticipa y le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 86,
+      "teamCode": "man",
+      "text": "K_Mainoo con un balón a la espalda del lateral L_Shaw corre hacia el cuero Llega antes que el defensa, qué gran esfuerzo N_Mendes pone el pie en el momento oportuno y despeja el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "psg",
+      "text": "M_Asensio encara al defensa Le tira una gambeta Pone el cuerpo para disparar Pero suelta el pase hacia D_Doue Menudo obús de D_Doue Hala Al tercer anfiteatro El disparo rebota en el defensa y va directo hacía la grada CÓRNER M_Asensio cuelga el centro al segundo palo El balón cruza un bosque de piernas y llega a O_Dembele Mete el pie OOOOOOHHHHHHHH A salido lamiendo el palo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 2 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 90,
+      "teamCode": "psg",
+      "text": "M_Asensio pone el balón al hueco D_Doue corre hacia el cuero El defensa resbala en el momento de controlar el balón D_Doue es más rápido que nadie y controla el cuero Está cara a cara con A_Onana Sienta a A_Onana en el suelo con un gran regate GOL ¡NO! A_Onana ha metido la mano en el último momento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "man",
+      "text": "K_Mainoo juega al primer toque para B_Mbeumo B_Mbeumo suelta un chut con un efecto endiablado G_Donnarumma hace una gran parada Pero no puede retener el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "psg",
+      "text": "J_Neves frena el contraataque y espera algún apoyo La doblan por la derecha Y él aprovecha para colarse por la izquierda L_Yoro corta la jugada con un cabezazo en plancha",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

@@ -1,0 +1,1184 @@
+{
+  "id": "liga-regular/j23/int_rma",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j23",
+  "roundLabel": "Jornada 23",
+  "fileName": "int_rma.txt",
+  "homeCode": "int",
+  "awayCode": "rma",
+  "homeTeam": "Inter Milan",
+  "awayTeam": "Real Madrid",
+  "result": {
+    "home": 0,
+    "away": 0,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Inter Milan 0-0 Real Madrid",
+  "formation": {
+    "home": "5-2-3 D",
+    "away": "4-2-1-3 C"
+  },
+  "referee": {
+    "name": "Rafa Guerrero",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "J_Martinez",
+        "displayName": "J Martinez",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "A_Bastoni",
+        "displayName": "A Bastoni",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Y_Bisseck",
+        "displayName": "Y Bisseck",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "S_DeVrij",
+        "displayName": "S DeVrij",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "F_Dimarco",
+        "displayName": "F Dimarco",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Dumfries",
+        "displayName": "D Dumfries",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "H_Calhanoglu",
+        "displayName": "H Calhanoglu",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Fratessi",
+        "displayName": "D Fratessi",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Martinez",
+        "displayName": "L Martinez",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "M_Thuram",
+        "displayName": "M Thuram",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "E_Sebastiano",
+        "displayName": "E Sebastiano",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Y_Sommer",
+        "displayName": "Y Sommer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "T_Palacios",
+        "displayName": "T Palacios",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "C_Augusto",
+        "displayName": "C Augusto",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "P_Zielinski",
+        "displayName": "P Zielinski",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Taremi",
+        "displayName": "M Taremi",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "T_Courtois",
+        "displayName": "T Courtois",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "R_Asencio",
+        "displayName": "R Asencio",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Carreras",
+        "displayName": "J Carreras",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "F_Mendy",
+        "displayName": "F Mendy",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Alaba",
+        "displayName": "D Alaba",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "E_Camavinga",
+        "displayName": "E Camavinga",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Bellingham",
+        "displayName": "J Bellingham",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Diaz",
+        "displayName": "B Diaz",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Mastantuono",
+        "displayName": "Mastantuono",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "Endrick",
+        "displayName": "Endrick",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "V_Junior",
+        "displayName": "V Junior",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Lunin",
+        "displayName": "A Lunin",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "E_Militao",
+        "displayName": "E Militao",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Valverde",
+        "displayName": "F Valverde",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_Mbappe",
+        "displayName": "K Mbappe",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Rodrygo",
+        "displayName": "Rodrygo",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Inter Milan",
+      "mvp": "A_Bastoni (Jugador del partido)",
+      "goals": "N/A",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "L_Martinez (86)"
+    },
+    {
+      "team": "Real Madrid",
+      "mvp": "T_Courtois",
+      "goals": "N/A",
+      "sentOff": "J_Carreras (31)",
+      "booked": "V_Junior (4), B_Diaz (64)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 9,
+      "away": 2
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 4,
+      "away": 2
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 5,
+      "away": 0
+    },
+    {
+      "label": "Posesión",
+      "home": 63,
+      "away": 37
+    },
+    {
+      "label": "Córners",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 1
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 0,
+      "away": 3
+    },
+    {
+      "label": "Sustituciones",
+      "home": 3,
+      "away": 0
+    },
+    {
+      "label": "Faltas",
+      "home": 5,
+      "away": 10
+    },
+    {
+      "label": "Entradas",
+      "home": 8,
+      "away": 6
+    },
+    {
+      "label": "Pases clave",
+      "home": 9,
+      "away": 8
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Inter Milan",
+      "players": [
+        {
+          "name": "J_Martinez",
+          "displayName": "J Martinez",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 21,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Bastoni",
+          "displayName": "A Bastoni",
+          "position": "DF",
+          "st": 2,
+          "tk": 45,
+          "ps": 16,
+          "sh": 4,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Bisseck",
+          "displayName": "Y Bisseck",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 4,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_DeVrij",
+          "displayName": "S DeVrij",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 4,
+          "ag": 21,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Dimarco",
+          "displayName": "F Dimarco",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 36,
+          "sh": 14,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Dumfries",
+          "displayName": "D Dumfries",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 31,
+          "sh": 16,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Calhanoglu",
+          "displayName": "H Calhanoglu",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 40,
+          "sh": 19,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Fratessi",
+          "displayName": "D Fratessi",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 21,
+          "ag": 24,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Martinez",
+          "displayName": "L Martinez",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 26,
+          "sh": 44,
+          "ag": 26,
+          "min": 89,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Thuram",
+          "displayName": "M Thuram",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 40,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Sebastiano",
+          "displayName": "E Sebastiano",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 24,
+          "sh": 36,
+          "ag": 22,
+          "min": 58,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Sommer",
+          "displayName": "Y Sommer",
+          "position": "GK",
+          "st": 35,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Palacios",
+          "displayName": "T Palacios",
+          "position": "DF",
+          "st": 2,
+          "tk": 31,
+          "ps": 16,
+          "sh": 7,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Augusto",
+          "displayName": "C Augusto",
+          "position": "FW",
+          "st": 2,
+          "tk": 31,
+          "ps": 32,
+          "sh": 14,
+          "ag": 23,
+          "min": 7,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Zielinski",
+          "displayName": "P Zielinski",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 9,
+          "ag": 23,
+          "min": 51,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Taremi",
+          "displayName": "M Taremi",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 26,
+          "sh": 35,
+          "ag": 21,
+          "min": 38,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Real Madrid",
+      "players": [
+        {
+          "name": "T_Courtois",
+          "displayName": "T Courtois",
+          "position": "GK",
+          "st": 45,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 96,
+          "sav": 5,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Asencio",
+          "displayName": "R Asencio",
+          "position": "DF",
+          "st": 2,
+          "tk": 32,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Carreras",
+          "displayName": "J Carreras",
+          "position": "DF",
+          "st": 2,
+          "tk": 37,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 31,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "F_Mendy",
+          "displayName": "F Mendy",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Alaba",
+          "displayName": "D Alaba",
+          "position": "DF",
+          "st": 2,
+          "tk": 32,
+          "ps": 14,
+          "sh": 4,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Camavinga",
+          "displayName": "E Camavinga",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 14,
+          "ag": 26,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Bellingham",
+          "displayName": "J Bellingham",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 24,
+          "ag": 28,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Diaz",
+          "displayName": "B Diaz",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 21,
+          "sh": 35,
+          "ag": 26,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Mastantuono",
+          "displayName": "Mastantuono",
+          "position": "AM",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 34,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Endrick",
+          "displayName": "Endrick",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 16,
+          "sh": 37,
+          "ag": 26,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Junior",
+          "displayName": "V Junior",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 23,
+          "sh": 45,
+          "ag": 30,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "A_Lunin",
+          "displayName": "A Lunin",
+          "position": "GK",
+          "st": 37,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Militao",
+          "displayName": "E Militao",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 12,
+          "sh": 4,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Valverde",
+          "displayName": "F Valverde",
+          "position": "MF",
+          "st": 2,
+          "tk": 27,
+          "ps": 43,
+          "sh": 16,
+          "ag": 27,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Mbappe",
+          "displayName": "K Mbappe",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 49,
+          "ag": 30,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rodrygo",
+          "displayName": "Rodrygo",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 40,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "int",
+      "text": "H_Calhanoglu golpea el balón al hueco. L_Martinez aparece de la nada V_Junior salta de cabeza con su rival Falta, lo ha empujado antes del salto (AMARILLA), una más... y fuera",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "int",
+      "text": "A_Bastoni avanza pegado a la línea de banda Despista al defensa con un gran regate Y la pone en el área por bajo hacia H_Calhanoglu J_Carreras placa a su oponente \"FUERA, FUERA, FUERA\" ruge el estadio El colegiado le muestra la cartulina (AMARILLA) Chico, frena que te vas a la calle",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "int",
+      "text": "L_Martinez mira a la derecha Y cruza a la izquierda para E_Sebastiano. Eso lo hacía Laudrup F_Mendy corta la jugada con un cabezazo en plancha",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "int",
+      "text": "L_Martinez está cerrado por tres contrarios Pisa el balón dos veces y los deja sentados ¡OH! ¡Qué calse! Ahora mete el pase a E_Sebastiano E_Sebastiano golpea el balón a bote pronto T_Courtois se zambulle espectacularmente hacia su izquierda Qué paradón Se le ha aparecido la vírgen",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "rma",
+      "text": "J_Bellingham pide desesperado un apoyo No aparece nadie Está rodeado Abre hacia el extremo V_Junior controla el cuero A_Bastoni pone el pie y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "int",
+      "text": "M_Thuram se tira el balón largo ante D_Alaba Se lleva al defensa por velocidad R_Asencio sega el césped con una entrada terrorífica El delantero evita a su rival, pero pierde el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "rma",
+      "text": "V_Junior tira hacia arriba H_Calhanoglu placa a su oponente Rafa_Guerrero le hace señas de que se acerque",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "int",
+      "text": "M_Thuram supera a F_Mendy Este defensa es un tronco No tiene cintura J_Carreras se desliza e impacta violentamente en su oponente Le ha pegado con toda la mala leche del mundo (ROJA) Se ha pasado dos pueblos",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 33,
+      "teamCode": "rma",
+      "text": "J_Bellingham pone el balón al hueco V_Junior corre hacia el cuero Y_Bisseck arriesga con una entrada a ras de suelo ¡OOOHHHH! El balón le queda rebotado al delantero Pero mete el pie de nuevo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "int",
+      "text": "H_Calhanoglu encuentra el pasadizo Por ahí no pasaba ni un alfiler H_Calhanoglu remacha el balón a ras de suelo Se estrella en el larguero Controla el rebote con el pecho OHHHHHHHH Un defensa ha estado más rápido y ha enviado el balón fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "int",
+      "text": "E_Sebastiano supera a E_Camavinga Este defensa es un tronco No tiene cintura E_Sebastiano prueba suerte El disparo rebota en el defensa y va directo hacía la grada CÓRNER D_Fratessi con un peligroso lanzamiento al segundo palo R_Asencio controla el balón tras varios rebotes Sale jugando por bajo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "rma",
+      "text": "Mastantuono dispara en carrera Hay un rebote le cae a Endrick El lanzamiento rebota en el muslo de Endrick y se encamina a puerta El balón le bota antes de disparar Y se va a la grada. Hay risas en algunos sectores del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "int",
+      "text": "P_Zielinski va a tener su oportunidad en este partido D_Fratessi deja el terreno de juego con cara de pocos amigos Su sustituto jugará de MF",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "rma",
+      "text": "J_Bellingham controla el balón suelto Lo juega hacia B_Diaz B_Diaz toca el balón con mucha sutileza Pero se las arregla para fallar Los aficionados del Inter Milan se ríen de él",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "int",
+      "text": "M_Thuram en el centro del campo Cruza hacia S_DeVrij D_Alaba se lanza hacia su oponente Y toca el balón Que clase",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "rma",
+      "text": "Mastantuono llega primero al balón suelto Pero P_Zielinski aparece de la nada y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "int",
+      "text": "L_Martinez va en carrera L_Martinez le da mucho efecto a su disparo Pero T_Courtois alcanza el cuero con el puño Es el amo de su área. Buen portero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "int",
+      "text": "H_Calhanoglu recupera el cuero H_Calhanoglu le pega 'mordida' El balón va haciendo extraños en el aire Al palo y fuera Bueno, a veces entra, a veces no...",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "int",
+      "text": "Y_Bisseck pasa hacia L_Martinez V_Junior chuta el cuero con fuerza hacia la grada Ui Los ha cabreado Le tiran de todo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "rma",
+      "text": "J_Bellingham en carrera con su marcador. Mete el hombro Lo aparta del cuero Continúa avanzando Balón para la entrada de V_Junior A_Bastoni arriesgo con una entrada a ras de suelo Ay Le ha dado El árbitro no lo ha visto así",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "int",
+      "text": "M_Taremi se despoja del chándal. Entrará por E_Sebastiano Jugará de FW El entrenador reza para que el cambio de sus frutos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "int",
+      "text": "El defensa hace un mal control L_Martinez está atento. Roba el cuero y prepara el disparo El balón golpea a F_Mendy en la cara Peligro despejado Al defensa no le hace ninguna gracia",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "int",
+      "text": "M_Thuram se aprovecha un horrible pase hacia atrás M_Thuram remata forzado... con la cabeza Bota en la línea tras golpear en el travesaño El colegiado duda... mira al asistente ¡Sigan! Dice No ha dado el gol Pues parecía que había cruzado la línea",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "int",
+      "text": "L_Martinez se aprovecha de un error de F_Mendy Corre hacia el marco B_Diaz realiza una entrada terrorífica Toma Eso ha sido muy feo Rafa_Guerrero le indica que se gire ¿Será tarjeta, pero tendrá valor para expulsarlo? ¡NO! (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "rma",
+      "text": "E_Camavinga Con un pase demasiado fuerte. Endrick va a llegar Pero S_DeVrij conjura el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "int",
+      "text": "M_Thuram orienta su control Pisa área y tiene hueco D_Alaba se lleva el balón con la mano No hay falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "int",
+      "text": "M_Taremi envía un pase desde su propio campo hacia A_Bastoni A_Bastoni peina el balón hacia atrás T_Courtois vuela sobre la línea de gol Y atrapa el cuero ¡Uau!, fue digno de la Araña Negra",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "rma",
+      "text": "Mastantuono va directo a puerta Pero S_DeVrij cuelga el balón a la grada Z",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "int",
+      "text": "L_Martinez controla el balón suelto Lo juega hacia M_Thuram M_Thuram se levanta sobre su marcador, carga el cabezazo, lo suelta... ¡Peligro! El balón busca el ángulo Peligro T_Courtois salta con agilidad ¿Llegará a tiempo? T_Courtois detiene el remate con estilo Su técnico aplaude",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "rma",
+      "text": "Endrick con un pase de 50 metros B_Diaz P_Zielinski se juega el físico con una entrada durísima. Era su única opción",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 86,
+      "teamCode": "int",
+      "text": "P_Zielinski inicia el contraataque Sale rápidamente Y envía un gran pase con la defensa descolocada. M_Thuram recibe solo M_Thuram empalma con la derecha T_Courtois flota sobre la línea de meta Mete la mano ¿Córner? No se equivocó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 86,
+      "teamCode": "int",
+      "text": "L_Martinez trata de levantarse tras la entrada Imposible Se ha hecho daño",
+      "type": "injury"
+    },
+    {
+      "kind": "event",
+      "minute": 86,
+      "teamCode": "int",
+      "text": "C_Augusto sustituye a L_Martinez en la posición de FW",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "rma",
+      "text": "E_Camavinga ve el desmarque de Endrick Pero A_Bastoni roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

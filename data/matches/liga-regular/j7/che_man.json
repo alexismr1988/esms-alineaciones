@@ -1,0 +1,1296 @@
+{
+  "id": "liga-regular/j7/che_man",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j7",
+  "roundLabel": "Jornada 7",
+  "fileName": "che_man.txt",
+  "homeCode": "che",
+  "awayCode": "man",
+  "homeTeam": "Chelsea",
+  "awayTeam": "Manchester United",
+  "result": {
+    "home": 2,
+    "away": 2,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Chelsea 0-1 Manchester United",
+  "formation": {
+    "home": "3-2-2-1-2 P",
+    "away": "3-5-2 P"
+  },
+  "referee": {
+    "name": "Cuneyt Cakir",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "R_Sanchez",
+        "displayName": "R Sanchez",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "Colwill",
+        "displayName": "Colwill",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Badiashile",
+        "displayName": "B Badiashile",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Adarabioyo",
+        "displayName": "Adarabioyo",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Lavia",
+        "displayName": "R Lavia",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "M_Caicedo",
+        "displayName": "M Caicedo",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "D_Olmo",
+        "displayName": "D Olmo",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "C_Palmer",
+        "displayName": "C Palmer",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "P_Neto",
+        "displayName": "P Neto",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "Nico_Williams",
+        "displayName": "Nico Williams",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Raphinha",
+        "displayName": "Raphinha",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "G_Slonina",
+        "displayName": "G Slonina",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Reece_James",
+        "displayName": "Reece James",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Cucurella",
+        "displayName": "M Cucurella",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "C_Nkunku",
+        "displayName": "C Nkunku",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "N_Jackson",
+        "displayName": "N Jackson",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "A_Onana",
+        "displayName": "A Onana",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "de_Ligt",
+        "displayName": "de Ligt",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Martinez",
+        "displayName": "L Martinez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Yoro",
+        "displayName": "L Yoro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Fernandes",
+        "displayName": "B Fernandes",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Casemiro",
+        "displayName": "M Casemiro",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Mount",
+        "displayName": "M Mount",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Ugarte",
+        "displayName": "M Ugarte",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Shaw",
+        "displayName": "L Shaw",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Mbeumo",
+        "displayName": "B Mbeumo",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Garnacho",
+        "displayName": "A Garnacho",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Bayindir",
+        "displayName": "A Bayindir",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "H_Maguire",
+        "displayName": "H Maguire",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Dalot",
+        "displayName": "D Dalot",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "N_Mazraoui",
+        "displayName": "N Mazraoui",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Cunha",
+        "displayName": "M Cunha",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Chelsea",
+      "mvp": "P_Neto (Jugador del partido)",
+      "goals": "M_Caicedo (49), P_Neto (68)",
+      "sentOff": "C_Nkunku (77)",
+      "booked": "Adarabioyo (17)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Manchester United",
+      "mvp": "B_Mbeumo",
+      "goals": "de_Ligt (8), N_Mazraoui (73)",
+      "sentOff": "N/A",
+      "booked": "L_Yoro (10), A_Garnacho (31)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 16,
+      "away": 14
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 7,
+      "away": 5
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 9,
+      "away": 9
+    },
+    {
+      "label": "Posesión",
+      "home": 49,
+      "away": 51
+    },
+    {
+      "label": "Córners",
+      "home": 3,
+      "away": 4
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 6,
+      "away": 9
+    },
+    {
+      "label": "Entradas",
+      "home": 3,
+      "away": 11
+    },
+    {
+      "label": "Pases clave",
+      "home": 16,
+      "away": 10
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Chelsea",
+      "players": [
+        {
+          "name": "R_Sanchez",
+          "displayName": "R Sanchez",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 19,
+          "min": 94,
+          "sav": 9,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Colwill",
+          "displayName": "Colwill",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 17,
+          "sh": 7,
+          "ag": 18,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Badiashile",
+          "displayName": "B Badiashile",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 7,
+          "ag": 21,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Adarabioyo",
+          "displayName": "Adarabioyo",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 8,
+          "sh": 7,
+          "ag": 21,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "R_Lavia",
+          "displayName": "R Lavia",
+          "position": "DM",
+          "st": 2,
+          "tk": 28,
+          "ps": 39,
+          "sh": 14,
+          "ag": 20,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Caicedo",
+          "displayName": "M Caicedo",
+          "position": "DM",
+          "st": 2,
+          "tk": 31,
+          "ps": 43,
+          "sh": 16,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Olmo",
+          "displayName": "D Olmo",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 19,
+          "ag": 26,
+          "min": 71,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Palmer",
+          "displayName": "C Palmer",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 44,
+          "sh": 33,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Neto",
+          "displayName": "P Neto",
+          "position": "AM",
+          "st": 2,
+          "tk": 19,
+          "ps": 22,
+          "sh": 39,
+          "ag": 21,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 6,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Nico_Williams",
+          "displayName": "Nico Williams",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 18,
+          "sh": 42,
+          "ag": 20,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Raphinha",
+          "displayName": "Raphinha",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 21,
+          "sh": 40,
+          "ag": 28,
+          "min": 52,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Slonina",
+          "displayName": "G Slonina",
+          "position": "GK",
+          "st": 25,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 17,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Reece_James",
+          "displayName": "Reece James",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 17,
+          "sh": 7,
+          "ag": 18,
+          "min": 23,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Cucurella",
+          "displayName": "M Cucurella",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 18,
+          "sh": 21,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Nkunku",
+          "displayName": "C Nkunku",
+          "position": "FW",
+          "st": 2,
+          "tk": 19,
+          "ps": 13,
+          "sh": 41,
+          "ag": 21,
+          "min": 27,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "N_Jackson",
+          "displayName": "N Jackson",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 14,
+          "sh": 39,
+          "ag": 17,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Manchester United",
+      "players": [
+        {
+          "name": "A_Onana",
+          "displayName": "A Onana",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 94,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "de_Ligt",
+          "displayName": "de Ligt",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Martinez",
+          "displayName": "L Martinez",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 19,
+          "sh": 7,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Yoro",
+          "displayName": "L Yoro",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 4,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "B_Fernandes",
+          "displayName": "B Fernandes",
+          "position": "MF",
+          "st": 2,
+          "tk": 9,
+          "ps": 43,
+          "sh": 26,
+          "ag": 27,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Casemiro",
+          "displayName": "M Casemiro",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 42,
+          "sh": 12,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Mount",
+          "displayName": "M Mount",
+          "position": "MF",
+          "st": 2,
+          "tk": 7,
+          "ps": 39,
+          "sh": 21,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Ugarte",
+          "displayName": "M Ugarte",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 38,
+          "sh": 8,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Shaw",
+          "displayName": "L Shaw",
+          "position": "MF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 57,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Mbeumo",
+          "displayName": "B Mbeumo",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 15,
+          "sh": 41,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 5,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Garnacho",
+          "displayName": "A Garnacho",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 28,
+          "sh": 40,
+          "ag": 26,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "A_Bayindir",
+          "displayName": "A Bayindir",
+          "position": "GK",
+          "st": 33,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Maguire",
+          "displayName": "H Maguire",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 4,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Dalot",
+          "displayName": "D Dalot",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Mazraoui",
+          "displayName": "N Mazraoui",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 27,
+          "sh": 9,
+          "ag": 25,
+          "min": 37,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Cunha",
+          "displayName": "M Cunha",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 19,
+          "sh": 40,
+          "ag": 27,
+          "min": 49,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "che",
+      "text": "P_Neto se va de L_Yoro Lo ha dejado sentado Pero de_Ligt roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "che",
+      "text": "M_Caicedo inicia el contraataque Sale rápidamente Y envía un gran pase con la defensa descolocada. C_Palmer recibe solo Pero B_Mbeumo está más atento y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "che",
+      "text": "C_Palmer hace la diagonal Ve un desmarque por el rabillo del ojo Se la pasa a Raphinha B_Mbeumo corta con claridad Midió a la perfección Su entrenador aplaude",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "man",
+      "text": "de_Ligt salta sobre la tremenda entrada de P_Neto de_Ligt busca el palo largo del portero GOOOOOL ¡Qué golazo! Es para hacerle un monumento El Manchester United golpea. Ahora manda en el marcador Chelsea 0-1 Manchester United ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "che",
+      "text": "Al técnico del Chelsea no lo debe gustar lo que está viendo. Su equipo jugará ahora A",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "che",
+      "text": "Nico_Williams controla en carrera Le hace un sombrero a M_Ugarte Nico_Williams empalma con la zurda. Colocó mal el cuerpo El disparo rebota en el defensa y va directo hacía la grada CÓRNER R_Lavia cuelga el centro al segundo palo Raphinha entra con todo Bota mal sobre un césped demasiado mojado A_Onana trata de reaccionar Se va a centímetros del palo CÓRNER C_Palmer centra hacia el área P_Neto al primer toque A_Onana salta de manera espectacular Y atrapa el balón Se ha adornado para la foto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "che",
+      "text": "C_Palmer supera a L_Yoro Lleva loco a su marcador oooooh Que entrada más dura de L_Yoro No hay espacio en TSM para este tipo de acciones Tengo mis dudas que eso sea tarjeta SÍ (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "che",
+      "text": "R_Lavia hace una doble pared con Raphinha Punterazo endiablado de Raphinha A_Onana mete la mano y alcanza el balón con la punta de los dedos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "che",
+      "text": "Raphinha cambia el juego hacia C_Palmer L_Yoro zancadillea a su oponente El árbitro se da la vuelta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "man",
+      "text": "A_Garnacho salta sobre la tremenda entrada de Adarabioyo Adarabioyo salta de cabeza con su rival Falta, le ha impedido saltar Se lleva una (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "man",
+      "text": "A_Garnacho cruza para L_Shaw Pero R_Lavia conjura el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "che",
+      "text": "P_Neto controla el cuero. ¡Uau! Qué detalle Busca el pase Pero rebote en un defensa y lea cae limpia. Se va solo P_Neto tiene tiempo y espacio ¡Dispara por bajo! A_Onana lo atrapa fácilmente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "man",
+      "text": "L_Martinez inicia el ataque Pase picado por B_Fernandes B_Fernandes impacta el cuero con fuerza Sitúa el balón suavemente lejos del alcance del portero Pero va a parar al larguero Y fuera R_Sanchez acaricia su portería. No me extraña",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "che",
+      "text": "D_Olmo envía largo para Nico_Williams Nico_Williams tiene tiempo y espacio Chuta Pega en la espalda de un defensa A_Onana ha quedado descolocado Sale rozando el palo Uy CÓRNER P_Neto saca al primer palo A_Onana se eleva entre los contrarios y caza el centro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "che",
+      "text": "R_Lavia pica el balón por encima de los centrales P_Neto aparece de la nada. Los ha pillado despistados A_Garnacho se lleva bien el balón Cuneyt_Cakir pita falta ¡Bufff!, no vale ni para la Segunda B (AMARILLA) Se la estaba buscando Y más le valdrá que se calme FALTA INDIRECTA Nico_Williams pasa para C_Palmer C_Palmer remata con los ojos cerrados A_Onana se las apaña para meter los guantes",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 33,
+      "teamCode": "man",
+      "text": "M_Casemiro cuelga arriba sobre M_Mount M_Mount empalma con la zurda. Colocó mal el cuerpo Pero dispara muy abierto ¿Sabrá que el objetivo del fútbol es meter el balón en la portería?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "che",
+      "text": "Nico_Williams cambia el juego Raphinha recibe con campo por delante Pero L_Shaw aparece de la nada y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "man",
+      "text": "M_Casemiro está cerrado por tres contrarios Pisa el balón dos veces y los deja sentados ¡OH! ¡Qué calse! Ahora mete el pase a B_Fernandes B_Fernandes con un sorprendente remate Rebota en las piernas de un defensa Despejó el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "man",
+      "text": "A_Garnacho cambia el juego hacia B_Mbeumo B_Mbeumo dispara un verdadero obús R_Sanchez controla perfectamente la trayectoria del balón Y lo atrapa sin dificultades CÓRNER L_Yoro acaricia el cuero R_Sanchez mete los puños con fuerza y aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "man",
+      "text": "L_Shaw pasa el balón a B_Mbeumo B_Mbeumo solo tiene una cosa en la cabeza: el GOL ¡Suelta un potente latigazo! R_Sanchez adivina la trayectoria del cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "man",
+      "text": "M_Cunha reemplaza a A_Garnacho para colocarse de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "che",
+      "text": "B_Badiashile está cerrado por tres contrarios Pisa el balón dos veces y los deja sentados ¡OH! ¡Qué calse! Ahora mete el pase a Nico_Williams de_Ligt levanta al delantero dos metros del suelo ¡Ay va! Qué entrada El colegiado se acerca corriendo Y le dice al delantero que no haga cuento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "che",
+      "text": "M_Caicedo pide desesperado un apoyo No aparece nadie Está rodeado Abre hacia el extremo R_Lavia controla el cuero Pero M_Casemiro se anticipa a la jugada. Qué sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "che",
+      "text": "Nico_Williams de tacón para P_Neto P_Neto busca el disparo Al lateral de la red",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "man",
+      "text": "M_Ugarte pasa de rabona hacia M_Cunha. Madre mía ¿Ha nacido en Brasil? M_Cunha busca el palo por bajo R_Sanchez está tapado. No verá el balón Qué reflejos Lo ha atrapado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "che",
+      "text": "Nico_Williams pisa el balón ante M_Mount Se lo enseña, se lo esconde, otra vez... lo va a marear Nico_Williams mira fijamente al portero Dispara entre las piernas de su marcador A_Onana palmea a córner Cuneyt_Cakir pita saque de puerta Increíble",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "che",
+      "text": "Colwill cambia el juego hacia M_Caicedo M_Caicedo busca una vaselina imposible El balón vuela como un obús hacia la portería A_Onana reacciona con rapidez ¿Llegará a desviar el envenenado disparo? No, está vendido GOOOOOL A_Onana descarga su frustración pateando el palo Todo está por decidir, todavía Chelsea 1-1 Manchester United ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "che",
+      "text": "Los aficionados rugen cuando C_Nkunku substituye a Raphinha para jugar de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "che",
+      "text": "El entrenador del Chelsea grita desesperadamente a sus jugadores que pasen a C. Qué nervios",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "che",
+      "text": "R_Lavia controla el cuero con calidad Mete un pase al centro D_Olmo es el destinatario L_Martinez arriesga con una entrada a ras de suelo ¡OOOHHHH! El balón le queda rebotado al delantero Pero mete el pie de nuevo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "man",
+      "text": "B_Mbeumo lleva el balón hacia arriba B_Mbeumo mete la cabeza segundos antes que su marcador Los aficionados se levantan de sus asientos R_Sanchez vuela y bloca el cuero Grande chico, grande",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "che",
+      "text": "C_Palmer baja el balón con un cabezazo hacia Nico_Williams Nico_Williams le pega con dureza No ha precisado demasiado A_Onana se queda parado. El balón iba lejos del marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "man",
+      "text": "N_Mazraoui va a entrar por L_Shaw. Apostaría a que juega de MF. Sí",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "man",
+      "text": "N_Mazraoui lanza el contraataque Hace una pausa esperando apoyos B_Mbeumo lo dobla recibe el pase R_Lavia se interpone entre el delantero y el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "man",
+      "text": "L_Yoro cojea visiblemente Pero parece que es momentáneo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "che",
+      "text": "C_Palmer con un control impresionante Hace la croqueta ante M_Ugarte Y centra hacia P_Neto. ¡Qué clase! P_Neto completamente solo. Encara a A_Onana Regatea a A_Onana con mucha clase Está escorado, pero chuta Al palo A_Onana corre y atrapa el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "man",
+      "text": "M_Mount espera algún apoyo Ve un desmarque en la otra banda Cambia el juego hacia esa banda Y busca el desmarque en el centro Corte finísimo y preciso de C_Nkunku",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "man",
+      "text": "B_Mbeumo hace una rapidísima bicicleta El defensa no sabe si está en el Tour o en el campo B_Mbeumo con la red entre ceja y ceja Qué agilidad R_Sanchez ha estado tremendo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "che",
+      "text": "P_Neto con un regate a lo Romario Oh la la ¡Puede marcar! P_Neto se deshace de su marcador Buen movimiento ¡Y dispara! El balón se le escurre a A_Onana de las manos GOOOOOL Menudo error El Chelsea golpea. Ahora manda en el marcador Chelsea 2-1 Manchester United ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "che",
+      "text": "Reece_James está a punto para pisar el césped. Entrará por D_Olmo Todo apunta a que jugará de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "man",
+      "text": "M_Mount Con un pase demasiado fuerte. N_Mazraoui va a llegar N_Mazraoui chuta sin mirar al portero Pega en la madera Y en la espalda de R_Sanchez GOOOOOL Los jugadores del Chelsea miran desolados a su portero Manchester United ha empatado Chelsea 2-2 Manchester United ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "che",
+      "text": "Nico_Williams estira la pierna para llegar al pase L_Martinez corta con claridad Midió a la perfección Su entrenador aplaude",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "che",
+      "text": "M_Caicedo desliza el balón entre las piernas del defensa M_Caicedo cruza la línea de medios, avanza, mira al portero y chuta El balón le bota antes de disparar Y se va a la grada. Hay risas en algunos sectores del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "che",
+      "text": "B_Badiashile combina con C_Nkunku. Le ha metido un buen balón picado Pero M_Ugarte aparece desde atrás y corta el balón El público ruge pidiendo falta. Cuneyt_Cakir se hace el sueco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "man",
+      "text": "M_Cunha ha roto por completo el fuera de juego Encara a R_Sanchez C_Nkunku lo derriba en el área (ROJA) Cuneyt_Cakir lo ha expulsado Menudo cabreo ha pillado su entrenador",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "che",
+      "text": "Nico_Williams con el regate Se cuela en el área M_Casemiro lee la jugada antes de que se produzca y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "man",
+      "text": "M_Ugarte espera algún apoyo Ve un desmarque en la otra banda Cambia el juego hacia esa banda Y busca el desmarque en el centro M_Ugarte mete el interior del pie con mucha intención Pega en la espalda de un defensa R_Sanchez ha quedado descolocado Sale rozando el palo Uy CÓRNER B_Fernandes acaricia el cuero M_Cunha dispara R_Sanchez se zambulle hacia su izquierda Sale rozando el palo Cuneyt_Cakir dice que no ha tocado el balón Acertó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "che",
+      "text": "M_Caicedo controla un balón complicadísimo Levanta la cabeza y busca el pase Pero se decide por la jugada individual M_Caicedo busca el palo largo del portero OOOOHHHHH Increible Se ha ido fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 2 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "man",
+      "text": "B_Fernandes regatea a su marcador Va a disparar No Pasa hacia M_Mount Ha engañado a todos M_Mount recibe el balón de espaldas Oh Se ha sacado una tijereta R_Sanchez la desvía a centímetros del palo Muy buena parada CÓRNER M_Ugarte saca a la zona de peligro B_Mbeumo llega al centro Bota mal sobre un césped demasiado mojado Pero impacta en el lateral de la red CÓRNER B_Mbeumo cuelga el centro al segundo palo El centro va directo a las manos de R_Sanchez",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "che",
+      "text": "Reece_James ubica el balón a la espalda de la defensa. P_Neto busca el desmarque P_Neto coloca el balón al palo largo A_Onana mete la mano y alcanza el balón con la punta de los dedos",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

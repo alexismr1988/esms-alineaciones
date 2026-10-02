@@ -1,0 +1,1289 @@
+{
+  "id": "liga-regular/j10/tot_bay",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j10",
+  "roundLabel": "Jornada 10",
+  "fileName": "tot_bay.txt",
+  "homeCode": "tot",
+  "awayCode": "bay",
+  "homeTeam": "Tottenham",
+  "awayTeam": "Bayern Munich",
+  "result": {
+    "home": 2,
+    "away": 2,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Tottenham 1-1 Bayern Munich",
+  "formation": {
+    "home": "4-4-2 A",
+    "away": "4-3-1-2 N"
+  },
+  "referee": {
+    "name": "Enriquez Negreira",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "G_Vicario",
+        "displayName": "G Vicario",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "P_Porro",
+        "displayName": "P Porro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_VandeVen",
+        "displayName": "M VandeVen",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "K_Danso",
+        "displayName": "K Danso",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Udogie",
+        "displayName": "D Udogie",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Maddison",
+        "displayName": "J Maddison",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "R_Bentancur",
+        "displayName": "R Bentancur",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Gray",
+        "displayName": "A Gray",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Y_Bissouma",
+        "displayName": "Y Bissouma",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Johnson",
+        "displayName": "B Johnson",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Richarlison",
+        "displayName": "Richarlison",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Kinsky",
+        "displayName": "A Kinsky",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Davies",
+        "displayName": "B Davies",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Spence",
+        "displayName": "D Spence",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_Bergvall",
+        "displayName": "L Bergvall",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Solanke",
+        "displayName": "D Solanke",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "M_Neuer",
+        "displayName": "M Neuer",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "S_Boey",
+        "displayName": "S Boey",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Davies",
+        "displayName": "A Davies",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "H_Ito",
+        "displayName": "H Ito",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Tah",
+        "displayName": "J Tah",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Pavlovic",
+        "displayName": "A Pavlovic",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Musiala",
+        "displayName": "J Musiala",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Xavi_Simmons",
+        "displayName": "Xavi Simmons",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Olise",
+        "displayName": "M Olise",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "K_DeBruyne",
+        "displayName": "K DeBruyne",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "L_Diaz",
+        "displayName": "L Diaz",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Urbig",
+        "displayName": "J Urbig",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "R_Guerreiro",
+        "displayName": "R Guerreiro",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_Laimer",
+        "displayName": "K Laimer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Kimmich",
+        "displayName": "J Kimmich",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "H_Kane",
+        "displayName": "H Kane",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Tottenham",
+      "mvp": "B_Johnson",
+      "goals": "B_Johnson (42,84)",
+      "sentOff": "N/A",
+      "booked": "L_Bergvall (83), D_Solanke (91)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Bayern Munich",
+      "mvp": "M_Olise (Jugador del partido)",
+      "goals": "M_Olise (16), L_Diaz (48)",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 13,
+      "away": 20
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 5,
+      "away": 6
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 8,
+      "away": 14
+    },
+    {
+      "label": "Posesión",
+      "home": 36,
+      "away": 64
+    },
+    {
+      "label": "Córners",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 2,
+      "away": 0
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Faltas",
+      "home": 12,
+      "away": 9
+    },
+    {
+      "label": "Entradas",
+      "home": 1,
+      "away": 8
+    },
+    {
+      "label": "Pases clave",
+      "home": 12,
+      "away": 12
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Tottenham",
+      "players": [
+        {
+          "name": "G_Vicario",
+          "displayName": "G Vicario",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 95,
+          "sav": 12,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Porro",
+          "displayName": "P Porro",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 28,
+          "sh": 14,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_VandeVen",
+          "displayName": "M VandeVen",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 4,
+          "sh": 7,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Danso",
+          "displayName": "K Danso",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 5,
+          "sh": 7,
+          "ag": 21,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Udogie",
+          "displayName": "D Udogie",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 18,
+          "sh": 12,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Maddison",
+          "displayName": "J Maddison",
+          "position": "MF",
+          "st": 2,
+          "tk": 12,
+          "ps": 41,
+          "sh": 18,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 6,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Bentancur",
+          "displayName": "R Bentancur",
+          "position": "MF",
+          "st": 2,
+          "tk": 28,
+          "ps": 38,
+          "sh": 16,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Gray",
+          "displayName": "A Gray",
+          "position": "MF",
+          "st": 2,
+          "tk": 8,
+          "ps": 36,
+          "sh": 14,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Bissouma",
+          "displayName": "Y Bissouma",
+          "position": "MF",
+          "st": 2,
+          "tk": 18,
+          "ps": 36,
+          "sh": 14,
+          "ag": 22,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Johnson",
+          "displayName": "B Johnson",
+          "position": "FW",
+          "st": 2,
+          "tk": 19,
+          "ps": 20,
+          "sh": 41,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 5,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Richarlison",
+          "displayName": "Richarlison",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 26,
+          "sh": 40,
+          "ag": 23,
+          "min": 68,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Kinsky",
+          "displayName": "A Kinsky",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Davies",
+          "displayName": "B Davies",
+          "position": "DF",
+          "st": 2,
+          "tk": 32,
+          "ps": 9,
+          "sh": 4,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Spence",
+          "displayName": "D Spence",
+          "position": "DF",
+          "st": 2,
+          "tk": 32,
+          "ps": 16,
+          "sh": 12,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Bergvall",
+          "displayName": "L Bergvall",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 36,
+          "sh": 16,
+          "ag": 22,
+          "min": 50,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "D_Solanke",
+          "displayName": "D Solanke",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 14,
+          "sh": 36,
+          "ag": 23,
+          "min": 27,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Bayern Munich",
+      "players": [
+        {
+          "name": "M_Neuer",
+          "displayName": "M Neuer",
+          "position": "GK",
+          "st": 43,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 95,
+          "sav": 6,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Boey",
+          "displayName": "S Boey",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 7,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Davies",
+          "displayName": "A Davies",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 21,
+          "sh": 9,
+          "ag": 28,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Ito",
+          "displayName": "H Ito",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Tah",
+          "displayName": "J Tah",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Pavlovic",
+          "displayName": "A Pavlovic",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 37,
+          "sh": 12,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Musiala",
+          "displayName": "J Musiala",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 44,
+          "sh": 21,
+          "ag": 28,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Xavi_Simmons",
+          "displayName": "Xavi Simmons",
+          "position": "MF",
+          "st": 2,
+          "tk": 18,
+          "ps": 44,
+          "sh": 27,
+          "ag": 21,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 3,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Olise",
+          "displayName": "M Olise",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 21,
+          "sh": 41,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 7,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_DeBruyne",
+          "displayName": "K DeBruyne",
+          "position": "AM",
+          "st": 2,
+          "tk": 18,
+          "ps": 45,
+          "sh": 26,
+          "ag": 20,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Diaz",
+          "displayName": "L Diaz",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 26,
+          "sh": 42,
+          "ag": 28,
+          "min": 87,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 5,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Urbig",
+          "displayName": "J Urbig",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Guerreiro",
+          "displayName": "R Guerreiro",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 18,
+          "sh": 14,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Laimer",
+          "displayName": "K Laimer",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 41,
+          "sh": 14,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Kimmich",
+          "displayName": "J Kimmich",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 14,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Kane",
+          "displayName": "H Kane",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 45,
+          "ag": 28,
+          "min": 8,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "tot",
+      "text": "J_Maddison conduce por la línea de medios Pasa hacia P_Porro Suelta un latigazo con su pierna izquierda M_Neuer hace una gran parada Pero no puede retener el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "tot",
+      "text": "A_Gray cambia el juego hacia B_Johnson B_Johnson se saca una vaselina magistral de la chistera M_Neuer llega con la punta de los dedos al balón y sale rozando el palo Qué gran intervención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "tot",
+      "text": "R_Bentancur con un control impresionante Hace la croqueta ante A_Davies Y centra hacia Richarlison. ¡Qué clase! Xavi_Simmons mete la puntera de la bota y aleja el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 13,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons controla el cuero con calidad Mete un pase al centro K_DeBruyne es el destinatario Corte finísimo de D_Udogie Pero no puede evitar el córner Era pedir demasiado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "tot",
+      "text": "Y_Bissouma pasa largo con el interior hacia B_Johnson A_Davies se lanza hacia su oponente Y toca el balón Que clase",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons se deshace de M_VandeVen Le amagó por un lado y salió por el otro Xavi_Simmons controla el balón, amaga y... dispara ¡Oh! G_Vicario para el lanzamiento Pero el balón sale rebotado Será córner CÓRNER A_Pavlovic cuelga el centro al segundo palo M_Olise se deshace de su marcador y mete la cabeza GOOOOOL Qué manera de acabar la jugada El Bayern Munich golpea. Ahora manda en el marcador Tottenham 0-1 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "tot",
+      "text": "R_Bentancur se para ante J_Tah... y le hace la 'cola de vaca' Oh Increíble solo se lo había visto hacer a Ronaldo y Romario M_Olise levanta al delantero dos metros del suelo ¡Ay va! Qué entrada El colegiado se acerca corriendo Y le dice al delantero que no haga cuento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 23,
+      "teamCode": "tot",
+      "text": "B_Johnson hace la croqueta ante A_Davies El defensa mete la pierna, pero el rebote va a parar al delantero B_Johnson se saca una tijera ¡Qué bello! Pero falla Este tío no le mete un gol ni en el arco iris",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "tot",
+      "text": "J_Maddison combina con B_Johnson. Juegan de memoria K_DeBruyne se anticipa la acción Vaya pedazo de defensa Los aficionados corean su nombre",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "tot",
+      "text": "Y_Bissouma con un regate a lo Romario Oh la la ¡Puede marcar! K_DeBruyne se desliza... y derriba a su adversario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "tot",
+      "text": "Peligroso centro de J_Maddison a Richarlison Richarlison con el disparo M_Neuer deja el balón suelto Su defensa cierra bien y envía el cuero a las gradas",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "tot",
+      "text": "P_Porro sale del regate y mete un pase hacia B_Johnson L_Diaz se le anticipa y le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "bay",
+      "text": "L_Diaz llega primero al balón suelto L_Diaz dispara un verdadero obús G_Vicario no va a llegar OH Sale rozando el larguero G_Vicario sonríe El que ríe último...",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "tot",
+      "text": "J_Maddison tiene el cuero Le hace un túnel a Xavi_Simmons Ohhh Esto es caviar del bueno Y pasa a B_Johnson S_Boey se hace con el balón y lo cede al portero M_Neuer resbala Ay Fuera Ha salido a córner CÓRNER J_Maddison cuelga el balón K_DeBruyne se eleva sobre los demás Y despeja con la cabeza",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "bay",
+      "text": "J_Musiala cambia el juego S_Boey recibe con campo por delante S_Boey mete la cabeza segundos antes que su marcador La manda fuera del estadio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "bay",
+      "text": "A_Pavlovic golpea el balón hacia L_Diaz L_Diaz mira fijamente al marco ¡Dispara! G_Vicario está tapado. No verá el balón Qué reflejos Lo ha atrapado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "tot",
+      "text": "B_Johnson va en carrera Gran volea de B_Johnson M_Neuer para Pero el balón queda muerto GOOOOOL La defensa ha ido a por uvas Tottenham nivela el luminoso Tottenham 1-1 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "tot",
+      "text": "El entrenador aprovecha el parón en el juego para hacer un par de cambios L_Bergvall entra en el campo en lugar de Y_Bissouma para jugar de MF",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "bay",
+      "text": "J_Tah encuentra a K_DeBruyne con un pase largo K_DeBruyne rompe el intento de fuera de juego rival Corre hacia G_Vicario Supera a G_Vicario Tiene la puerta vacía Es GOL ¡NO! D_Udogie se lanza a la desesperada y lo evita",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "bay",
+      "text": "L_Diaz encara a P_Porro Se va con facilidad M_VandeVen efectúa un espectacular tackle El colegiado indica la falta... hacia el otro lado El colegiado le pide que se calme Una más de estas y nadie le salvará de la amarilla",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "bay",
+      "text": "L_Diaz se la lleva con la mano El defensa se para Pero el árbitro no lo vio L_Diaz busca el palo por bajo Se mueve la red GOOOOOL Hace una voltereta, dos, tres ¡Qué barbaridad! El Bayern Munich se cobra ventaja ¿Podrá mantenerla hasta el final? Tottenham 1-2 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "tot",
+      "text": "R_Bentancur recupera el balón y pasa largo hacia M_VandeVen. Ha pillado a la defensa desolocada M_VandeVen empalma el balon con una rabona ¡Qué frivolidad! Pero M_Neuer bloca el cuero con mucha tranquilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "bay",
+      "text": "K_DeBruyne supera a J_Maddison ¡Qué facilidad de regate! R_Bentancur comete la falta Se ha pasado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons asiste a A_Pavlovic con espacio por delante A_Pavlovic suelta un terrible disparo por debajo de las piernas de su marcador Pero G_Vicario alcanza el cuero con el puño Es el amo de su área. Buen portero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "bay",
+      "text": "M_Olise controla de espaldas a la portería Pisa el balón y se gira. Peligro M_Olise trata de ajustar el cuero al palo G_Vicario resbala Mete una mano agónica a gatas El balón cruza por delante de la línea de gol Y se pierde a centímetros del palo G_Vicario respira aliviado CÓRNER S_Boey saca el balón a la frontal G_Vicario coge con facilidad el defectuoso centro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons se anticipa a su marcador Xavi_Simmons busca un disparo con efecto Esto es fútbol G_Vicario alcanza el cuero. Buena parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "bay",
+      "text": "L_Diaz se aprovecha de un error de R_Bentancur Ese error puede costarle caro L_Diaz trata de sorprender al portero con una inesperada vaselina G_Vicario para el balón, que queda muerto G_Vicario se levanta rápidamente y para el segundo remate Qué bueno",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "tot",
+      "text": "Richarlison deja sentado a su marcador Pero Xavi_Simmons está más atento y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "bay",
+      "text": "M_Olise busca el túnel ante P_Porro El defensa mete la pierna, pero el rebote favorece a su rival M_Olise le pega con la zurda G_Vicario se saca una espectacular parada Su capitán lo felicita por esa intervención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "tot",
+      "text": "Richarlison lleva el balón hacia arriba Richarlison busca una vaselina imposible OOOOOOHHHHHHHH A salido lamiendo el palo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "tot",
+      "text": "D_Solanke reemplaza a Richarlison para colocarse de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "bay",
+      "text": "El entrenador del Bayern Munich ordena a sus jugadores que pasen a jugar C",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "tot",
+      "text": "J_Maddison pone el balón a la espalda de los centrales D_Solanke se cuela desde atrás D_Solanke dispara sin levantar la cabeza Coloca el balón lejos del alcance del portero Pero da en el palo Bueno, los palos también juegan",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "bay",
+      "text": "A_Pavlovic larco para M_Olise M_Olise trata de sorprender a G_Vicario G_Vicario se las apaña para meter los guantes",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "tot",
+      "text": "B_Johnson se anticipa a su marcador Ha sido mucho más rápido M_Olise se coloca en el camino del atacante Enriquez_Negreira pita la falta. Se ha desentendido del cuero Tuvo suerte de no ver la cartulina \"Primer aviso... y último\" le espeta el colegiado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "tot",
+      "text": "L_Bergvall gana metros L_Bergvall empalma con la zurda. Colocó mal el cuerpo M_Neuer llega con la punta de los dedos al balón y sale rozando el palo Qué gran intervención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "tot",
+      "text": "D_Solanke hace una rápida pared con un compañero Va en velocidad hacia el área D_Solanke remata forzado... con la rodilla Pero el balón se pierde inofensivamente por encima del larguero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "bay",
+      "text": "K_DeBruyne hace la pared con M_Olise M_Olise busca la vaselina... desde MEDIO CAMPO G_Vicario se saca el balón de encima como puede Poco estético, pero efectivo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "tot",
+      "text": "J_Maddison dispara Pega en la espalda de un compañero y va a parar a B_Johnson Vaya suerte Pero S_Boey aparece a su lado y aborta el ataque",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "bay",
+      "text": "J_Musiala pica el balón por encima de los centrales L_Diaz aparece de la nada. Los ha pillado despistados L_Bergvall envía a su oponente al césped Menudo trompazo (AMARILLA) Se la estaba buscando Y más le valdrá que se calme FALTA DIRECTA Es una oportunidad buenísima A_Pavlovic engaña al equipo rival mete el pase para K_DeBruyne K_DeBruyne con un disparo a ras de suelo G_Vicario mete los puños La podría haber cogido ¿Estará nervioso?",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "bay",
+      "text": "L_Diaz se le cuela a P_Porro por dentro Le ha dado demasiado espacio L_Diaz regatea a uno, dos y... oh Chuta Al lateral de la red Ha tirado a la basura una ocasión de oro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "tot",
+      "text": "B_Johnson tiene tiempo y espacio en la frontal del área B_Johnson remata con los ojos cerrados M_Neuer desvía el balón con el guante izquierdo GOOOOOL No fue suficiente Qué momento para empatar Dramático Tottenham 2-2 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "bay",
+      "text": "H_Kane va a entrar por L_Diaz. Apostaría a que juega de FW. Sí",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "bay",
+      "text": "K_DeBruyne acelera por la banda izquierda Juega para J_Musiala J_Musiala busca el palo largo El balón le bota antes de disparar Y se va a la grada. Hay risas en algunos sectores del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "tot",
+      "text": "M_VandeVen ve especio entre el central y el lateral. Pone un peligroso pase diagonal para R_Bentancur R_Bentancur suelta un chut con un efecto endiablado Dispara al córner ¿Cómo hizo para pegarle tan mal?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons está escorado en la banda izquierda Cambia el juego a la derecha hacia M_Olise Suelta un latigazo con su pierna izquierda G_Vicario mete los puños y manda el cuero al centro del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 2 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "bay",
+      "text": "H_Kane con un pase milimétrico El balón pasa por encima de R_Bentancur Y le llega a M_Olise M_Olise busca el palo por bajo Al lateral de la red",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "bay",
+      "text": "S_Boey con un pase milimétrico El balón pasa por encima de M_VandeVen Y le llega a J_Musiala D_Solanke entra con los tacos por delante Le ha pegado con toda la mala leche del mundo Tengo mis dudas que eso sea tarjeta SÍ (AMARILLA) FALTA DIRECTA El portero coloca a su barrera J_Musiala busca un disparo raso por debajo de la barrera Pero se las arregla para fallar Pone cara de mala leche. Menudo fallo",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "tot",
+      "text": "B_Johnson se hace con el balón suelto B_Johnson trata de sorprender a M_Neuer desde fuera del área M_Neuer mete los puños y manda el balón a la banda. Cómo marcan los cánones",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

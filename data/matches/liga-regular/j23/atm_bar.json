@@ -1,0 +1,1254 @@
+{
+  "id": "liga-regular/j23/atm_bar",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j23",
+  "roundLabel": "Jornada 23",
+  "fileName": "atm_bar.txt",
+  "homeCode": "atm",
+  "awayCode": "bar",
+  "homeTeam": "Atletico Madrid",
+  "awayTeam": "FC Barcelona",
+  "result": {
+    "home": 3,
+    "away": 3,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Atletico Madrid 2-2 FC Barcelona",
+  "formation": {
+    "home": "4-2-4 L",
+    "away": "4-1-2-1-2 P"
+  },
+  "referee": {
+    "name": "Howard Webb",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "J_Oblak",
+        "displayName": "J Oblak",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "R_LeNormand",
+        "displayName": "R LeNormand",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Gimenez",
+        "displayName": "J Gimenez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Llorente",
+        "displayName": "M Llorente",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Hancko",
+        "displayName": "D Hancko",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Koke",
+        "displayName": "Koke",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Baena",
+        "displayName": "A Baena",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Griezmann",
+        "displayName": "A Griezmann",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Alvarez",
+        "displayName": "J Alvarez",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "G_Raspadori",
+        "displayName": "G Raspadori",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Sorloth",
+        "displayName": "A Sorloth",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Musso",
+        "displayName": "J Musso",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Ruggeri",
+        "displayName": "M Ruggeri",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "N_Molina",
+        "displayName": "N Molina",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "P_Barrios",
+        "displayName": "P Barrios",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "G_Simeone",
+        "displayName": "G Simeone",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "W_Szczesny",
+        "displayName": "W Szczesny",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "W_Fofana",
+        "displayName": "W Fofana",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Araujo",
+        "displayName": "R Araujo",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Kounde",
+        "displayName": "J Kounde",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Guehi",
+        "displayName": "Guehi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Estevao",
+        "displayName": "Estevao",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "Pedri",
+        "displayName": "Pedri",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "F_DeJong",
+        "displayName": "F DeJong",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Yamal",
+        "displayName": "L Yamal",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "R_Lewandowski",
+        "displayName": "R Lewandowski",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "F_Torres",
+        "displayName": "F Torres",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "P_Cubarsi",
+        "displayName": "P Cubarsi",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Garcia",
+        "displayName": "J Garcia",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Casado",
+        "displayName": "M Casado",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_Lee",
+        "displayName": "K Lee",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Rashford",
+        "displayName": "M Rashford",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Atletico Madrid",
+      "mvp": "A_Griezmann (Jugador del partido)",
+      "goals": "A_Sorloth (7), M_Llorente (32), A_Griezmann (69 pen)",
+      "sentOff": "Koke (7)",
+      "booked": "A_Sorloth (70)",
+      "injured": "N/A"
+    },
+    {
+      "team": "FC Barcelona",
+      "mvp": "L_Yamal",
+      "goals": "R_Lewandowski (7), L_Yamal (11,66)",
+      "sentOff": "N/A",
+      "booked": "Pedri (37), Estevao (48), Guehi (68)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 5,
+      "away": 13
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 1,
+      "away": 3
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 4,
+      "away": 10
+    },
+    {
+      "label": "Posesión",
+      "home": 26,
+      "away": 74
+    },
+    {
+      "label": "Córners",
+      "home": 1,
+      "away": 4
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 3
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 0
+    },
+    {
+      "label": "Faltas",
+      "home": 10,
+      "away": 12
+    },
+    {
+      "label": "Entradas",
+      "home": 11,
+      "away": 10
+    },
+    {
+      "label": "Pases clave",
+      "home": 13,
+      "away": 17
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Atletico Madrid",
+      "players": [
+        {
+          "name": "J_Oblak",
+          "displayName": "J Oblak",
+          "position": "GK",
+          "st": 46,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 95,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_LeNormand",
+          "displayName": "R LeNormand",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Gimenez",
+          "displayName": "J Gimenez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 5,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Llorente",
+          "displayName": "M Llorente",
+          "position": "DF",
+          "st": 2,
+          "tk": 37,
+          "ps": 37,
+          "sh": 14,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 4,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Hancko",
+          "displayName": "D Hancko",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Koke",
+          "displayName": "Koke",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 43,
+          "sh": 12,
+          "ag": 25,
+          "min": 7,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "A_Baena",
+          "displayName": "A Baena",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 39,
+          "sh": 21,
+          "ag": 25,
+          "min": 58,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Griezmann",
+          "displayName": "A Griezmann",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 28,
+          "sh": 44,
+          "ag": 28,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 1,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Alvarez",
+          "displayName": "J Alvarez",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 21,
+          "sh": 42,
+          "ag": 29,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Raspadori",
+          "displayName": "G Raspadori",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 21,
+          "sh": 36,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Sorloth",
+          "displayName": "A Sorloth",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 36,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "J_Musso",
+          "displayName": "J Musso",
+          "position": "GK",
+          "st": 30,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Ruggeri",
+          "displayName": "M Ruggeri",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 50,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Molina",
+          "displayName": "N Molina",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 19,
+          "sh": 7,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Barrios",
+          "displayName": "P Barrios",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 12,
+          "ag": 26,
+          "min": 37,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Simeone",
+          "displayName": "G Simeone",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 28,
+          "sh": 32,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "FC Barcelona",
+      "players": [
+        {
+          "name": "W_Szczesny",
+          "displayName": "W Szczesny",
+          "position": "GK",
+          "st": 39,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 95,
+          "sav": 1,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Fofana",
+          "displayName": "W Fofana",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 16,
+          "sh": 7,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Araujo",
+          "displayName": "R Araujo",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 14,
+          "sh": 4,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Kounde",
+          "displayName": "J Kounde",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 26,
+          "sh": 7,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Guehi",
+          "displayName": "Guehi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Estevao",
+          "displayName": "Estevao",
+          "position": "DM",
+          "st": 2,
+          "tk": 28,
+          "ps": 38,
+          "sh": 21,
+          "ag": 20,
+          "min": 95,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 3,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Pedri",
+          "displayName": "Pedri",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 16,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "F_DeJong",
+          "displayName": "F DeJong",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 14,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 6,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Yamal",
+          "displayName": "L Yamal",
+          "position": "AM",
+          "st": 2,
+          "tk": 12,
+          "ps": 29,
+          "sh": 41,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 5,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Lewandowski",
+          "displayName": "R Lewandowski",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 49,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Torres",
+          "displayName": "F Torres",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 40,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Cubarsi",
+          "displayName": "P Cubarsi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 4,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Garcia",
+          "displayName": "J Garcia",
+          "position": "GK",
+          "st": 32,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Casado",
+          "displayName": "M Casado",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 33,
+          "sh": 12,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Lee",
+          "displayName": "K Lee",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 33,
+          "sh": 33,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Rashford",
+          "displayName": "M Rashford",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 38,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "atm",
+      "text": "J_Alvarez se tira el balón largo ante J_Kounde Se lleva al defensa por velocidad Guehi envía el balón a las gradas publicitarias",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "atm",
+      "text": "D_Hancko acelera por la banda izquierda Juega para A_Griezmann Pedri suelta una entrada muy bien medida pero Howard_Webb está cortando demasiado fino hoy. Falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "atm",
+      "text": "A_Sorloth va en carrera junto a Estevao El atacante es más rápido A_Sorloth tiene la portería entre ceja y ceja GOOOOOL Salta con el puño hacia el cielo A ver como administra su ventaja el Atletico Madrid Atletico Madrid 1-0 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "bar",
+      "text": "F_Torres ha roto por completo el fuera de juego Encara a J_Oblak Koke lo derriba en el área (ROJA) A la ducha",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "bar",
+      "text": "Pedri conecta con L_Yamal. Qué entendimiento hay entre ambos M_Llorente se hace con el balón y lo cede al portero J_Oblak resbala Ay Fuera Ha salido a córner CÓRNER Estevao le de mucho efecto a su lanzamiento Guehi dispara Terrorífico disparo Rebota en el pie del defensa Se aleja del marco Pero el portero no puede evitar el córner CÓRNER El lanzamiento va a cargo de Estevao Vuela hacia R_Lewandowski se anticipa a su marcador J_Oblak para Pero el balón queda muerto GOOOOOL La defensa ha ido a por uvas Equilibrio de fuerzas Atletico Madrid 1-1 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "atm",
+      "text": "D_Hancko mete la pierna. Cortó el balón Se lo pone a G_Raspadori en el pie W_Fofana sega el césped con una entrada terrorífica",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "atm",
+      "text": "J_Alvarez dispara en carrera Hay un rebote le cae a A_Baena Pero F_DeJong aparece de la nada y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 11,
+      "teamCode": "bar",
+      "text": "F_DeJong con un control impresionante Hace la croqueta ante J_Gimenez Y centra hacia L_Yamal. ¡Qué clase! Menudo obús de L_Yamal Hala Al tercer anfiteatro GOOOOOL Superó claramente a J_Oblak A ver como administra su ventaja el FC Barcelona Atletico Madrid 1-2 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "atm",
+      "text": "A_Baena sale a la contra. Mete un pase medido a A_Griezmann R_Araujo se juega el físico con una entrada durísima",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "bar",
+      "text": "Peligroso centro de Pedri a R_Lewandowski Pero M_Llorente lo aparta del balón con el codo. El delantero se queja, el defensa, sonríe",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "atm",
+      "text": "A_Sorloth mira a la derecha Y cruza a la izquierda para G_Raspadori. Eso lo hacía Laudrup F_Torres levanta al delantero dos metros del suelo ¡Ay va! Qué entrada El colegiado se acerca corriendo Y le dice al delantero que no haga cuento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "bar",
+      "text": "R_Lewandowski hace una rápida pared con un compañero Va en velocidad hacia el área M_Llorente envía al delantero al suelo y el balón sale fuera de banda El asistente indica... Saque de banda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "bar",
+      "text": "L_Yamal tiene el cuero Le hace un túnel a A_Griezmann Ohhh Esto es caviar del bueno Y pasa a Guehi Pero J_Gimenez conjura el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "atm",
+      "text": "A_Griezmann sorprende a la defensa rival con un pase en diagonal hacia M_Llorente M_Llorente suelta un terrible disparo por debajo de las piernas de su marcador GOOOOOL Gran final Todo está por decidir, todavía Atletico Madrid 2-2 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "atm",
+      "text": "A_Griezmann acelera por la banda derecha Pone el balón en el área. Directo hacia J_Alvarez J_Alvarez connecta el balón con la cabeza y lo peina hacia atrás W_Szczesny resbala Pero el balón se pierde por la línea de fondo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "bar",
+      "text": "Pedri encuentra a R_Lewandowski con un pase largo J_Gimenez choca con el delantero Y el balón sale fuera Córner CÓRNER Picado por Estevao F_DeJong entra con todo Pero J_Oblak manda el balón a córner Howard_Webb indicará córner No Marca saque de puerta Madre mía",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "atm",
+      "text": "A_Sorloth hace una bicicleta y descoloca a R_Araujo Pedri efectúa un espectacular tackle pero Howard_Webb el colegiado pita falta del delantero Howard_Webb busca en sus bolsillos (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "bar",
+      "text": "Estevao está presionado, retrocede Está en peligro, se saca el balón de encima OH Le ha salida una maravillosa asistencia hacia R_Lewandowski R_Lewandowski vuela con bravura para rematar en plancha Espectacular parada de J_Oblak Seguro que su seleccionador nacional habrá tomado buena nota",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "atm",
+      "text": "Cambio M_Ruggeri es el elegido en lugar de D_Hancko. El técnico le ordena que juegue de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "bar",
+      "text": "F_DeJong con un inteligente pase hacia F_Torres F_Torres busca el palo largo J_Oblak despeja con problemas",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "atm",
+      "text": "A_Sorloth está escorado en la banda derecha Cambia de juego hacia A_Baena Interceptada por F_DeJong",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "atm",
+      "text": "M_Llorente tiene campo por delante Pasa a J_Alvarez Estevao agarra a su rival de la camiseta Bien visto por al árbitro Howard_Webb le muestra la (AMARILLA) Madre mía, qué malos son los árbitros españoles",
+      "type": "yellow"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "bar",
+      "text": "J_Kounde curls the ball out wide to R_Lewandowski M_Llorente se anticipa la acción Vaya pedazo de defensa Los aficionados corean su nombre",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "bar",
+      "text": "Guehi corre hacia la portería Evita una entrada peligrosa Acomoda el cuerpo para resolver Guehi se escapa ¡Cuidado! J_Oblak bloca el balón con sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "atm",
+      "text": "Aparece el cartel electrónico - P_Barrios entra por A_Baena y jugará de MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "atm",
+      "text": "R_LeNormand conduce por la línea de medios Pasa hacia A_Griezmann A_Griezmann suelta un cañonazo ¡Uou! Ni Oliver y Benji hacían eso Pero W_Szczesny saca una pierna milagrosa y desvía el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "bar",
+      "text": "F_DeJong envía un taconazo hacia Estevao. ¡Qué lujo de jugador! Pero J_Gimenez conjura el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "bar",
+      "text": "Guehi con el saque de banda Coge carrerilla Y saca larco hacia L_Yamal J_Gimenez envía el balón a las gradas publicitarias",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "bar",
+      "text": "J_Kounde mira a Pedri... y le manda un pase milimétrico A_Griezmann entra y deja la pierna ¡Ohhh! Le ha dejado un recadito Howard_Webb no le va a amonestar",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "bar",
+      "text": "Estevao avanza Cambia el ritmo ante J_Gimenez. Wow eso me recordó a Cruyff Lo deja atrás Mete el pase hacia F_Torres J_Gimenez entra con dureza y se lleva el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "atm",
+      "text": "A_Griezmann para el balón con la planta del pie Qué calidad, tiene un guante en el pie Se revuelve Engaña a su par y cruza al balón sobre la llegada de G_Raspadori Pero Guehi mete el cuerpo Y aparta del balón al delantero, que reclama un codazo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "bar",
+      "text": "F_DeJong está escorado en la banda izquierda Cambia el juego a la derecha hacia J_Kounde J_Kounde cruza la línea de medios, avanza, mira al portero y chuta J_Oblak agranda su figura Cierra todo el espacio Y para el lanzamiento. La grada le aplaude",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "bar",
+      "text": "L_Yamal gambetea a lo Maradona ¿Hará 'la mano de Diós' también? L_Yamal recibe el balón de espaldas Oh Se ha sacado una tijereta GOOOOOL J_Oblak abronca estrepitosamente a sus defensas El FC Barcelona gana momentáneamente Atletico Madrid 2-3 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "atm",
+      "text": "A_Griezmann mete el pie Roba el balón Trata de entrar en el área Guehi envía a su oponente al césped Menudo trompazo Howard_Webb le muestra la (AMARILLA) Madre mía, qué malos son los árbitros españoles",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "atm",
+      "text": "R_LeNormand con un pase de 50 metros J_Alvarez W_Szczesny con una entrada alocada ¡PENALTI! A_Griezmann coloca el balón con parsimonia. Qué seguridad W_Szczesny vuela GOOOOOL Poco podía hacer el portero ante un lanzamiento así Se levanta la camiseta En la de debajo pone: 20 goles este año y subiendo Acaba de empatar Atletico Madrid 3-3 FC Barcelona...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "bar",
+      "text": "L_Yamal ha roto por completo el fuera de juego Encara a J_Oblak A_Sorloth lo derriba en el área Está en problemas Howard_Webb busca en su bolsillo Comprueba su número (AMARILLA) Debe sentirse afortunado que solo fuera eso FALTA DIRECTA F_Torres dispara por un lado de la barrera J_Oblak resbala Pero el balón se pierde por la línea de fondo",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "bar",
+      "text": "Peligroso centro de F_DeJong a L_Yamal L_Yamal busca el palo largo del portero Es incapaz de chutar a puerta Un defensa le arrebató el balón en el último momento Este tío juega a cámara lenta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "atm",
+      "text": "G_Raspadori pone el balón a la espalda de los centrales P_Barrios se cuela desde atrás Estevao mete la puntera de la bota y aleja el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "atm",
+      "text": "A_Griezmann controla el balón en una demostración de clase Abre el juego a la izquierda G_Raspadori es el destinatario Estevao corta el balón Despeja a lo loco La ha enviado a la grada CÓRNER M_Llorente cuelga el centro al segundo palo Estevao se anticipa a la delantera rival Y conjura el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "bar",
+      "text": "L_Yamal hace una croqueta Evita la dura entrada de M_Ruggeri. ¡Qué clase! L_Yamal busca el palo por bajo J_Oblak llega con la punta de los dedos al balón y sale rozando el palo CÓRNER El lanzamiento va a cargo de J_Kounde El centro va directo a las manos de J_Oblak",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "bar",
+      "text": "J_Kounde juega al primer toque para L_Yamal L_Yamal trata de sorprender al portero con una inesperada vaselina Pero J_Oblak alcanza el cuero con el puño Ha caído en mala posición Su entrenador se levanta del banquillo Puede seguir",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "bar",
+      "text": "F_DeJong acelera por la banda derecha Pone el balón en el área. Directo hacia L_Yamal Pero J_Alvarez corta la acción con contundencia",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "atm",
+      "text": "P_Barrios conecta con J_Alvarez. Qué entendimiento hay entre ambos J_Kounde se anticipa la acción Vaya pedazo de defensa Los aficionados corean su nombre",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "bar",
+      "text": "Estevao larco para F_DeJong G_Raspadori zancadillea a su oponente El árbitro se da la vuelta",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

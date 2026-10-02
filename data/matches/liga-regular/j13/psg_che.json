@@ -1,0 +1,1201 @@
+{
+  "id": "liga-regular/j13/psg_che",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j13",
+  "roundLabel": "Jornada 13",
+  "fileName": "psg_che.txt",
+  "homeCode": "psg",
+  "awayCode": "che",
+  "homeTeam": "PSG",
+  "awayTeam": "Chelsea",
+  "result": {
+    "home": 2,
+    "away": 0,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "PSG 0-0 Chelsea",
+  "formation": {
+    "home": "5-4-1 C",
+    "away": "4-1-2-1-2 E"
+  },
+  "referee": {
+    "name": "Enriquez Negreira",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "G_Donnarumma",
+        "displayName": "G Donnarumma",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "A_Hakimi",
+        "displayName": "A Hakimi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Mendes",
+        "displayName": "N Mendes",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Pacho",
+        "displayName": "W Pacho",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Marquinhos",
+        "displayName": "Marquinhos",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "I_Zabarnyi",
+        "displayName": "I Zabarnyi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Neves",
+        "displayName": "J Neves",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Vitinha",
+        "displayName": "Vitinha",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "W_ZaireEmery",
+        "displayName": "W ZaireEmery",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Nico_Paz",
+        "displayName": "Nico Paz",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Doue",
+        "displayName": "D Doue",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Diogo_Costa",
+        "displayName": "Diogo Costa",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_HernÃ¡ndez",
+        "displayName": "L HernÃ¡ndez",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Asensio",
+        "displayName": "M Asensio",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Rafael_Leao",
+        "displayName": "Rafael Leao",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "O_Dembele",
+        "displayName": "O Dembele",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "R_Sanchez",
+        "displayName": "R Sanchez",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "Adarabioyo",
+        "displayName": "Adarabioyo",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Colwill",
+        "displayName": "Colwill",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Reece_James",
+        "displayName": "Reece James",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Badiashile",
+        "displayName": "B Badiashile",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Lavia",
+        "displayName": "R Lavia",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "M_Caicedo",
+        "displayName": "M Caicedo",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "E_Fernandez",
+        "displayName": "E Fernandez",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "N_Jackson",
+        "displayName": "N Jackson",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "C_Palmer",
+        "displayName": "C Palmer",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "C_Nkunku",
+        "displayName": "C Nkunku",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "G_Slonina",
+        "displayName": "G Slonina",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Cucurella",
+        "displayName": "M Cucurella",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Olmo",
+        "displayName": "D Olmo",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "P_Neto",
+        "displayName": "P Neto",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Raphinha",
+        "displayName": "Raphinha",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "PSG",
+      "mvp": "Nico_Paz (Jugador del partido)",
+      "goals": "A_Hakimi (70), D_Doue (74)",
+      "sentOff": "N/A",
+      "booked": "Vitinha (30), A_Hakimi (47)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Chelsea",
+      "mvp": "C_Nkunku",
+      "goals": "N/A",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 14,
+      "away": 5
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 7,
+      "away": 1
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 7,
+      "away": 4
+    },
+    {
+      "label": "Posesión",
+      "home": 62,
+      "away": 38
+    },
+    {
+      "label": "Córners",
+      "home": 4,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 2,
+      "away": 0
+    },
+    {
+      "label": "Sustituciones",
+      "home": 0,
+      "away": 1
+    },
+    {
+      "label": "Faltas",
+      "home": 9,
+      "away": 3
+    },
+    {
+      "label": "Entradas",
+      "home": 6,
+      "away": 7
+    },
+    {
+      "label": "Pases clave",
+      "home": 12,
+      "away": 10
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "PSG",
+      "players": [
+        {
+          "name": "G_Donnarumma",
+          "displayName": "G Donnarumma",
+          "position": "GK",
+          "st": 46,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 94,
+          "sav": 4,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Hakimi",
+          "displayName": "A Hakimi",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 27,
+          "sh": 14,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "N_Mendes",
+          "displayName": "N Mendes",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 16,
+          "sh": 12,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Pacho",
+          "displayName": "W Pacho",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 7,
+          "sh": 4,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Marquinhos",
+          "displayName": "Marquinhos",
+          "position": "DF",
+          "st": 2,
+          "tk": 45,
+          "ps": 9,
+          "sh": 4,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "I_Zabarnyi",
+          "displayName": "I Zabarnyi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 7,
+          "sh": 4,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Neves",
+          "displayName": "J Neves",
+          "position": "DM",
+          "st": 2,
+          "tk": 24,
+          "ps": 45,
+          "sh": 16,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Vitinha",
+          "displayName": "Vitinha",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 44,
+          "sh": 16,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "W_ZaireEmery",
+          "displayName": "W ZaireEmery",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 16,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Nico_Paz",
+          "displayName": "Nico Paz",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 39,
+          "sh": 21,
+          "ag": 20,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 5,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Doue",
+          "displayName": "D Doue",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 33,
+          "sh": 42,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 7,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Diogo_Costa",
+          "displayName": "Diogo Costa",
+          "position": "GK",
+          "st": 41,
+          "tk": 1,
+          "ps": 1,
+          "sh": 1,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_HernÃ¡ndez",
+          "displayName": "L HernÃ¡ndez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 19,
+          "sh": 12,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Asensio",
+          "displayName": "M Asensio",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 33,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rafael_Leao",
+          "displayName": "Rafael Leao",
+          "position": "MF",
+          "st": 2,
+          "tk": 18,
+          "ps": 20,
+          "sh": 44,
+          "ag": 11,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Dembele",
+          "displayName": "O Dembele",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 45,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Chelsea",
+      "players": [
+        {
+          "name": "R_Sanchez",
+          "displayName": "R Sanchez",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 19,
+          "min": 94,
+          "sav": 5,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Adarabioyo",
+          "displayName": "Adarabioyo",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 8,
+          "sh": 7,
+          "ag": 21,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Colwill",
+          "displayName": "Colwill",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 17,
+          "sh": 7,
+          "ag": 18,
+          "min": 94,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Reece_James",
+          "displayName": "Reece James",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 17,
+          "sh": 7,
+          "ag": 18,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Badiashile",
+          "displayName": "B Badiashile",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 7,
+          "ag": 21,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Lavia",
+          "displayName": "R Lavia",
+          "position": "DM",
+          "st": 2,
+          "tk": 28,
+          "ps": 39,
+          "sh": 14,
+          "ag": 20,
+          "min": 54,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Caicedo",
+          "displayName": "M Caicedo",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 43,
+          "sh": 16,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Fernandez",
+          "displayName": "E Fernandez",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 41,
+          "sh": 9,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Jackson",
+          "displayName": "N Jackson",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 14,
+          "sh": 39,
+          "ag": 17,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Palmer",
+          "displayName": "C Palmer",
+          "position": "AM",
+          "st": 2,
+          "tk": 14,
+          "ps": 44,
+          "sh": 33,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Nkunku",
+          "displayName": "C Nkunku",
+          "position": "FW",
+          "st": 2,
+          "tk": 19,
+          "ps": 13,
+          "sh": 41,
+          "ag": 21,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Slonina",
+          "displayName": "G Slonina",
+          "position": "GK",
+          "st": 25,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 17,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Cucurella",
+          "displayName": "M Cucurella",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 18,
+          "sh": 21,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Olmo",
+          "displayName": "D Olmo",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 19,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Neto",
+          "displayName": "P Neto",
+          "position": "AM",
+          "st": 2,
+          "tk": 19,
+          "ps": 22,
+          "sh": 39,
+          "ag": 21,
+          "min": 40,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Raphinha",
+          "displayName": "Raphinha",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 21,
+          "sh": 40,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "che",
+      "text": "B_Badiashile suelta un cañonazo Al larguero C_Nkunku recoge el rebote A_Hakimi le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "che",
+      "text": "R_Lavia salta con mucha potencia Se adelanta a su marcador Cabecea hacia N_Jackson N_Jackson completamente solo. Encara a G_Donnarumma Regatea a G_Donnarumma con mucha clase Está escorado, pero chuta Al palo G_Donnarumma corre y atrapa el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "che",
+      "text": "E_Fernandez pone el balón al hueco N_Jackson corre hacia el cuero N_Jackson salta por encima de la defensa rival y mete la cabeza G_Donnarumma ve venir el balón. Parece fácil Se tira y lo atrapa espectacularmente Como se ha regalado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "psg",
+      "text": "J_Neves con un glorioso pase largo hacia D_Doue D_Doue resuelve la jugada con un taconazo R_Sanchez salta de manera espectacular Y atrapa el balón Se ha adornado para la foto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "psg",
+      "text": "Nico_Paz con el saque de banda Coge carrerilla Y saca larco hacia J_Neves El lanzamiento rebota en el muslo de J_Neves y se encamina a puerta Busca la vaselina A las nubes ¿Se habrá cambiado hoy de botas?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "psg",
+      "text": "W_ZaireEmery se cuela por la banda Quiebra a N_Jackson en velocidad Mete un pase raso hacia N_Mendes N_Mendes levanta la cabeza, apunta a la escuadra y... ¡dispara! R_Sanchez hace una gran parada Pero no puede retener el balón Lo atrapa en el segundo intento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "che",
+      "text": "C_Nkunku con el cambio de ritmo Se va de cara a puerta Los aficionados se levantan C_Nkunku le pega como puede... con la espinilla G_Donnarumma hace una gran parada Pero no puede retener el balón Lo atrapa en el segundo intento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "psg",
+      "text": "J_Neves aguanta el balón Cambia súbitamente hacia D_Doue Colwill aparece de la nada. El delantero aún está buscando el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "che",
+      "text": "E_Fernandez curls the ball out wide to C_Palmer Vitinha con una entrada asesina \"FUERA, FUERA, FUERA\" ruge el estadio (AMARILLA) Deberá calmarse un poco a partir de ahora",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "psg",
+      "text": "Vitinha regatea a su marcador Va a disparar No Pasa hacia D_Doue Ha engañado a todos D_Doue mira fijamente al marco ¡Dispara! Terrible disparo Un defensa se interpone en su camino El balón se desvía Fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "psg",
+      "text": "Nico_Paz asiste a D_Doue dentro del área C_Nkunku se anticipa a la acción y corta el balón Pero se le escapa Córner CÓRNER D_Doue con un cerrado lanzamiento al primer palo Directo hacia W_Pacho Remata como puede Va directo hacia R_Sanchez Pone mal la pierna Sale rebotada hacia atrás R_Sanchez mira el balón alarmado Y lo ve salir al lado del palo, suspira de alivio, menudo fallo CÓRNER W_ZaireEmery impacta el cuero con el interior del pie El balón cruza un bosque de piernas y llega a Vitinha Mete el pie R_Sanchez mete la mano y alcanza el balón con la punta de los dedos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "psg",
+      "text": "W_ZaireEmery golpea el balón al hueco. Vitinha aparece de la nada E_Fernandez con una entrada desmesurada El colegiado le pide que se calme Una más de estas y nadie le salvará de la amarilla",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 2 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "che",
+      "text": "Reece_James mira a C_Palmer... y le manda un pase milimétrico Corte finísimo de I_Zabarnyi Y evita el córner Está en un momento dulce",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "che",
+      "text": "Reece_James toca de primeras al área para C_Palmer C_Palmer cruza la línea de medios, avanza, mira al portero y chuta G_Donnarumma no va a llegar OH Se marcha desviado G_Donnarumma sonríe ¿Habría llegado al balón?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "psg",
+      "text": "Vitinha ve especio entre el central y el lateral. Pone un peligroso pase diagonal para W_ZaireEmery Pero Colwill se anticipa a la jugada. Qué sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "che",
+      "text": "N_Jackson envía un taconazo hacia C_Nkunku. ¡Qué lujo de jugador! A_Hakimi empuja a ru rival Qué animal Se lleva una (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "che",
+      "text": "P_Neto entrará en el campo. Está impaciente por demostrar su clase R_Lavia se marcha en su lugar No acaba de estar del todo satisfecho consigo mismo Su compañero jugará de AM",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "psg",
+      "text": "Nico_Paz baja el balón con un cabezazo hacia D_Doue D_Doue tiene la portería entre ceja y ceja Pero R_Sanchez bloca el cuero con mucha tranquilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "psg",
+      "text": "Nico_Paz se planta en la frontal del área Adarabioyo reacciona con una tremenda velocidad y controla el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "che",
+      "text": "E_Fernandez mira a C_Palmer... y le manda un pase milimétrico Corte finísimo de Marquinhos Y evita el córner Está en un momento dulce",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "psg",
+      "text": "D_Doue le gana la espalda a su marcador Eh, se ha despistado D_Doue dispara sin levantar la cabeza Pero el cuero sale lejos de la portería",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "che",
+      "text": "C_Palmer hace una bicicleta y cambia el juego hacia P_Neto N_Mendes lee la jugada antes de que se produzca y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "psg",
+      "text": "D_Doue baja el balón con el pecho C_Nkunku agarra a su rival en el área El delantero pide ¡PENALTI! desesperdamente Pero Enriquez_Negreira hace que 'no' con la cabeza",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "che",
+      "text": "C_Nkunku busca el túnel ante J_Neves El defensa mete la pierna, pero el rebote favorece a su rival C_Nkunku con un tremendo disparo G_Donnarumma despeja con problemas",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "psg",
+      "text": "D_Doue evita la entrada a ras de suelo de E_Fernandez con un giro Pisa el balón y sigue adelante ¿Estoy soñando? ¿Han visto lo mismo que yo? Pero Adarabioyo corta el ataque con mucha sobriedad CÓRNER Vitinha centra hacia el área Vuela hacia I_Zabarnyi se anticipa a su marcador R_Sanchez ve salir el balón demasiado alto Pero ojo con el efecto Pega en el palo Y fuera. R_Sanchez parece sorprendido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "che",
+      "text": "C_Palmer con un pase largo C_Nkunku Nico_Paz se le anticipa y le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "psg",
+      "text": "Marquinhos con un glorioso pase largo hacia A_Hakimi A_Hakimi prueba suerte GOOOOOL Regateó a R_Sanchez El PSG golpea. Ahora manda en el marcador PSG 1-0 Chelsea ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "che",
+      "text": "Chelsea va a variar su planteamiento. Su elección es... P",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "psg",
+      "text": "Nico_Paz se interna por una banda Túnel al defensa Oh ¿Lo han visto? Quiebra al lateral Qué jugada A_Hakimi tira el desmarque en el centro Le pone una pase medido A_Hakimi levanta la cabeza, apunta a la escuadra y... ¡dispara! R_Sanchez no llegará a ese balón Impacta en la madera Y se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "psg",
+      "text": "Nico_Paz cede atrás para D_Doue D_Doue le da mucho efecto a su disparo R_Sanchez no va a llegar Impacta en la madera GOOOOOL Imparable PSG 2-0 Chelsea ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "psg",
+      "text": "Creo que PSG quieren jugar D ahora",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "psg",
+      "text": "J_Neves pasa a jugar de DM tras recibir las indicaciones de su entrenador",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "psg",
+      "text": "D_Doue cambia el ritmo Se va por velocidad de B_Badiashile D_Doue pisa el balón, se lo acomoda a la derecha y... chuta OOOOOOHHHHHHHH A salido lamiendo el palo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "psg",
+      "text": "D_Doue gana el balón en su propio campo D_Doue le da mucho efecto a su disparo R_Sanchez se saca una espectacular parada de la manga ¿Cómo lo hizo para llegar a ese balón?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 86,
+      "teamCode": "che",
+      "text": "P_Neto le gana la espalda a la defensa N_Mendes choca con su oponente y lo envía al césped Hubo obstrucción Falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "psg",
+      "text": "W_ZaireEmery se va de su marcador Lo lleva por el camino de la amargura Colwill entra con todo El balón rueda y cruza la línea de fondo CÓRNER Nico_Paz impacta el cuero con el interior del pie Reece_James se lanza en plancha y despeja el balón. Se ha jugado el físico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "che",
+      "text": "C_Palmer se anticipa a su marcador Le ha ganado la espalda Corte finísimo y preciso de Nico_Paz Podría haber cometido la falta perfectamente si no hubiera estado tan fino",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

@@ -237,6 +237,7 @@ pre#preview-text{font-family:var(--font-mono);font-size:var(--text-xs);line-heig
     </div>
   </div>
   <div class="topbar-actions">
+    <a class="btn btn-ghost btn-icon btn-sm" href="main.html" aria-label="Volver a Liga SLI" title="Liga SLI">⌂</a>
     <button class="btn btn-ghost btn-icon btn-sm" data-theme-toggle aria-label="Cambiar tema">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
     </button>
@@ -250,21 +251,21 @@ pre#preview-text{font-family:var(--font-mono);font-size:var(--text-xs);line-heig
 <div class="panel-left" id="main-panel">
 
   <!-- TABS -->
-  <div class="tabs">
-    <button class="tab active" onclick="switchTab('team')">Plantilla</button>
-    <button class="tab" onclick="switchTab('lineup')">Alineación</button>
-    <button class="tab" onclick="switchTab('conditions')">Condicionales</button>
+  <div class="tabs" role="tablist" aria-label="Pasos de la alineación">
+    <button class="tab active" role="tab" aria-selected="true" aria-controls="tab-team" onclick="switchTab('team')">Plantilla</button>
+    <button class="tab" role="tab" aria-selected="false" aria-controls="tab-lineup" onclick="switchTab('lineup')">Alineación</button>
+    <button class="tab" role="tab" aria-selected="false" aria-controls="tab-conditions" onclick="switchTab('conditions')">Condicionales</button>
   </div>
 
   <!-- ── TAB: PLANTILLA ── -->
-  <div class="tab-panel active" id="tab-team">
+  <div class="tab-panel active" id="tab-team" role="tabpanel">
     <div class="card">
       <div class="card-title">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 20c0-4 3.6-7 8-7s8 3 8 7"/></svg>
         Selecciona tu equipo
       </div>
       <div class="field">
-        <label class="label">Equipo</label>
+        <label class="label" for="team-select">Equipo</label>
         <select class="select" id="team-select" onchange="loadTeamFromGitHub(this.value, this.options[this.selectedIndex].dataset.file)" style="font-size:var(--text-base)">
           <option value="">-- Elige tu equipo --</option>
           <option value="ARS" data-file="ars.txt">Arsenal (ARS)</option>
@@ -297,16 +298,16 @@ pre#preview-text{font-family:var(--font-mono);font-size:var(--text-xs);line-heig
   </div>
 
   <!-- ── TAB: ALINEACIÓN ── -->
-  <div class="tab-panel" id="tab-lineup">
+  <div class="tab-panel" id="tab-lineup" role="tabpanel">
     <div class="card">
       <div class="card-title">ℹ️ Info del equipo</div>
       <div class="team-info-grid">
         <div class="field">
-          <label class="label">Abreviatura</label>
+          <label class="label" for="team-abbr">Abreviatura</label>
           <input class="input" id="team-abbr" maxlength="4" placeholder="ej: CIT" style="text-transform:uppercase" oninput="this.value=this.value.toUpperCase();generatePreview()">
         </div>
         <div class="field">
-          <label class="label">Táctica inicial</label>
+          <label class="label" for="tactic-start">Táctica inicial</label>
           <select class="select" id="tactic-start" onchange="generatePreview()">
             <option value="">-- Selecciona --</option>
             <option value="N">N – Normal</option>
@@ -319,13 +320,13 @@ pre#preview-text{font-family:var(--font-mono);font-size:var(--text-xs);line-heig
           </select>
         </div>
         <div class="field">
-          <label class="label">Lanzador penaltis</label>
+          <label class="label" for="penalty-taker">Lanzador penaltis</label>
           <select class="select" id="penalty-taker" onchange="generatePreview()">
             <option value="">-- Selecciona --</option>
           </select>
         </div>
         <div class="field">
-          <label class="label">Agresividad (1-20)</label>
+          <label class="label" for="aggression-start">Agresividad (1-20)</label>
           <input class="input" id="aggression-start" type="number" min="1" max="20" value="10" onchange="generatePreview()">
         </div>
       </div>
@@ -347,7 +348,7 @@ pre#preview-text{font-family:var(--font-mono);font-size:var(--text-xs);line-heig
   </div>
 
   <!-- ── TAB: CONDICIONALES ── -->
-  <div class="tab-panel" id="tab-conditions">
+  <div class="tab-panel" id="tab-conditions" role="tabpanel">
     <div class="card">
       <div class="card-title">🔁 Sustituciones</div>
       <div id="subs-conditions"></div>
@@ -419,8 +420,8 @@ pre#preview-text{font-family:var(--font-mono);font-size:var(--text-xs);line-heig
 ═══════════════════════════════════════════════════ */
 (function(){
   const t=document.querySelector('[data-theme-toggle]'),r=document.documentElement;
-  let d=r.getAttribute('data-theme')||'dark';
-  function setTheme(v){d=v;r.setAttribute('data-theme',v);if(t)t.innerHTML=v==='dark'?'<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>':'<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>'}
+  let d=localStorage.getItem('sli-theme')||r.getAttribute('data-theme')||'dark';
+  function setTheme(v){d=v;r.setAttribute('data-theme',v);localStorage.setItem('sli-theme',v);if(t)t.innerHTML=v==='dark'?'<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>':'<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>'}
   setTheme(d);
   if(t) t.addEventListener('click',()=>setTheme(d==='dark'?'light':'dark'));
 })();
@@ -431,6 +432,9 @@ pre#preview-text{font-family:var(--font-mono);font-size:var(--text-xs);line-heig
 let roster = [];  // {name, age, nat, st, inj, sus, fit}
 const POSITIONS = ['GK','DF','DM','MF','AM','FW'];
 const TACTICS = ['N','P','C','L','A','D','E'];
+function escapeHtml(value){
+  return String(value??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+}
 
 /* ═══════════════════════════════════════════════════
    TABS
@@ -439,6 +443,7 @@ function switchTab(name){
   document.querySelectorAll('.tab').forEach((t,i)=>{
     const tabs=['team','lineup','conditions'];
     t.classList.toggle('active',tabs[i]===name);
+    t.setAttribute('aria-selected', tabs[i]===name ? 'true' : 'false');
   });
   document.querySelectorAll('.tab-panel').forEach(p=>p.classList.remove('active'));
   document.getElementById('tab-'+name).classList.add('active');
@@ -447,7 +452,18 @@ function switchTab(name){
 /* ═══════════════════════════════════════════════════
    GITHUB ROSTER LOADER
 ═══════════════════════════════════════════════════ */
-const GITHUB_BASE = "https://raw.githubusercontent.com/alexismr1988/esms-alineaciones/main/rosters/";
+const DATA_URL = './data/rosters.json';
+let rosterDataPromise = null;
+
+function getRosterData(){
+  if(!rosterDataPromise){
+    rosterDataPromise = fetch(DATA_URL).then(r=>{
+      if(!r.ok) throw new Error('HTTP '+r.status);
+      return r.json();
+    });
+  }
+  return rosterDataPromise;
+}
 
 function loadTeamFromGitHub(abbr, file){
   if(!abbr||!file) return;
@@ -456,13 +472,10 @@ function loadTeamFromGitHub(abbr, file){
   statusEl.style.color='var(--color-text-muted)';
   statusEl.textContent='⏳ Cargando plantilla...';
   document.getElementById('team-abbr').value = abbr;
-  fetch(GITHUB_BASE + file)
-    .then(r=>{
-      if(!r.ok) throw new Error('HTTP '+r.status);
-      return r.text();
-    })
-    .then(text=>{
-      roster = parseRoster(text);
+  getRosterData()
+    .then(data=>{
+      roster = data.rosters[abbr.toLowerCase()]?.players || [];
+      if(!roster.length) throw new Error('Plantilla no encontrada');
       onRosterLoaded();
       statusEl.style.color='var(--color-success)';
       statusEl.textContent='✓ Plantilla cargada: '+roster.length+' jugadores';
@@ -548,7 +561,7 @@ function showRosterTable(){
   for(const p of roster){
     const cls = p.inj>0?'inj':p.sus>0?'sus':'';
     const status = p.inj>0?`<span class="badge badge-inj">Inj ${p.inj}</span>`:p.sus>0?`<span class="badge badge-sus">Sus ${p.sus}</span>`:`<span class="badge badge-ok">OK</span>`;
-    html += `<tr class="${cls}"><td>${p.name}</td><td>${p.age}</td><td>${p.nat}</td><td>${status}</td></tr>`;
+    html += `<tr class="${cls}"><td>${escapeHtml(p.name)}</td><td>${p.age}</td><td>${escapeHtml(p.nat)}</td><td>${status}</td></tr>`;
   }
   html += '</tbody></table>';
   el.innerHTML = html;
@@ -569,7 +582,7 @@ function getAvailablePlayers(exclude=[]){
 
 function playerOption(p, selected='', showWarning=false){
   const warn = p.inj>0?'⚠️ Lesionado':p.sus>0?'⚠️ Sancionado':'';
-  return `<option value="${p.name}" ${p.name===selected?'selected':''} data-warn="${warn}">${p.name}${warn?' ('+warn+')':''}</option>`;
+  return `<option value="${escapeHtml(p.name)}" ${p.name===selected?'selected':''} data-warn="${escapeHtml(warn)}">${escapeHtml(p.name)}${warn?' ('+escapeHtml(warn)+')':''}</option>`;
 }
 
 function buildStarting(){
@@ -618,14 +631,16 @@ function buildBench(){
 function buildPenaltySelect(){
   const sel = document.getElementById('penalty-taker');
   const cur = sel.value;
-  sel.innerHTML='<option value="">-- Selecciona --</option>';
+  sel.replaceChildren(new Option('-- Selecciona --',''));
   roster.filter(p=>p.inj===0&&p.sus===0).forEach(p=>{
-    sel.innerHTML+=`<option value="${p.name}" ${p.name===cur?'selected':''}>${p.name}</option>`;
+    const option = new Option(p.name,p.name,p.name===cur,p.name===cur);
+    sel.add(option);
   });
 }
 
 function onLineupChange(){
   validateDuplicates();
+  buildConditionPlayerOptions();
   generatePreview();
 }
 
@@ -664,6 +679,47 @@ function updateValidationBadges(){
   container.innerHTML=html;
 }
 
+function validateTeamsheet(){
+  const errors=[];
+  const abbr=(document.getElementById('team-abbr').value||'').trim().toUpperCase();
+  const tactic=document.getElementById('tactic-start').value;
+  const aggression=Number(document.getElementById('aggression-start').value);
+  const penalty=document.getElementById('penalty-taker').value;
+  const starters=Array.from(document.querySelectorAll('#starting-eleven .player-name-select')).map(s=>s.value).filter(Boolean);
+  const bench=Array.from(document.querySelectorAll('#bench .player-name-select')).map(s=>s.value).filter(Boolean);
+  const squad=[...starters,...bench];
+  const duplicates=squad.filter((name,index)=>squad.indexOf(name)!==index);
+  const unavailable=squad.filter(name=>{const player=roster.find(item=>item.name===name);return player&&(player.inj>0||player.sus>0)});
+  const starterPositions=Array.from(document.querySelectorAll('#starting-eleven .player-row')).filter(row=>row.querySelector('.player-name-select').value).map(row=>row.querySelector('.player-pos-select').value);
+  if(!/^[A-Z]{2,4}$/.test(abbr)) errors.push('La abreviatura debe tener entre 2 y 4 letras');
+  if(!tactic) errors.push('Selecciona una táctica inicial');
+  if(starters.length!==11) errors.push('El once titular debe tener 11 jugadores');
+  if(bench.length!==5) errors.push('El banquillo debe tener 5 jugadores');
+  if(!starterPositions.includes('GK')) errors.push('El once titular necesita un portero');
+  if(duplicates.length) errors.push('Hay jugadores duplicados');
+  if(unavailable.length) errors.push('Hay jugadores lesionados o sancionados');
+  if(!penalty||!squad.includes(penalty)) errors.push('El lanzador de penaltis debe formar parte de los 16 convocados');
+  if(!Number.isInteger(aggression)||aggression<1||aggression>20) errors.push('La agresividad debe estar entre 1 y 20');
+  document.querySelectorAll('.condition-block').forEach((block,index)=>{
+    const type=block.dataset.type;
+    const get=key=>block.querySelector(`[data-key="${key}"]`)?.value||'';
+    const label=`Condicional ${index+1}`;
+    if(type==='sub'&&(!get('off')||!get('on')||!get('pos'))) errors.push(`${label}: completa Sale, Entra y Posición`);
+    if(type==='sub'&&get('off')===get('on')&&get('off')) errors.push(`${label}: no puede salir y entrar el mismo jugador`);
+    if(type==='changepos'&&(!get('player')||!get('newpos'))) errors.push(`${label}: selecciona jugador y nueva posición`);
+    if(type==='agg'&&(!get('agg_val')||Number(get('agg_val'))<1||Number(get('agg_val'))>20)) errors.push(`${label}: agresividad fuera de 1–20`);
+    if(!buildIfClause(block)) errors.push(`${label}: añade al menos una condición IF`);
+  });
+  return [...new Set(errors)];
+}
+
+function showValidationErrors(errors){
+  const status=document.getElementById('send-status');
+  status.className='send-status err';
+  status.style.display='block';
+  status.textContent='⚠ '+errors.join(' · ');
+}
+
 /* ═══════════════════════════════════════════════════
    CONDITIONS
 ═══════════════════════════════════════════════════ */
@@ -673,14 +729,14 @@ function getPlayerSelectOptions(includeNumbers=false){
   const starters = Array.from(document.querySelectorAll('#starting-eleven .player-name-select')).map((s,i)=>({num:i+1,name:s.value})).filter(x=>x.name);
   const bench = Array.from(document.querySelectorAll('#bench .player-name-select')).map((s,i)=>({num:i+12,name:s.value})).filter(x=>x.name);
   if(includeNumbers){
-    return [...starters,...bench].map(p=>`<option value="${p.num}">${p.num} – ${p.name}</option>`).join('');
+    return [...starters,...bench].map(p=>`<option value="${p.num}">${p.num} – ${escapeHtml(p.name)}</option>`).join('');
   }
-  return [...starters,...bench].map(p=>`<option value="${p.name}">${p.name}</option>`).join('');
+  return [...starters,...bench].map(p=>`<option value="${escapeHtml(p.name)}">${escapeHtml(p.name)}</option>`).join('');
 }
 
 function getPlayerNums(){
-  const starters = Array.from(document.querySelectorAll('#starting-eleven .player-row')).map((r,i)=>{const n=r.querySelector('.player-name-select')?.value;return n?`<option value="${i+1}">${i+1} – ${n}</option>`:''}).join('');
-  const bench = Array.from(document.querySelectorAll('#bench .sub-row')).map((r,i)=>{const n=r.querySelector('.player-name-select')?.value;return n?`<option value="${i+12}">${i+12} – ${n}</option>`:''}).join('');
+  const starters = Array.from(document.querySelectorAll('#starting-eleven .player-row')).map((r,i)=>{const n=r.querySelector('.player-name-select')?.value;return n?`<option value="${i+1}">${i+1} – ${escapeHtml(n)}</option>`:''}).join('');
+  const bench = Array.from(document.querySelectorAll('#bench .sub-row')).map((r,i)=>{const n=r.querySelector('.player-name-select')?.value;return n?`<option value="${i+12}">${i+12} – ${escapeHtml(n)}</option>`:''}).join('');
   return starters + bench;
 }
 // Sale/Entra/Reposición: posiciones propias + números propios
@@ -817,7 +873,7 @@ function buildConditionPlayerOptions(){
   // Refresh player options in existing condition selects after roster load
   document.querySelectorAll('.cond-field[data-key="off"],.cond-field[data-key="on"],.cond-field[data-key="player"]').forEach(sel=>{
     const cur=sel.value;
-    sel.innerHTML=`<option value="">--</option>${getPlayerSelectOptions(true)}`;
+    sel.innerHTML=`<option value="">--</option>${posAndNumOptions()}`;
     if(cur) sel.value=cur;
   });
 }
@@ -902,6 +958,8 @@ function generatePreview(){
    DOWNLOAD
 ═══════════════════════════════════════════════════ */
 function downloadSHT(){
+  const errors=validateTeamsheet();
+  if(errors.length){showValidationErrors(errors);return;}
   const abbr = (document.getElementById('team-abbr').value||'equipo').toLowerCase();
   const text = generateSHT();
   const blob = new Blob([text], {type:'text/plain'});
@@ -909,6 +967,7 @@ function downloadSHT(){
   a.href = URL.createObjectURL(blob);
   a.download = abbr+'.sht';
   a.click();
+  URL.revokeObjectURL(a.href);
 }
 
 /* ═══════════════════════════════════════════════════
@@ -918,21 +977,9 @@ function sendByEmail(){
   const status = document.getElementById('send-status');
   const btn = document.getElementById('btn-send-email');
   const abbr = (document.getElementById('team-abbr').value||'').toUpperCase();
-  if(!abbr){
-    status.className='send-status err';
-    status.style.display='block';
-    status.textContent='⚠ Introduce la abreviatura del equipo antes de enviar';
-    return;
-  }
+  const errors=validateTeamsheet();
+  if(errors.length){showValidationErrors(errors);return;}
   const text = generateSHT();
-  const starters = document.querySelectorAll('#starting-eleven .player-name-select');
-  const filled = Array.from(starters).filter(s=>s.value).length;
-  if(filled < 11){
-    status.className='send-status err';
-    status.style.display='block';
-    status.textContent='⚠ Faltan jugadores en el once titular';
-    return;
-  }
   btn.disabled = true;
   btn.textContent = 'Enviando...';
   status.style.display='none';
@@ -956,7 +1003,7 @@ function sendByEmail(){
     if(errMsg.includes('authentication') || errMsg.includes('scopes')){
       status.textContent='✗ Error de autenticación Gmail: reconecta el servicio en EmailJS → Email Services → tu servicio → Reconnect';
     } else {
-      status.textContent='✗ Error al enviar: ' + errMsg;
+      status.textContent='✗ No se pudo enviar la alineación. Inténtalo de nuevo en unos minutos.';
     }
   });
 }

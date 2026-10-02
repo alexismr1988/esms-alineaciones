@@ -66,14 +66,18 @@ tbody tr.z-darkred{ border-left: 3px solid #8e0000; }
 tbody tr.sep-bottom td{border-bottom:2px solid #333;}
 @media(max-width:640px){.hide-sm{display:none;}td,th{padding:.5rem .5rem;}.team-name{font-size:.85rem;}}
 </style>
+<link rel="stylesheet" href="./assets/site.css">
 </head>
-<body>
+<body class="league-page">
 <header>
   <span class="logo">Liga SLI</span>
-  <nav>
-    <a href="main.html" title="Inicio">&#127968;</a>
-    <a href="stats.html" title="Estadisticas">&#128202;</a>
-    <a href="index.html" title="Alineaciones">&#128203;</a>
+  <nav aria-label="Navegación principal">
+    <a href="main.html" title="Inicio" aria-label="Inicio">&#127968;</a>
+    <a href="index.html" title="Alineaciones" aria-label="Alineaciones">&#128203;</a>
+    <a href="plantillas.html" title="Plantillas" aria-label="Plantillas">&#128101;</a>
+    <a href="partidos.html" title="Partidos" aria-label="Partidos">&#127953;</a>
+    <a href="stats.html" title="Estadísticas" aria-label="Estadísticas">&#128202;</a>
+    <a href="clasificacion.html" title="Clasificación" aria-label="Clasificación" aria-current="page">&#127942;</a>
   </nav>
 </header>
 <div class="page-title">
@@ -85,7 +89,7 @@ tbody tr.sep-bottom td{border-bottom:2px solid #333;}
 </div>
 <div class="table-wrap" id="table-wrap" style="display:none"></div>
 
-<script>
+<script type="text/plain" id="legacy-clasificacion-script">
 var BASE = './clasificacion/table.txt';
 
 function parseTable(text){
@@ -189,5 +193,6 @@ fetch(BASE + '?v=' + Date.now())
       '<p style="color:#e74c3c;padding:2rem">Error al cargar ('+err+'). Comprueba que existe clasificacion/table.txt en el repositorio.</p>';
   });
 </script>
+<script type="module" src="./assets/clasificacion.js"></script>
 </body>
 </html>

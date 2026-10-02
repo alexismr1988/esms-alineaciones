@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "warnings": [
+    "partidos/liga-regular/j19: se esperaban 7 partidos y hay 6"
+  ],
+  "summary": {
+    "teams": 14,
+    "players": 341,
+    "matches": 201,
+    "warnings": 1
+  }
+}

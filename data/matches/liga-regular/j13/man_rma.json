@@ -1,0 +1,1212 @@
+{
+  "id": "liga-regular/j13/man_rma",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j13",
+  "roundLabel": "Jornada 13",
+  "fileName": "man_rma.txt",
+  "homeCode": "man",
+  "awayCode": "rma",
+  "homeTeam": "Manchester United",
+  "awayTeam": "Real Madrid",
+  "result": {
+    "home": 1,
+    "away": 1,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Manchester United 1-1 Real Madrid",
+  "formation": {
+    "home": "3-4-3 N",
+    "away": "4-3-3 E"
+  },
+  "referee": {
+    "name": "Pierluigi Collina",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "A_Onana",
+        "displayName": "A Onana",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "L_Martinez",
+        "displayName": "L Martinez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Yoro",
+        "displayName": "L Yoro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "H_Maguire",
+        "displayName": "H Maguire",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Fernandes",
+        "displayName": "B Fernandes",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Casemiro",
+        "displayName": "M Casemiro",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Mount",
+        "displayName": "M Mount",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Ugarte",
+        "displayName": "M Ugarte",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Mbeumo",
+        "displayName": "B Mbeumo",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "M_Cunha",
+        "displayName": "M Cunha",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "B_Sesko",
+        "displayName": "B Sesko",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Bayindir",
+        "displayName": "A Bayindir",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_Shaw",
+        "displayName": "L Shaw",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Dalot",
+        "displayName": "D Dalot",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_Mainoo",
+        "displayName": "K Mainoo",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Zirkzee",
+        "displayName": "J Zirkzee",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "T_Courtois",
+        "displayName": "T Courtois",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "D_Huijsen",
+        "displayName": "D Huijsen",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "E_Militao",
+        "displayName": "E Militao",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Rudiger",
+        "displayName": "A Rudiger",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Carvajal",
+        "displayName": "D Carvajal",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Tchouameni",
+        "displayName": "A Tchouameni",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "F_Valverde",
+        "displayName": "F Valverde",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Bellingham",
+        "displayName": "J Bellingham",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "K_Mbappe",
+        "displayName": "K Mbappe",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Rodrygo",
+        "displayName": "Rodrygo",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "V_Junior",
+        "displayName": "V Junior",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Lunin",
+        "displayName": "A Lunin",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "AlexArnold",
+        "displayName": "AlexArnold",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "E_Camavinga",
+        "displayName": "E Camavinga",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_Guler",
+        "displayName": "A Guler",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Endrick",
+        "displayName": "Endrick",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Manchester United",
+      "mvp": "M_Cunha (Jugador del partido)",
+      "goals": "M_Cunha (47)",
+      "sentOff": "N/A",
+      "booked": "H_Maguire (44)",
+      "injured": "B_Fernandes (91)"
+    },
+    {
+      "team": "Real Madrid",
+      "mvp": "T_Courtois",
+      "goals": "F_Valverde (39)",
+      "sentOff": "N/A",
+      "booked": "J_Bellingham (54)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 19,
+      "away": 5
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 4,
+      "away": 2
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 15,
+      "away": 3
+    },
+    {
+      "label": "Posesión",
+      "home": 54,
+      "away": 46
+    },
+    {
+      "label": "Córners",
+      "home": 2,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 3,
+      "away": 0
+    },
+    {
+      "label": "Faltas",
+      "home": 10,
+      "away": 6
+    },
+    {
+      "label": "Entradas",
+      "home": 3,
+      "away": 5
+    },
+    {
+      "label": "Pases clave",
+      "home": 17,
+      "away": 7
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Manchester United",
+      "players": [
+        {
+          "name": "A_Onana",
+          "displayName": "A Onana",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 94,
+          "sav": 2,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Martinez",
+          "displayName": "L Martinez",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 19,
+          "sh": 7,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Yoro",
+          "displayName": "L Yoro",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 4,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Maguire",
+          "displayName": "H Maguire",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 4,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "B_Fernandes",
+          "displayName": "B Fernandes",
+          "position": "MF",
+          "st": 2,
+          "tk": 9,
+          "ps": 43,
+          "sh": 26,
+          "ag": 27,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Casemiro",
+          "displayName": "M Casemiro",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 42,
+          "sh": 12,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Mount",
+          "displayName": "M Mount",
+          "position": "MF",
+          "st": 2,
+          "tk": 7,
+          "ps": 39,
+          "sh": 21,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 5,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Ugarte",
+          "displayName": "M Ugarte",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 38,
+          "sh": 8,
+          "ag": 25,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Mbeumo",
+          "displayName": "B Mbeumo",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 15,
+          "sh": 41,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Cunha",
+          "displayName": "M Cunha",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 19,
+          "sh": 40,
+          "ag": 27,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 6,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Sesko",
+          "displayName": "B Sesko",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 21,
+          "sh": 38,
+          "ag": 27,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Bayindir",
+          "displayName": "A Bayindir",
+          "position": "GK",
+          "st": 33,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Shaw",
+          "displayName": "L Shaw",
+          "position": "MF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Dalot",
+          "displayName": "D Dalot",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Mainoo",
+          "displayName": "K Mainoo",
+          "position": "MF",
+          "st": 2,
+          "tk": 4,
+          "ps": 38,
+          "sh": 19,
+          "ag": 25,
+          "min": 49,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Zirkzee",
+          "displayName": "J Zirkzee",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 22,
+          "sh": 38,
+          "ag": 26,
+          "min": 49,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Real Madrid",
+      "players": [
+        {
+          "name": "T_Courtois",
+          "displayName": "T Courtois",
+          "position": "GK",
+          "st": 45,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 94,
+          "sav": 15,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Huijsen",
+          "displayName": "D Huijsen",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Militao",
+          "displayName": "E Militao",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 12,
+          "sh": 4,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Rudiger",
+          "displayName": "A Rudiger",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 9,
+          "sh": 4,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Carvajal",
+          "displayName": "D Carvajal",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 7,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Tchouameni",
+          "displayName": "A Tchouameni",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 41,
+          "sh": 12,
+          "ag": 27,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Valverde",
+          "displayName": "F Valverde",
+          "position": "MF",
+          "st": 2,
+          "tk": 27,
+          "ps": 43,
+          "sh": 16,
+          "ag": 27,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Bellingham",
+          "displayName": "J Bellingham",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 24,
+          "ag": 28,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "K_Mbappe",
+          "displayName": "K Mbappe",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 49,
+          "ag": 30,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rodrygo",
+          "displayName": "Rodrygo",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 40,
+          "ag": 28,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Junior",
+          "displayName": "V Junior",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 23,
+          "sh": 45,
+          "ag": 30,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Lunin",
+          "displayName": "A Lunin",
+          "position": "GK",
+          "st": 37,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "AlexArnold",
+          "displayName": "AlexArnold",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 21,
+          "sh": 12,
+          "ag": 27,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Camavinga",
+          "displayName": "E Camavinga",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 14,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Guler",
+          "displayName": "A Guler",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 37,
+          "sh": 19,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Endrick",
+          "displayName": "Endrick",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 16,
+          "sh": 37,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "rma",
+      "text": "D_Carvajal envía un taconazo hacia K_Mbappe. ¡Qué lujo de jugador! L_Yoro zancadillea a su oponente El árbitro se da la vuelta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "man",
+      "text": "M_Mount se la pone a B_Sesko en el pie B_Sesko busca el palo por bajo Pero T_Courtois bloca el cuero con mucha tranquilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "rma",
+      "text": "Rodrygo controla el balón y encara a M_Ugarte. ¡Qué regate! M_Cunha envía a su oponente al césped Menudo trompazo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "man",
+      "text": "M_Ugarte con el globo M_Mount la baja con la cabeza Envenenado trallazo de M_Mount Se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 13,
+      "teamCode": "rma",
+      "text": "K_Mbappe se aprovecha de un error de B_Mbeumo Ha tenido suerte M_Cunha entra con los tacos por delante Le ha pegado con toda la mala leche del mundo FALTA DIRECTA Un poco más adelante del medio campo F_Valverde pasa para A_Tchouameni A_Tchouameni se escapa ¡Cuidado! Ay va Ha tirado a metros de la portería Creo que el míster lo va a poner a patear toda la semana como castigo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "man",
+      "text": "M_Casemiro regatea a su marcador y pasa rápidamente a M_Cunha Espectacular remate de M_Cunha T_Courtois se saca una espectacular parada de la manga ¿Cómo lo hizo para llegar a ese balón?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "rma",
+      "text": "K_Mbappe controla el cuero con calidad Mete un pase al centro Rodrygo es el destinatario Rodrygo trata de ajustar el cuero al palo A_Onana hace una parada realmente complicada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "man",
+      "text": "M_Cunha se va de Rodrygo Lo ha dejado sentado M_Cunha dispara sin levantar la cabeza T_Courtois adivina la direeción del balón y lo retiene",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "man",
+      "text": "L_Martinez llega el primero al balón Abre a la banda sobre M_Mount M_Mount se saca una tijera ¡Qué bello! T_Courtois tapa perfectamente el ángulo largo Y detiene el balón con sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "rma",
+      "text": "F_Valverde se deshace de su marcador Se va directo a puerta F_Valverde chuta sin mirar al portero A_Onana hace una parada sencillita El disparo no llevaba mucho peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "man",
+      "text": "M_Cunha se cambia el balón de pierna Regatea al defensa Vaya obra de arte M_Cunha se levanta sobre su marcador, carga el cabezazo, lo suelta... ¡Peligro! El disparo rebota en el defensa y va directo hacía la grada CÓRNER M_Mount saca el balón a la frontal H_Maguire trata de colocar su disparo T_Courtois se saca una espectacular parada de la manga ¿Cómo lo hizo para llegar a ese balón?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "man",
+      "text": "B_Sesko controla el balón con una gran calidad Despistó a su marcador Gran ocasión B_Sesko se escapa ¡Cuidado! Pero T_Courtois hace una gran parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "rma",
+      "text": "F_Valverde va en carrera junto a L_Yoro El atacante es más rápido F_Valverde suelta un disparo muy débil GOOOOOL A_Onana no pudo hacer nada El Real Madrid manda en el luminoso Manchester United 0-1 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "man",
+      "text": "B_Fernandes controla el balón en una demostración de clase Abre el juego a la derecha M_Mount recibe el cuero E_Militao controla el balón Ay va Vaya cañonazo ha pegado Si podía salir jugando",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "man",
+      "text": "M_Ugarte sale del regate y mete un pase hacia M_Cunha K_Mbappe se juega el físico con una entrada durísima. Era su única opción",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "man",
+      "text": "B_Fernandes tira la pared con su delantero M_Cunha con un preciso pase de primeras Menuda jugada M_Cunha empalma con la zurda. Colocó mal el cuerpo Pero T_Courtois bloca el cuero con mucha tranquilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "rma",
+      "text": "J_Bellingham mete el balón en la zona de peligro K_Mbappe se ofrece y recibe el cuero H_Maguire caza sin contemplaciones a su rival \"FUERA, FUERA, FUERA\" ruge el estadio Pierluigi_Collina le indica que se acerce (AMARILLA) Estuvo afortunado de no ver la roja",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "man",
+      "text": "J_Zirkzee entrará en el campo. Está impaciente por demostrar su clase B_Sesko se marcha en su lugar No acaba de estar del todo satisfecho consigo mismo Su compañero jugará de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "man",
+      "text": "K_Mainoo entrará en el campo. Está impaciente por demostrar su clase M_Ugarte se marcha en su lugar No acaba de estar del todo satisfecho consigo mismo Su compañero jugará de MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "man",
+      "text": "M_Cunha con un regate a lo Romario Oh la la ¡Puede marcar! J_Bellingham agarra a su rival de la camiseta Ambos se iban agarrando hace rato Creo que la decisión es injusta Pierluigi_Collina le avisa: \"Es la última vez\" FALTA INDIRECTA J_Zirkzee juega en corto para M_Cunha M_Cunha resuelve la jugada con un tremendo disparo GOOOOOL Se lleva el dedo a los labios. Ha mandado a callar a los aficionados rivales Eso mete a Manchester United de nuevo en el partido Manchester United 1-1 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "rma",
+      "text": "J_Bellingham mete un balón interior para V_Junior Pero H_Maguire conjura el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "man",
+      "text": "M_Casemiro se interna por una banda Túnel al defensa Oh ¿Lo han visto? Quiebra al lateral Qué jugada M_Mount tira el desmarque en el centro Le pone una pase medido M_Mount prueba suerte desde la lejanía T_Courtois hace una gran parada Y se las arregla para controlar el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "man",
+      "text": "M_Casemiro mira a L_Martinez... y le manda un pase milimétrico L_Martinez hace un quiebro y dispara rápidamente Su disparo es rechazado por el portero Se hace con el rebote Y dispara fuera Se precipitó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "man",
+      "text": "El defensa resbala M_Cunha se va solo J_Bellingham con una entrada desmesurada Creo que buscaba el balón, pero debería calmarse un poquito Pierluigi_Collina lo llama a parte Pierluigi_Collina le dice que ya le ha advertido suficientes veces (AMARILLA) FALTA DIRECTA Es una posición buenísima para el lanzador B_Fernandes con un terrible disparo T_Courtois para. Le vino directo a las manos",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "man",
+      "text": "L_Martinez tiene que retroceder Está presionado, se saca el balón de encima M_Mount gana el salto M_Mount golpea el balón a bote pronto T_Courtois mete la planta del pie y despeja el cuero CÓRNER M_Cunha impacta el cuero con el interior del pie T_Courtois se anticipa a la jugada y atrapa el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "rma",
+      "text": "A_Tchouameni mete un balón interior para V_Junior L_Martinez sale al corte como un búfalo salvaje",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "man",
+      "text": "H_Maguire con el lanzamiento de la falta Observa el desmarque de su compañero M_Casemiro se ha zafado de su marcador M_Casemiro cabecea con claridad T_Courtois hace una gran parada Y se las arregla para controlar el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "man",
+      "text": "B_Fernandes encuentra el pasadizo Por ahí no pasaba ni un alfiler B_Fernandes llega forzado al remate T_Courtois se saca el balón de encima como puede Poco estético, pero efectivo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "man",
+      "text": "M_Mount con un control impresionante Hace la croqueta ante D_Carvajal Y centra hacia M_Cunha. ¡Qué clase! M_Cunha cruza la línea de medios, avanza, mira al portero y chuta T_Courtois mete los puños Y la manda a fuera de banda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "man",
+      "text": "B_Mbeumo pasa largo con el interior hacia M_Cunha D_Huijsen intercepta el pase",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "rma",
+      "text": "A_Tchouameni corre metros La defensa rival se ha despistado, hay hueco Pone un peligroso balón sobre la entrada de J_Bellingham salta sobre su oponente y lo derriba Midió mal sus fuerzas Pierluigi_Collina le avisa: \"Es la última vez\"",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "man",
+      "text": "B_Mbeumo se cuela por la banda Quiebra a D_Huijsen en velocidad Mete un pase raso hacia M_Mount M_Mount vuela con bravura para rematar en plancha T_Courtois llega con la punta de los dedos al balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "man",
+      "text": "B_Fernandes avanza Cambia el ritmo ante J_Bellingham. Wow eso me recordó a Cruyff Lo deja atrás Mete el pase hacia B_Mbeumo Corte finísimo y preciso de D_Carvajal",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "rma",
+      "text": "A_Tchouameni juega al primer toque para K_Mbappe K_Mbappe busca una vaselina imposible Vuela por encima de A_Onana Va a puerta El portero mete la mano, ¿será suficiente? Sí, ha desviado el disparo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que va a haber 1 minuto de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "man",
+      "text": "K_Mainoo pasa hacia M_Cunha E_Militao chuta el cuero hacia las vallas. Ui Le ha dado a un pobre fotógrafo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "man",
+      "text": "L_Yoro regatea a su marcador Va a disparar No Pasa hacia B_Mbeumo Ha engañado a todos B_Mbeumo suelta una rabona Al lateral de la red",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "man",
+      "text": "B_Fernandes trata de levantarse tras la entrada Imposible Se ha hecho daño",
+      "type": "injury"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "man",
+      "text": "L_Shaw sustituye a B_Fernandes en la posición de MF",
+      "type": "substitution"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

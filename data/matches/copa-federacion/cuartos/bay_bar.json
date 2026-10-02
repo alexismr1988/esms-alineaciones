@@ -1,0 +1,1327 @@
+{
+  "id": "copa-federacion/cuartos/bay_bar",
+  "competitionId": "copa-federacion",
+  "competitionLabel": "Copa Federación",
+  "roundId": "cuartos",
+  "roundLabel": "Cuartos",
+  "fileName": "bay_bar.txt",
+  "homeCode": "bay",
+  "awayCode": "bar",
+  "homeTeam": "Bayern Munich",
+  "awayTeam": "FC Barcelona",
+  "result": {
+    "home": 2,
+    "away": 1,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Bayern Munich 0-1 FC Barcelona",
+  "formation": {
+    "home": "4-1-3-1-1 P",
+    "away": "4-1-2-1-2 P"
+  },
+  "referee": {
+    "name": "Viktor Kassai",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "M_Neuer",
+        "displayName": "M Neuer",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "S_Boey",
+        "displayName": "S Boey",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Davies",
+        "displayName": "A Davies",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Guerreiro",
+        "displayName": "R Guerreiro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Upamecano",
+        "displayName": "D Upamecano",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Pavlovic",
+        "displayName": "A Pavlovic",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "J_Kimmich",
+        "displayName": "J Kimmich",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Musiala",
+        "displayName": "J Musiala",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Olise",
+        "displayName": "M Olise",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "K_DeBruyne",
+        "displayName": "K DeBruyne",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "Xavi_Simmons",
+        "displayName": "Xavi Simmons",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Urbig",
+        "displayName": "J Urbig",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Tah",
+        "displayName": "J Tah",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "H_Ito",
+        "displayName": "H Ito",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_Laimer",
+        "displayName": "K Laimer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_Diaz",
+        "displayName": "L Diaz",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "M_TerStegen",
+        "displayName": "M TerStegen",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "P_Cubarsi",
+        "displayName": "P Cubarsi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Fofana",
+        "displayName": "W Fofana",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Guehi",
+        "displayName": "Guehi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Kounde",
+        "displayName": "J Kounde",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Estevao",
+        "displayName": "Estevao",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "Gavi",
+        "displayName": "Gavi",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Pedri",
+        "displayName": "Pedri",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "K_Lee",
+        "displayName": "K Lee",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "R_Lewandowski",
+        "displayName": "R Lewandowski",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "F_Torres",
+        "displayName": "F Torres",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "R_Araujo",
+        "displayName": "R Araujo",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "W_Szczesny",
+        "displayName": "W Szczesny",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Lopez",
+        "displayName": "F Lopez",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Casado",
+        "displayName": "M Casado",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Rashford",
+        "displayName": "M Rashford",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Bayern Munich",
+      "mvp": "J_Musiala (Jugador del partido)",
+      "goals": "L_Diaz (62), Xavi_Simmons (66)",
+      "sentOff": "N/A",
+      "booked": "K_DeBruyne (34), A_Davies (52)",
+      "injured": "N/A"
+    },
+    {
+      "team": "FC Barcelona",
+      "mvp": "Gavi",
+      "goals": "Gavi (26)",
+      "sentOff": "R_Lewandowski (79)",
+      "booked": "P_Cubarsi (19)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 17,
+      "away": 11
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 8,
+      "away": 4
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 9,
+      "away": 7
+    },
+    {
+      "label": "Posesión",
+      "home": 56,
+      "away": 44
+    },
+    {
+      "label": "Córners",
+      "home": 2,
+      "away": 6
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 1
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 3,
+      "away": 1
+    },
+    {
+      "label": "Faltas",
+      "home": 7,
+      "away": 9
+    },
+    {
+      "label": "Entradas",
+      "home": 7,
+      "away": 6
+    },
+    {
+      "label": "Pases clave",
+      "home": 16,
+      "away": 14
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Bayern Munich",
+      "players": [
+        {
+          "name": "M_Neuer",
+          "displayName": "M Neuer",
+          "position": "GK",
+          "st": 43,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 97,
+          "sav": 9,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Boey",
+          "displayName": "S Boey",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 7,
+          "ag": 24,
+          "min": 97,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Davies",
+          "displayName": "A Davies",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 21,
+          "sh": 9,
+          "ag": 28,
+          "min": 97,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "R_Guerreiro",
+          "displayName": "R Guerreiro",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 18,
+          "sh": 14,
+          "ag": 26,
+          "min": 64,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Upamecano",
+          "displayName": "D Upamecano",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Pavlovic",
+          "displayName": "A Pavlovic",
+          "position": "DM",
+          "st": 2,
+          "tk": 21,
+          "ps": 37,
+          "sh": 12,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Kimmich",
+          "displayName": "J Kimmich",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 14,
+          "ag": 26,
+          "min": 64,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Musiala",
+          "displayName": "J Musiala",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 44,
+          "sh": 21,
+          "ag": 28,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 5,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Olise",
+          "displayName": "M Olise",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 21,
+          "sh": 41,
+          "ag": 27,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 6,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_DeBruyne",
+          "displayName": "K DeBruyne",
+          "position": "AM",
+          "st": 2,
+          "tk": 18,
+          "ps": 45,
+          "sh": 26,
+          "ag": 20,
+          "min": 72,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Xavi_Simmons",
+          "displayName": "Xavi Simmons",
+          "position": "MF",
+          "st": 2,
+          "tk": 18,
+          "ps": 44,
+          "sh": 27,
+          "ag": 21,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Urbig",
+          "displayName": "J Urbig",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Tah",
+          "displayName": "J Tah",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 25,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Ito",
+          "displayName": "H Ito",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Laimer",
+          "displayName": "K Laimer",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 41,
+          "sh": 14,
+          "ag": 25,
+          "min": 33,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Diaz",
+          "displayName": "L Diaz",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 26,
+          "sh": 42,
+          "ag": 28,
+          "min": 33,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "FC Barcelona",
+      "players": [
+        {
+          "name": "M_TerStegen",
+          "displayName": "M TerStegen",
+          "position": "GK",
+          "st": 40,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 97,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Cubarsi",
+          "displayName": "P Cubarsi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 4,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "W_Fofana",
+          "displayName": "W Fofana",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 16,
+          "sh": 7,
+          "ag": 22,
+          "min": 97,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Guehi",
+          "displayName": "Guehi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 71,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Kounde",
+          "displayName": "J Kounde",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 26,
+          "sh": 7,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Estevao",
+          "displayName": "Estevao",
+          "position": "AM",
+          "st": 2,
+          "tk": 28,
+          "ps": 38,
+          "sh": 21,
+          "ag": 20,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Gavi",
+          "displayName": "Gavi",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 42,
+          "sh": 16,
+          "ag": 26,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Pedri",
+          "displayName": "Pedri",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 16,
+          "ag": 27,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Lee",
+          "displayName": "K Lee",
+          "position": "AM",
+          "st": 2,
+          "tk": 16,
+          "ps": 33,
+          "sh": 33,
+          "ag": 24,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Lewandowski",
+          "displayName": "R Lewandowski",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 48,
+          "ag": 26,
+          "min": 83,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "F_Torres",
+          "displayName": "F Torres",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 40,
+          "ag": 27,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 5,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Araujo",
+          "displayName": "R Araujo",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 14,
+          "sh": 4,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Szczesny",
+          "displayName": "W Szczesny",
+          "position": "GK",
+          "st": 39,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Lopez",
+          "displayName": "F Lopez",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 33,
+          "sh": 16,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Casado",
+          "displayName": "M Casado",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 33,
+          "sh": 12,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Rashford",
+          "displayName": "M Rashford",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 38,
+          "ag": 28,
+          "min": 26,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "bay",
+      "text": "J_Musiala se interna Le hace dos bicicletas a P_Cubarsi Lo ha roto. Centra a M_Olise M_Olise toca el cuero de primeras M_TerStegen no va a llegar OH Sale rozando el larguero M_TerStegen sonríe El que ríe último...",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "bay",
+      "text": "K_DeBruyne hace un tremendo control al borde del área J_Kounde chuta el cuero con fuerza hacia la grada Ui Los ha cabreado Le tiran de todo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "bay",
+      "text": "A_Pavlovic con el lanzamiento de la falta Ve el desmarque de su compañero El balón va directo hacia el pie de M_Olise J_Kounde despeja el balón con un verdadero cirio. Esa va a caer con nieve",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "bar",
+      "text": "Estevao ve perfectamente el desmarque de J_Kounde Menudo obús de J_Kounde Hala Al tercer anfiteatro Golpea en la madera Y fuera Está desesperado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "bay",
+      "text": "D_Upamecano mata el pase Gran control Tiene espacio para el disparo D_Upamecano busca una de las dos escuadras Busca la escuadra Ojo con el efecto. El portero no va a llegar Pero aterriza en la grada superior de la portería M_TerStegen sonríe. Estaba batido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "bar",
+      "text": "Pedri cede atrás para F_Torres Corte finísimo de K_DeBruyne Pero no puede evitar el córner Era pedir demasiado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "bay",
+      "text": "S_Boey juega al primer toque para K_DeBruyne K_DeBruyne le pega como puede... con la espinilla M_TerStegen rechaza el cuero con los puños El colegiado pita saque de puerta Creo que el árbitro ha sido el único que no ha visto que M_TerStegen tocó el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "bar",
+      "text": "F_Torres al primer toque para P_Cubarsi P_Cubarsi regatea a su marcador y busca el gol M_Neuer mete la pierna Hay que blocar el balón jefe",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons regatea a su marcador y pasa rápidamente a M_Olise M_Olise busca la vaselina M_TerStegen cubre el ángulo Pero el efecto aleja el balón M_TerStegen mete la mano Gran parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "bay",
+      "text": "J_Musiala está cerrado por tres contrarios Se saca el balón de encima le cae a Xavi_Simmons ¿Suerte o calidad? W_Fofana se lleva por delante a su rival PENALT No El colegiado da saque de puerta Se buscan gafas para el árbitro Urgente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "bar",
+      "text": "K_Lee se abre a la banda. Recibe el balón Levanta la cabeza, no hay salida Pero encuentra a F_Torres. ¡Qué visión de juego! F_Torres le pega como puede... con la espinilla El balón coge un efecto envenenado M_Neuer se zambulle desesperadamente para tratar de frenarlo Y M_Neuer lo logra Qué reflejos CÓRNER Gavi le de mucho efecto a su lanzamiento A_Davies sale al corte Y llega el primero al balón. Buenos reflejos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "bay",
+      "text": "S_Boey supera a J_Kounde Este defensa es un tronco No tiene cintura P_Cubarsi debería levantar el pie del acelerador. Se está jugando la roja (AMARILLA) Se la estaba buscando Y más le valdrá que se calme",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "bar",
+      "text": "Guehi avanza Cambia el ritmo ante S_Boey. Wow eso me recordó a Cruyff Lo deja atrás Mete el pase hacia R_Lewandowski R_Guerreiro envía el balón suelto a las nubues. Cuidado con los pájaros",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "bay",
+      "text": "K_DeBruyne cede atrás para M_Olise R_Lewandowski con una entrada desmesurada Creo que buscaba el balón, pero debería calmarse un poquito (AMARILLA) Creo que el árbitro se ha pasado de riguroso",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "bay",
+      "text": "J_Kimmich amaga el quiebro hacia un lado Pero sale por el otro. Gavi está sorprendido Trata de zancallidearlo Pero lo esquiva J_Kimmich trata de sorprender a M_TerStegen desde fuera del área M_TerStegen para Puso el cuerpo atrás, como marcan los cánones",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "bar",
+      "text": "Gavi gambetea ante J_Musiala, lo está desquiciando Gavi tiene tiempo y espacio Coloca suavemente el balón OOOOHHHHH GOOOOOL Qué sangre fría Los aficionados del FC Barcelona enloquecen El FC Barcelona toma la iniciativa en el luminoso Bayern Munich 0-1 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "bar",
+      "text": "F_Torres con el lanzamiento de la falta Observa el desmarque de su compañero W_Fofana se ha zafado de su marcador K_DeBruyne se lanza al corte ¡Ufff! Esto tiene toda la pinta de una amarilla Tengo mis dudas que eso sea tarjeta SÍ (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "bar",
+      "text": "F_Torres corre hacia la portería Evita una entrada peligrosa Acomoda el cuerpo para resolver F_Torres chuta con el interior Pero M_Neuer hace una gran parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "bar",
+      "text": "Pedri con un pase milimétrico El balón pasa por encima de A_Pavlovic Y le llega a F_Torres J_Kimmich corta con limpieza El asistente indica la falta Increíble Ha sido legal",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "bay",
+      "text": "A_Pavlovic cruza para M_Olise P_Cubarsi zancadillea a su oponente El árbitro se da la vuelta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 4 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "bay",
+      "text": "S_Boey mete la pierna. Cortó el balón Se lo pone a Xavi_Simmons en el pie El defensa resbala en el momento de controlar el balón Xavi_Simmons es más rápido que nadie y controla el cuero Está cara a cara con M_TerStegen Regatea a M_TerStegen con mucha clase Dispara a puerta vacía Al palo Y fuera Su entrenador le está diciendo de todo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "bar",
+      "text": "K_Lee pasa de rabona hacia F_Torres. Madre mía ¿Ha nacido en Brasil? D_Upamecano sega el césped con una entrada terrorífica",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "bay",
+      "text": "K_DeBruyne se anticipa a su marcador Le ha ganado la espalda K_DeBruyne impacta el cuero al primer toque Se estrella en el larguero Pero remata de cabeza tras llegar al rechace Va a ser gol Pero un defensa saca al balón bajo la línea De dónde ha salido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "bar",
+      "text": "Estevao envía un taconazo hacia Gavi. ¡Qué lujo de jugador! S_Boey entra al corte y despeja el balón Pero lo echa fuera CÓRNER F_Torres cuelga el centro al segundo palo El centro va directo a las manos de M_Neuer",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "bay",
+      "text": "K_DeBruyne pisa el balón, arranca, vuelve a parar... el defensa está desquiciado W_Fofana se juega el físico con una entrada durísima",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "bay",
+      "text": "J_Musiala con un pase impresionante hacia K_DeBruyne Suelta un latigazo con su pierna izquierda M_TerStegen no llegará a ese balón Impacta en la madera Y se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "bar",
+      "text": "J_Kounde conduce por la línea de medios Pasa hacia R_Lewandowski S_Boey mete la pierna y manda el balón a córner CÓRNER Picado por Estevao Pedri dispara M_Neuer trata de blocar el cuero No ha podido. Córner CÓRNER Estevao cuelga el centro al segundo palo F_Torres entra desde atrás Dispara al córner ¿Cómo hizo para pegarle tan mal?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "bay",
+      "text": "K_DeBruyne pica el balón por encima de la defensa hacia M_Olise M_Olise salta por encima de la defensa rival y mete la cabeza M_TerStegen no llegará a ese balón Impacta en la madera Y se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "bar",
+      "text": "R_Lewandowski va flechado hacia la portería Sortea a K_DeBruyne Encara portería A_Davies con una entrada asesina Le ha pegado con toda la mala leche del mundo (AMARILLA) Creo que el árbitro se ha pasado de riguroso",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "bay",
+      "text": "M_Olise llega primero al balón suelto M_Olise otea la posición de M_TerStegen ¡Dispara! M_TerStegen despeja el balón... con el pecho Vaya manera de vacilar al contrario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "bar",
+      "text": "F_Torres amaga el quiebro hacia un lado Pero sale por el otro. A_Davies está sorprendido Trata de zancallidearlo Pero lo esquiva F_Torres tiene tiempo y espacio ¡Dispara por bajo! M_Neuer mete el cuerpo El balón rebota hacia arriba Pero M_Neuer se incorpora velozmente y lo atrapa",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "bay",
+      "text": "J_Musiala mete el balón en la zona de peligro M_Olise se ofrece y recibe el cuero M_Olise trata de sorprender a M_TerStegen desde fuera del área M_TerStegen se juega el físico y mete la mano ¡UAU! Vaya parada Ha chocado contra el palo de lo ajustado que iba el disparo CÓRNER J_Musiala cuelga el centro al segundo palo El balón cruza un bosque de piernas y llega a A_Davies Mete el pie Fuera Menos fuerza y más puntería chico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "bay",
+      "text": "L_Diaz entra por J_Kimmich, jugará de FW y sus aficionados reciben el cambio con alegría",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "bay",
+      "text": "K_Laimer entra por R_Guerreiro y jugará de MF para regocizo de sus aficionados",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "bay",
+      "text": "El entrenador del Bayern Munich grita desesperadamente a sus jugadores que pasen a A. Qué nervios",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "bay",
+      "text": "L_Diaz con un glorioso pase largo hacia Xavi_Simmons Xavi_Simmons desde fuera del área M_TerStegen ve salir el balón demasiado alto Pero ojo con el efecto Pega en el palo Y fuera. M_TerStegen parece sorprendido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "bay",
+      "text": "J_Musiala se va de uno, de dos, de tres Mira a un lado... y pasa hacia L_Diaz al otro lado OH L_Diaz se anticipa a su marcador El balón vuela como un obús hacia la portería M_TerStegen reacciona con rapidez ¿Llegará a desviar el envenenado disparo? ¡NO! GOOOOOL M_TerStegen descarga su frustración pateando el palo Equilibrio de fuerzas Bayern Munich 1-1 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "bar",
+      "text": "El entrenador del FC Barcelona decide que es el momento de pasar a N",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "bay",
+      "text": "El defensa hace un mal control M_Olise está atento. Roba el cuero y prepara el disparo M_Olise con un sutil toque de puntera M_TerStegen llega con la punta de los dedos al balón Y lo desvía lo suficiente como para que salga por encima CÓRNER El lanzamiento va a cargo de S_Boey M_TerStegen se eleva Y caza el centro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "bar",
+      "text": "Gavi tira la pared con su delantero F_Torres con un preciso pase de primeras Menuda jugada F_Torres tiene una oportunidad de oro Envía un disparo colocadísimo M_Neuer llega con la punta de los dedos Gran parada Estas acciones pueden ser claves en un partido CÓRNER El lanzamiento va a cargo de P_Cubarsi M_Neuer mete los puños con fuerza y aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "bay",
+      "text": "K_Laimer con un preciso pase hacia Xavi_Simmons Xavi_Simmons con un sorprendente remate ¡UAU! Ha pegado en el larguero y ha botado sobre la misma línea A Viktor_Kassai le vibra la pulsera. La tecnología no falla GOOOOOL Es válido El balón ha cruzado la línea de meta El Bayern Munich jugará con ventaja a partir de ahora Bayern Munich 2-1 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "bay",
+      "text": "Creo que Bayern Munich quieren jugar D ahora",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "bar",
+      "text": "El ayudante del entrenador llama a M_Rashford Guehi va a ser sustituído Está decepcionado porque no puede seguir Su sustituto jugará de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "bar",
+      "text": "El segundo entrenador se dirige al capitán desde la línea de banda Parece que FC Barcelona va a cambiar a A",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "bay",
+      "text": "J_Tah entra por K_DeBruyne y jugará de DF para regocizo de sus aficionados",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "bar",
+      "text": "J_Kounde ve especio entre el central y el lateral. Pone un peligroso pase diagonal para W_Fofana W_Fofana resuelve la jugada con un tremendo disparo Bota en la línea tras golpear en el travesaño El colegiado duda... mira al asistente ¡Sigan! Dice No ha dado el gol Pues parecía que había cruzado la línea",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "bar",
+      "text": "Estevao cambia su posición en el dibujo táctico. Jugará de AM",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "bar",
+      "text": "Gavi corre metros La defensa rival se ha despistado, hay hueco Pone un peligroso balón sobre la entrada de M_Rashford Pero A_Davies corta el ataque con mucha sobriedad CÓRNER F_Torres coloca el balón con mucha suavidad M_Neuer se anticipa a la jugada y atrapa el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "bay",
+      "text": "A_Pavlovic evita una entrada a ras de suelo y manda el balón por bajo a M_Olise P_Cubarsi le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "bar",
+      "text": "Pedri tiene campo por delante Pasa a F_Torres J_Musiala levanta al delantero dos metros del suelo ¡Ay va! Qué entrada El colegiado se acerca corriendo Y le dice al delantero que no haga cuento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "bay",
+      "text": "M_Olise controla en carrera Le hace un sombrero a W_Fofana oooooh Que entrada más dura de R_Lewandowski Le ha pegado con toda la mala leche del mundo Segunda amarilla (EXPULSADO) Qué infantil Sabía que debía tener cuidado después de la primera cartulina",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons combina con L_Diaz. Le ha metido un buen balón picado Logra meter la plaanta del pie L_Diaz M_TerStegen despeja... con la cabeza Estaba despistado Su entrenador se está comiendo el banquillo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "bar",
+      "text": "Gavi cae entre muestras de dolor Trata de levantarse Hace que 'sí' con la cabeza hacia el banquillo. Va a seguir",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "bar",
+      "text": "Gavi con el saque de banda Ve a un compañero solo El balón vuela hacia M_Rashford M_Rashford duerme el balón con el pecho y lo empalma de primeras M_Neuer desvía ligeramente el balón Fuera Lo ha logrado ¿Saque de puerta? Vi claramente como la tocaba el cancerbero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons le pega al balón con el exterior El efecto despista a la defensa, que no puede evitar que le llegue a A_Pavlovic M_Rashford con una entrada desmesurada Creo que buscaba el balón, pero debería calmarse un poquito",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

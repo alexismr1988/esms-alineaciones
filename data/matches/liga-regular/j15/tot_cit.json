@@ -1,0 +1,1149 @@
+{
+  "id": "liga-regular/j15/tot_cit",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j15",
+  "roundLabel": "Jornada 15",
+  "fileName": "tot_cit.txt",
+  "homeCode": "tot",
+  "awayCode": "cit",
+  "homeTeam": "Tottenham",
+  "awayTeam": "Manchester City",
+  "result": {
+    "home": 0,
+    "away": 2,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Tottenham 0-1 Manchester City",
+  "formation": {
+    "home": "4-3-3 D",
+    "away": "4-4-2 N"
+  },
+  "referee": {
+    "name": "Howard Webb",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "G_Vicario",
+        "displayName": "G Vicario",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "P_Porro",
+        "displayName": "P Porro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "C_Romero",
+        "displayName": "C Romero",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_VandeVen",
+        "displayName": "M VandeVen",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Dragusin",
+        "displayName": "R Dragusin",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Maddison",
+        "displayName": "J Maddison",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "R_Bentancur",
+        "displayName": "R Bentancur",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Kulusevski",
+        "displayName": "D Kulusevski",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Johnson",
+        "displayName": "B Johnson",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Richarlison",
+        "displayName": "Richarlison",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "D_Solanke",
+        "displayName": "D Solanke",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Kinsky",
+        "displayName": "A Kinsky",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_Danso",
+        "displayName": "K Danso",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Udogie",
+        "displayName": "D Udogie",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_Gray",
+        "displayName": "A Gray",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Tel",
+        "displayName": "M Tel",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "Unai_Simon",
+        "displayName": "Unai Simon",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "Laporte",
+        "displayName": "Laporte",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Dias",
+        "displayName": "R Dias",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Akanji",
+        "displayName": "M Akanji",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Gvardiol",
+        "displayName": "J Gvardiol",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Rodri",
+        "displayName": "Rodri",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Kovacic",
+        "displayName": "M Kovacic",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Nunes",
+        "displayName": "M Nunes",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Silva",
+        "displayName": "B Silva",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "E_Haaland",
+        "displayName": "E Haaland",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "O_Marmoush",
+        "displayName": "O Marmoush",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Ederson",
+        "displayName": "Ederson",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Stones",
+        "displayName": "J Stones",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "I_Gundogan",
+        "displayName": "I Gundogan",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "T_Reijnders",
+        "displayName": "T Reijnders",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Lookman",
+        "displayName": "Lookman",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Tottenham",
+      "mvp": "K_Danso",
+      "goals": "N/A",
+      "sentOff": "N/A",
+      "booked": "A_Gray (82)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Manchester City",
+      "mvp": "M_Kovacic (Jugador del partido)",
+      "goals": "O_Marmoush (24), M_Kovacic (76)",
+      "sentOff": "N/A",
+      "booked": "O_Marmoush (65)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 4,
+      "away": 5
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 3,
+      "away": 4
+    },
+    {
+      "label": "Posesión",
+      "home": 39,
+      "away": 61
+    },
+    {
+      "label": "Córners",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Faltas",
+      "home": 8,
+      "away": 7
+    },
+    {
+      "label": "Entradas",
+      "home": 7,
+      "away": 6
+    },
+    {
+      "label": "Pases clave",
+      "home": 8,
+      "away": 7
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Tottenham",
+      "players": [
+        {
+          "name": "G_Vicario",
+          "displayName": "G Vicario",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 93,
+          "sav": 2,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Porro",
+          "displayName": "P Porro",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 28,
+          "sh": 14,
+          "ag": 23,
+          "min": 93,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Romero",
+          "displayName": "C Romero",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 15,
+          "sh": 7,
+          "ag": 23,
+          "min": 93,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_VandeVen",
+          "displayName": "M VandeVen",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 4,
+          "sh": 7,
+          "ag": 22,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Dragusin",
+          "displayName": "R Dragusin",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 7,
+          "ag": 22,
+          "min": 45,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Maddison",
+          "displayName": "J Maddison",
+          "position": "MF",
+          "st": 2,
+          "tk": 12,
+          "ps": 41,
+          "sh": 18,
+          "ag": 23,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Bentancur",
+          "displayName": "R Bentancur",
+          "position": "MF",
+          "st": 2,
+          "tk": 28,
+          "ps": 38,
+          "sh": 16,
+          "ag": 23,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Kulusevski",
+          "displayName": "D Kulusevski",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 14,
+          "ag": 23,
+          "min": 66,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Johnson",
+          "displayName": "B Johnson",
+          "position": "FW",
+          "st": 2,
+          "tk": 19,
+          "ps": 20,
+          "sh": 41,
+          "ag": 23,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Richarlison",
+          "displayName": "Richarlison",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 26,
+          "sh": 40,
+          "ag": 23,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Solanke",
+          "displayName": "D Solanke",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 14,
+          "sh": 36,
+          "ag": 23,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Kinsky",
+          "displayName": "A Kinsky",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Danso",
+          "displayName": "K Danso",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 5,
+          "sh": 7,
+          "ag": 21,
+          "min": 48,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Udogie",
+          "displayName": "D Udogie",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 18,
+          "sh": 12,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Gray",
+          "displayName": "A Gray",
+          "position": "MF",
+          "st": 2,
+          "tk": 8,
+          "ps": 36,
+          "sh": 14,
+          "ag": 22,
+          "min": 27,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "M_Tel",
+          "displayName": "M Tel",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 24,
+          "sh": 33,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Manchester City",
+      "players": [
+        {
+          "name": "Unai_Simon",
+          "displayName": "Unai Simon",
+          "position": "GK",
+          "st": 43,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 93,
+          "sav": 3,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Laporte",
+          "displayName": "Laporte",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 11,
+          "sh": 9,
+          "ag": 19,
+          "min": 93,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Dias",
+          "displayName": "R Dias",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 15,
+          "sh": 4,
+          "ag": 26,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Akanji",
+          "displayName": "M Akanji",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 93,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Gvardiol",
+          "displayName": "J Gvardiol",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 93,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rodri",
+          "displayName": "Rodri",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 47,
+          "sh": 9,
+          "ag": 27,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Kovacic",
+          "displayName": "M Kovacic",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 41,
+          "sh": 14,
+          "ag": 26,
+          "min": 93,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Nunes",
+          "displayName": "M Nunes",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 35,
+          "sh": 14,
+          "ag": 25,
+          "min": 76,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Silva",
+          "displayName": "B Silva",
+          "position": "MF",
+          "st": 2,
+          "tk": 9,
+          "ps": 43,
+          "sh": 21,
+          "ag": 27,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Haaland",
+          "displayName": "E Haaland",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 12,
+          "sh": 49,
+          "ag": 30,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Marmoush",
+          "displayName": "O Marmoush",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 14,
+          "sh": 43,
+          "ag": 28,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Ederson",
+          "displayName": "Ederson",
+          "position": "GK",
+          "st": 39,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Stones",
+          "displayName": "J Stones",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 17,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "I_Gundogan",
+          "displayName": "I Gundogan",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 40,
+          "sh": 14,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Reijnders",
+          "displayName": "T Reijnders",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 14,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Lookman",
+          "displayName": "Lookman",
+          "position": "FW",
+          "st": 2,
+          "tk": 8,
+          "ps": 22,
+          "sh": 40,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "cit",
+      "text": "J_Gvardiol encara portería, levanta la cabeza Ve a P_Porro en su camino y lo regatea Se lo ha quitado de encima Pero C_Romero se anticipa a la jugada. Qué sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "tot",
+      "text": "B_Johnson pone el balón a la espalda de los centrales D_Solanke llega con comodidad D_Solanke no va a llegar. Sí, mete el pie... Unai_Simon hace una parada realmente complicada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "cit",
+      "text": "M_Kovacic pisa campo contrario. Mete un pase entre los centrales para E_Haaland R_Dragusin despeja a córner CÓRNER B_Silva cuelga el balón P_Porro aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "cit",
+      "text": "O_Marmoush corre hacia la portería Evita una entrada peligrosa Acomoda el cuerpo para resolver O_Marmoush saca un disparo durísimo desde lejos Impacta el cuero con precisión y suavidad GOOOOOL Levanta los brazos ¡Qué frialdad! ¡Qué calidad! ¡Qué golazo! El Manchester City se cobra ventaja ¿Podrá mantenerla hasta el final? Tottenham 0-1 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "tot",
+      "text": "D_Solanke evita la entrada a ras de suelo de Laporte con un giro Pisa el balón y sigue adelante ¿Estoy soñando? ¿Han visto lo mismo que yo? D_Solanke suelta un disparo muy débil Golpea en la madera Y fuera Está desesperado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 33,
+      "teamCode": "tot",
+      "text": "M_VandeVen pisa el balón Sortea a Laporte con un taconazo Han visto eso Es una pieza de arte J_Gvardiol va en carrera y mete el codo El delantero va al suelo Ha sido sutil, el árbitro no lo ha visto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "tot",
+      "text": "B_Johnson despista a R_Dias con una rapidísima bicicleta. ¿Es futbolista o Lance Armstrong? B_Johnson suelta un disparo muy débil Pero Unai_Simon detiene con suma facilidad Siempre estuvo encima de la jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "cit",
+      "text": "El defensa está presionado Se saca el balón de encima B_Silva se va solo C_Romero envía el balón a las gradas publicitarias",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "cit",
+      "text": "O_Marmoush en una demostración de potencia y velocidad Potente chut de O_Marmoush Pero G_Vicario rechaza con los pies Podría haberla cogido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que va a haber 1 minuto de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "cit",
+      "text": "M_Kovacic controla un balón aéreo De primeras hacia B_Silva R_Dragusin se lleva el balón con la mano No hay falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "tot",
+      "text": "Aparece el cartel electrónico - K_Danso entra por R_Dragusin y jugará de DF",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "tot",
+      "text": "J_Maddison combina con D_Solanke. Le ha metido un buen balón picado J_Gvardiol se lanza al corte Falta Ha jugado al límite del reglamento Howard_Webb le da una sonora reprimenda... pero no lo amonesta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "tot",
+      "text": "B_Johnson se cuela por la banda Centra hacia R_Bentancur R_Bentancur remacha el balón a ras de suelo Unai_Simon agranda su figura y atrapa la pelota espectacularmente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "cit",
+      "text": "O_Marmoush supera a K_Danso El defensa está viviendo una pesadilla M_VandeVen con una entrada asesina Ha sido un acto frío y deliberado. Indignante Se marcha con una simple amonestación ¿Se habrá dejado las tarjetas en el vestuario?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "cit",
+      "text": "B_Silva conecta con J_Gvardiol. Qué entendimiento hay entre ambos P_Porro llega como un tren y corta el ataque lanzándose al suelo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "cit",
+      "text": "M_Akanji espera apoyos E_Haaland sale de la cueva. Para él va el balón oooooh Que entrada más dura de D_Solanke Ha sido un acto frío y deliberado. Indignante Howard_Webb saca el tarjetero y se lo muestra. Una imagen vale más que mil plabaras FALTA DIRECTA Es una posición buenísima para el lanzador E_Haaland busca un disparo raso por debajo de la barrera Pega en el muslo de un defensa Y sale a centímetros de la escuadra CÓRNER M_Nunes acaricia el cuero K_Danso mira atentamente el centro... y lo despeja",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "tot",
+      "text": "D_Kulusevski avanza pegado a la línea de banda Despista al defensa con un gran regate Y la pone en el área por bajo hacia Richarlison M_Akanji se juega el físico con una entrada durísima. Era su única opción",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "tot",
+      "text": "P_Porro con el lanzamiento de la falta Ve el desmarque de su compañero El balón va directo hacia el pie de R_Bentancur Laporte aparece de la nada. El delantero aún está buscando el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "tot",
+      "text": "A_Gray entrará en el campo. Está impaciente por demostrar su clase D_Kulusevski dejará el terreno de juego Aplaude a los aficionados El técnico le indica que juegue de MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "tot",
+      "text": "R_Bentancur con un regate eléctrico ante Rodri oooooh Que entrada más dura de O_Marmoush No hay espacio en TSM para este tipo de acciones Ay, ay, ay Podría ser expulsado por eso (AMARILLA) Los jugadores rivales increpan al árbitro",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "tot",
+      "text": "Richarlison avanza pegado a la línea de banda Mete el balón al área D_Solanke Interceptada por Laporte",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "cit",
+      "text": "J_Stones va a tener su oportunidad en este partido M_Nunes deja el terreno de juego con cara de pocos amigos Su sustituto jugará de DF",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "cit",
+      "text": "R_Dias con un pase milimétrico El balón pasa por encima de K_Danso Y le llega a M_Kovacic M_Kovacic levanta la cabeza, apunta a la escuadra y... ¡dispara! GOOOOOL Regateó a G_Vicario Tottenham 0-2 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "cit",
+      "text": "El entrenador del Manchester City grita desesperadamente a sus jugadores que pasen a P. Qué nervios",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "cit",
+      "text": "Rodri con el saque de banda El defensa pide fuera de juego Si no hay M_Kovacic se escapa K_Danso se le anticipa y le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "cit",
+      "text": "E_Haaland ha roto por completo el fuera de juego Encara a G_Vicario A_Gray lo derriba en el área Toma Eso ha sido muy feo Howard_Webb le indica que se gire ¿Será tarjeta, pero tendrá valor para expulsarlo? ¡NO! (AMARILLA) FALTA DIRECTA Howard_Webb dice que es indirecta M_Kovacic con la jugada de estrategia O_Marmoush recibe el pase K_Danso corta la jugada con un cabezazo en plancha",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "cit",
+      "text": "J_Stones se saca un pase al primer toque hacia O_Marmoush de la chistera O_Marmoush con un tremendo cabezazo G_Vicario flota sobre la línea de meta Mete la mano ¿Córner? No se equivocó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 2 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 90,
+      "teamCode": "tot",
+      "text": "Peligroso centro de J_Maddison a Richarlison Corte finísimo y preciso de M_Akanji Ha medido muy bien",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "tot",
+      "text": "A ver qué inventa A_Gray ahora. Pase de interior hacia D_Solanke Pero M_Kovacic corta el ataque con mucha sobriedad CÓRNER J_Maddison cuelga el centro al segundo palo Depejado por Laporte",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

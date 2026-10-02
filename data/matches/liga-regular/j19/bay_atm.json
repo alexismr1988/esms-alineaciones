@@ -1,0 +1,1362 @@
+{
+  "id": "liga-regular/j19/bay_atm",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j19",
+  "roundLabel": "Jornada 19",
+  "fileName": "bay_atm.txt",
+  "homeCode": "bay",
+  "awayCode": "atm",
+  "homeTeam": "Bayern Munich",
+  "awayTeam": "Atletico Madrid",
+  "result": {
+    "home": 1,
+    "away": 2,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Bayern Munich 0-2 Atletico Madrid",
+  "formation": {
+    "home": "4-3-1-2 N",
+    "away": "4-2-4 A"
+  },
+  "referee": {
+    "name": "Viktor Kassai",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "M_Neuer",
+        "displayName": "M Neuer",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "S_Boey",
+        "displayName": "S Boey",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Davies",
+        "displayName": "A Davies",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Tah",
+        "displayName": "J Tah",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Upamecano",
+        "displayName": "D Upamecano",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Pavlovic",
+        "displayName": "A Pavlovic",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Musiala",
+        "displayName": "J Musiala",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Kimmich",
+        "displayName": "J Kimmich",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Olise",
+        "displayName": "M Olise",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Xavi_Simmons",
+        "displayName": "Xavi Simmons",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "L_Diaz",
+        "displayName": "L Diaz",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Urbig",
+        "displayName": "J Urbig",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Stanisic",
+        "displayName": "J Stanisic",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_DeBruyne",
+        "displayName": "K DeBruyne",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "P_Wanner",
+        "displayName": "P Wanner",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "H_Kane",
+        "displayName": "H Kane",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "J_Oblak",
+        "displayName": "J Oblak",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "R_LeNormand",
+        "displayName": "R LeNormand",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Gimenez",
+        "displayName": "J Gimenez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Llorente",
+        "displayName": "M Llorente",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Hancko",
+        "displayName": "D Hancko",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Koke",
+        "displayName": "Koke",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Baena",
+        "displayName": "A Baena",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Griezmann",
+        "displayName": "A Griezmann",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Alvarez",
+        "displayName": "J Alvarez",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "G_Raspadori",
+        "displayName": "G Raspadori",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Sorloth",
+        "displayName": "A Sorloth",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Musso",
+        "displayName": "J Musso",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Ruggeri",
+        "displayName": "M Ruggeri",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "N_Molina",
+        "displayName": "N Molina",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "P_Barrios",
+        "displayName": "P Barrios",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "G_Simeone",
+        "displayName": "G Simeone",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Bayern Munich",
+      "mvp": "J_Musiala (Jugador del partido)",
+      "goals": "J_Musiala (66)",
+      "sentOff": "N/A",
+      "booked": "L_Diaz (46), Xavi_Simmons (64)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Atletico Madrid",
+      "mvp": "Koke",
+      "goals": "A_Sorloth (21), J_Alvarez (44)",
+      "sentOff": "N/A",
+      "booked": "Koke (36)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 23,
+      "away": 20
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 9,
+      "away": 8
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 14,
+      "away": 12
+    },
+    {
+      "label": "Posesión",
+      "home": 52,
+      "away": 48
+    },
+    {
+      "label": "Córners",
+      "home": 9,
+      "away": 3
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 8,
+      "away": 8
+    },
+    {
+      "label": "Entradas",
+      "home": 6,
+      "away": 7
+    },
+    {
+      "label": "Pases clave",
+      "home": 21,
+      "away": 17
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Bayern Munich",
+      "players": [
+        {
+          "name": "M_Neuer",
+          "displayName": "M Neuer",
+          "position": "GK",
+          "st": 43,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 92,
+          "sav": 11,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Boey",
+          "displayName": "S Boey",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 7,
+          "ag": 24,
+          "min": 92,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Davies",
+          "displayName": "A Davies",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 21,
+          "sh": 9,
+          "ag": 28,
+          "min": 92,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Tah",
+          "displayName": "J Tah",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 92,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Upamecano",
+          "displayName": "D Upamecano",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 61,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Pavlovic",
+          "displayName": "A Pavlovic",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 37,
+          "sh": 12,
+          "ag": 25,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 5,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Musiala",
+          "displayName": "J Musiala",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 44,
+          "sh": 21,
+          "ag": 28,
+          "min": 92,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 4,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Kimmich",
+          "displayName": "J Kimmich",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 14,
+          "ag": 26,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Olise",
+          "displayName": "M Olise",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 21,
+          "sh": 41,
+          "ag": 27,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Xavi_Simmons",
+          "displayName": "Xavi Simmons",
+          "position": "AM",
+          "st": 2,
+          "tk": 18,
+          "ps": 44,
+          "sh": 27,
+          "ag": 21,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 6,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "L_Diaz",
+          "displayName": "L Diaz",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 26,
+          "sh": 42,
+          "ag": 28,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 6,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "J_Urbig",
+          "displayName": "J Urbig",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Stanisic",
+          "displayName": "J Stanisic",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 7,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_DeBruyne",
+          "displayName": "K DeBruyne",
+          "position": "MF",
+          "st": 2,
+          "tk": 18,
+          "ps": 45,
+          "sh": 26,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Wanner",
+          "displayName": "P Wanner",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 36,
+          "sh": 14,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Kane",
+          "displayName": "H Kane",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 45,
+          "ag": 28,
+          "min": 31,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Atletico Madrid",
+      "players": [
+        {
+          "name": "J_Oblak",
+          "displayName": "J Oblak",
+          "position": "GK",
+          "st": 45,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 92,
+          "sav": 16,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_LeNormand",
+          "displayName": "R LeNormand",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 92,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Gimenez",
+          "displayName": "J Gimenez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 92,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Llorente",
+          "displayName": "M Llorente",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 36,
+          "sh": 14,
+          "ag": 27,
+          "min": 92,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Hancko",
+          "displayName": "D Hancko",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 45,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Koke",
+          "displayName": "Koke",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 43,
+          "sh": 12,
+          "ag": 25,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 8,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "A_Baena",
+          "displayName": "A Baena",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 39,
+          "sh": 21,
+          "ag": 25,
+          "min": 56,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Griezmann",
+          "displayName": "A Griezmann",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 28,
+          "sh": 44,
+          "ag": 28,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 8,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Alvarez",
+          "displayName": "J Alvarez",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 21,
+          "sh": 42,
+          "ag": 29,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 5,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Raspadori",
+          "displayName": "G Raspadori",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 21,
+          "sh": 36,
+          "ag": 26,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Sorloth",
+          "displayName": "A Sorloth",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 36,
+          "ag": 27,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 5,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Musso",
+          "displayName": "J Musso",
+          "position": "GK",
+          "st": 30,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Ruggeri",
+          "displayName": "M Ruggeri",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 47,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Molina",
+          "displayName": "N Molina",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 19,
+          "sh": 7,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Barrios",
+          "displayName": "P Barrios",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 12,
+          "ag": 26,
+          "min": 36,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Simeone",
+          "displayName": "G Simeone",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 28,
+          "sh": 32,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "bay",
+      "text": "A_Pavlovic envía un pase en profundidad hacia L_Diaz L_Diaz mira fijamente al marco ¡Dispara! Al lateral de la red",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "bay",
+      "text": "J_Musiala ve especio entre el central y el lateral Qué pase en diagonal L_Diaz pisa área. Peligro L_Diaz se saca una tijera ¡Qué bello! Al lateral de la red Parte del estadio cantó gol",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "atm",
+      "text": "G_Raspadori tiene tiempo para meditar la jugada G_Raspadori otea la posición de M_Neuer ¡Dispara! M_Neuer hace una gran parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons ve a J_Musiala completamente solo M_Llorente llega apurado al corte y mete la pierna hacia J_Oblak ¡Ohhhh! no Ha superado a J_Oblak Rueda lentamente Fuera CÓRNER J_Kimmich coloca el balón con mucha suavidad Vuela hacia A_Davies se anticipa a su marcador Pega en el muslo de un defensa Y sale a centímetros de la escuadra CÓRNER J_Musiala cuelga el balón D_Hancko conjura el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "atm",
+      "text": "J_Gimenez encara portería, levanta la cabeza Ve a J_Kimmich en su camino y lo regatea Se lo ha quitado de encima D_Upamecano corta con mucha tranquilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "atm",
+      "text": "A_Griezmann habilita a A_Baena con un preciso toque A_Baena trata de sorprender a M_Neuer El cuero sale disparado M_Neuer salta ante el tremendo disparo ¿Llegará? No Pero se estrella en palo Y va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons cruza para A_Davies A_Davies rompe el sistema defensivo rival Trata de rodear a J_Oblak Intenta superar a J_Oblak J_Oblak con la parada de la noche",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "bay",
+      "text": "J_Kimmich cuelga arriba sobre M_Olise R_LeNormand va en carrera y mete el codo El delantero va al suelo Ha sido sutil, el árbitro no lo ha visto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "atm",
+      "text": "A_Griezmann deja a Xavi_Simmons en el camino A_Griezmann trata de sorprender con un chut lejano Pero M_Neuer responde con una parada muy sencilla",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "bay",
+      "text": "M_Olise controla de espaldas a la portería Se protege del defensa con los brazos Gira... y se lo lleva M_Olise empalma el balón a la perfección No le podría haber pegado mejor J_Oblak la envía por encima Está muy metido en el partido CÓRNER J_Tah centra hacia el área J_Oblak coge con facilidad el defectuoso centro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "bay",
+      "text": "A_Pavlovic sale del regate y mete un pase hacia J_Musiala R_LeNormand llega como un tren y corta el ataque lanzándose al suelo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "atm",
+      "text": "A ver qué inventa Koke ahora. Pase de interior hacia A_Sorloth A_Sorloth mira fijamente al portero Dispara entre las piernas de su marcador GOOOOOL ¡Qué golazo! Es para hacerle un monumento El Atletico Madrid gana momentáneamente Bayern Munich 0-1 Atletico Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "atm",
+      "text": "Koke se saca un pase al primer toque hacia A_Griezmann de la chistera A_Griezmann impacta el balón con dureza Va directo hacia M_Neuer Pone mal la pierna Sale rebotada hacia atrás M_Neuer mira el balón alarmado Y lo ve salir al lado del palo, suspira de alivio, menudo fallo CÓRNER J_Alvarez cuelga el balón M_Neuer se anticipa a la jugada y atrapa el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "bay",
+      "text": "M_Olise hace una croqueta Evita la dura entrada de M_Llorente. ¡Qué clase! El lanzamiento rebota en el muslo de M_Olise y se encamina a puerta J_Oblak llega con la punta de los dedos al balón Y lo desvía lo suficiente como para que salga por encima CÓRNER A_Pavlovic cuelga el centro al segundo palo R_LeNormand sale al corte Y llega el primero al balón. Buenos reflejos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "bay",
+      "text": "M_Olise está cerrado por tres contrarios Pisa el balón dos veces y los deja sentados ¡OH! ¡Qué calse! Ahora mete el pase a J_Kimmich J_Kimmich con un tremendo cabezazo El disparo coge un efecto envenenado J_Oblak reacciona rápidamente y corrige su posición No va a llegar Pero sale rozando el palo J_Oblak estaba batido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "atm",
+      "text": "A_Griezmann mete el pie y se lleva el balón. Ojo A_Griezmann le pega con dureza No ha precisado demasiado M_Neuer rechaza el balón con los pies Su defensa cierra el rebote y envía el balón al centro del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "bay",
+      "text": "J_Musiala suelta un cañonazo Al larguero L_Diaz recoge el rebote L_Diaz tiene tiempo y espacio Busca la vaselina J_Oblak lo atrapa fácilmente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "bay",
+      "text": "J_Musiala se interna por una banda Túnel al defensa Oh ¿Lo han visto? Quiebra al lateral Qué jugada J_Kimmich tira el desmarque en el centro Le pone una pase medido J_Kimmich con un toque sutil ¡El balón va a puerta! Pero J_Oblak manda el balón a córner Viktor_Kassai indicará córner No Marca saque de puerta Madre mía",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "atm",
+      "text": "J_Alvarez encuentra a M_Llorente con un pase largo A_Davies se interpone entre el delantero y el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "bay",
+      "text": "M_Olise va al choque con el defensa Ambos caen al suelo Pero el delantero se levanta antes y coge el balón Pero pisa un charco y cae al suelo J_Gimenez recoge el balón. Menudo marcaje le está haciendo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "bay",
+      "text": "M_Olise con un tremendo sprint oooooh Que entrada más dura de Koke Le ha pegado con toda la mala leche del mundo Viktor_Kassai le hace señas. Esto no pinta bien (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons se abre a la banda. Recibe el balón Levanta la cabeza, no hay salida Pero encuentra a L_Diaz. ¡Qué visión de juego! L_Diaz coloca el balón al palo largo J_Oblak mete el cuerpo El balón rebota hacia arriba Pero J_Oblak se incorpora velozmente y lo atrapa",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "atm",
+      "text": "Koke para J_Alvarez Xavi_Simmons placa a su oponente Este tío tiene futuro... en la NFL Viktor_Kassai no lo amonesta Vaya, yo creo que es de los peores árbitros de TSM",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "atm",
+      "text": "A_Baena curls the ball out wide to A_Sorloth A_Sorloth se lanza en plancha... ¡Qué valentía! Remata justo cuando el balón hace un mal bote A las nubes Los aficionados rivales se ríen de él",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "bay",
+      "text": "J_Musiala tiene campo por delante Pasa a Xavi_Simmons Xavi_Simmons regatea a uno, dos y chuta J_Oblak salta de manera espectacular Y atrapa el balón Se ha adornado para la foto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "bay",
+      "text": "J_Tah controla el balón en una demostración de clase Abre el juego a la izquierda Xavi_Simmons es el destinatario Xavi_Simmons regatea a uno, dos y... oh Chuta J_Oblak observa como el balón se va lejos de su marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que va a haber 1 minuto de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "atm",
+      "text": "M_Llorente cambia el juego J_Alvarez recibe con campo por delante J_Alvarez mete el interior del pie con mucha intención Chuta con muy poca precisión El balón se pierde lejos del marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "atm",
+      "text": "J_Alvarez se planta en la frontal del área J_Alvarez con un toque sutil ¡El balón va a puerta! GOOOOOL M_Neuer abronca estrepitosamente a sus defensas Bayern Munich 0-2 Atletico Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "atm",
+      "text": "M_Ruggeri reemplaza a D_Hancko para colocarse de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "atm",
+      "text": "Koke sale a la contra. Mete un pase medido a A_Sorloth J_Tah se interpone entre el delantero y el balón. Ha ganado la posición",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "bay",
+      "text": "A_Pavlovic controla el balón en una demostración de clase Abre el juego a la derecha L_Diaz recibe el cuero L_Diaz recibe el balón de espaldas Oh Se ha sacado una tijereta El disparo se le escurre a J_Oblak de las manos rueda lentamente hacia el marco Pero sale a centímetros del palo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "atm",
+      "text": "El balón queda muerto A_Baena lo controla y prepara el disparo L_Diaz choca con su oponente y lo envía al césped solo puede ser falta (AMARILLA) Se la estaba buscando Y más le valdrá que se calme",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "atm",
+      "text": "J_Alvarez se mete en el área. Va a chutar No, pase para A_Griezmann A_Griezmann suelta un terrible disparo por debajo de las piernas de su marcador M_Neuer llega con la punta de los dedos al balón y sale rozando el palo Qué gran intervención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "atm",
+      "text": "A_Sorloth se aprovecha de un error de Xavi_Simmons Corre hacia el marco A_Sorloth regatea a uno, dos y chuta La red se mueve OH Pegó en el lateral Parte de la grada cantó GOL",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "bay",
+      "text": "A_Pavlovic con un peligroso pase hacia L_Diaz L_Diaz le pega con la zurda Pero dispara muy abierto ¿Sabrá que el objetivo del fútbol es meter el balón en la portería?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "atm",
+      "text": "Koke con un pase muy fuerte para A_Griezmann A_Griezmann impacta el cuero al primer toque Podría haberla parado Rebota en el palo Se anticipa al defensa para el rebote Es gol de Abreu, Abreu, Abreeeeeeeeeeu Ha tirado fuera ¿Como? Si no había portero",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "atm",
+      "text": "P_Barrios reemplaza a A_Baena para colocarse de MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "bay",
+      "text": "A_Davies despista a R_LeNormand con una rapidísima bicicleta. ¿Es futbolista o Lance Armstrong? A_Davies con un tremendo disparo J_Oblak mete el pie El rebote cae sobre la misma línea El delantero se lanza en plancha Pero el guardameta vuelve a meter la pierna CÓRNER Picado por A_Davies J_Oblak se anticipa a la jugada y atrapa el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "bay",
+      "text": "H_Kane se despoja del chándal. Entrará por D_Upamecano Jugará de FW El entrenador reza para que el cambio de sus frutos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "bay",
+      "text": "Creo que Bayern Munich quieren jugar A ahora",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "atm",
+      "text": "M_Llorente con un pase milimétrico El balón pasa por encima de A_Davies Y le llega a J_Alvarez J_Alvarez busca una vaselina imposible Impacta mal al cuero Se pierde inofensivamente por la línea de fondo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons de tacón hacia M_Olise. Gran pase M_Olise busca la vaselina J_Oblak mete los puños y desvía el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "atm",
+      "text": "Koke le pega al balón con el exterior El efecto despista a la defensa, que no puede evitar que le llegue a G_Raspadori Xavi_Simmons eleva demasiado el pie (AMARILLA) Por unos momentos lo vi expulsado El entrenador de Atletico Madrid parece asombrado de que no fuera roja",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "atm",
+      "text": "P_Barrios pasa el balón a J_Alvarez J_Musiala entra con todo El balón rueda y cruza la línea de fondo CÓRNER Koke cuelga el balón Vuela hacia A_Sorloth se anticipa a su marcador M_Neuer lo para cómodamente El disparo nunca llevó peligro real",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "bay",
+      "text": "L_Diaz con un preciso pase hacia J_Musiala J_Musiala otea la posición de J_Oblak ¡Dispara! GOOOOOL Tira su camiseta al público ¡Ay va! Hay tortazos por cogerla Bayern Munich 1-2 Atletico Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "bay",
+      "text": "A_Pavlovic busca algún apoyo Ojo Casi pierde el balón en una zona peligrosa Pero consigue meter el pase para M_Olise M_Olise busca el palo por bajo Bota en la línea tras golpear en el travesaño El colegiado duda... mira al asistente ¡Sigan! Dice No ha dado el gol Pues parecía que había cruzado la línea",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "atm",
+      "text": "Koke retrocede ante la presión Golpea el balón hacia arriba sin sentido y le cae a A_Sorloth Ha sacado petróleo de esa jugada A_Sorloth empalma con la derecha M_Neuer mete los puños y manda el balón a la banda. Cómo marcan los cánones",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "bay",
+      "text": "H_Kane tiene a varios compañeros solos Decide jugar él solo. Un poco chupón, ¿eh? M_Ruggeri choca con el delantero Y el balón sale fuera Córner CÓRNER Xavi_Simmons con un cerrado lanzamiento al primer palo M_Llorente cubre el segundo palo Y evita el remate del delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "bay",
+      "text": "J_Musiala se va de uno Regatea a otro A otro Parece Maradona contra Inglaterra ¡Puede marcar el gol del siglo! J_Musiala busca una de las dos escuadras La coloca lejos del alcance del portero J_Oblak da dos pasos atrás y se lanza ¡Sí! ¡Lo logró! CÓRNER M_Olise cuelga el centro al segundo palo J_Oblak coge con facilidad el defectuoso centro",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "atm",
+      "text": "M_Ruggeri con el lanzamiento de la falta Ve el desmarque de su compañero El balón va directo hacia el pie de A_Griezmann A_Griezmann remata con los ojos cerrados Vuela por encima de M_Neuer Va a puerta Pero se pierde por encima del larguero Tenía mucha intención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "atm",
+      "text": "A_Griezmann gambetea ante A_Davies, lo está desquiciando A_Griezmann se saca una tijera ¡Qué bello! M_Neuer flota sobre la línea de meta Mete la mano ¿Córner? No se equivocó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "atm",
+      "text": "Koke cruza para J_Alvarez J_Alvarez suelta un chut con un efecto endiablado M_Neuer cierra el ángulo El balón va directo hacia él M_Neuer mete los puños Córner Podría haberla blocado CÓRNER Koke cuelga el centro al segundo palo Directo hacia J_Alvarez Empalma de primeras M_Neuer mete el cuerpo El balón rebota hacia arriba Pero M_Neuer se incorpora velozmente y lo atrapa",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons hace la pared con H_Kane H_Kane trata de ajustar el cuero al palo J_Oblak con una impresionante parada a ras de palo izquierdo No tengo ni idea de cómo pudo llegar hasta allí CÓRNER J_Musiala con un peligroso lanzamiento al segundo palo H_Kane al primer toque El disparo rebota en el defensa y va directo hacía la grada CÓRNER J_Musiala saca a la zona de peligro Vuela hacia S_Boey Peina el balón hacia atrás Pero J_Oblak desvía el lanzamiento Viktor_Kassai da saque de puerta ¿Algún oculista en la grada? Es urgente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "atm",
+      "text": "A_Griezmann hace un regate digno de 'O rei' Pelé A_Griezmann resuelve la jugada con un tremendo disparo M_Neuer rechaza el balón con los pies Su defensa cierra el rebote y envía el balón al centro del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "bay",
+      "text": "M_Olise mete el balón a la espalda de la defensa Su compañero ya había empezado la carrera L_Diaz controla el balón J_Gimenez entra con todo... y se lleva el balón limpiamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "atm",
+      "text": "A_Sorloth se va de uno Regatea a otro A otro Parece Maradona contra Inglaterra ¡Puede marcar el gol del siglo! H_Kane gana el balón fácilmente Viktor_Kassai ha visto algo. La pregunta es qué",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons suelta un cañonazo Al larguero M_Olise recoge el rebote Pierde el control del balón M_Ruggeri despeja sin miramientos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "atm",
+      "text": "J_Alvarez se para ante J_Musiala... y le hace la 'cola de vaca' Oh Increíble solo se lo había visto hacer a Ronaldo y Romario Corte finísimo y preciso de S_Boey Ha medido muy bien",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se va a añadir 1 minuto al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "atm",
+      "text": "M_Llorente regatea a un rival A otro Esté en racha Y mete el pase hacia A_Sorloth J_Tah se hace con el balón Y lo manda hacia arriba",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "bay",
+      "text": "L_Diaz pone el balón a la espalda de los centrales H_Kane llega con comodidad H_Kane vuela con bravura para rematar en plancha J_Oblak lo atrapa fácilmente",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

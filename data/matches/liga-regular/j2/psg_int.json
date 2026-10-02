@@ -1,0 +1,1299 @@
+{
+  "id": "liga-regular/j2/psg_int",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j2",
+  "roundLabel": "Jornada 2",
+  "fileName": "psg_int.txt",
+  "homeCode": "psg",
+  "awayCode": "int",
+  "homeTeam": "PSG",
+  "awayTeam": "Inter Milan",
+  "result": {
+    "home": 2,
+    "away": 3,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "PSG 1-1 Inter Milan",
+  "formation": {
+    "home": "4-3-3 A",
+    "away": "4-5-1 N"
+  },
+  "referee": {
+    "name": "Enriquez Negreira",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "G_Donnarumma",
+        "displayName": "G Donnarumma",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "A_Hakimi",
+        "displayName": "A Hakimi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Mendes",
+        "displayName": "N Mendes",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Pacho",
+        "displayName": "W Pacho",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "I_Zabarnyi",
+        "displayName": "I Zabarnyi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Neves",
+        "displayName": "J Neves",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Vitinha",
+        "displayName": "Vitinha",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "W_ZaireEmery",
+        "displayName": "W ZaireEmery",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "O_Dembele",
+        "displayName": "O Dembele",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "D_Doue",
+        "displayName": "D Doue",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "B_Barcola",
+        "displayName": "B Barcola",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Diogo_Costa",
+        "displayName": "Diogo Costa",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Marquinhos",
+        "displayName": "Marquinhos",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Ruiz",
+        "displayName": "F Ruiz",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Asensio",
+        "displayName": "M Asensio",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Rafael_Leao",
+        "displayName": "Rafael Leao",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "J_Martinez",
+        "displayName": "J Martinez",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "A_Bastoni",
+        "displayName": "A Bastoni",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Pavard",
+        "displayName": "B Pavard",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Y_Bisseck",
+        "displayName": "Y Bisseck",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "S_DeVrij",
+        "displayName": "S DeVrij",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Barella",
+        "displayName": "N Barella",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "H_Calhanoglu",
+        "displayName": "H Calhanoglu",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Fratessi",
+        "displayName": "D Fratessi",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "P_Zielinski",
+        "displayName": "P Zielinski",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "F_Dimarco",
+        "displayName": "F Dimarco",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Martinez",
+        "displayName": "L Martinez",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Y_Sommer",
+        "displayName": "Y Sommer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Dumfries",
+        "displayName": "D Dumfries",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "T_Palacios",
+        "displayName": "T Palacios",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "P_Sucic",
+        "displayName": "P Sucic",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Thuram",
+        "displayName": "M Thuram",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "PSG",
+      "mvp": "O_Dembele",
+      "goals": "O_Dembele (3), D_Doue (48)",
+      "sentOff": "N/A",
+      "booked": "I_Zabarnyi (50)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Inter Milan",
+      "mvp": "L_Martinez (Jugador del partido)",
+      "goals": "A_Bastoni (12), L_Martinez (51,79)",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 7,
+      "away": 20
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 3,
+      "away": 10
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 4,
+      "away": 10
+    },
+    {
+      "label": "Posesión",
+      "home": 38,
+      "away": 62
+    },
+    {
+      "label": "Córners",
+      "home": 2,
+      "away": 5
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Sustituciones",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 6,
+      "away": 6
+    },
+    {
+      "label": "Entradas",
+      "home": 10,
+      "away": 9
+    },
+    {
+      "label": "Pases clave",
+      "home": 10,
+      "away": 17
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "PSG",
+      "players": [
+        {
+          "name": "G_Donnarumma",
+          "displayName": "G Donnarumma",
+          "position": "GK",
+          "st": 46,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 94,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Hakimi",
+          "displayName": "A Hakimi",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 27,
+          "sh": 14,
+          "ag": 25,
+          "min": 81,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Mendes",
+          "displayName": "N Mendes",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 16,
+          "sh": 12,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Pacho",
+          "displayName": "W Pacho",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 7,
+          "sh": 4,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 4,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "I_Zabarnyi",
+          "displayName": "I Zabarnyi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 7,
+          "sh": 4,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "J_Neves",
+          "displayName": "J Neves",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 45,
+          "sh": 16,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Vitinha",
+          "displayName": "Vitinha",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 44,
+          "sh": 16,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_ZaireEmery",
+          "displayName": "W ZaireEmery",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 16,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Dembele",
+          "displayName": "O Dembele",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 45,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Doue",
+          "displayName": "D Doue",
+          "position": "AM",
+          "st": 2,
+          "tk": 16,
+          "ps": 33,
+          "sh": 42,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Barcola",
+          "displayName": "B Barcola",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 21,
+          "sh": 40,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Diogo_Costa",
+          "displayName": "Diogo Costa",
+          "position": "GK",
+          "st": 41,
+          "tk": 1,
+          "ps": 1,
+          "sh": 1,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Marquinhos",
+          "displayName": "Marquinhos",
+          "position": "DF",
+          "st": 2,
+          "tk": 45,
+          "ps": 9,
+          "sh": 4,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Ruiz",
+          "displayName": "F Ruiz",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 40,
+          "sh": 16,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Asensio",
+          "displayName": "M Asensio",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 33,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rafael_Leao",
+          "displayName": "Rafael Leao",
+          "position": "FW",
+          "st": 2,
+          "tk": 18,
+          "ps": 20,
+          "sh": 44,
+          "ag": 11,
+          "min": 13,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Inter Milan",
+      "players": [
+        {
+          "name": "J_Martinez",
+          "displayName": "J Martinez",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 21,
+          "min": 94,
+          "sav": 2,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Bastoni",
+          "displayName": "A Bastoni",
+          "position": "DF",
+          "st": 2,
+          "tk": 45,
+          "ps": 16,
+          "sh": 4,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Pavard",
+          "displayName": "B Pavard",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 9,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 6,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Bisseck",
+          "displayName": "Y Bisseck",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 4,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_DeVrij",
+          "displayName": "S DeVrij",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 4,
+          "ag": 21,
+          "min": 66,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Barella",
+          "displayName": "N Barella",
+          "position": "MF",
+          "st": 2,
+          "tk": 25,
+          "ps": 43,
+          "sh": 24,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 5,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Calhanoglu",
+          "displayName": "H Calhanoglu",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 40,
+          "sh": 19,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Fratessi",
+          "displayName": "D Fratessi",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 21,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 1,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Zielinski",
+          "displayName": "P Zielinski",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 9,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Dimarco",
+          "displayName": "F Dimarco",
+          "position": "MF",
+          "st": 2,
+          "tk": 33,
+          "ps": 36,
+          "sh": 14,
+          "ag": 24,
+          "min": 45,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Martinez",
+          "displayName": "L Martinez",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 26,
+          "sh": 44,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 10,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Sommer",
+          "displayName": "Y Sommer",
+          "position": "GK",
+          "st": 35,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Dumfries",
+          "displayName": "D Dumfries",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 31,
+          "sh": 16,
+          "ag": 24,
+          "min": 28,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Palacios",
+          "displayName": "T Palacios",
+          "position": "DF",
+          "st": 2,
+          "tk": 31,
+          "ps": 16,
+          "sh": 7,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Sucic",
+          "displayName": "P Sucic",
+          "position": "MF",
+          "st": 2,
+          "tk": 12,
+          "ps": 36,
+          "sh": 21,
+          "ag": 23,
+          "min": 49,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Thuram",
+          "displayName": "M Thuram",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 40,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "psg",
+      "text": "W_ZaireEmery sale a la contra. Mete un pase medido a O_Dembele O_Dembele mira a puerta ¡Dispara! Suelta un disparo impregnado de calidad y colocación J_Martinez mete el guante Gran parada El público corea su nombre CÓRNER Vitinha coloca el balón con mucha suavidad B_Pavard controla el balón Y lo manda al centro del campo No se ha complicado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "psg",
+      "text": "O_Dembele puede disparar O_Dembele busca el disparo GOOOOOL \"Vuela\" sobre el césped y sus compañeros le siguen El PSG toma la iniciativa en el luminoso PSG 1-0 Inter Milan ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "int",
+      "text": "D_Fratessi avanza pegado a la línea de banda Mete el balón al área L_Martinez L_Martinez remata con los ojos cerrados G_Donnarumma llega con la punta de los dedos al balón y sale rozando el palo Qué gran intervención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "int",
+      "text": "D_Fratessi recupera el balón suelto D_Fratessi con un disparo a ras de suelo G_Donnarumma hace una gran parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "int",
+      "text": "H_Calhanoglu se va de dos defensas. ¡Uau! No había sitio A_Hakimi va al choque Y se lleva el cuero. El delantero no sabe si ha sido un contrario o un tren de mercancías",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "int",
+      "text": "L_Martinez recibe el balón en el extremo Se deshace del lateral Pisa área, ay L_Martinez se va hacia la portería ¡Puede marcar! Se estrella en el larguero Pero remata de cabeza tras llegar al rechace Va a ser gol Pero un defensa saca al balón bajo la línea De dónde ha salido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "psg",
+      "text": "W_ZaireEmery supera a P_Zielinski ¡Qué facilidad de regate! B_Pavard sale al corte como un búfalo salvaje",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "int",
+      "text": "A_Bastoni de tacón para L_Martinez L_Martinez impacta el balón con una volea defectuosa G_Donnarumma llega con la punta de los dedos al balón y sale rozando el palo Qué gran intervención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "int",
+      "text": "A_Bastoni gana el balón en su propio campo A_Bastoni hace una diagonal Y suelta un sorprendente disparo El balón vuela como un obús hacia la portería G_Donnarumma reacciona con rapidez ¿Llegará a desviar el envenenado disparo? ¡NO! GOOOOOL G_Donnarumma descarga su frustración pateando el palo Todo está por decidir, todavía PSG 1-1 Inter Milan ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 13,
+      "teamCode": "int",
+      "text": "B_Pavard avanza en diagonal Espléndido taconazo para H_Calhanoglu H_Calhanoglu con un verdadero obús G_Donnarumma mete los puños y desvía el balón Buena parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "int",
+      "text": "N_Barella se cuela por el extremo derecho Centro medido para P_Zielinski N_Mendes aparece de la nada. El delantero aún está buscando el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "psg",
+      "text": "B_Barcola controla de espaldas a la portería. Ojo Se ha girado H_Calhanoglu choca y envía a su oponente al suelo ¿Falta? Este árbitro lo más redondo que ha visto es un melón. Si no fue falta Se marcha con una simple amonestación ¿Se habrá dejado las tarjetas en el vestuario? FALTA DIRECTA Imposible que llegue desde aquí O_Dembele juega en corto para B_Barcola B_Pavard va en carrera y agarra al delantero por la camiseta Falta El árbitro no lo ha visto El defensa sonríe El delantero pone cara de incredulidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "int",
+      "text": "B_Pavard inicia el contraataque Sale rápidamente Y envía un gran pase con la defensa descolocada. L_Martinez recibe solo L_Martinez busca la escuadra derecha Pero G_Donnarumma alcanza el cuero con el puño Tuvo suerte de llegar a ese disparo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "psg",
+      "text": "J_Neves sale a la contra. Mete un pase medido a Vitinha F_Dimarco zancadillea a su oponente El árbitro se da la vuelta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "int",
+      "text": "L_Martinez se deshace de I_Zabarnyi I_Zabarnyi recupera la compostura y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "int",
+      "text": "D_Fratessi espera apoyos N_Barella sale de la cueva. Para él va el balón N_Barella remata forzado... con la rodilla Vuela por encima de G_Donnarumma Va a puerta El portero mete la mano, ¿será suficiente? Sí, ha desviado el disparo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 23,
+      "teamCode": "psg",
+      "text": "D_Doue estira la pierna para llegar al pase D_Doue busca el gol Pero falla Este tío no le mete un gol ni en el arco iris",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 23,
+      "teamCode": "int",
+      "text": "N_Barella hace la pared con L_Martinez L_Martinez tiene tiempo y espacio ¡Dispara por bajo! Se estrella en el larguero Y a la grada G_Donnarumma tiene a los dioses de su lado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "int",
+      "text": "N_Barella deja ir el codo Le ha dado a O_Dembele de pleno en la cara Enriquez_Negreira lo reclama No hay tarjeta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 27,
+      "teamCode": "int",
+      "text": "F_Dimarco controla el balón y le hace un sombrero al defensa Sigue en carrera F_Dimarco recibe el balón de espaldas Oh Se ha sacado una tijereta G_Donnarumma vuela sobre la línea de gol Alcanza el balón y lo estrecha contra su pecho",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "psg",
+      "text": "O_Dembele se ve obligado a retener el cuero No hay opciones de pase. Se desespera Encara puerta en solitario B_Pavard se le anticipa y le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "psg",
+      "text": "O_Dembele combina con W_ZaireEmery con espacio por delante W_ZaireEmery supera a J_Martinez con una precisa vaselina J_Martinez pone el cuerpo. El balón queda muerto a escasos metros de la línea Pero lo atrapa",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "int",
+      "text": "Y_Bisseck baja el balón con el pecho. Lo pisa... y asiste a L_Martinez W_Pacho empuja al delantero Qué listo, engañó al árbitro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "int",
+      "text": "N_Barella encara al defensa Le tira una gambeta Pone el cuerpo para disparar Pero suelta el pase hacia F_Dimarco F_Dimarco le da mucho efecto a su disparo Remata justo cuando el balón hace un mal bote A las nubes Los aficionados rivales se ríen de él",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "psg",
+      "text": "O_Dembele asiste a W_ZaireEmery con espacio por delante Pero Y_Bisseck conjura el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "psg",
+      "text": "W_ZaireEmery encara a su marcador Lo sienta con una croqueta Eso lo hacía Michael Laudrup Y ahora suelta un pase impresionante hacia B_Barcola Corte finísimo y preciso de Y_Bisseck Ha medido muy bien",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se va a añadir 1 minuto al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "int",
+      "text": "N_Barella hace la diagonal Ve un desmarque por el rabillo del ojo Se la pasa a L_Martinez Pero pisa un charco y cae al suelo N_Mendes se encuentra con el balón 'regalado' y arma el contraataque",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "int",
+      "text": "P_Sucic reemplaza a F_Dimarco para colocarse de MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "int",
+      "text": "A_Bastoni golpea el balón al hueco. D_Fratessi aparece de la nada W_Pacho llega lanzado y mete la pierna No puede evitar el córner CÓRNER H_Calhanoglu con un cerrado lanzamiento al primer palo I_Zabarnyi salta en el primer palo Y mete la cabeza. Ha cortado la jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "psg",
+      "text": "N_Mendes sale del regate y mete un pase hacia D_Doue D_Doue con un sorprendente remate GOOOOOL Superó claramente a J_Martinez A ver como administra su ventaja el PSG PSG 2-1 Inter Milan ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "int",
+      "text": "El defensa está presionado Se saca el balón de encima P_Sucic se va solo P_Sucic se saca una bicicleta de la nada y chuta G_Donnarumma desvía ligeramente el balón Fuera Lo ha logrado ¿Saque de puerta? Vi claramente como la tocaba el cancerbero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "int",
+      "text": "P_Sucic ve el desmarque de L_Martinez I_Zabarnyi se desliza... y derriba a su adversario (AMARILLA) Creo que el árbitro se ha pasado de riguroso",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "int",
+      "text": "P_Zielinski controla de espaldas a la portería Se protege del defensa con los brazos Gira... y se lo lleva P_Zielinski se saca una tijera ¡Qué bello! G_Donnarumma mete la mano Deja el rebota suelto OHHHHHHHH Su defensa envía el balón a córner CÓRNER El lanzamiento va a cargo de H_Calhanoglu L_Martinez dispara Bota mal sobre un césped demasiado mojado Pero impacta en el lateral de la red CÓRNER N_Barella centra con fuerza al área pequeña A_Hakimi controla el balón tras varios rebotes Sale jugando por bajo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "int",
+      "text": "D_Fratessi pica el balón por encima de los centrales L_Martinez aparece de la nada. Los ha pillado despistados L_Martinez con un verdadero obús G_Donnarumma está batido GOOOOOL Está desolado Todo está por decidir, todavía PSG 2-2 Inter Milan ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "psg",
+      "text": "I_Zabarnyi se cuela por la banda Quiebra a A_Bastoni en velocidad Mete un pase raso hacia B_Barcola B_Barcola mete el interior del pie con mucha intención El disparo rebota en el defensa y va directo hacía la grada CÓRNER O_Dembele centra hacia el área B_Pavard se lanza en plancha y despeja el balón. Se ha jugado el físico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "psg",
+      "text": "D_Doue encara al defensa Oh, lo ha dejado sentado con un regate eléctrico D_Fratessi envía el balón suelto a las nubues. Cuidado con los pájaros",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "int",
+      "text": "D_Dumfries sustituye a S_DeVrij en la posición de DF",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "psg",
+      "text": "O_Dembele levanta la cabeza Ve perfectamente a A_Hakimi Y_Bisseck entra con todo... y se lleva el balón limpiamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "int",
+      "text": "H_Calhanoglu ve a N_Barella completamente solo D_Doue se hace con el balón y lo cede al portero G_Donnarumma resbala Ay Fuera Ha salido a córner CÓRNER N_Barella con un cerrado lanzamiento al primer palo W_Pacho se anticipa a la delantera rival Y conjura el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "psg",
+      "text": "Vitinha mete el balón en la zona de peligro B_Barcola se ofrece y recibe el cuero B_Pavard llega como un tren y arrolla a delantero y balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "int",
+      "text": "H_Calhanoglu se revuelve buscando espacio para el disparo Desliza un pase hacia D_Dumfries D_Dumfries se va de su defensor, mete el pie Terrible disparo Un defensa se interpone en su camino El balón se desvía Fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "int",
+      "text": "P_Sucic se aprovecha de un error de A_Hakimi Ese error puede costarle caro I_Zabarnyi se le anticipa y le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "int",
+      "text": "N_Barella con un regate eléctrico ante W_Pacho Pero N_Mendes cuelga el balón a la grada Z",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "psg",
+      "text": "A_Hakimi asiste a O_Dembele dentro del área Gran volea de O_Dembele La manda fuera del estadio ¿Eso ha sido un disparo de fútbol o un kick de fútbol americano?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "int",
+      "text": "N_Barella se cuela hasta la línea de fondo Centra al segundo palo B_Pavard entra el remate W_Pacho reacciona con una tremenda velocidad y controla el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "int",
+      "text": "D_Fratessi se tira el balón largo ante W_Pacho Se lleva al defensa por velocidad D_Fratessi impacta el cuero en un alarde de calidad El disparo agarra un efecto endiablado G_Donnarumma reacciona con velocidad No va a llegar Se cuela Pero un defensa se lanza en plancha y mete el cuerpo CÓRNER D_Dumfries con un peligroso lanzamiento al segundo palo G_Donnarumma se anticipa a la jugada y atrapa el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "int",
+      "text": "B_Pavard con un peligroso pase hacia L_Martinez L_Martinez suelta un disparo con el exterior del pie Pero el balón se va lejos del marco, ha ido a Agraria",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "int",
+      "text": "G_Donnarumma se la saca de encima el balón le cae a D_Fratessi W_Pacho envía a su oponente al césped Menudo trompazo Enriquez_Negreira le avisa: \"Es la última vez\" FALTA INDIRECTA Y_Bisseck con la jugada de estrategia L_Martinez recibe el pase L_Martinez remacha el balón a ras de suelo Pega en la madera GOOOOOL Madre mía, qué golazo Qué momento para marcar Hadejado a su rival sin márgen de reacción PSG 2-3 Inter Milan ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "psg",
+      "text": "Rafael_Leao entra por A_Hakimi, jugará de FW y sus aficionados reciben el cambio con alegría",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "psg",
+      "text": "D_Doue cambia su ubicación en el campo. Ahora juega de AM",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 3 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "int",
+      "text": "L_Martinez orienta su control Pisa área y tiene hueco L_Martinez levanta la cabeza, apunta a la escuadra y... ¡dispara! A la quinta gradería Seguro que se puso la bota derecha en el pie derecho",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

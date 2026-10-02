@@ -1,0 +1,1184 @@
+{
+  "id": "liga-regular/j1/int_ars",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j1",
+  "roundLabel": "Jornada 1",
+  "fileName": "int_ars.txt",
+  "homeCode": "int",
+  "awayCode": "ars",
+  "homeTeam": "Inter Milan",
+  "awayTeam": "Arsenal",
+  "result": {
+    "home": 1,
+    "away": 1,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Inter Milan 1-0 Arsenal",
+  "formation": {
+    "home": "5-2-3 A",
+    "away": "4-3-3 L"
+  },
+  "referee": {
+    "name": "Pierluigi Collina",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "J_Martinez",
+        "displayName": "J Martinez",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "A_Bastoni",
+        "displayName": "A Bastoni",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Pavard",
+        "displayName": "B Pavard",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Y_Bisseck",
+        "displayName": "Y Bisseck",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "S_DeVrij",
+        "displayName": "S DeVrij",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "F_Dimarco",
+        "displayName": "F Dimarco",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Barella",
+        "displayName": "N Barella",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "H_Calhanoglu",
+        "displayName": "H Calhanoglu",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Martinez",
+        "displayName": "L Martinez",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "M_Thuram",
+        "displayName": "M Thuram",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "E_Sebastiano",
+        "displayName": "E Sebastiano",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Y_Sommer",
+        "displayName": "Y Sommer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Dumfries",
+        "displayName": "D Dumfries",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "T_Palacios",
+        "displayName": "T Palacios",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Fratessi",
+        "displayName": "D Fratessi",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Taremi",
+        "displayName": "M Taremi",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "D_Raya",
+        "displayName": "D Raya",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "W_Saliba",
+        "displayName": "W Saliba",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "G_Magalhaes",
+        "displayName": "G Magalhaes",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "C_Mosquera",
+        "displayName": "C Mosquera",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_LewisSkelly",
+        "displayName": "M LewisSkelly",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Odegaard",
+        "displayName": "M Odegaard",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Rice",
+        "displayName": "D Rice",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Zubimendi",
+        "displayName": "M Zubimendi",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Saka",
+        "displayName": "Saka",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Isak",
+        "displayName": "A Isak",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "V_Gyokeres",
+        "displayName": "V Gyokeres",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "K_Arrizabalaga",
+        "displayName": "K Arrizabalaga",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_White",
+        "displayName": "B White",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "O_Zinchenko",
+        "displayName": "O Zinchenko",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Merino",
+        "displayName": "M Merino",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "G_Martinelli",
+        "displayName": "G Martinelli",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Inter Milan",
+      "mvp": "M_Thuram (Jugador del partido)",
+      "goals": "M_Thuram (4)",
+      "sentOff": "N/A",
+      "booked": "N_Barella (39), B_Pavard (66)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Arsenal",
+      "mvp": "Saka",
+      "goals": "Saka (90)",
+      "sentOff": "N/A",
+      "booked": "G_Magalhaes (41)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 8,
+      "away": 3
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 5,
+      "away": 2
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 3,
+      "away": 1
+    },
+    {
+      "label": "Posesión",
+      "home": 66,
+      "away": 34
+    },
+    {
+      "label": "Córners",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 9,
+      "away": 5
+    },
+    {
+      "label": "Entradas",
+      "home": 6,
+      "away": 10
+    },
+    {
+      "label": "Pases clave",
+      "home": 11,
+      "away": 8
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Inter Milan",
+      "players": [
+        {
+          "name": "J_Martinez",
+          "displayName": "J Martinez",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 21,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Bastoni",
+          "displayName": "A Bastoni",
+          "position": "DF",
+          "st": 2,
+          "tk": 45,
+          "ps": 16,
+          "sh": 4,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Pavard",
+          "displayName": "B Pavard",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 9,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Y_Bisseck",
+          "displayName": "Y Bisseck",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 4,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_DeVrij",
+          "displayName": "S DeVrij",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 4,
+          "ag": 21,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Dimarco",
+          "displayName": "F Dimarco",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 36,
+          "sh": 14,
+          "ag": 24,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Barella",
+          "displayName": "N Barella",
+          "position": "MF",
+          "st": 2,
+          "tk": 25,
+          "ps": 43,
+          "sh": 24,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "H_Calhanoglu",
+          "displayName": "H Calhanoglu",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 40,
+          "sh": 19,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Martinez",
+          "displayName": "L Martinez",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 26,
+          "sh": 44,
+          "ag": 26,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Thuram",
+          "displayName": "M Thuram",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 40,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Sebastiano",
+          "displayName": "E Sebastiano",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 24,
+          "sh": 36,
+          "ag": 22,
+          "min": 59,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Sommer",
+          "displayName": "Y Sommer",
+          "position": "GK",
+          "st": 35,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Dumfries",
+          "displayName": "D Dumfries",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 31,
+          "sh": 16,
+          "ag": 24,
+          "min": 51,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Palacios",
+          "displayName": "T Palacios",
+          "position": "DF",
+          "st": 2,
+          "tk": 31,
+          "ps": 16,
+          "sh": 7,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Fratessi",
+          "displayName": "D Fratessi",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 21,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Taremi",
+          "displayName": "M Taremi",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 26,
+          "sh": 35,
+          "ag": 21,
+          "min": 37,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Arsenal",
+      "players": [
+        {
+          "name": "D_Raya",
+          "displayName": "D Raya",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 96,
+          "sav": 3,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Saliba",
+          "displayName": "W Saliba",
+          "position": "DF",
+          "st": 2,
+          "tk": 44,
+          "ps": 16,
+          "sh": 7,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Magalhaes",
+          "displayName": "G Magalhaes",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 7,
+          "ag": 22,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "C_Mosquera",
+          "displayName": "C Mosquera",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 6,
+          "ag": 22,
+          "min": 96,
+          "sav": 0,
+          "ktk": 4,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_LewisSkelly",
+          "displayName": "M LewisSkelly",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 6,
+          "ag": 21,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Odegaard",
+          "displayName": "M Odegaard",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 29,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Rice",
+          "displayName": "D Rice",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 19,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 4,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Zubimendi",
+          "displayName": "M Zubimendi",
+          "position": "MF",
+          "st": 2,
+          "tk": 20,
+          "ps": 41,
+          "sh": 18,
+          "ag": 22,
+          "min": 59,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Saka",
+          "displayName": "Saka",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 24,
+          "sh": 43,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Isak",
+          "displayName": "A Isak",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 19,
+          "sh": 43,
+          "ag": 19,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Gyokeres",
+          "displayName": "V Gyokeres",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 22,
+          "sh": 41,
+          "ag": 24,
+          "min": 59,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Arrizabalaga",
+          "displayName": "K Arrizabalaga",
+          "position": "GK",
+          "st": 37,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_White",
+          "displayName": "B White",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 19,
+          "sh": 9,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Zinchenko",
+          "displayName": "O Zinchenko",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 24,
+          "sh": 9,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Merino",
+          "displayName": "M Merino",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 26,
+          "ag": 22,
+          "min": 37,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Martinelli",
+          "displayName": "G Martinelli",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 40,
+          "ag": 24,
+          "min": 37,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "ars",
+      "text": "V_Gyokeres usa su potencia para deshacerse de la defensa Y_Bisseck ve venir el pase y lo corta con facilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "int",
+      "text": "M_Thuram con un regate a lo Romario Oh la la ¡Puede marcar! M_Thuram busca el gol GOOOOOL D_Raya he hecho vista y se la ha tragado El Inter Milan golpea. Ahora manda en el marcador Inter Milan 1-0 Arsenal ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 11,
+      "teamCode": "ars",
+      "text": "D_Rice ve el desmarque de Saka Saka prueba suerte A las nubes Dejó el cuerpo atrás y no controló bien el disparo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "int",
+      "text": "M_Thuram cambia de dirección Ve a un compañero desdoblándolo Le cede el cuero a E_Sebastiano, que va lanzado en carrera M_LewisSkelly sega el césped con una entrada terrorífica",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "int",
+      "text": "A_Bastoni con un pase de 50 metros H_Calhanoglu H_Calhanoglu mira a D_Raya Trata de superarlo por el palo largo Pero el balón se va lejos del marco, ha ido a Agraria",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "int",
+      "text": "F_Dimarco tira la pared con su delantero L_Martinez con un preciso pase de primeras Menuda jugada L_Martinez tiene el disparo a punto D_Raya despeja sale por la línea de fondo CÓRNER M_Thuram impacta el cuero con el interior del pie D_Raya mete los puños con fuerza y aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "int",
+      "text": "N_Barella se gira, está tapado por dos rivales Pisa el balón y mira arriba pasa larga hacia la posición de E_Sebastiano E_Sebastiano no va a llegar. Sí, mete el pie... D_Raya detiene el balón con una mano El rebote cae al centro, limpio para el delantero Remata FUERA Qué fallo Está desesperado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "int",
+      "text": "M_Thuram se anticipa a su marcador Ha sido mucho más rápido C_Mosquera llega velozmente y mete la planta del pie ¡Qué velocidad!",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "int",
+      "text": "M_Thuram en carrera Le hace un túnel a C_Mosquera Ui, le ha soltado el pie Si lo pilla... M_Zubimendi corta la jugada con un cabezazo en plancha",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "int",
+      "text": "M_Thuram busca algún apoyo Ojo Casi pierde el balón en una zona peligrosa Pero consigue meter el pase para L_Martinez Pero D_Rice está muy metido en el partido y le roba la cartera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "ars",
+      "text": "D_Rice con un pase largo A_Isak oooooh Que entrada más dura de N_Barella Ha sido un acto frío y deliberado. Indignante Pierluigi_Collina busca en sus bolsillos (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "int",
+      "text": "L_Martinez controla en carrera Le hace un sombrero a M_LewisSkelly G_Magalhaes con una entrada durísima Pierluigi_Collina lo llama inmediatamente Ve la (AMARILLA) Sus compañeros cuestionan la rigurosa decisión arbitral",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "ars",
+      "text": "M_Zubimendi espera apoyos A_Isak sale de la cueva. Para él va el balón B_Pavard envía al delantero al suelo y el balón sale fuera de banda El asistente indica... Saque de banda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 4 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "int",
+      "text": "M_Thuram dispara en carrera El defensa mete la pierna sale rebotada hacia L_Martinez L_Martinez le pega 'mordida' El balón va haciendo extraños en el aire Pero dispara ancho ¿Dónde estaría apuntando?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "int",
+      "text": "N_Barella está escorado en la banda izquierda Cambia el juego a la derecha hacia M_Thuram Saka entra con todo Y corta el balón. Ha intimidado al delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "int",
+      "text": "D_Dumfries reemplaza a F_Dimarco para colocarse de DF",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "ars",
+      "text": "Saka aprovecha una mala cesión de A_Bastoni Corte finísimo de S_DeVrij Y evita el córner Está en un momento dulce",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "int",
+      "text": "H_Calhanoglu gana metros Va de cara a puerta Interceptada por C_Mosquera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "int",
+      "text": "M_Taremi va a tener su oportunidad en este partido E_Sebastiano deja el terreno de juego con cara de pocos amigos Su sustituto jugará de FW",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "ars",
+      "text": "Aparece el cartel electrónico - G_Martinelli entra por V_Gyokeres y jugará de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "ars",
+      "text": "M_Merino está a punto para pisar el césped. Entrará por M_Zubimendi Todo apunta a que jugará de MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "int",
+      "text": "N_Barella acelera por la banda derecha Pone el balón en el área. Directo hacia L_Martinez L_Martinez mete la cabeza con valentía Ha batido a D_Raya Pero se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "int",
+      "text": "N_Barella cambia el juego hacia M_Taremi G_Magalhaes despeja el balón hacia la grada Ei Un aficionado se lleva el balón Al ladrón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "int",
+      "text": "M_Taremi hace un sombrero sobre G_Magalhaes M_Taremi con un sorprendente remate D_Raya lo atrapa cómodamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "ars",
+      "text": "Saka cuelga de primeras para A_Isak B_Pavard entra con los tacos por delante \"FUERA, FUERA, FUERA\" ruge el estadio Se lleva una (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "ars",
+      "text": "G_Martinelli cambia el juego hacia D_Rice D_Rice tiene el disparo a punto J_Martinez no va a llegar El esférico se estrella en la madera Y fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "int",
+      "text": "H_Calhanoglu regatea a un rival A otro Esté en racha Y mete el pase hacia M_Taremi C_Mosquera corta con mucha tranquilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "ars",
+      "text": "D_Rice asiste a G_Martinelli dentro del área A_Bastoni se anticipa a la jugada y corta de cabeza",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "ars",
+      "text": "D_Rice levanta la cabeza Ve perfectamente a M_Merino S_DeVrij envía al delantero al suelo y el balón sale fuera de banda El asistente indica... Saque de banda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "int",
+      "text": "H_Calhanoglu se saca un pase en diagonal para L_Martinez M_LewisSkelly entra con todo... y se lleva el balón limpiamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "int",
+      "text": "M_Taremi encuentra el pasadizo Por ahí no pasaba ni un alfiler Pero C_Mosquera se anticipa a la jugada. Qué sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "ars",
+      "text": "G_Martinelli corta el balón con dureza Desde el suelo mete la puntera Y hace llegar el cuero a C_Mosquera Y_Bisseck entra zon dureza y corta el balón. Está metido en el partido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 90,
+      "teamCode": "ars",
+      "text": "Saka controla un balón complicadísimo Regatea al defensa Se va solo Vaya dos detalles de calidad Saka con un tremendo disparo GOOOOOL Lo celebra corriendo hacia el banquillo Y se abraza a un eufórico El entrenador de Arsenal Todo apunta a que habrá reparto de puntos Inter Milan 1-1 Arsenal ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "int",
+      "text": "M_Taremi va en carrera M_Taremi resuelve la jugada con un tremendo disparo El diparo coge el efecto cambiado ¡Fuera! Impactó mal el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

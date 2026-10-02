@@ -1,0 +1,1296 @@
+{
+  "id": "liga-regular/j20/liv_rma",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j20",
+  "roundLabel": "Jornada 20",
+  "fileName": "liv_rma.txt",
+  "homeCode": "liv",
+  "awayCode": "rma",
+  "homeTeam": "Liverpool",
+  "awayTeam": "Real Madrid",
+  "result": {
+    "home": 5,
+    "away": 0,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Liverpool 1-0 Real Madrid",
+  "formation": {
+    "home": "4-1-3-2 N",
+    "away": "3-1-2-1-3 A"
+  },
+  "referee": {
+    "name": "Nicola Rizzoli",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "Marmardashvili",
+        "displayName": "Marmardashvili",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "R_Williams",
+        "displayName": "R Williams",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "V_van_Dijk",
+        "displayName": "V van Dijk",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Frimpong",
+        "displayName": "J Frimpong",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Kerkez",
+        "displayName": "M Kerkez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_MacAllister",
+        "displayName": "A MacAllister",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "D_Szoboszlai",
+        "displayName": "D Szoboszlai",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "T_Endo",
+        "displayName": "T Endo",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "F_Wirtz",
+        "displayName": "F Wirtz",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Etikite",
+        "displayName": "Etikite",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "M_Salah",
+        "displayName": "M Salah",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Alisson",
+        "displayName": "Alisson",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "I_Konate",
+        "displayName": "I Konate",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "S_Bajcetic",
+        "displayName": "S Bajcetic",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "C_Jones",
+        "displayName": "C Jones",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Gakpo",
+        "displayName": "Gakpo",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "A_Lunin",
+        "displayName": "A Lunin",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "F_Garcia",
+        "displayName": "F Garcia",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Asencio",
+        "displayName": "R Asencio",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Carreras",
+        "displayName": "J Carreras",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Tchouameni",
+        "displayName": "A Tchouameni",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "F_Valverde",
+        "displayName": "F Valverde",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Guler",
+        "displayName": "A Guler",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Diaz",
+        "displayName": "B Diaz",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "Endrick",
+        "displayName": "Endrick",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Mastantuono",
+        "displayName": "Mastantuono",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "G_Garcia",
+        "displayName": "G Garcia",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "T_Courtois",
+        "displayName": "T Courtois",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Alaba",
+        "displayName": "D Alaba",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Ceballos",
+        "displayName": "D Ceballos",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_Mbappe",
+        "displayName": "K Mbappe",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Rodrygo",
+        "displayName": "Rodrygo",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Liverpool",
+      "mvp": "Etikite (Jugador del partido)",
+      "goals": "Etikite (22,49,68), M_Salah (51,79)",
+      "sentOff": "M_Kerkez (61)",
+      "booked": "N/A",
+      "injured": "D_Szoboszlai (5)"
+    },
+    {
+      "team": "Real Madrid",
+      "mvp": "B_Diaz",
+      "goals": "N/A",
+      "sentOff": "R_Asencio (69)",
+      "booked": "N/A",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 18,
+      "away": 12
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 4,
+      "away": 6
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 14,
+      "away": 6
+    },
+    {
+      "label": "Posesión",
+      "home": 65,
+      "away": 35
+    },
+    {
+      "label": "Córners",
+      "home": 3,
+      "away": 5
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Sustituciones",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Faltas",
+      "home": 10,
+      "away": 13
+    },
+    {
+      "label": "Entradas",
+      "home": 8,
+      "away": 5
+    },
+    {
+      "label": "Pases clave",
+      "home": 14,
+      "away": 9
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Liverpool",
+      "players": [
+        {
+          "name": "Marmardashvili",
+          "displayName": "Marmardashvili",
+          "position": "GK",
+          "st": 43,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 95,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Williams",
+          "displayName": "R Williams",
+          "position": "DF",
+          "st": 2,
+          "tk": 28,
+          "ps": 12,
+          "sh": 4,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_van_Dijk",
+          "displayName": "V van Dijk",
+          "position": "DF",
+          "st": 2,
+          "tk": 48,
+          "ps": 19,
+          "sh": 7,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Frimpong",
+          "displayName": "J Frimpong",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 21,
+          "sh": 7,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Kerkez",
+          "displayName": "M Kerkez",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 12,
+          "sh": 7,
+          "ag": 24,
+          "min": 62,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "A_MacAllister",
+          "displayName": "A MacAllister",
+          "position": "DM",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 16,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Szoboszlai",
+          "displayName": "D Szoboszlai",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 24,
+          "ag": 27,
+          "min": 5,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Endo",
+          "displayName": "T Endo",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 35,
+          "sh": 12,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Wirtz",
+          "displayName": "F Wirtz",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 46,
+          "sh": 22,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 3,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Etikite",
+          "displayName": "Etikite",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 12,
+          "sh": 38,
+          "ag": 18,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 9,
+          "gls": 3,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Salah",
+          "displayName": "M Salah",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 26,
+          "sh": 45,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 5,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Alisson",
+          "displayName": "Alisson",
+          "position": "GK",
+          "st": 44,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "I_Konate",
+          "displayName": "I Konate",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Bajcetic",
+          "displayName": "S Bajcetic",
+          "position": "MF",
+          "st": 2,
+          "tk": 23,
+          "ps": 35,
+          "sh": 7,
+          "ag": 25,
+          "min": 90,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Jones",
+          "displayName": "C Jones",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 16,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Gakpo",
+          "displayName": "Gakpo",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 14,
+          "sh": 41,
+          "ag": 14,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Real Madrid",
+      "players": [
+        {
+          "name": "A_Lunin",
+          "displayName": "A Lunin",
+          "position": "GK",
+          "st": 37,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 95,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Garcia",
+          "displayName": "F Garcia",
+          "position": "DF",
+          "st": 2,
+          "tk": 34,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Asencio",
+          "displayName": "R Asencio",
+          "position": "DF",
+          "st": 2,
+          "tk": 32,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 70,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "J_Carreras",
+          "displayName": "J Carreras",
+          "position": "DF",
+          "st": 2,
+          "tk": 37,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 4,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Tchouameni",
+          "displayName": "A Tchouameni",
+          "position": "DM",
+          "st": 2,
+          "tk": 24,
+          "ps": 41,
+          "sh": 12,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Valverde",
+          "displayName": "F Valverde",
+          "position": "MF",
+          "st": 2,
+          "tk": 27,
+          "ps": 43,
+          "sh": 16,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Guler",
+          "displayName": "A Guler",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 37,
+          "sh": 19,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Diaz",
+          "displayName": "B Diaz",
+          "position": "AM",
+          "st": 2,
+          "tk": 9,
+          "ps": 21,
+          "sh": 35,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Endrick",
+          "displayName": "Endrick",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 16,
+          "sh": 37,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Mastantuono",
+          "displayName": "Mastantuono",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 34,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 5,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Garcia",
+          "displayName": "G Garcia",
+          "position": "FW",
+          "st": 2,
+          "tk": 7,
+          "ps": 14,
+          "sh": 32,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Courtois",
+          "displayName": "T Courtois",
+          "position": "GK",
+          "st": 45,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Alaba",
+          "displayName": "D Alaba",
+          "position": "DF",
+          "st": 2,
+          "tk": 32,
+          "ps": 14,
+          "sh": 4,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Ceballos",
+          "displayName": "D Ceballos",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 37,
+          "sh": 12,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Mbappe",
+          "displayName": "K Mbappe",
+          "position": "MF",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 49,
+          "ag": 30,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rodrygo",
+          "displayName": "Rodrygo",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 40,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "rma",
+      "text": "B_Diaz mete la pierna. Cortó el balón Se lo pone a G_Garcia en el pie V_van_Dijk entra con todo Y corta el balón. Ha intimidado al delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "liv",
+      "text": "A_MacAllister habilita a M_Salah con un preciso toque Logra meter la plaanta del pie M_Salah A_Lunin está sorprendido Lo ha pillado fuera de posición OH Impacta en las vallas publicitarias Gran disparo Merecía el gol",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "liv",
+      "text": "D_Szoboszlai se levanta Pero el dolor es insoportable Malas noticias Pide el cambio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "liv",
+      "text": "La grada ruge cuando S_Bajcetic substituye a D_Szoboszlai para jugar de MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "rma",
+      "text": "Endrick mata el pase, prepara el disparo J_Frimpong le mete el codo Suena el siblato... falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "rma",
+      "text": "A_Tchouameni en un arranque de verticalidad A_Tchouameni hace un quiebro y dispara rápidamente Marmardashvili se saca una espectacular parada Su capitán lo felicita por esa intervención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "liv",
+      "text": "Etikite gana metros Va de cara a puerta Etikite impacta el cuero en un alarde de calidad ¡UAU! Ha pegado en el larguero y ha botado sobre la misma línea A Nicola_Rizzoli le vibra la pulsera GOOOOOL Lo ha dado ANULADO No subirá al marcador ¿Qué marca? ¿Falta sobre el portero? Bueno, tengo mis dudas",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "liv",
+      "text": "V_van_Dijk suelta un cañonazo Al larguero M_Salah recoge el rebote M_Salah desde fuera del área A_Lunin mete los puños Y la manda a fuera de banda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "rma",
+      "text": "F_Valverde inicia el contraataque Sale rápidamente Y envía un gran pase con la defensa descolocada. Mastantuono recibe solo Mastantuono chuta Rebota en el palo Se anticipa al defensa para el rebote Es gol de Abreu, Abreu, Abreeeeeeeeeeu Ha tirado fuera ¿Como? Si no había portero",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "rma",
+      "text": "A_Guler acelera por la banda derecha Hace la pared con el delantero Quiebra al lateral Endrick se la pide dentro del área Le pone el balón en el pie ¡Qué pase! F_Wirtz agarra a su rival de la camiseta Bien visto por al árbitro Nicola_Rizzoli simplemente lo avisa. Ahí ha acertado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "rma",
+      "text": "Mastantuono cambia de dirección V_van_Dijk, que lo estaba persiguiendo, resbala A_MacAllister se anticipa a la acción y corta el balón Pero se le escapa Córner CÓRNER F_Garcia acaricia el cuero Marmardashvili se eleva Y caza el centro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "liv",
+      "text": "F_Wirtz pasa hacia Etikite Etikite mete el pie antes que su marcador GOOOOOL Lo celebra haciendo el perrito Qué mal gusto A ver como administra su ventaja el Liverpool Liverpool 1-0 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 23,
+      "teamCode": "rma",
+      "text": "B_Diaz hace un tremendo control en el línea de medios Corre hacia el área y nadie le sale al paso Los centrales salen demasiado tarde, va a chutar Corte finísimo y preciso de M_Kerkez Ha medido muy bien",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "rma",
+      "text": "Mastantuono recupera el balón suelto Mastantuono chuta Marmardashvili no llegará a ese balón Oooh se pierde por arriba",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "rma",
+      "text": "F_Valverde inicia el contraataque Sale rápidamente Y envía un gran pase con la defensa descolocada. G_Garcia recibe solo Interceptada por V_van_Dijk",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "liv",
+      "text": "F_Wirtz se cuela hasta la línea de fondo Centra al segundo palo M_Salah entra el remate Hace un mal control J_Carreras está muy encima en su marcaje y le arrebata el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "liv",
+      "text": "T_Endo con un impresionante desmarque T_Endo solo tiene una cosa en la cabeza: el GOL ¡Suelta un potente latigazo! Sale fuera y será saque de puerta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "liv",
+      "text": "M_Salah golpea el balón hacia Etikite Etikite regatea a uno, dos y... oh Chuta A_Lunin mete la planta del pie y despeja el cuero CÓRNER A_MacAllister saca el balón a la frontal V_van_Dijk trata de colocar su disparo A_Lunin ve venir el balón Y lo atrapa con facilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "rma",
+      "text": "F_Garcia con el saque de banda El defensa pide fuera de juego Si no hay B_Diaz se escapa B_Diaz mete la cabeza con valentía Marmardashvili para Colocación y reflejos, la clave en un portero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "liv",
+      "text": "T_Endo ve especio entre el central y el lateral Qué pase en diagonal A_MacAllister pisa área. Peligro R_Asencio llega tarde al corte No hubo mala intención (AMARILLA), una más... y fuera",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "rma",
+      "text": "Mastantuono hace una bicicleta y descoloca a R_Williams Pero A_MacAllister lo aparta del balón con el codo. El delantero se queja, el defensa, sonríe",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que va a haber 1 minuto de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "liv",
+      "text": "M_Salah supera a F_Valverde ¡Qué facilidad de regate! M_Salah tiene tiempo y espacio Chuta A_Lunin se saca una espectacular parada de la manga ¿Cómo lo hizo para llegar a ese balón?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "rma",
+      "text": "A_Guler controla un balón aéreo De primeras hacia A_Tchouameni A_Tchouameni empalma con la derecha Los aficionados de detrás de la portería levantan los brazos Marmardashvili mete la mano Y envía el balón por encima del larguero CÓRNER F_Valverde cuelga el balón El centro es despejado S_Bajcetic",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "liv",
+      "text": "V_van_Dijk gambetea ante J_Carreras, lo está desquiciando J_Carreras llega apurado al corte y mete la pierna hacia A_Lunin ¡Ohhhh! no Ha superado a A_Lunin Rueda lentamente Fuera CÓRNER F_Wirtz acaricia el cuero Etikite dispara Pega en la madera Y en la espalda de A_Lunin GOOOOOL Los jugadores del Real Madrid miran desolados a su portero Liverpool 2-0 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "liv",
+      "text": "J_Frimpong llega primero al balón que ha quedado muerto Ve a su compañero entrando desde atrás M_Salah controla en carrera R_Asencio con la falta Nicola_Rizzoli intenta calmarlo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "liv",
+      "text": "M_Salah con un impresionante desmarque M_Salah empalma el balón a la perfección GOOOOOL A_Lunin ha hecho la estatua Liverpool 3-0 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "liv",
+      "text": "Etikite amaga el quiebro hacia un lado Pero sale por el otro. F_Garcia está sorprendido Trata de zancallidearlo Pero lo esquiva Etikite chuta A_Lunin rechaza el balón con los pies Su defensa cierra el rebote y envía el balón al centro del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "rma",
+      "text": "A_Guler se aprovecha de un error de M_Kerkez ¿Lo aprovechará? A_Guler remata forzado... con la rodilla Pero dispara muy abierto ¿Sabrá que el objetivo del fútbol es meter el balón en la portería?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "liv",
+      "text": "T_Endo avanza Cambia el ritmo ante R_Asencio. Wow eso me recordó a Cruyff Lo deja atrás Mete el pase hacia F_Wirtz J_Carreras se hace con el balón y lo cede al portero A_Lunin estaba descolocado Corre a la desesperada Fuera Por poco CÓRNER F_Wirtz centra con fuerza al área pequeña F_Garcia mira atentamente el centro... y lo despeja",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "rma",
+      "text": "F_Valverde mide perfectamente el cambio de ritmo y se va J_Frimpong entra por detrás y levanta al delantero ¿(ROJA)? No El colegiado no vio ni falta",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "liv",
+      "text": "M_Kerkez entra duramente a A_Guler sin balón por medio Terrible (ROJA) Nicola_Rizzoli tenía pocas opciones más El técnico de Real Madrid aplaude su decisión",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "rma",
+      "text": "B_Diaz le gana la espalda a su marcador Eh, se ha despistado B_Diaz con un disparo a ras de suelo Los aficionados de detrás de la portería levantan los brazos Marmardashvili mete la mano Y envía el balón por encima del larguero CÓRNER F_Valverde acaricia el cuero Endrick entra con todo Marmardashvili pone la punta de los dedos ¡Qué paradón! ¿Será descendiente de Dino Zoff? CÓRNER R_Asencio saca el balón a la frontal Marmardashvili mete el puño derecho y despeja el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "liv",
+      "text": "F_Wirtz mira a la derecha Y cruza a la izquierda para Etikite. Eso lo hacía Laudrup Etikite tiene una oportunidad de oro GOOOOOL Se agarra la camiseta y la enseña a la grada rival Vaya lluvia de objetos le está cayendo Celebra como loco su hat trick Liverpool 4-0 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "liv",
+      "text": "A_MacAllister combina con Etikite. Juegan de memoria Etikite cruza la línea de medios, avanza, mira al portero y chuta Qué agilidad A_Lunin ha estado tremendo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "liv",
+      "text": "M_Salah estira la pierna para llegar al pase R_Asencio placa a su oponente La segunda A la calle Se encara de mala manera con el colegiado Sus compañeros lo reducen. Ojo que esto podría costarle caro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "liv",
+      "text": "F_Wirtz controla el cuero con calidad Mete un pase al centro S_Bajcetic es el destinatario S_Bajcetic trata de sorprender con un chut lejano La red se mueve OH Pegó en el lateral Parte de la grada cantó GOL",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "rma",
+      "text": "Mastantuono supera a M_Salah Menudo obús de Mastantuono Hala Al tercer anfiteatro El balón hace un mal bote sobre el césped y su disparo se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "liv",
+      "text": "T_Endo va flechado hacia la portería Sortea a J_Carreras Encara portería G_Garcia corta el juego con una falta táctica ¡Ohhh! Le ha dejado un recadito",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "rma",
+      "text": "F_Garcia larco para Mastantuono T_Endo se juega el físico con una entrada durísima",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "liv",
+      "text": "M_Salah encuentra el pasadizo ¡Qué habilidad! F_Garcia choca y envía a su oponente al suelo ¿Falta? Este árbitro lo más redondo que ha visto es un melón. Si no fue falta Se marcha con una simple amonestación ¿Se habrá dejado las tarjetas en el vestuario?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "liv",
+      "text": "A_MacAllister se va de J_Carreras Lo ha dejado sentado F_Garcia entra con todo... y se lleva el balón limpiamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "liv",
+      "text": "M_Salah pica el balón por encima de la defensa Etikite ya había iniciado la diagonal Hacia él va el balón Etikite busca un disparo con efecto Esto es fútbol A_Lunin alcanza el cuero. Buena parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "liv",
+      "text": "M_Salah hace una bicicleta F_Garcia cae al suelo Lo ha ridiculizado M_Salah le pega como puede... con la espinilla GOOOOOL Los seguidores del Liverpool lo celebran efusivamente Liverpool 5-0 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "rma",
+      "text": "Mastantuono quiebra a J_Frimpong con un suave toque hacia el exterior le rompió la cintura Mastantuono se saca una terrible volea Pero el cuero sale lejos de la portería",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "liv",
+      "text": "S_Bajcetic mete el cuero en profundidad para la llegada de Etikite Etikite coloca el balón al palo largo Pero A_Lunin detiene con suma facilidad Siempre estuvo encima de la jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "rma",
+      "text": "G_Garcia engaña a V_van_Dijk con una finta de cuerpo A_MacAllister manda el balón a la grada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "rma",
+      "text": "B_Diaz sale a la contra. Mete un pase medido a Mastantuono Mastantuono busca la escuadra derecha Pero golpea en un defensa y se va córner CÓRNER Picado por A_Tchouameni R_Williams controla el balón Y lo manda al centro del campo No se ha complicado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 4 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "liv",
+      "text": "R_Williams de tacón para F_Wirtz F_Wirtz trata de sorprender al portero con una inesperada vaselina Se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 90,
+      "teamCode": "rma",
+      "text": "B_Diaz para en seco y busca apoyos Un compañero lo dobla Aprovecha el espacio que le ha abierto para colarse entre la defensa B_Diaz le da mucho efecto a su disparo Marmardashvili para. Le vino directo a las manos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "liv",
+      "text": "El balón queda suelto M_Salah gana la posesión J_Carreras ve venir el pase y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

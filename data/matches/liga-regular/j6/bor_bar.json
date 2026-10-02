@@ -1,0 +1,1268 @@
+{
+  "id": "liga-regular/j6/bor_bar",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j6",
+  "roundLabel": "Jornada 6",
+  "fileName": "bor_bar.txt",
+  "homeCode": "bor",
+  "awayCode": "bar",
+  "homeTeam": "Borussia Dortmund",
+  "awayTeam": "FC Barcelona",
+  "result": {
+    "home": 3,
+    "away": 2,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Borussia Dortmund 2-1 FC Barcelona",
+  "formation": {
+    "home": "4-4-2 N",
+    "away": "4-1-2-1-2 E"
+  },
+  "referee": {
+    "name": "Rafa Guerrero",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "G_Kobel",
+        "displayName": "G Kobel",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "N_Schlotterbeck",
+        "displayName": "N Schlotterbeck",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Anton",
+        "displayName": "W Anton",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Sule",
+        "displayName": "N Sule",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Bensebaini",
+        "displayName": "R Bensebaini",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "P_Gross",
+        "displayName": "P Gross",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Brandt",
+        "displayName": "J Brandt",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Sabitzer",
+        "displayName": "M Sabitzer",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "G_Reyna",
+        "displayName": "G Reyna",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "S_Guirassy",
+        "displayName": "S Guirassy",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Duranville",
+        "displayName": "J Duranville",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Meyer",
+        "displayName": "A Meyer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Y_Couto",
+        "displayName": "Y Couto",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Jobe_Bellingham",
+        "displayName": "Jobe Bellingham",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Nmecha",
+        "displayName": "F Nmecha",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Beier",
+        "displayName": "M Beier",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "M_TerStegen",
+        "displayName": "M TerStegen",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "W_Fofana",
+        "displayName": "W Fofana",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Guehi",
+        "displayName": "Guehi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "P_Cubarsi",
+        "displayName": "P Cubarsi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Grimaldo",
+        "displayName": "Grimaldo",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Estevao",
+        "displayName": "Estevao",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "Gavi",
+        "displayName": "Gavi",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Pedri",
+        "displayName": "Pedri",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Yamal",
+        "displayName": "L Yamal",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "R_Lewandowski",
+        "displayName": "R Lewandowski",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "F_Torres",
+        "displayName": "F Torres",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Kounde",
+        "displayName": "J Kounde",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "W_Szczesny",
+        "displayName": "W Szczesny",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_DeJong",
+        "displayName": "F DeJong",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Lopez",
+        "displayName": "F Lopez",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Rashford",
+        "displayName": "M Rashford",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Borussia Dortmund",
+      "mvp": "G_Reyna (Jugador del partido)",
+      "goals": "J_Brandt (15), G_Reyna (32), S_Guirassy (85 pen)",
+      "sentOff": "N/A",
+      "booked": "R_Bensebaini (47)",
+      "injured": "N/A"
+    },
+    {
+      "team": "FC Barcelona",
+      "mvp": "Estevao",
+      "goals": "L_Yamal (2), P_Cubarsi (56)",
+      "sentOff": "N/A",
+      "booked": "L_Yamal (80), M_TerStegen (85)",
+      "injured": "L_Yamal (85)"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 15,
+      "away": 13
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 4,
+      "away": 2
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 11,
+      "away": 11
+    },
+    {
+      "label": "Posesión",
+      "home": 58,
+      "away": 42
+    },
+    {
+      "label": "Córners",
+      "home": 4,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Sustituciones",
+      "home": 0,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 8,
+      "away": 5
+    },
+    {
+      "label": "Entradas",
+      "home": 5,
+      "away": 4
+    },
+    {
+      "label": "Pases clave",
+      "home": 9,
+      "away": 9
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Borussia Dortmund",
+      "players": [
+        {
+          "name": "G_Kobel",
+          "displayName": "G Kobel",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 94,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Schlotterbeck",
+          "displayName": "N Schlotterbeck",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 17,
+          "sh": 7,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Anton",
+          "displayName": "W Anton",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 7,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Sule",
+          "displayName": "N Sule",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 4,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 1,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Bensebaini",
+          "displayName": "R Bensebaini",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 12,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "P_Gross",
+          "displayName": "P Gross",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 19,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Brandt",
+          "displayName": "J Brandt",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 26,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Sabitzer",
+          "displayName": "M Sabitzer",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 38,
+          "sh": 21,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Reyna",
+          "displayName": "G Reyna",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 24,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Guirassy",
+          "displayName": "S Guirassy",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 25,
+          "sh": 43,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 4,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Duranville",
+          "displayName": "J Duranville",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 33,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Meyer",
+          "displayName": "A Meyer",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Couto",
+          "displayName": "Y Couto",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 31,
+          "sh": 14,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Jobe_Bellingham",
+          "displayName": "Jobe Bellingham",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 33,
+          "sh": 16,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Nmecha",
+          "displayName": "F Nmecha",
+          "position": "MF",
+          "st": 2,
+          "tk": 26,
+          "ps": 36,
+          "sh": 16,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Beier",
+          "displayName": "M Beier",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 24,
+          "sh": 38,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "FC Barcelona",
+      "players": [
+        {
+          "name": "M_TerStegen",
+          "displayName": "M TerStegen",
+          "position": "GK",
+          "st": 40,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 94,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "W_Fofana",
+          "displayName": "W Fofana",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 16,
+          "sh": 7,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Guehi",
+          "displayName": "Guehi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Cubarsi",
+          "displayName": "P Cubarsi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 4,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Grimaldo",
+          "displayName": "Grimaldo",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 20,
+          "sh": 20,
+          "ag": 22,
+          "min": 88,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Estevao",
+          "displayName": "Estevao",
+          "position": "AM",
+          "st": 2,
+          "tk": 28,
+          "ps": 38,
+          "sh": 21,
+          "ag": 20,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 4,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Gavi",
+          "displayName": "Gavi",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 42,
+          "sh": 16,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Pedri",
+          "displayName": "Pedri",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 16,
+          "ag": 27,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Yamal",
+          "displayName": "L Yamal",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 28,
+          "sh": 42,
+          "ag": 27,
+          "min": 88,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "R_Lewandowski",
+          "displayName": "R Lewandowski",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 48,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Torres",
+          "displayName": "F Torres",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 40,
+          "ag": 27,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Kounde",
+          "displayName": "J Kounde",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 26,
+          "sh": 7,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Szczesny",
+          "displayName": "W Szczesny",
+          "position": "GK",
+          "st": 39,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_DeJong",
+          "displayName": "F DeJong",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 14,
+          "ag": 26,
+          "min": 6,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Lopez",
+          "displayName": "F Lopez",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 33,
+          "sh": 16,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Rashford",
+          "displayName": "M Rashford",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 38,
+          "ag": 28,
+          "min": 6,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "bor",
+      "text": "S_Guirassy deja a P_Cubarsi sentado S_Guirassy empalma con la zurda. Colocó mal el cuerpo M_TerStegen despeja el balón... con el pecho Vaya manera de vacilar al contrario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "bar",
+      "text": "L_Yamal hace una rápida pared con un compañero Tiene un defensa delante Le hace una bicicleta y mira al portero L_Yamal tiene tiempo y espacio Chuta GOOOOOL Superó claramente a G_Kobel Este gol pone al FC Barcelona por delante A ver cómo maneja el partido ahora Borussia Dortmund 0-1 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "bor",
+      "text": "G_Reyna pide desesperado un apoyo No aparece nadie Está rodeado Abre hacia el extremo S_Guirassy controla el cuero W_Fofana llega como un tren y arrolla a delantero y balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "bar",
+      "text": "Estevao al primer toque para L_Yamal L_Yamal golpea el balón a bote pronto GOOOOOL G_Kobel he hecho vista y se la ha tragado Pero ha sido anulado. La razón no está clara OJO Vamos a ver la repetición Sí, parece claro El atacante cometió falta",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "bor",
+      "text": "S_Guirassy hace la pared con N_Sule N_Sule se saca una terrible volea M_TerStegen adivina la trayectoria del cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "bor",
+      "text": "J_Duranville quiebra a Pedri con un suave toque hacia el exterior le rompió la cintura P_Cubarsi controla el balón Ay va Vaya cañonazo ha pegado Si podía salir jugando",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "bor",
+      "text": "G_Reyna se ofrece, está solo P_Cubarsi entra por detrás y levanta al delantero ¿(ROJA)? No El colegiado no vio ni falta",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "bor",
+      "text": "P_Gross para J_Brandt W_Fofana agarra de la camiseta a su rival Rafa_Guerrero le pide que se acerque Luego que se calme El técnico de FC Barcelona no verá la tarjeta FALTA DIRECTA La barrera se coloca J_Duranville busca un disparo raso por debajo de la barrera M_TerStegen mete el pie El rebote cae sobre la misma línea El delantero se lanza en plancha Pero el guardameta vuelve a meter la pierna CÓRNER J_Brandt cuelga el balón Estevao conjura el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "bor",
+      "text": "J_Brandt aprovecha un fallo defensivo Eso ha sido afortunado J_Brandt pica el balón por encima del portero GOOOOOL Qué manera de acabar la jugada Eso mete a Borussia Dortmund de nuevo en el partido Borussia Dortmund 1-1 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "bar",
+      "text": "Estevao conecta con R_Lewandowski. Qué entendimiento hay entre ambos N_Sule sega el césped con una entrada terrorífica",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "bor",
+      "text": "P_Gross acelera por la banda derecha Hace la pared con el delantero Quiebra al lateral N_Sule se la pide dentro del área Le pone el balón en el pie ¡Qué pase! N_Sule trata de sorprender a M_TerStegen desde fuera del área M_TerStegen se anticipa al remate y lo atrapa con sencillez",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "bar",
+      "text": "F_Torres envía el balón por el lado derecho de W_Anton y lo escoge por el otro F_Torres con un toque sutil ¡El balón va a puerta! G_Kobel alcanza el cuero. Buena parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "bor",
+      "text": "M_Sabitzer avanza con el balón controlado Ve a un compañero completamente solo Juega el balón hacia él J_Duranville llega al balón J_Duranville prueba suerte con un disparo raso Pero M_TerStegen mete los puños CÓRNER J_Brandt cuelga el centro al segundo palo Estevao controla el balón Y lo manda al centro del campo No se ha complicado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "bor",
+      "text": "N_Sule cede atrás para G_Reyna G_Reyna se saca una tijera ¡Qué bello! El balón vuela como un obús hacia la portería M_TerStegen reacciona con rapidez ¿Llegará a desviar el envenenado disparo? No, está vendido GOOOOOL M_TerStegen descarga su frustración pateando el palo El Borussia Dortmund manda en el luminoso Borussia Dortmund 2-1 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 33,
+      "teamCode": "bar",
+      "text": "Gavi larco para Estevao Estevao rompe el sistema defensivo rival Trata de rodear a G_Kobel Sienta a G_Kobel en el suelo con un gran regate GOL ¡NO! G_Kobel ha metido la mano en el último momento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "bor",
+      "text": "G_Reyna levanta la cabeza, pasa hacia N_Sule W_Fofana aparece de la nada. El delantero aún está buscando el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "bor",
+      "text": "N_Schlotterbeck con un cambio de ritmo a lo Cruyff N_Schlotterbeck dispara un verdadero obús M_TerStegen llega con la punta de los dedos al balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "bar",
+      "text": "Estevao envía un pase desde su propio campo hacia Grimaldo G_Reyna llega velozmente y mete la planta del pie ¡Qué velocidad!",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "bor",
+      "text": "S_Guirassy se tira el balón largo ante Grimaldo Se lleva al defensa por velocidad S_Guirassy saca un disparo durísimo desde lejos Pero golpea en un defensa y se va córner CÓRNER J_Brandt saca al primer palo P_Cubarsi mira atentamente el centro... y lo despeja",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "bar",
+      "text": "R_Lewandowski mete el pie Roba el balón Trata de entrar en el área R_Bensebaini comete la falta Se ha pasado (AMARILLA) Creo que el árbitro se ha pasado de riguroso",
+      "type": "yellow"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "bar",
+      "text": "Pedri hace la pared con Estevao Estevao hace un quiebro y dispara rápidamente G_Kobel se saca una espectacular parada Su capitán lo felicita por esa intervención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "bor",
+      "text": "G_Kobel se resiente del tobillo El fisio examina la zona dolorida Todo parece indicar que va a seguir",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "bor",
+      "text": "S_Guirassy pisa el balón Sortea a Pedri con un taconazo Han visto eso Es una pieza de arte S_Guirassy trata de sorprender con un chut lejano M_TerStegen para el cuero con mucha seguridad Este tío rezuma confianza",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "bar",
+      "text": "Estevao sale lanzado por el carril W_Anton intenta cortar su avance con una entrada a ras de suelo El delantero salta por encima ¡Qué reflejos! P_Gross corta con mucha tranquilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "bor",
+      "text": "J_Brandt hace una croqueta Evita la dura entrada de P_Cubarsi. ¡Qué clase! J_Brandt supera a M_TerStegen con una precisa vaselina El disparo rebota en el defensa y va directo hacía la grada CÓRNER M_Sabitzer saca a la zona de peligro Grimaldo mira atentamente el centro... y lo despeja",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "bor",
+      "text": "S_Guirassy con el giro Se abre hueco S_Guirassy saca un disparo durísimo desde lejos M_TerStegen ve como el balón se pierde lejos de su marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "bar",
+      "text": "P_Cubarsi se anticipa a su marcador Creo que lo ha empujado \"Sigan\" Dice Rafa_Guerrero P_Cubarsi mete la cabeza con valentía GOOOOOL ¿Pero quién es este tío, la reencarnación de Pelé? Acaba de empatar Borussia Dortmund 2-2 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "bar",
+      "text": "R_Lewandowski se anticipa a su marcador Ha sido mucho más rápido R_Lewandowski trata de sorprender al portero Está muy adelantado G_Kobel llega con la punta de los dedos al balón y sale rozando el palo Qué gran intervención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "bar",
+      "text": "Parece que Estevao va a jugar ahora de AM",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "bar",
+      "text": "FC Barcelona va a variar su planteamiento. Su elección es... A",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "bar",
+      "text": "L_Yamal escucha las órdenes que le dicta su técnico y se mueve a la posición de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "bor",
+      "text": "G_Reyna pierde la posesión Entra duro y recupera el balón Se ha quedado en una posibilidad inmejorable G_Reyna controla el balón, amaga y... dispara ¡Oh! M_TerStegen deja el balón suelto Su defensa cierra bien y envía el cuero a las gradas",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "bar",
+      "text": "R_Lewandowski coge el cuero en el flanco Se deshace de G_Reyna con una bicicleta Y pasa atrás hacia F_Torres. ¡Qué jugada! F_Torres chuta G_Kobel se zambulle espectacularmente hacia su izquierda Qué paradón Se le ha aparecido la vírgen",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "bar",
+      "text": "F_Torres controla de espaldas a la portería Pisa el balón y se gira. Peligro F_Torres con un sutil toque de puntera G_Kobel ve venir el balón Y lo atrapa con facilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "bar",
+      "text": "L_Yamal se aprovecha de un error de J_Brandt Corre hacia el marco L_Yamal saca un disparo durísimo desde lejos G_Kobel para el lanzamiento Y aleja el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "bar",
+      "text": "Pedri combina con L_Yamal con espacio por delante W_Anton entra a ras de suelo El delantero no tiene más remedio que saltar por encima Se ha jugado el físico ¡Qué tío!",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "bor",
+      "text": "J_Brandt corre metros La defensa rival se ha despistado, hay hueco Pone un peligroso balón sobre la entrada de J_Duranville L_Yamal choca con su oponente y lo envía al césped solo puede ser falta Rafa_Guerrero le muestra la (AMARILLA) Madre mía, qué malos son los árbitros españoles",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "bar",
+      "text": "Pedri desliza el balón entre las piernas del defensa Pedri duerme el balón con el pecho y lo empalma de primeras G_Kobel ve venir el balón. Parece fácil Se tira y lo atrapa espectacularmente Como se ha regalado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "bar",
+      "text": "R_Lewandowski con el regate Evita la entrada Pero R_Bensebaini mete el cuerpo Y aparta del balón al delantero, que reclama un codazo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "bar",
+      "text": "Pedri cambia el juego hacia Estevao Estevao con un verdadero obús G_Kobel no va a llegar El esférico se estrella en la madera Y fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "bor",
+      "text": "W_Anton se anticipa a su marcador Eso es un ejemplo de cómo desmarcarse M_TerStegen se lanza al corte Rafa_Guerrero lo llama inmediatamente (AMARILLA) Se irá a la caseta si repite algo así Seguramente será penalti Rafa_Guerrero se acerca al monitor del VAR y lo revisa ¡PENALTI! S_Guirassy es el designado para tomarlo Ha engañado a M_TerStegen Qué bien tirado GOOOOOL Qué oportuno Ha dejado el partido visto para sentencia Borussia Dortmund 3-2 FC Barcelona...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "bar",
+      "text": "L_Yamal cae en mala posición. Se ha lesionado",
+      "type": "injury"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "bar",
+      "text": "El ayudante del entrenador llama a F_DeJong Grimaldo va a ser sustituído Aplaude al público Su sustituto se ubica en MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "bar",
+      "text": "Cambio M_Rashford es el elegido en lugar de L_Yamal. El técnico le ordena que juegue de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que va a haber 1 minuto de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "bar",
+      "text": "Estevao rompe la defensa con un preciso pase sobre M_Rashford M_Rashford rompe el intento de fuera de juego rival Se va solo solo tiene que superar a G_Kobel Regatea a G_Kobel con mucha clase Dispara a puerta vacía Al palo Y fuera Su entrenador le está diciendo de todo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "bor",
+      "text": "P_Gross está cerrado por tres contrarios Se saca el balón de encima le cae a J_Brandt ¿Suerte o calidad? J_Brandt ha roto el fuera de juego Se va solo M_TerStegen inicia la salida Regatea a M_TerStegen con mucha clase Es gol de Abreu, Abreu, Abreeeeu AHHHHH Ha fallado",
+      "type": "goal"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

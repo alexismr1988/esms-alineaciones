@@ -1,0 +1,1233 @@
+{
+  "id": "trofeo-midseason/semis/psg_cit",
+  "competitionId": "trofeo-midseason",
+  "competitionLabel": "Trofeo Mid-Season",
+  "roundId": "semis",
+  "roundLabel": "Semifinales",
+  "fileName": "psg_cit.txt",
+  "homeCode": "psg",
+  "awayCode": "cit",
+  "homeTeam": "PSG",
+  "awayTeam": "Manchester City",
+  "result": {
+    "home": 3,
+    "away": 2,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "PSG 3-1 Manchester City",
+  "formation": {
+    "home": "4-1-2-1-2 N",
+    "away": "4-4-2 N"
+  },
+  "referee": {
+    "name": "Anders Frisk",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "G_Donnarumma",
+        "displayName": "G Donnarumma",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "I_Zabarnyi",
+        "displayName": "I Zabarnyi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Mendes",
+        "displayName": "N Mendes",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Pacho",
+        "displayName": "W Pacho",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Marquinhos",
+        "displayName": "Marquinhos",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Neves",
+        "displayName": "J Neves",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "Vitinha",
+        "displayName": "Vitinha",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "W_ZaireEmery",
+        "displayName": "W ZaireEmery",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Nico_Paz",
+        "displayName": "Nico Paz",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "D_Doue",
+        "displayName": "D Doue",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Rafael_Leao",
+        "displayName": "Rafael Leao",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Diogo_Costa",
+        "displayName": "Diogo Costa",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_HernÃ¡ndez",
+        "displayName": "L HernÃ¡ndez",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Ruiz",
+        "displayName": "F Ruiz",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Asensio",
+        "displayName": "M Asensio",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Barcola",
+        "displayName": "B Barcola",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "Unai_Simon",
+        "displayName": "Unai Simon",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "Laporte",
+        "displayName": "Laporte",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Dias",
+        "displayName": "R Dias",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Stones",
+        "displayName": "J Stones",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Gvardiol",
+        "displayName": "J Gvardiol",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Rodri",
+        "displayName": "Rodri",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Kovacic",
+        "displayName": "M Kovacic",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "I_Gundogan",
+        "displayName": "I Gundogan",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Silva",
+        "displayName": "B Silva",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "E_Haaland",
+        "displayName": "E Haaland",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "P_Foden",
+        "displayName": "P Foden",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Ederson",
+        "displayName": "Ederson",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_Khusanov",
+        "displayName": "A Khusanov",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Nunes",
+        "displayName": "M Nunes",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "T_Reijnders",
+        "displayName": "T Reijnders",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "O_Marmoush",
+        "displayName": "O Marmoush",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "PSG",
+      "mvp": "J_Neves (Jugador del partido)",
+      "goals": "D_Doue (9,40), Rafael_Leao (20)",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "G_Donnarumma (15)"
+    },
+    {
+      "team": "Manchester City",
+      "mvp": "E_Haaland",
+      "goals": "E_Haaland (28), B_Silva (56)",
+      "sentOff": "N/A",
+      "booked": "P_Foden (26)",
+      "injured": "J_Gvardiol (41)"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 12,
+      "away": 9
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 3,
+      "away": 3
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 9,
+      "away": 6
+    },
+    {
+      "label": "Posesión",
+      "home": 53,
+      "away": 47
+    },
+    {
+      "label": "Córners",
+      "home": 1,
+      "away": 3
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 0,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 6,
+      "away": 8
+    },
+    {
+      "label": "Entradas",
+      "home": 5,
+      "away": 6
+    },
+    {
+      "label": "Pases clave",
+      "home": 16,
+      "away": 6
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "PSG",
+      "players": [
+        {
+          "name": "G_Donnarumma",
+          "displayName": "G Donnarumma",
+          "position": "GK",
+          "st": 46,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 15,
+          "sav": 2,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "I_Zabarnyi",
+          "displayName": "I Zabarnyi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 7,
+          "sh": 4,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Mendes",
+          "displayName": "N Mendes",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 16,
+          "sh": 12,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Pacho",
+          "displayName": "W Pacho",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 7,
+          "sh": 4,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Marquinhos",
+          "displayName": "Marquinhos",
+          "position": "DF",
+          "st": 2,
+          "tk": 45,
+          "ps": 9,
+          "sh": 4,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Neves",
+          "displayName": "J Neves",
+          "position": "DM",
+          "st": 2,
+          "tk": 24,
+          "ps": 45,
+          "sh": 16,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 5,
+          "ass": 2,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Vitinha",
+          "displayName": "Vitinha",
+          "position": "DM",
+          "st": 2,
+          "tk": 21,
+          "ps": 44,
+          "sh": 16,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_ZaireEmery",
+          "displayName": "W ZaireEmery",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 16,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Nico_Paz",
+          "displayName": "Nico Paz",
+          "position": "AM",
+          "st": 2,
+          "tk": 16,
+          "ps": 39,
+          "sh": 21,
+          "ag": 20,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Doue",
+          "displayName": "D Doue",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 33,
+          "sh": 42,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 4,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rafael_Leao",
+          "displayName": "Rafael Leao",
+          "position": "FW",
+          "st": 2,
+          "tk": 18,
+          "ps": 20,
+          "sh": 44,
+          "ag": 11,
+          "min": 62,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 6,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Diogo_Costa",
+          "displayName": "Diogo Costa",
+          "position": "GK",
+          "st": 41,
+          "tk": 1,
+          "ps": 1,
+          "sh": 1,
+          "ag": 21,
+          "min": 79,
+          "sav": 2,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_HernÃ¡ndez",
+          "displayName": "L HernÃ¡ndez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 19,
+          "sh": 12,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Ruiz",
+          "displayName": "F Ruiz",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 40,
+          "sh": 16,
+          "ag": 24,
+          "min": 32,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Asensio",
+          "displayName": "M Asensio",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 33,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Barcola",
+          "displayName": "B Barcola",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 21,
+          "sh": 40,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Manchester City",
+      "players": [
+        {
+          "name": "Unai_Simon",
+          "displayName": "Unai Simon",
+          "position": "GK",
+          "st": 43,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 94,
+          "sav": 6,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Laporte",
+          "displayName": "Laporte",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 11,
+          "sh": 9,
+          "ag": 19,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Dias",
+          "displayName": "R Dias",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 15,
+          "sh": 4,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Stones",
+          "displayName": "J Stones",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Gvardiol",
+          "displayName": "J Gvardiol",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 41,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rodri",
+          "displayName": "Rodri",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 47,
+          "sh": 9,
+          "ag": 27,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Kovacic",
+          "displayName": "M Kovacic",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 41,
+          "sh": 14,
+          "ag": 26,
+          "min": 15,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "I_Gundogan",
+          "displayName": "I Gundogan",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 40,
+          "sh": 14,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Silva",
+          "displayName": "B Silva",
+          "position": "MF",
+          "st": 2,
+          "tk": 9,
+          "ps": 43,
+          "sh": 21,
+          "ag": 27,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Haaland",
+          "displayName": "E Haaland",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 12,
+          "sh": 49,
+          "ag": 30,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Foden",
+          "displayName": "P Foden",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 43,
+          "ag": 27,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Ederson",
+          "displayName": "Ederson",
+          "position": "GK",
+          "st": 39,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Khusanov",
+          "displayName": "A Khusanov",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 53,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Nunes",
+          "displayName": "M Nunes",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 35,
+          "sh": 14,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Reijnders",
+          "displayName": "T Reijnders",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 14,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Marmoush",
+          "displayName": "O Marmoush",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 14,
+          "sh": 43,
+          "ag": 28,
+          "min": 79,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "psg",
+      "text": "J_Neves habilita a D_Doue con un preciso toque D_Doue busca el palo largo GOOOOOL \"Vuela\" sobre el césped y sus compañeros le siguen Esto lo lleva a celebrar su tanto número 10 de la temporada El PSG se pone por delante PSG 1-0 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "cit",
+      "text": "P_Foden tiene espacio y tiempo A ver qué inventa Amaga el disparo y mete un pase Rodri controla con el pecho Encara puerta Rodri se saca una vaselina magistral de la chistera Pero G_Donnarumma hinca la rodilla en el suelo y desvía el disparo raso CÓRNER B_Silva impacta el cuero con el interior del pie M_Kovacic entra desde atrás G_Donnarumma cierra el ángulo El balón va directo hacia él G_Donnarumma mete los puños Córner Podría haberla blocado CÓRNER I_Gundogan cuelga el centro al segundo palo I_Zabarnyi se lanza en plancha y despeja el balón. Se ha jugado el físico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 13,
+      "teamCode": "psg",
+      "text": "Vitinha centra desde la banda, encuentra a Rafael_Leao en el área Rafael_Leao duerme el balón con el pecho y lo empalma de primeras Vuela por encima de Unai_Simon Va a puerta Pero se pierde por encima del larguero Tenía mucha intención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "cit",
+      "text": "O_Marmoush sustituye a M_Kovacic en la posición de FW",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "psg",
+      "text": "G_Donnarumma se levanta Trata de andar, pero va cojo Malas noticias Pide el cambio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "psg",
+      "text": "Diogo_Costa se despoja del chándal. Entrará por G_Donnarumma Jugará de GK El entrenador reza para que el cambio de sus frutos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "psg",
+      "text": "Rafael_Leao se anticipa a su marcador Menuda explosividad Rafael_Leao golpea el balón ¡Uau! Ha hecho la \"folha seca\" ¡Mira cómo baja! GOOOOOL Los seguidores del PSG lo celebran efusivamente PSG 2-0 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "cit",
+      "text": "El técnico grita vehementemente a sus jugadores Creo que va a cambiar de formación Manchester City jugará ahora P",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "psg",
+      "text": "N_Mendes controla el balón suelto Lo juega hacia Rafael_Leao Rafael_Leao impacta el cuero al primer toque Unai_Simon mete los puños y manda el cuero al centro del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "psg",
+      "text": "Vitinha tiene el cuero Le hace un túnel a I_Gundogan Ohhh Esto es caviar del bueno Y pasa a D_Doue P_Foden levanta demasiado la pierna Anders_Frisk busca nerviosamente en sus bolsillos Medita su decisión (AMARILLA) Tanto cuento para esto...",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "cit",
+      "text": "E_Haaland hace un tremendo control en el línea de medios Corre hacia el área y nadie le sale al paso Los centrales salen demasiado tarde, va a chutar E_Haaland golpea el balón ¡Uau! Ha hecho la \"folha seca\" ¡Mira cómo baja! GOOOOOL Limpió las telarañas de la escuadra Hace al avioncito para celebrarlo PSG 2-1 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "psg",
+      "text": "W_ZaireEmery se saca un pase al primer toque hacia Rafael_Leao de la chistera Rafael_Leao se precipita en su remate Unai_Simon deja el balón suelto Su defensa cierra bien y envía el cuero a las gradas",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "cit",
+      "text": "Rodri con el saque de banda Coge carrerilla Y saca larco hacia O_Marmoush I_Zabarnyi manda el balón a la grada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "cit",
+      "text": "P_Foden se va de dos defensas. ¡Uau! No había sitio Falla en el control y W_ZaireEmery no desaprovecha el regalo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "psg",
+      "text": "J_Neves acelera por la banda izquierda Juega para Rafael_Leao Rafael_Leao trata de sorprender a Unai_Simon desde fuera del área Pero Unai_Simon rechaza el balón Y la defensa, muy atenta, aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "psg",
+      "text": "J_Neves rompe la defensa con un preciso pase sobre D_Doue D_Doue rompe el intento de fuera de juego rival Se va solo solo tiene que superar a Unai_Simon Está solo ante Unai_Simon Amaga el disparo Engaña al portero y GOOOOOL PSG 3-1 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "cit",
+      "text": "El defensa está presionado Se saca el balón de encima B_Silva se va solo B_Silva suelta un chut con un efecto endiablado Al lateral de la red Ha tirado a la basura una ocasión de oro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "cit",
+      "text": "E_Haaland controla un balón complicadísimo Levanta la cabeza y busca el pase Pero se decide por la jugada individual E_Haaland impacta el cuero al primer toque Podría haberla parado OOOOHHHHH Increible Se ha ido fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "cit",
+      "text": "J_Gvardiol se ha torcido gravemente la rodilla Parece que va a seguir... No Se dirige al banquillo y pide el cambio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "cit",
+      "text": "La grada empieza a animar ya que A_Khusanov substituye a J_Gvardiol para jugar de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "cit",
+      "text": "P_Foden hace una bicicleta y cambia el juego hacia O_Marmoush Marquinhos sale al corte... lo logra",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "cit",
+      "text": "I_Gundogan con un glorioso pase largo hacia P_Foden P_Foden toca el balón con mucha suavidad Diogo_Costa llega al balón muy forzado Apenas pudo desviar el balón CÓRNER I_Gundogan con un peligroso lanzamiento al segundo palo N_Mendes sale al corte Y llega el primero al balón. Buenos reflejos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "psg",
+      "text": "Nico_Paz se interna por una banda Túnel al defensa Oh ¿Lo han visto? Quiebra al lateral Qué jugada D_Doue tira el desmarque en el centro Le pone una pase medido J_Stones sega el césped con una entrada terrorífica Je je je, el delantero saltó",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "psg",
+      "text": "N_Mendes levanta la cabeza, pasa hacia Rafael_Leao Pero Laporte aparece de la nada y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "psg",
+      "text": "W_ZaireEmery lanza el contraataque Hace una pausa esperando apoyos Vitinha lo dobla recibe el pase R_Dias ve venir el pase y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "cit",
+      "text": "Laporte con un pase de 50 metros P_Foden P_Foden con una preciosa vaselina Pero Diogo_Costa se saca de la manga la parada del partido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "cit",
+      "text": "I_Gundogan cruza para P_Foden Vitinha corta con claridad Midió a la perfección Su entrenador aplaude",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "psg",
+      "text": "J_Neves hace una bicicleta y mete el pase sobre la llegada de Rafael_Leao Rafael_Leao saca un disparo durísimo desde lejos A las nubes Dejó el cuerpo atrás y no controló bien el disparo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "cit",
+      "text": "B_Silva recoge el balón rebotado en la frontal Tiene hueco para el disparo La defensa sale, demasiado tarde B_Silva busca la vaselina Impacta el cuero con precisión y suavidad GOOOOOL Levanta los brazos ¡Qué frialdad! ¡Qué calidad! ¡Qué golazo! PSG 3-2 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "psg",
+      "text": "F_Ruiz entra por Rafael_Leao, jugará de MF y sus aficionados reciben el cambio con alegría",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "psg",
+      "text": "El entrenador del PSG grita desesperadamente a sus jugadores que pasen a D. Qué nervios",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "psg",
+      "text": "Vitinha escucha las órdenes que le dicta su técnico y se mueve a la posición de DM",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "cit",
+      "text": "E_Haaland con el regate Se cuela en el área E_Haaland tiene tiempo y espacio ¡Dispara por bajo! Coloca el balón suavemente lejos del alcance del portero Pero sale rozando el palo Diogo_Costa estaba vendido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "psg",
+      "text": "Peligroso centro de F_Ruiz a D_Doue Hace un mal control Rodri está muy encima en su marcaje y le arrebata el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "psg",
+      "text": "F_Ruiz recupera el balón Levanta la cabeza Ve el desmarque de su compañero D_Doue recibe un pase increíble Se marcha R_Dias corta el balón Despeja a lo loco La ha enviado a la grada CÓRNER W_ZaireEmery centra hacia el área El balón cruza un bosque de piernas y llega a Vitinha Mete el pie Pero Unai_Simon hace una gran parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "cit",
+      "text": "O_Marmoush estira la pierna para llegar al pase Pero N_Mendes cabecea el balón hacia el portero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "psg",
+      "text": "J_Neves encuentra a N_Mendes A_Khusanov despeja el balón hacia la grada Ei Un aficionado se lleva el balón Al ladrón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "psg",
+      "text": "Vitinha con un glorioso pase largo hacia D_Doue D_Doue golpea el balón a bote pronto Unai_Simon ve salir el balón demasiado alto Pero ojo con el efecto Pega en el palo Y fuera. Unai_Simon parece sorprendido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "psg",
+      "text": "W_ZaireEmery hace la croqueta ante Rodri El defensa mete la pierna, pero el rebote va a parar al delantero W_ZaireEmery busca la escuadra derecha Unai_Simon para Colocación y reflejos, la clave en un portero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "cit",
+      "text": "P_Foden va directo a puerta D_Doue placa a su oponente ¿Pero esto es fútbol o hockey sobre hielo? Recibe una charla conciliadora de Anders_Frisk",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "psg",
+      "text": "F_Ruiz acelera por la banda izquierda Juega para D_Doue D_Doue mira fijamente al portero Dispara entre las piernas de su marcador Unai_Simon mete la mano y alcanza el balón con la punta de los dedos córner, marca Anders_Frisk Pero el asistente lo corrige ¿Eso es asistir?",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

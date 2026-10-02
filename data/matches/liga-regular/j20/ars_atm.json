@@ -1,0 +1,1331 @@
+{
+  "id": "liga-regular/j20/ars_atm",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j20",
+  "roundLabel": "Jornada 20",
+  "fileName": "ars_atm.txt",
+  "homeCode": "ars",
+  "awayCode": "atm",
+  "homeTeam": "Arsenal",
+  "awayTeam": "Atletico Madrid",
+  "result": {
+    "home": 4,
+    "away": 2,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Arsenal 2-1 Atletico Madrid",
+  "formation": {
+    "home": "3-5-2 N",
+    "away": "3-4-3 C"
+  },
+  "referee": {
+    "name": "Iturralde Gonzalez",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "D_Raya",
+        "displayName": "D Raya",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "G_Magalhaes",
+        "displayName": "G Magalhaes",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_LewisSkelly",
+        "displayName": "M LewisSkelly",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_White",
+        "displayName": "B White",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Odegaard",
+        "displayName": "M Odegaard",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Rice",
+        "displayName": "D Rice",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Zubimendi",
+        "displayName": "M Zubimendi",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Merino",
+        "displayName": "M Merino",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "F_Vieira",
+        "displayName": "F Vieira",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Saka",
+        "displayName": "Saka",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Isak",
+        "displayName": "A Isak",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "K_Arrizabalaga",
+        "displayName": "K Arrizabalaga",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "O_Zinchenko",
+        "displayName": "O Zinchenko",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Timber",
+        "displayName": "J Timber",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_SambiLokonga",
+        "displayName": "A SambiLokonga",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "V_Gyokeres",
+        "displayName": "V Gyokeres",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "J_Oblak",
+        "displayName": "J Oblak",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "R_LeNormand",
+        "displayName": "R LeNormand",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Gimenez",
+        "displayName": "J Gimenez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Llorente",
+        "displayName": "M Llorente",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Baena",
+        "displayName": "A Baena",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "P_Barrios",
+        "displayName": "P Barrios",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "C_Gallagher",
+        "displayName": "C Gallagher",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "T_Almada",
+        "displayName": "T Almada",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Griezmann",
+        "displayName": "A Griezmann",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Alvarez",
+        "displayName": "J Alvarez",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "G_Raspadori",
+        "displayName": "G Raspadori",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Musso",
+        "displayName": "J Musso",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Hancko",
+        "displayName": "D Hancko",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Ruggeri",
+        "displayName": "M Ruggeri",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Cardoso",
+        "displayName": "J Cardoso",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_Sorloth",
+        "displayName": "A Sorloth",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Arsenal",
+      "mvp": "Saka",
+      "goals": "Saka (19,78), G_Magalhaes (21), V_Gyokeres (83)",
+      "sentOff": "N/A",
+      "booked": "G_Magalhaes (5)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Atletico Madrid",
+      "mvp": "A_Baena (Jugador del partido)",
+      "goals": "A_Baena (38), A_Sorloth (87)",
+      "sentOff": "N/A",
+      "booked": "J_Alvarez (35), C_Gallagher (40)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 14,
+      "away": 16
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 2,
+      "away": 6
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 12,
+      "away": 10
+    },
+    {
+      "label": "Posesión",
+      "home": 47,
+      "away": 53
+    },
+    {
+      "label": "Córners",
+      "home": 5,
+      "away": 3
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 10,
+      "away": 5
+    },
+    {
+      "label": "Entradas",
+      "home": 10,
+      "away": 12
+    },
+    {
+      "label": "Pases clave",
+      "home": 13,
+      "away": 15
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Arsenal",
+      "players": [
+        {
+          "name": "D_Raya",
+          "displayName": "D Raya",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 95,
+          "sav": 7,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Magalhaes",
+          "displayName": "G Magalhaes",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 7,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "M_LewisSkelly",
+          "displayName": "M LewisSkelly",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 6,
+          "ag": 21,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_White",
+          "displayName": "B White",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 19,
+          "sh": 9,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Odegaard",
+          "displayName": "M Odegaard",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 29,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Rice",
+          "displayName": "D Rice",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 19,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Zubimendi",
+          "displayName": "M Zubimendi",
+          "position": "MF",
+          "st": 2,
+          "tk": 20,
+          "ps": 41,
+          "sh": 18,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Merino",
+          "displayName": "M Merino",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 26,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Vieira",
+          "displayName": "F Vieira",
+          "position": "MF",
+          "st": 2,
+          "tk": 20,
+          "ps": 39,
+          "sh": 18,
+          "ag": 22,
+          "min": 58,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Saka",
+          "displayName": "Saka",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 24,
+          "sh": 43,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 5,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Isak",
+          "displayName": "A Isak",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 19,
+          "sh": 43,
+          "ag": 19,
+          "min": 68,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Arrizabalaga",
+          "displayName": "K Arrizabalaga",
+          "position": "GK",
+          "st": 37,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Zinchenko",
+          "displayName": "O Zinchenko",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 24,
+          "sh": 9,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Timber",
+          "displayName": "J Timber",
+          "position": "DF",
+          "st": 2,
+          "tk": 31,
+          "ps": 19,
+          "sh": 9,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_SambiLokonga",
+          "displayName": "A SambiLokonga",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 14,
+          "ag": 22,
+          "min": 37,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Gyokeres",
+          "displayName": "V Gyokeres",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 22,
+          "sh": 41,
+          "ag": 24,
+          "min": 27,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Atletico Madrid",
+      "players": [
+        {
+          "name": "J_Oblak",
+          "displayName": "J Oblak",
+          "position": "GK",
+          "st": 45,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 95,
+          "sav": 9,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_LeNormand",
+          "displayName": "R LeNormand",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 5,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Gimenez",
+          "displayName": "J Gimenez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Llorente",
+          "displayName": "M Llorente",
+          "position": "DF",
+          "st": 2,
+          "tk": 37,
+          "ps": 37,
+          "sh": 14,
+          "ag": 27,
+          "min": 58,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Baena",
+          "displayName": "A Baena",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 39,
+          "sh": 21,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 5,
+          "ass": 1,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Barrios",
+          "displayName": "P Barrios",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 12,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Gallagher",
+          "displayName": "C Gallagher",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 14,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "T_Almada",
+          "displayName": "T Almada",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 19,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Griezmann",
+          "displayName": "A Griezmann",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 28,
+          "sh": 44,
+          "ag": 28,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Alvarez",
+          "displayName": "J Alvarez",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 21,
+          "sh": 42,
+          "ag": 29,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "G_Raspadori",
+          "displayName": "G Raspadori",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 21,
+          "sh": 36,
+          "ag": 26,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Musso",
+          "displayName": "J Musso",
+          "position": "GK",
+          "st": 30,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Hancko",
+          "displayName": "D Hancko",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 37,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Ruggeri",
+          "displayName": "M Ruggeri",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Cardoso",
+          "displayName": "J Cardoso",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 36,
+          "sh": 12,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Sorloth",
+          "displayName": "A Sorloth",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 36,
+          "ag": 27,
+          "min": 50,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "ars",
+      "text": "F_Vieira toca de primeras al área para Saka Saka remacha el balón a ras de suelo Espectacular parada de J_Oblak Seguro que su seleccionador nacional habrá tomado buena nota",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "atm",
+      "text": "G_Raspadori pisa campo contrario. Mete un pase entre los centrales para M_Llorente M_Zubimendi llega segundos tarde al corte Se levanta y se disculpa de su oponente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "ars",
+      "text": "G_Magalhaes escupe a C_Gallagher Eso le puede costar muy caro Ojo que pede irse a la calle por eso Iturralde_Gonzalez le hace señas para que se acerque El colegiado lo mira fijamente ay (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "ars",
+      "text": "M_Odegaard recupera el balón y pasa largo hacia Saka. Ha pillado a la defensa desolocada T_Almada despeja el balón hacia la grada Ei Un aficionado se lleva el balón Al ladrón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "atm",
+      "text": "G_Raspadori baja el balón con un cabezazo hacia J_Alvarez J_Alvarez cruza la línea de medios, avanza, mira al portero y chuta Pero D_Raya rechaza el balón Y la defensa, muy atenta, aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 11,
+      "teamCode": "atm",
+      "text": "J_Alvarez busca el túnel ante M_Merino El defensa mete la pierna, pero el rebote favorece a su rival J_Alvarez suelta un cañonazo. Problemas para D_Raya Envía un disparo colocadísimo D_Raya llega con la punta de los dedos Gran parada Estas acciones pueden ser claves en un partido CÓRNER C_Gallagher coloca el balón con mucha suavidad J_Alvarez remata de cabeza No le podría haber pegado mejor D_Raya mete la mano No pudo evitar el córner CÓRNER Picado por T_Almada Vuela hacia M_Llorente se anticipa a su marcador Espectacular parada de D_Raya Seguro que su seleccionador nacional habrá tomado buena nota",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 13,
+      "teamCode": "ars",
+      "text": "B_White mete el balón a la espalda de la defensa Su compañero ya había empezado la carrera M_Zubimendi controla el balón M_Zubimendi tiene tiempo y espacio Busca la vaselina Se va fuera Pero rebota en un defensa Ay J_Oblak reacciona y cede el córner CÓRNER El lanzamiento va a cargo de D_Rice M_Zubimendi llega al centro J_Oblak ve venir el balón. Parece fácil Se tira y lo atrapa espectacularmente Como se ha regalado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 13,
+      "teamCode": "atm",
+      "text": "A_Baena controla el balón suelto Lo juega hacia G_Raspadori G_Raspadori impacta el balón de primeras Se estrella en el palo Y cae directamente a las manos de D_Raya Qué suerte ¿Habrá pisado... ? Es igual",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "atm",
+      "text": "A_Griezmann se va de Saka Lo ha dejado sentado Pero G_Magalhaes cuelga el balón a la grada Z",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "atm",
+      "text": "T_Almada habilita a P_Barrios con un preciso toque P_Barrios con un sorprendente remate El disparo se le escurre a D_Raya de las manos rueda lentamente hacia el marco Pero sale a centímetros del palo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "ars",
+      "text": "M_Merino encuentra el pasadizo ¡Qué habilidad! J_Gimenez se hace con el balón y lo cede al portero J_Oblak resbala Ay Fuera Ha salido a córner CÓRNER M_Zubimendi centra hacia el área Saka trata de colocar su disparo GOOOOOL \"Vuela\" sobre el césped y sus compañeros le siguen El Arsenal manda en el luminoso Arsenal 1-0 Atletico Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "ars",
+      "text": "M_Odegaard llega el priimero al balóm suelto Y lo mete en profundidad hacia G_Magalhaes G_Magalhaes remata con los ojos cerrados Los aficionados del Arsenal se levantan de sus asientos GOOOOOL Arsenal 2-0 Atletico Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "atm",
+      "text": "J_Alvarez con el regate Oportunidad clarísima J_Alvarez tiene el disparo a punto D_Raya hace una gran parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "atm",
+      "text": "J_Alvarez orienta su control Pisa área y tiene hueco M_LewisSkelly sale al corte Se lleva al oponente por delante El árbitro dice que... sigan",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 33,
+      "teamCode": "ars",
+      "text": "Saka pisa el balón ante R_LeNormand Se lo enseña, se lo esconde, otra vez... lo va a marear Saka impacta el balón con una volea defectuosa J_Oblak bloquea el disparo con las piernas La pelota sale rebotada hacia el centro del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 33,
+      "teamCode": "atm",
+      "text": "P_Barrios se mete en el área. Va a chutar No, pase para A_Griezmann A_Griezmann tiene el disparo a punto Golpea las vallas publicitarias",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "ars",
+      "text": "M_Zubimendi está presionado, retrocede Está en peligro, se saca el balón de encima OH Le ha salida una maravillosa asistencia hacia M_Odegaard A_Baena choca con el delantero Y el balón sale fuera Córner CÓRNER M_LewisSkelly saca al primer palo J_Oblak se eleva entre los contrarios y caza el centro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "ars",
+      "text": "G_Magalhaes aprovecha un fallo defensivo El entrenador está abroncando a su defensa J_Alvarez corta el juego con una falta táctica Ha cortado el atauqe rival, pero, ¿a qué precio? Iturralde_Gonzalez busca en sus bolsillos (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "ars",
+      "text": "G_Magalhaes busca el túnel ante P_Barrios El defensa mete la pierna, pero el rebote favorece a su rival R_LeNormand se le anticipa y le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "atm",
+      "text": "P_Barrios toca de primeras al área para A_Baena A_Baena le pega 'mordida' El balón va haciendo extraños en el aire D_Raya resbala GOOOOOL D_Raya está avergonzado. No es para menos Arsenal 2-1 Atletico Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "atm",
+      "text": "A_Griezmann busca el túnel ante M_Zubimendi El defensa mete la pierna, pero el rebote favorece a su rival El balón golpea a Saka en la cara Peligro despejado Al defensa no le hace ninguna gracia",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "ars",
+      "text": "M_Odegaard mete un balón interior para Saka C_Gallagher con una entrada asesina Ha sido un acto frío y deliberado. Indignante (AMARILLA) Tendrá que medir un pocos sus acciones desde este momento",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "atm",
+      "text": "A_Baena se hace con el balón Y busca a A_Griezmann con un pase con el exterior M_Odegaard corta y cede al portero D_Raya trata de evitar el córner El pase era defectuoso Se desliza... Córner No llegó CÓRNER P_Barrios saca a la zona de peligro G_Raspadori trata de colocar su disparo D_Raya ve como el balón se pierde lejos de su marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "atm",
+      "text": "A_Sorloth sustituye a un descontento G_Raspadori para jugar de FW",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "atm",
+      "text": "R_LeNormand inicia el ataque Pase picado por A_Griezmann Pero B_White cabecea el balón hacia el portero",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "ars",
+      "text": "B_White se anticipa a su marcador Eso es un ejemplo de cómo desmarcarse R_LeNormand se anticipa a la jugada y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "atm",
+      "text": "C_Gallagher se anticipa a su marcador Preciso cabezazo de C_Gallagher D_Raya ve como el balón se pierde lejos de su marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "atm",
+      "text": "A ver qué inventa T_Almada ahora. Pase de interior hacia A_Baena A_Baena acomoda el balón Y le pega Pero D_Raya manda el balón fuera Iturralde_Gonzalez marcará el córner El asistente le marca córner Pues vaya ayuda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "atm",
+      "text": "C_Gallagher se revuelve buscando espacio para el disparo Desliza un pase hacia A_Griezmann D_Rice se lleva bien el balón Iturralde_Gonzalez pita falta ¡Bufff!, no vale ni para la Segunda B",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "atm",
+      "text": "J_Alvarez avanza en carrera y gira súbitamente El cambio de dirección sorprendió a B_White B_White reacciona a tiempo y gana el esférico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "ars",
+      "text": "M_LewisSkelly mete el pie Roba el balón Trata de entrar en el área P_Barrios entra a ras de suelo El delantero no tiene más remedio que saltar por encima Se ha jugado el físico ¡Qué tío!",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "atm",
+      "text": "A_Griezmann supera a G_Magalhaes ¡Qué facilidad de regate! D_Rice ve venir el pase y lo corta con facilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "atm",
+      "text": "M_Llorente golpea el balón hacia A_Sorloth G_Magalhaes va al choque Y se lleva el cuero. El delantero no sabe si ha sido un contrario o un tren de mercancías",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "ars",
+      "text": "A_SambiLokonga sustituye a un descontento F_Vieira para jugar de MF",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "atm",
+      "text": "Cambio D_Hancko es el elegido en lugar de M_Llorente. El técnico le ordena que juegue de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "ars",
+      "text": "A_SambiLokonga baja el balón con un cabezazo hacia A_Isak A_Sorloth se le anticipa y le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "atm",
+      "text": "A_Baena corta de manera impresionante Arma el contraataque Es un dos contra dos A_Griezmann se desmarca y recibe el pase A_Griezmann remacha el balón a ras de suelo OOOOHHHHH GOOOOOL ¿Cómo pudo inventarse eso? ANULADO Fuera de juego. El asistente estuvo fino aquí",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "ars",
+      "text": "D_Rice controla de espaldas a la portería Se protege del defensa con los brazos Gira... y se lo lleva D_Rice prueba suerte J_Oblak vuela hacia su escuadra derecha Logra meter la mano Impresionante Ha evitado el gol CÓRNER M_Zubimendi saca el balón a la frontal M_Odegaard entra con todo J_Oblak está tapado. No ve venir el balón Pero lo despeja con los puños. Poco ortodoxo, pero efectivo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "ars",
+      "text": "A_SambiLokonga busca opciones Su compañero se deshace del marcador A_Isak recibe un pase medido R_LeNormand llega como un tren y corta el ataque lanzándose al suelo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "ars",
+      "text": "Confirmado Hay cambio V_Gyokeres entrará en lugar de A_Isak. Se ubica como FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "ars",
+      "text": "A_SambiLokonga se cuela por la banda Centra hacia M_Odegaard Pero R_LeNormand se anticipa a la jugada. Qué sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "ars",
+      "text": "M_Zubimendi está cerrado por tres contrarios Se saca el balón de encima le cae a V_Gyokeres ¿Suerte o calidad? V_Gyokeres acomoda el balón Y le pega J_Oblak no va a tener ni que moverse Fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "ars",
+      "text": "Saka recupera el balón suelto Pero J_Gimenez aparece de la nada y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "ars",
+      "text": "M_Zubimendi supera a J_Alvarez Este defensa es un tronco No tiene cintura M_Zubimendi ve a J_Oblak adelantado J_Oblak mete los puños y manda el cuero al centro del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "atm",
+      "text": "D_Hancko con un inteligente pase hacia A_Griezmann A_Griezmann remata con los ojos cerrados Pero D_Raya rechaza con los pies Podría haberla cogido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "ars",
+      "text": "M_Merino se la pone a Saka en el pie R_LeNormand se desliza a ras de suelo con la pierna por delante Impacta el cuero y se va a córner CÓRNER A_SambiLokonga cuelga el centro al segundo palo D_Hancko aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "atm",
+      "text": "C_Gallagher mira a R_LeNormand... y le manda un pase milimétrico R_LeNormand impacta el cuero en un alarde de calidad D_Raya observa como el balón se va lejos de su marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "atm",
+      "text": "A_Baena pica el balón por encima de los centrales A_Griezmann aparece de la nada. Los ha pillado despistados Pierde el control del balón M_LewisSkelly mete el pie y lo envía a la grada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "ars",
+      "text": "Saka está desmarcado Pero D_Hancko está muy metido en el partido y le roba la cartera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "ars",
+      "text": "Saka deja a R_LeNormand en el camino Saka remata forzado... con la rodilla Ve al portero adelantado y le pica el balón GOOOOOL Sus compañeros corren a limpiarle la bota. No es para menos Arsenal 3-1 Atletico Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "ars",
+      "text": "V_Gyokeres mete el pie Roba el balón Trata de entrar en el área A_Griezmann entra con los tacos por delante Iturralde_Gonzalez lo llama inmediatamente FALTA DIRECTA No fue ¡PENALTI! por centímetros V_Gyokeres dispara un verdadero obús GOOOOOL Se quita la camiseta y la lanza al público. Lo adoran Arsenal 4-1 Atletico Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "atm",
+      "text": "A_Baena inicia el ataque Pase picado por A_Sorloth A_Sorloth impacta el balón de primeras D_Raya no va a llegar GOOOOOL Le ha ganado la partida Este ha sido su gol número 10 de la temporada Bocanada de aire fresco para el Atletico Madrid ¿Logrará remontar? Arsenal 4-2 Atletico Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "ars",
+      "text": "D_Rice cuelga arriba sobre M_Zubimendi M_Zubimendi trata de regatear a J_Oblak J_Oblak cubre su ángulo El balón hace un extraño J_Oblak ha quedado descolocado Pero sale desviada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "ars",
+      "text": "A_SambiLokonga se gira, está tapado por dos rivales Pisa el balón y mira arriba pasa larga hacia la posición de Saka Saka mete el interior del pie con mucha intención Los aficionados se levantan de sus asientos J_Oblak vuela y bloca el cuero Grande chico, grande",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "atm",
+      "text": "P_Barrios corre metros La defensa rival se ha despistado, hay hueco Pone un peligroso balón sobre la entrada de C_Gallagher B_White entra por detrás y levanta al delantero ¿(ROJA)? No El colegiado no vio ni falta",
+      "type": "red"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

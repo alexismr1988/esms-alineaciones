@@ -1,0 +1,1408 @@
+{
+  "id": "liga-regular/j4/man_bor",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j4",
+  "roundLabel": "Jornada 4",
+  "fileName": "man_bor.txt",
+  "homeCode": "man",
+  "awayCode": "bor",
+  "homeTeam": "Manchester United",
+  "awayTeam": "Borussia Dortmund",
+  "result": {
+    "home": 5,
+    "away": 3,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Manchester United 3-1 Borussia Dortmund",
+  "formation": {
+    "home": "5-2-3 A",
+    "away": "4-4-2 A"
+  },
+  "referee": {
+    "name": "Mateu Lahoz",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "A_Onana",
+        "displayName": "A Onana",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "de_Ligt",
+        "displayName": "de Ligt",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Martinez",
+        "displayName": "L Martinez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Yoro",
+        "displayName": "L Yoro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "H_Maguire",
+        "displayName": "H Maguire",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Shaw",
+        "displayName": "L Shaw",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Fernandes",
+        "displayName": "B Fernandes",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Casemiro",
+        "displayName": "M Casemiro",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Mbeumo",
+        "displayName": "B Mbeumo",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Garnacho",
+        "displayName": "A Garnacho",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "M_Cunha",
+        "displayName": "M Cunha",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Bayindir",
+        "displayName": "A Bayindir",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Dalot",
+        "displayName": "D Dalot",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "P_Dorgu",
+        "displayName": "P Dorgu",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Mount",
+        "displayName": "M Mount",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Sesko",
+        "displayName": "B Sesko",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "G_Kobel",
+        "displayName": "G Kobel",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "N_Schlotterbeck",
+        "displayName": "N Schlotterbeck",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Anton",
+        "displayName": "W Anton",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Sule",
+        "displayName": "N Sule",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Y_Couto",
+        "displayName": "Y Couto",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "P_Gross",
+        "displayName": "P Gross",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Brandt",
+        "displayName": "J Brandt",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Sabitzer",
+        "displayName": "M Sabitzer",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "G_Reyna",
+        "displayName": "G Reyna",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "S_Guirassy",
+        "displayName": "S Guirassy",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "K_Adeyemi",
+        "displayName": "K Adeyemi",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Meyer",
+        "displayName": "A Meyer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "R_Bensebaini",
+        "displayName": "R Bensebaini",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Jobe_Bellingham",
+        "displayName": "Jobe Bellingham",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Nmecha",
+        "displayName": "F Nmecha",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Beier",
+        "displayName": "M Beier",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Manchester United",
+      "mvp": "B_Mbeumo (Jugador del partido)",
+      "goals": "M_Cunha (5), M_Casemiro (26), B_Mbeumo (38,63,75)",
+      "sentOff": "N/A",
+      "booked": "B_Fernandes (31)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Borussia Dortmund",
+      "mvp": "K_Adeyemi",
+      "goals": "M_Sabitzer (35), K_Adeyemi (68), S_Guirassy (93)",
+      "sentOff": "N/A",
+      "booked": "G_Reyna (32)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 27,
+      "away": 22
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 10,
+      "away": 6
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 17,
+      "away": 16
+    },
+    {
+      "label": "Posesión",
+      "home": 50,
+      "away": 50
+    },
+    {
+      "label": "Córners",
+      "home": 4,
+      "away": 3
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 0
+    },
+    {
+      "label": "Faltas",
+      "home": 4,
+      "away": 7
+    },
+    {
+      "label": "Entradas",
+      "home": 4,
+      "away": 10
+    },
+    {
+      "label": "Pases clave",
+      "home": 22,
+      "away": 14
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Manchester United",
+      "players": [
+        {
+          "name": "A_Onana",
+          "displayName": "A Onana",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 96,
+          "sav": 14,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "de_Ligt",
+          "displayName": "de Ligt",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Martinez",
+          "displayName": "L Martinez",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 19,
+          "sh": 7,
+          "ag": 26,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 2,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Yoro",
+          "displayName": "L Yoro",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 4,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Maguire",
+          "displayName": "H Maguire",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 4,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 1,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Shaw",
+          "displayName": "L Shaw",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 45,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Fernandes",
+          "displayName": "B Fernandes",
+          "position": "MF",
+          "st": 2,
+          "tk": 9,
+          "ps": 43,
+          "sh": 26,
+          "ag": 27,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 1,
+          "sht": 4,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "M_Casemiro",
+          "displayName": "M Casemiro",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 42,
+          "sh": 12,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Mbeumo",
+          "displayName": "B Mbeumo",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 15,
+          "sh": 41,
+          "ag": 26,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 5,
+          "gls": 3,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Garnacho",
+          "displayName": "A Garnacho",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 28,
+          "sh": 40,
+          "ag": 26,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Cunha",
+          "displayName": "M Cunha",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 19,
+          "sh": 40,
+          "ag": 27,
+          "min": 67,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 4,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Bayindir",
+          "displayName": "A Bayindir",
+          "position": "GK",
+          "st": 33,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Dalot",
+          "displayName": "D Dalot",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 51,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 1,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Dorgu",
+          "displayName": "P Dorgu",
+          "position": "DF",
+          "st": 2,
+          "tk": 30,
+          "ps": 14,
+          "sh": 5,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Mount",
+          "displayName": "M Mount",
+          "position": "MF",
+          "st": 2,
+          "tk": 7,
+          "ps": 39,
+          "sh": 21,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Sesko",
+          "displayName": "B Sesko",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 21,
+          "sh": 38,
+          "ag": 27,
+          "min": 29,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Borussia Dortmund",
+      "players": [
+        {
+          "name": "G_Kobel",
+          "displayName": "G Kobel",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 96,
+          "sav": 13,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Schlotterbeck",
+          "displayName": "N Schlotterbeck",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 17,
+          "sh": 7,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Anton",
+          "displayName": "W Anton",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 7,
+          "ag": 22,
+          "min": 96,
+          "sav": 0,
+          "ktk": 4,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Sule",
+          "displayName": "N Sule",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 4,
+          "ag": 22,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Couto",
+          "displayName": "Y Couto",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 31,
+          "sh": 14,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Gross",
+          "displayName": "P Gross",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 19,
+          "ag": 22,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Brandt",
+          "displayName": "J Brandt",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 26,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Sabitzer",
+          "displayName": "M Sabitzer",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 38,
+          "sh": 21,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Reyna",
+          "displayName": "G Reyna",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 24,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "S_Guirassy",
+          "displayName": "S Guirassy",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 25,
+          "sh": 43,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 5,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Adeyemi",
+          "displayName": "K Adeyemi",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 40,
+          "ag": 26,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 1,
+          "sht": 8,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Meyer",
+          "displayName": "A Meyer",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Bensebaini",
+          "displayName": "R Bensebaini",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 12,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Jobe_Bellingham",
+          "displayName": "Jobe Bellingham",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 33,
+          "sh": 16,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Nmecha",
+          "displayName": "F Nmecha",
+          "position": "MF",
+          "st": 2,
+          "tk": 26,
+          "ps": 36,
+          "sh": 16,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Beier",
+          "displayName": "M Beier",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 24,
+          "sh": 38,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "bor",
+      "text": "K_Adeyemi se aprovecha de un error de de_Ligt L_Martinez lo envía al césped Los aficionados reclaman penalti Pero Mateu_Lahoz se desentiende de la jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "bor",
+      "text": "K_Adeyemi tiene varias opciones de pase Pero busca un regate y se va hacia el área. Chupón K_Adeyemi trata de sorprender con un chut lejano A_Onana hace una gran parada Y se las arregla para controlar el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "man",
+      "text": "B_Mbeumo hace una vuelta entera pisando el balón y se va solo de cara a puerta Pero N_Schlotterbeck roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "man",
+      "text": "L_Martinez habilita a M_Cunha con un preciso toque M_Cunha busca el disparo G_Kobel está batido GOOOOOL No ha podido hacer nada El Manchester United jugará con ventaja a partir de ahora Manchester United 1-0 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "bor",
+      "text": "S_Guirassy se aprovecha un horrible pase hacia atrás B_Fernandes corta el juego con una falta táctica Mateu_Lahoz lo llama inmediatamente Mateu_Lahoz le avisa: \"Es la última vez\"",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "man",
+      "text": "A_Garnacho tira la pared con su delantero L_Martinez con un preciso pase de primeras Menuda jugada L_Martinez tiene la portería entre ceja y ceja Pero G_Kobel hace una gran parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "bor",
+      "text": "P_Gross supera a de_Ligt Este defensa es un tronco No tiene cintura P_Gross coloca un preciso disparo A_Onana agranda su figura Cierra todo el espacio Y para el lanzamiento. La grada le aplaude",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "bor",
+      "text": "P_Gross hace una bicicleta y cambia el juego hacia G_Reyna Pero L_Shaw se anticipa a la jugada. Qué sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "man",
+      "text": "L_Shaw Con un pase demasiado fuerte. M_Casemiro va a llegar El balón golpea a W_Anton en la cara Peligro despejado Al defensa no le hace ninguna gracia",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "man",
+      "text": "M_Casemiro ve especio entre el central y el lateral. Pone un peligroso pase diagonal para A_Garnacho A_Garnacho connecta el balón con la cabeza y lo peina hacia atrás G_Kobel llega con la punta de los dedos al balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "bor",
+      "text": "P_Gross ve a J_Brandt completamente solo J_Brandt impacta el balón con una volea defectuosa A_Onana está tapado. No ve venir el balón Reacciona rápidamente Y desvía el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "man",
+      "text": "M_Casemiro inicia el ataque Pase picado por L_Shaw N_Schlotterbeck levanta al delantero dos metros del suelo ¡Ay va! Qué entrada El colegiado se acerca corriendo Y le dice al delantero que no haga cuento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "bor",
+      "text": "K_Adeyemi se para ante H_Maguire... y le hace la 'cola de vaca' Oh Increíble solo se lo había visto hacer a Ronaldo y Romario K_Adeyemi empalma con la zurda. Colocó mal el cuerpo Pero A_Onana desvía levemente el balón Mateu_Lahoz da saque de puerta ¡Increíble! El portero la tocó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "man",
+      "text": "M_Cunha recupera el cuero M_Cunha empalma con la zurda. Colocó mal el cuerpo El balón hace un mal bote sobre el césped y su disparo se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "bor",
+      "text": "M_Sabitzer cruza para K_Adeyemi K_Adeyemi desde fuera del área A_Onana está justo en el sitio exacto Pero se lanza para hacerlo más espectacular Su entrenador está de los nervios",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "man",
+      "text": "L_Martinez habilita a A_Garnacho con un preciso toque Pierde el control del balón P_Gross despeja sin miramientos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "bor",
+      "text": "N_Schlotterbeck mira a la derecha Y cruza a la izquierda para Y_Couto. Eso lo hacía Laudrup Y_Couto peina el balón hacia atrás Pero el balón se pierde inofensivamente por encima del larguero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "man",
+      "text": "M_Casemiro pica el balón por encima de la defensa B_Mbeumo ya había iniciado la diagonal Hacia él va el balón W_Anton corta el balón Despeja a lo loco La ha enviado a la grada CÓRNER B_Fernandes cuelga el centro al segundo palo N_Sule cabecea hacia su portero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "bor",
+      "text": "K_Adeyemi con un peligroso pase hacia G_Reyna G_Reyna con un toque de maestro Pero A_Onana responde con una parada muy sencilla",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "man",
+      "text": "M_Cunha cruza hacia M_Casemiro M_Casemiro rompe el intento de fuera de juego rival Creo que estaba más adelante que el último defensa G_Kobel sale a la desesperada Sienta a G_Kobel con una bicicleta ¡Qué calidad! Va a marcar GOOOOOL Manchester United 2-0 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "man",
+      "text": "M_Cunha envía el esférico en profundidad. B_Mbeumo lo controla P_Gross se anticipa a la jugada y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "man",
+      "text": "M_Cunha avanza pegado a la línea de banda Mete el balón al área L_Yoro J_Brandt se desliza... y derriba a su adversario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "bor",
+      "text": "M_Sabitzer se cuela por la banda Centra hacia Y_Couto L_Martinez pone el pie en el momento oportuno y despeja el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "bor",
+      "text": "G_Reyna regatea a su marcador Va a disparar No Pasa hacia K_Adeyemi Ha engañado a todos B_Fernandes se deja caer No hay espacio en TSM para este tipo de acciones El colegiado le muestra la cartulina (AMARILLA) Chico, frena que te vas a la calle",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "man",
+      "text": "de_Ligt mira a M_Cunha... y le manda un pase milimétrico G_Reyna corta limpiamente el balón Suena el silbato Se ha equivocado Tengo mis dudas que eso sea tarjeta SÍ (AMARILLA) FALTA DIRECTA No fue ¡PENALTI! por centímetros B_Fernandes trata de superar la barrera Pega en el muslo de un defensa Y sale a centímetros de la escuadra CÓRNER M_Casemiro impacta el cuero con el interior del pie M_Cunha entra desde atrás G_Kobel observa como el balón se va lejos de su marco",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 33,
+      "teamCode": "man",
+      "text": "B_Fernandes tiene a varios compañeros solos Decide jugar él solo. Un poco chupón, ¿eh? B_Fernandes busca desequilibrar el partido G_Kobel mete la mano y alcanza el balón con la punta de los dedos córner, marca Mateu_Lahoz Pero el asistente lo corrige ¿Eso es asistir?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 33,
+      "teamCode": "bor",
+      "text": "J_Brandt se aprovecha un horrible pase hacia atrás J_Brandt busca una vaselina imposible A_Onana tapa perfectamente el ángulo largo Y detiene el balón con sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "bor",
+      "text": "P_Gross con un inteligente pase hacia J_Brandt Envenenado trallazo de J_Brandt Los aficionados se levantan de sus asientos A_Onana vuela y bloca el cuero Grande chico, grande",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "bor",
+      "text": "M_Sabitzer se aprovecha de un error de L_Martinez Corre hacia el marco M_Sabitzer connecta el balón con la cabeza y lo peina hacia atrás GOOOOOL Levanta los dos brazos y mira al cielo. ¿A quién se lo dedicará? Manchester United 2-1 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "man",
+      "text": "A_Garnacho orienta su control Pisa área y tiene hueco A_Garnacho busca la red Demasiado alta, la ha tirado a Agraria",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "bor",
+      "text": "S_Guirassy hace una bicicleta y descoloca a de_Ligt S_Guirassy mira a puerta ¡Dispara! A_Onana llega al balón muy forzado Apenas pudo desviar el balón CÓRNER P_Gross saca a la zona de peligro K_Adeyemi trata de colocar su disparo A_Onana para. Le vino directo a las manos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "man",
+      "text": "H_Maguire espera apoyos B_Mbeumo sale de la cueva. Para él va el balón B_Mbeumo tiene una oportunidad de oro G_Kobel no va a llegar GOOOOOL Qué golazo Manchester United 3-1 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "man",
+      "text": "L_Shaw cambia de dirección Ve a un compañero desdoblándolo Le cede el cuero a A_Garnacho, que va lanzado en carrera A_Garnacho golpea el balón a bote pronto G_Kobel palmea a córner Mateu_Lahoz pita saque de puerta Un oculista, rápido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "man",
+      "text": "B_Mbeumo gambetea ante N_Schlotterbeck, lo está desquiciando B_Mbeumo se saca una vaselina magistral de la chistera Dispara al córner ¿Cómo hizo para pegarle tan mal?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "man",
+      "text": "M_Cunha frena el contraataque y espera algún apoyo Hay un desmarque al otro lado Cambia el juego y corre hacia arriba Le devuelve el balón, vaya combinación N_Schlotterbeck despeja el balón hacia la grada Ei Un aficionado se lleva el balón Al ladrón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 2 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "man",
+      "text": "M_Casemiro aprovecha un fallo defensivo ¿Se lo hará pagar? M_Casemiro mete la cabeza segundos antes que su marcador Pero G_Kobel hace una gran parada ¡Uau! Estuvo cerca Tuvo que emplearse a fondo para evitar el gol",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "man",
+      "text": "El entrenador aprovecha el parón en el juego para hacer un par de cambios D_Dalot entra en el campo en lugar de L_Shaw para jugar de DF",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "man",
+      "text": "D_Dalot combina con B_Fernandes con espacio por delante B_Fernandes se escapa ¡Cuidado! Pero dispara ancho ¿Dónde estaría apuntando?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "bor",
+      "text": "S_Guirassy se deshace de su marcador Su velocidad le está creando muchos problemas S_Guirassy suelta un disparo con el exterior del pie Pero el cuero sale lejos de la portería",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "man",
+      "text": "B_Mbeumo regatea a un rival A otro Esté en racha Y mete el pase hacia A_Garnacho Falla en el control y W_Anton no desaprovecha el regalo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "bor",
+      "text": "K_Adeyemi con un cambio de ritmo a lo Cruyff K_Adeyemi busca un disparo con efecto Esto es fútbol Pero A_Onana alcanza el cuero con el puño Ha caído en mala posición Su entrenador se levanta del banquillo Puede seguir",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "man",
+      "text": "H_Maguire se deshace de W_Anton H_Maguire busca una vaselina imposible G_Kobel mete la mano y alcanza el balón con la punta de los dedos Mateu_Lahoz dice que no la ha tocado Menudo desastre",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "bor",
+      "text": "N_Sule pone el balón al hueco J_Brandt corre hacia el cuero J_Brandt impacta el balón con dureza A_Onana resbala Pero el balón se pierde por la línea de fondo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "man",
+      "text": "de_Ligt con un inteligente pase hacia M_Cunha M_Cunha suelta un disparo muy débil Es incapaz de chutar a puerta Un defensa le arrebató el balón en el último momento Este tío juega a cámara lenta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "man",
+      "text": "D_Dalot envía el balón por el lado derecho de N_Schlotterbeck y lo escoge por el otro D_Dalot le da mucho efecto a su disparo G_Kobel despeja con problemas",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "man",
+      "text": "D_Dalot está cerrado por tres contrarios Pisa el balón dos veces y los deja sentados ¡OH! ¡Qué calse! Ahora mete el pase a B_Fernandes B_Fernandes le da mucho efecto a su disparo Dispara demasiado alto 9 de cada 10 de estas ocasiones acaban en gol",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "man",
+      "text": "D_Dalot inicia el contraataque Sale rápidamente Y envía un gran pase con la defensa descolocada. B_Mbeumo recibe solo B_Mbeumo empalma con la derecha Se mueve la red GOOOOOL Corre enloquecido hacia las gradas Y se tira hacia el público Qué loco Manchester United 4-1 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "man",
+      "text": "B_Sesko sustituye a un descontento M_Cunha para jugar de FW",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "man",
+      "text": "D_Dalot se va en un arranque de genio D_Dalot se deshace de su marcador Buen movimiento ¡Y dispara! Pega en el pie de un defensa Y se pierde por la lína de fondo CÓRNER A_Garnacho saca al primer palo G_Kobel se eleva Y caza el centro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "man",
+      "text": "B_Fernandes está cerrado por tres contrarios Pisa el balón dos veces y los deja sentados ¡OH! ¡Qué calse! Ahora mete el pase a D_Dalot D_Dalot levanta la cabeza, apunta a la escuadra y... ¡dispara! G_Kobel la saca sobre la misma línea Mateu_Lahoz consulta con su asistente GOOOOOL Pero ha sido anulado. La razón no está clara OJO Vamos a ver la repetición Sí, parece claro El atacante cometió falta",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "bor",
+      "text": "G_Reyna cede atrás para K_Adeyemi K_Adeyemi tiene tiempo y espacio Busca la vaselina A_Onana la saca sobre la misma línea Mateu_Lahoz consulta con su asistente GOOOOOL Manchester United 4-2 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "bor",
+      "text": "K_Adeyemi espera a que alguien le acompañe en ataque Levanta los brazos, nadie se desmarca Busca la individual Prepara el disparo Rebota en un defensa y cae a pies de S_Guirassy S_Guirassy cruza la línea de medios, avanza, mira al portero y chuta A_Onana deja el balón suelto Su defensa cierra bien y envía el cuero a las gradas",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "man",
+      "text": "B_Fernandes inicia el contraataque Sale rápidamente Y envía un gran pase con la defensa descolocada. B_Mbeumo recibe solo B_Mbeumo mete el pie antes que su marcador GOOOOOL Se quita la camiseta y la lanza al público. Lo adoran Y es su hat trick Los jugadores del Manchester United lo felicitan Manchester United 5-2 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "man",
+      "text": "B_Mbeumo aprovecha un fallo defensivo Eso le puede costar caro B_Mbeumo trata de sorprender a G_Kobel desde fuera del área G_Kobel hace una parada realmente complicada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "man",
+      "text": "B_Sesko va en carrera junto a M_Sabitzer El atacante es más rápido Y_Couto se hace con el balón y lo cede al portero G_Kobel ve con sorpresa como el pase va demasiado fuerte Se tira... no va a llegar Ui Salió rozando el palo CÓRNER B_Mbeumo saca a la zona de peligro G_Kobel se anticipa a la jugada y atrapa el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "bor",
+      "text": "G_Reyna hace una doble pared con M_Sabitzer Suelta un latigazo con su pierna izquierda Terrorífico disparo Rebota en el pie del defensa Se aleja del marco Pero el portero no puede evitar el córner CÓRNER M_Sabitzer con un peligroso lanzamiento al segundo palo K_Adeyemi dispara El diparo coge el efecto cambiado ¡Fuera! Impactó mal el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "man",
+      "text": "H_Maguire regatea a su marcador Va a disparar No Pasa hacia B_Sesko Ha engañado a todos Y_Couto entra con los tacos por delante Creo que buscaba el balón, pero debería calmarse un poquito",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "man",
+      "text": "M_Casemiro hace una bicicleta y descoloca a N_Schlotterbeck M_Casemiro impacta el cuero con fuerza Pero G_Kobel alcanza el cuero con el puño Ha demostrado mucha valentía en esa acción",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "man",
+      "text": "B_Mbeumo con un pase de 50 metros H_Maguire H_Maguire con la red entre ceja y ceja Busca la vaselina A las nubes ¿Se habrá cambiado hoy de botas?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "bor",
+      "text": "K_Adeyemi supera al defensa K_Adeyemi busca el gol Bota mal sobre un césped demasiado mojado Pero impacta en el lateral de la red CÓRNER K_Adeyemi centra hacia el área A_Onana mete los puños con fuerza y aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 4 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "man",
+      "text": "B_Fernandes con un pase de 50 metros A_Garnacho A_Garnacho se abre un hueco entre la defensa rival y dispara G_Kobel hace una gran parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "man",
+      "text": "L_Yoro se deshace de N_Sule L_Yoro se saca una terrible volea G_Kobel ve venir el balón Y lo atrapa con facilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "bor",
+      "text": "S_Guirassy para en seco y busca apoyos Un compañero lo dobla Aprovecha el espacio que le ha abierto para colarse entre la defensa S_Guirassy cruza la línea de medios, avanza, mira al portero y chuta A_Onana mete los puños y desvía el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 93,
+      "teamCode": "bor",
+      "text": "K_Adeyemi asiste a S_Guirassy con espacio por delante S_Guirassy trata de sorprender a A_Onana con una inesperada vaselina GOOOOOL Hace un mortal hacia atrás. Ei Eso lo inventó Hugo Sánchez El Borussia Dortmund no ha dicho la última palabra todavía Manchester United 5-3 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 94,
+      "teamCode": "man",
+      "text": "B_Fernandes pasa hacia D_Dalot Pero W_Anton aparece de la nada y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 94,
+      "teamCode": "bor",
+      "text": "M_Sabitzer lanza el contraataque Hace una pausa esperando apoyos G_Reyna lo dobla recibe el pase Interceptada por H_Maguire",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

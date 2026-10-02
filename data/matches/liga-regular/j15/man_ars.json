@@ -1,0 +1,1194 @@
+{
+  "id": "liga-regular/j15/man_ars",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j15",
+  "roundLabel": "Jornada 15",
+  "fileName": "man_ars.txt",
+  "homeCode": "man",
+  "awayCode": "ars",
+  "homeTeam": "Manchester United",
+  "awayTeam": "Arsenal",
+  "result": {
+    "home": 2,
+    "away": 1,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Manchester United 2-0 Arsenal",
+  "formation": {
+    "home": "4-2-4 D",
+    "away": "4-3-3 E"
+  },
+  "referee": {
+    "name": "Tom Henning Ovrebo",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "A_Onana",
+        "displayName": "A Onana",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "de_Ligt",
+        "displayName": "de Ligt",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Martinez",
+        "displayName": "L Martinez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Yoro",
+        "displayName": "L Yoro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "H_Maguire",
+        "displayName": "H Maguire",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Casemiro",
+        "displayName": "M Casemiro",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Mount",
+        "displayName": "M Mount",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Mbeumo",
+        "displayName": "B Mbeumo",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Garnacho",
+        "displayName": "A Garnacho",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "M_Cunha",
+        "displayName": "M Cunha",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "B_Sesko",
+        "displayName": "B Sesko",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Bayindir",
+        "displayName": "A Bayindir",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_Shaw",
+        "displayName": "L Shaw",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Dalot",
+        "displayName": "D Dalot",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Ugarte",
+        "displayName": "M Ugarte",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Zirkzee",
+        "displayName": "J Zirkzee",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "D_Raya",
+        "displayName": "D Raya",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "W_Saliba",
+        "displayName": "W Saliba",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "G_Magalhaes",
+        "displayName": "G Magalhaes",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "C_Mosquera",
+        "displayName": "C Mosquera",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_LewisSkelly",
+        "displayName": "M LewisSkelly",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Odegaard",
+        "displayName": "M Odegaard",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Rice",
+        "displayName": "D Rice",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Zubimendi",
+        "displayName": "M Zubimendi",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Saka",
+        "displayName": "Saka",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Isak",
+        "displayName": "A Isak",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "V_Gyokeres",
+        "displayName": "V Gyokeres",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "K_Arrizabalaga",
+        "displayName": "K Arrizabalaga",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "O_Zinchenko",
+        "displayName": "O Zinchenko",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Timber",
+        "displayName": "J Timber",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Merino",
+        "displayName": "M Merino",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "G_Martinelli",
+        "displayName": "G Martinelli",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Manchester United",
+      "mvp": "B_Sesko (Jugador del partido)",
+      "goals": "B_Sesko (4,36)",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "N/A"
+    },
+    {
+      "team": "Arsenal",
+      "mvp": "Saka",
+      "goals": "Saka (55)",
+      "sentOff": "N/A",
+      "booked": "W_Saliba (46)",
+      "injured": "A_Isak (52)"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 7,
+      "away": 12
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 2,
+      "away": 4
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 5,
+      "away": 8
+    },
+    {
+      "label": "Posesión",
+      "home": 34,
+      "away": 66
+    },
+    {
+      "label": "Córners",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 0,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 7,
+      "away": 10
+    },
+    {
+      "label": "Entradas",
+      "home": 5,
+      "away": 5
+    },
+    {
+      "label": "Pases clave",
+      "home": 6,
+      "away": 8
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Manchester United",
+      "players": [
+        {
+          "name": "A_Onana",
+          "displayName": "A Onana",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 94,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "de_Ligt",
+          "displayName": "de Ligt",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Martinez",
+          "displayName": "L Martinez",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 19,
+          "sh": 7,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Yoro",
+          "displayName": "L Yoro",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 4,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Maguire",
+          "displayName": "H Maguire",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 4,
+          "ag": 24,
+          "min": 45,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Casemiro",
+          "displayName": "M Casemiro",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 42,
+          "sh": 12,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Mount",
+          "displayName": "M Mount",
+          "position": "MF",
+          "st": 2,
+          "tk": 7,
+          "ps": 39,
+          "sh": 21,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Mbeumo",
+          "displayName": "B Mbeumo",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 15,
+          "sh": 41,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Garnacho",
+          "displayName": "A Garnacho",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 28,
+          "sh": 40,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Cunha",
+          "displayName": "M Cunha",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 19,
+          "sh": 40,
+          "ag": 27,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Sesko",
+          "displayName": "B Sesko",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 21,
+          "sh": 38,
+          "ag": 27,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Bayindir",
+          "displayName": "A Bayindir",
+          "position": "GK",
+          "st": 33,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Shaw",
+          "displayName": "L Shaw",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 49,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Dalot",
+          "displayName": "D Dalot",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Ugarte",
+          "displayName": "M Ugarte",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 38,
+          "sh": 8,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Zirkzee",
+          "displayName": "J Zirkzee",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 22,
+          "sh": 38,
+          "ag": 26,
+          "min": 49,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Arsenal",
+      "players": [
+        {
+          "name": "D_Raya",
+          "displayName": "D Raya",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 94,
+          "sav": 3,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Saliba",
+          "displayName": "W Saliba",
+          "position": "DF",
+          "st": 2,
+          "tk": 44,
+          "ps": 16,
+          "sh": 7,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "G_Magalhaes",
+          "displayName": "G Magalhaes",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 7,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Mosquera",
+          "displayName": "C Mosquera",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 6,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_LewisSkelly",
+          "displayName": "M LewisSkelly",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 6,
+          "ag": 21,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Odegaard",
+          "displayName": "M Odegaard",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 29,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Rice",
+          "displayName": "D Rice",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 19,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Zubimendi",
+          "displayName": "M Zubimendi",
+          "position": "MF",
+          "st": 2,
+          "tk": 20,
+          "ps": 41,
+          "sh": 18,
+          "ag": 22,
+          "min": 57,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Saka",
+          "displayName": "Saka",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 24,
+          "sh": 43,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Isak",
+          "displayName": "A Isak",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 19,
+          "sh": 43,
+          "ag": 19,
+          "min": 54,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Gyokeres",
+          "displayName": "V Gyokeres",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 22,
+          "sh": 41,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Arrizabalaga",
+          "displayName": "K Arrizabalaga",
+          "position": "GK",
+          "st": 37,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Zinchenko",
+          "displayName": "O Zinchenko",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 24,
+          "sh": 9,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Timber",
+          "displayName": "J Timber",
+          "position": "DF",
+          "st": 2,
+          "tk": 31,
+          "ps": 19,
+          "sh": 9,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Merino",
+          "displayName": "M Merino",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 26,
+          "ag": 22,
+          "min": 37,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Martinelli",
+          "displayName": "G Martinelli",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 40,
+          "ag": 24,
+          "min": 40,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "man",
+      "text": "M_Casemiro hace la pared con B_Sesko B_Sesko se saca una terrible volea El balón vuela como un obús hacia la portería D_Raya reacciona con rapidez ¿Llegará a desviar el envenenado disparo? No, está vendido GOOOOOL D_Raya descarga su frustración pateando el palo A ver como administra su ventaja el Manchester United Manchester United 1-0 Arsenal ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "man",
+      "text": "B_Mbeumo hace dos bicicletas y engaña al defensa Saka se anticipa la acción Vaya pedazo de defensa Los aficionados corean su nombre",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "man",
+      "text": "M_Cunha hace una doble pared con B_Mbeumo M_LewisSkelly sega el césped con una entrada terrorífica",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "ars",
+      "text": "A ver qué inventa M_Odegaard ahora. Pase de interior hacia Saka H_Maguire llega velozmente y mete la planta del pie ¡Qué velocidad!",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "ars",
+      "text": "Saka pierde el balón, pero mete el pie... y se lo lleva Saka toca el balón con mucha sutileza Rebota en el palo Se anticipa al defensa para el rebote Es gol de Abreu, Abreu, Abreeeeeeeeeeu Ha tirado fuera ¿Como? Si no había portero",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "ars",
+      "text": "M_Odegaard suelta un cañonazo Al larguero A_Isak recoge el rebote A_Isak trata de ajustar el cuero al palo Pero A_Onana rechaza el balón Y la defensa, muy atenta, aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "ars",
+      "text": "V_Gyokeres pone el balón a la espalda de los centrales A_Isak llega con comodidad Corte finísimo y preciso de M_Mount",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "ars",
+      "text": "D_Rice hace una croqueta Evita la dura entrada de L_Martinez. ¡Qué clase! D_Rice le pega con la zurda A_Onana no va a llegar OH Se pierde por encima del larguero A_Onana sonríe ¿Sabía que iba fuera? No se, no se...",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "ars",
+      "text": "M_Zubimendi asiste a M_LewisSkelly dentro del área de_Ligt se juega el físico con una entrada durísima. Era su única opción",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "man",
+      "text": "B_Sesko hace una pared con un compañero Se va directo a puerta B_Sesko chuta con el interior D_Raya está batido GOOOOOL Está desolado Manchester United 2-0 Arsenal ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "man",
+      "text": "L_Yoro tiene espacio y tiempo A ver qué inventa Amaga el disparo y mete un pase B_Sesko controla con el pecho Encara puerta B_Sesko le da mucho efecto a su disparo D_Raya despeja sale por la línea de fondo CÓRNER M_Casemiro cuelga el balón G_Magalhaes mira atentamente el centro... y lo despeja",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "ars",
+      "text": "A_Isak encara al defensa Se va de L_Yoro en velocidad Menudo cambio de ritmo H_Maguire choca con su oponente y lo envía al césped solo puede ser falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "man",
+      "text": "A_Garnacho controla un balón complicadísimo Levanta la cabeza y busca el pase Pero se decide por la jugada individual W_Saliba se juega el físico con una entrada durísima. Era su única opción",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "ars",
+      "text": "Saka supera a de_Ligt ¡Qué facilidad de regate! Saka salta y pica el balón perfectamente de cabeza A_Onana palmea a córner Tom_Henning_Ovrebo pita saque de puerta Un oculista, rápido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "man",
+      "text": "de_Ligt mete el balón en la zona de peligro M_Cunha se ofrece y recibe el cuero M_Cunha remata con los ojos cerrados Pero D_Raya rechaza el balón Y la defensa, muy atenta, aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 2 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "man",
+      "text": "El ayudante del entrenador llama a J_Zirkzee B_Sesko va a ser sustituído Está decepcionado porque no puede seguir Su sustituto jugará de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "man",
+      "text": "L_Shaw entra y H_Maguire se va la ducha antes de tiempo Todo apunta a que se ubicará en DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "ars",
+      "text": "M_Zubimendi cruza para V_Gyokeres V_Gyokeres busca una vaselina imposible A_Onana se anticipa al remate y lo atrapa con sencillez",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "ars",
+      "text": "M_Zubimendi corta de manera impresionante Arma el contraataque Es un dos contra dos M_Odegaard se desmarca y recibe el pase M_Odegaard suelta una rabona Pero el cuero sale lejos de la portería",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "man",
+      "text": "J_Zirkzee con un impresionante desmarque W_Saliba placa a su oponente Este tío tiene futuro... en la NFL (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "man",
+      "text": "M_Cunha llega primero al balón suelto M_Cunha impacta el cuero al primer toque Al centro del marco, dondé está D_Raya Trata de cogerla... pero se le escapa El rebote queda libre D_Raya reacciona rápidamente Y la despeja con los pies a la grada Su error estuvo a punto de costarle caro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "ars",
+      "text": "A_Isak se levanta Trata de andar, pero va cojo Malas noticias Pide el cambio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "ars",
+      "text": "El ayudante del entrenador llama a G_Martinelli A_Isak va a ser sustituído El técnico le indica que juegue de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "man",
+      "text": "M_Cunha tiene varias opciones de pase, pero busca la individual M_Cunha tiene tiempo y espacio ¡Dispara por bajo! D_Raya para el balón, que queda muerto D_Raya se levanta rápidamente y para el segundo remate Qué bueno",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "ars",
+      "text": "Confirmado Hay cambio M_Merino entrará en lugar de M_Zubimendi. Se ubica como MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "man",
+      "text": "J_Zirkzee se va de M_LewisSkelly Lo ha dejado sentado J_Zirkzee se saca una terrible volea Golpea las vallas publicitarias",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "ars",
+      "text": "Saka salta sobre la tremenda entrada de L_Yoro Se lleva el balón y sigue con la pierna pegada al cuerpo Saka salta por encima de la defensa rival y mete la cabeza GOOOOOL A_Onana se encara con el líbero Manchester United 2-1 Arsenal ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "ars",
+      "text": "M_Merino supera a de_Ligt Lleva loco a su marcador Potente chut de M_Merino Pero A_Onana desvía el lanzamiento Tom_Henning_Ovrebo da saque de puerta ¿Algún oculista en la grada? Es urgente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "ars",
+      "text": "V_Gyokeres supera a M_Casemiro V_Gyokeres tiene la portería entre ceja y ceja No podría haber disparado mejor A_Onana mete una mano milagrosa Gran parada El delantero le da la mano CÓRNER M_LewisSkelly centra hacia el área A_Onana lo atrapa",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "ars",
+      "text": "W_Saliba juega al primer toque para M_Odegaard M_Odegaard impacta el balón con una volea defectuosa Pero A_Onana hace una gran parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "ars",
+      "text": "G_Magalhaes envía un pase en profundidad hacia G_Martinelli G_Martinelli se anticipa a su marcador solo A_Onana puede detenerle Intenta superar a A_Onana A_Onana con la parada de la noche",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "man",
+      "text": "de_Ligt regatea a su marcador Va a disparar No Pasa hacia A_Garnacho Ha engañado a todos G_Magalhaes se interpone entre el delantero y el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "ars",
+      "text": "M_Odegaard se aprovecha de un error de A_Garnacho ¿Lo aprovechará? de_Ligt se anticipa a la jugada y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "man",
+      "text": "M_Casemiro hace la diagonal Ve un desmarque por el rabillo del ojo Se la pasa a B_Mbeumo D_Rice entra con todo... y se lleva el balón limpiamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "ars",
+      "text": "V_Gyokeres amaga el quiebro hacia un lado Pero sale por el otro. J_Zirkzee está sorprendido Trata de zancallidearlo Pero lo esquiva J_Zirkzee entra con dureza y se lleva el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "ars",
+      "text": "V_Gyokeres con un regate eléctrico ante A_Garnacho V_Gyokeres empalma el balón a la perfección El cuero sale disparado A_Onana salta ante el tremendo disparo ¿Llegará? No Pero se estrella en palo Y va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 2 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

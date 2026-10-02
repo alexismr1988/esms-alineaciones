@@ -1,0 +1,1264 @@
+{
+  "id": "liga-regular/j5/tot_psg",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j5",
+  "roundLabel": "Jornada 5",
+  "fileName": "tot_psg.txt",
+  "homeCode": "tot",
+  "awayCode": "psg",
+  "homeTeam": "Tottenham",
+  "awayTeam": "PSG",
+  "result": {
+    "home": 1,
+    "away": 0,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Tottenham 1-0 PSG",
+  "formation": {
+    "home": "5-3-2 L",
+    "away": "4-3-1-2 A"
+  },
+  "referee": {
+    "name": "Tom Henning Ovrebo",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "G_Vicario",
+        "displayName": "G Vicario",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "D_Udogie",
+        "displayName": "D Udogie",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Davies",
+        "displayName": "B Davies",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Spence",
+        "displayName": "D Spence",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Dragusin",
+        "displayName": "R Dragusin",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "P_Porro",
+        "displayName": "P Porro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Bergvall",
+        "displayName": "L Bergvall",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "P_Sarr",
+        "displayName": "P Sarr",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Gil",
+        "displayName": "B Gil",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Solanke",
+        "displayName": "D Solanke",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "M_Tel",
+        "displayName": "M Tel",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Kinsky",
+        "displayName": "A Kinsky",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "C_Romero",
+        "displayName": "C Romero",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_Vuskovic",
+        "displayName": "L Vuskovic",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Palhinha",
+        "displayName": "J Palhinha",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Kudus",
+        "displayName": "M Kudus",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "Diogo_Costa",
+        "displayName": "Diogo Costa",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "L_HernÃ¡ndez",
+        "displayName": "L HernÃ¡ndez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Mendes",
+        "displayName": "N Mendes",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Pacho",
+        "displayName": "W Pacho",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "I_Zabarnyi",
+        "displayName": "I Zabarnyi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Vitinha",
+        "displayName": "Vitinha",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "W_ZaireEmery",
+        "displayName": "W ZaireEmery",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Nico_Paz",
+        "displayName": "Nico Paz",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Doue",
+        "displayName": "D Doue",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "Rafael_Leao",
+        "displayName": "Rafael Leao",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "B_Barcola",
+        "displayName": "B Barcola",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "G_Donnarumma",
+        "displayName": "G Donnarumma",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Marquinhos",
+        "displayName": "Marquinhos",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Ruiz",
+        "displayName": "F Ruiz",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Asensio",
+        "displayName": "M Asensio",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "O_Dembele",
+        "displayName": "O Dembele",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Tottenham",
+      "mvp": "R_Dragusin (Jugador del partido)",
+      "goals": "I_Zabarnyi (25 og)",
+      "sentOff": "N/A",
+      "booked": "L_Bergvall (7), C_Romero (56), M_Tel (60)",
+      "injured": "N/A"
+    },
+    {
+      "team": "PSG",
+      "mvp": "Vitinha",
+      "goals": "N/A",
+      "sentOff": "I_Zabarnyi (76)",
+      "booked": "D_Doue (25), L_HernÃ¡ndez (31), B_Barcola (74), Rafael_Leao (80)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 3,
+      "away": 7
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 1,
+      "away": 5
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 2,
+      "away": 2
+    },
+    {
+      "label": "Posesión",
+      "home": 31,
+      "away": 69
+    },
+    {
+      "label": "Córners",
+      "home": 0,
+      "away": 2
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 1
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 3,
+      "away": 4
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Faltas",
+      "home": 9,
+      "away": 16
+    },
+    {
+      "label": "Entradas",
+      "home": 9,
+      "away": 9
+    },
+    {
+      "label": "Pases clave",
+      "home": 10,
+      "away": 13
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Tottenham",
+      "players": [
+        {
+          "name": "G_Vicario",
+          "displayName": "G Vicario",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 97,
+          "sav": 2,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Udogie",
+          "displayName": "D Udogie",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 18,
+          "sh": 12,
+          "ag": 23,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Davies",
+          "displayName": "B Davies",
+          "position": "DF",
+          "st": 2,
+          "tk": 32,
+          "ps": 9,
+          "sh": 4,
+          "ag": 21,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Spence",
+          "displayName": "D Spence",
+          "position": "DF",
+          "st": 2,
+          "tk": 32,
+          "ps": 16,
+          "sh": 12,
+          "ag": 22,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Dragusin",
+          "displayName": "R Dragusin",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 7,
+          "ag": 22,
+          "min": 97,
+          "sav": 0,
+          "ktk": 4,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Porro",
+          "displayName": "P Porro",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 28,
+          "sh": 14,
+          "ag": 23,
+          "min": 54,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Bergvall",
+          "displayName": "L Bergvall",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 36,
+          "sh": 16,
+          "ag": 22,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 5,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "P_Sarr",
+          "displayName": "P Sarr",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 36,
+          "sh": 16,
+          "ag": 22,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Gil",
+          "displayName": "B Gil",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 36,
+          "sh": 14,
+          "ag": 22,
+          "min": 59,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Solanke",
+          "displayName": "D Solanke",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 14,
+          "sh": 36,
+          "ag": 23,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Tel",
+          "displayName": "M Tel",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 24,
+          "sh": 33,
+          "ag": 23,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "A_Kinsky",
+          "displayName": "A Kinsky",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Romero",
+          "displayName": "C Romero",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 15,
+          "sh": 7,
+          "ag": 23,
+          "min": 43,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "L_Vuskovic",
+          "displayName": "L Vuskovic",
+          "position": "DF",
+          "st": 2,
+          "tk": 27,
+          "ps": 11,
+          "sh": 4,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Palhinha",
+          "displayName": "J Palhinha",
+          "position": "MF",
+          "st": 2,
+          "tk": 11,
+          "ps": 35,
+          "sh": 14,
+          "ag": 23,
+          "min": 38,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Kudus",
+          "displayName": "M Kudus",
+          "position": "FW",
+          "st": 2,
+          "tk": 19,
+          "ps": 30,
+          "sh": 28,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "PSG",
+      "players": [
+        {
+          "name": "Diogo_Costa",
+          "displayName": "Diogo Costa",
+          "position": "GK",
+          "st": 41,
+          "tk": 1,
+          "ps": 1,
+          "sh": 1,
+          "ag": 21,
+          "min": 97,
+          "sav": 2,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_HernÃ¡ndez",
+          "displayName": "L HernÃ¡ndez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 19,
+          "sh": 12,
+          "ag": 24,
+          "min": 84,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "N_Mendes",
+          "displayName": "N Mendes",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 16,
+          "sh": 12,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Pacho",
+          "displayName": "W Pacho",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 7,
+          "sh": 4,
+          "ag": 24,
+          "min": 97,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "I_Zabarnyi",
+          "displayName": "I Zabarnyi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 7,
+          "sh": 4,
+          "ag": 23,
+          "min": 80,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "Vitinha",
+          "displayName": "Vitinha",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 44,
+          "sh": 16,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_ZaireEmery",
+          "displayName": "W ZaireEmery",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 16,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Nico_Paz",
+          "displayName": "Nico Paz",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 39,
+          "sh": 21,
+          "ag": 20,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Doue",
+          "displayName": "D Doue",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 33,
+          "sh": 42,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Rafael_Leao",
+          "displayName": "Rafael Leao",
+          "position": "FW",
+          "st": 2,
+          "tk": 18,
+          "ps": 20,
+          "sh": 44,
+          "ag": 11,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "B_Barcola",
+          "displayName": "B Barcola",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 21,
+          "sh": 40,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "G_Donnarumma",
+          "displayName": "G Donnarumma",
+          "position": "GK",
+          "st": 46,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Marquinhos",
+          "displayName": "Marquinhos",
+          "position": "DF",
+          "st": 2,
+          "tk": 45,
+          "ps": 9,
+          "sh": 4,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Ruiz",
+          "displayName": "F Ruiz",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 40,
+          "sh": 16,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Asensio",
+          "displayName": "M Asensio",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 33,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Dembele",
+          "displayName": "O Dembele",
+          "position": "AM",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 45,
+          "ag": 26,
+          "min": 13,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "psg",
+      "text": "B_Barcola se le cuela a P_Porro por dentro Le ha dado demasiado espacio Logra meter la plaanta del pie B_Barcola Rebota en el palo Se anticipa al defensa para el rebote Es gol de Abreu, Abreu, Abreeeeeeeeeeu Ha tirado fuera ¿Como? Si no había portero",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "tot",
+      "text": "L_Bergvall cuelga arriba sobre D_Solanke W_Pacho lee la jugada antes de que se produzca y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "psg",
+      "text": "Vitinha volea el cuero. Va directo hacia Nico_Paz oooooh Que entrada más dura de L_Bergvall Ha sido un acto frío y deliberado. Indignante Ay, ay, ay Podría ser expulsado por eso (AMARILLA) Los jugadores rivales increpan al árbitro FALTA DIRECTA D_Doue trata de superar la barrera Terrorífico disparo Rebota en el pie del defensa Se aleja del marco Pero el portero no puede evitar el córner CÓRNER Vitinha le de mucho efecto a su lanzamiento B_Gil controla el balón Y lo manda al centro del campo No se ha complicado",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "psg",
+      "text": "W_ZaireEmery conecta con D_Doue. Qué entendimiento hay entre ambos D_Doue le pega con dureza No ha precisado demasiado Terrible disparo Un defensa se interpone en su camino El balón se desvía Fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 11,
+      "teamCode": "psg",
+      "text": "Nico_Paz se saca un pase al primer toque hacia Rafael_Leao de la chistera Rafael_Leao se saca una bicicleta de la nada y chuta G_Vicario no llegará a ese balón Oooh se pierde por arriba",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "psg",
+      "text": "B_Barcola encara al defensa Se va D_Spence se lleva el balón con la mano No hay falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "psg",
+      "text": "Rafael_Leao pasa largo con el interior hacia D_Doue Corte finísimo y preciso de R_Dragusin Ha medido muy bien",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "psg",
+      "text": "I_Zabarnyi juega el balón hacia su portero ¡Ohhhhh! Diogo_Costa resbala GOOOOOL Qué jugada más absurda El entrenador se tira de los pelos en el banquillo Tottenham 1-0 PSG ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "tot",
+      "text": "D_Solanke salta con mucha potencia Se adelanta a su marcador Cabecea hacia P_Sarr D_Doue placa a su oponente (AMARILLA), una más... y fuera",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "psg",
+      "text": "Vitinha rompe la defensa con un preciso pase sobre B_Barcola B_Barcola tiene tiempo y espacio ¡Dispara por bajo! Pero G_Vicario responde con una parada muy sencilla",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "tot",
+      "text": "L_Bergvall pasa el balón a P_Sarr Rafael_Leao aparece de la nada. El delantero aún está buscando el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "tot",
+      "text": "P_Sarr hace una pared con un compañero y mete de primeras para D_Solanke L_HernÃ¡ndez se lanza al corte ¡Ohhh! Le ha dejado un recadito Ve la (AMARILLA) Sus compañeros cuestionan la rigurosa decisión arbitral",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "psg",
+      "text": "Se veía venir. PSG ahora jugará P",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "psg",
+      "text": "B_Barcola se anticipa a su marcador Creo que lo ha empujado \"Sigan\" Dice Tom_Henning_Ovrebo B_Barcola tiene tiempo y espacio Chuta G_Vicario hace una gran parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 4 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "psg",
+      "text": "W_ZaireEmery pasa hacia N_Mendes Pero R_Dragusin corta la acción con contundencia",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "psg",
+      "text": "Rafael_Leao pica el balón por encima de la defensa Vitinha ya había iniciado la diagonal Hacia él va el balón D_Udogie se hace con el balón y lo cede al portero G_Vicario ve con sorpresa como el pase va demasiado fuerte Se tira... no va a llegar Ui Salió rozando el palo CÓRNER Nico_Paz con un peligroso lanzamiento al segundo palo P_Porro sale al corte Y llega el primero al balón. Buenos reflejos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "psg",
+      "text": "Rafael_Leao con un tremendo sprint Su marcador no puede alcanzarlo Va a chutar M_Tel llega segundos tarde al corte Se ha pasado dos pueblos Tom_Henning_Ovrebo le da una sonora reprimenda... pero no lo amonesta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "psg",
+      "text": "L_HernÃ¡ndez cruza para D_Doue D_Solanke se deja caer No hay espacio en TSM para este tipo de acciones Tom_Henning_Ovrebo se \"come\" la cartulina. Eso era amarilla",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "tot",
+      "text": "L_Bergvall pisa el balón ante I_Zabarnyi Se lo enseña, se lo esconde, otra vez... lo va a marear oooooh Que entrada más dura de Nico_Paz \"FUERA, FUERA, FUERA\" ruge el estadio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "tot",
+      "text": "D_Solanke se anticipa a su marcador Menuda explosividad I_Zabarnyi entra a ras de suelo El delantero no tiene más remedio que saltar por encima Se ha jugado el físico ¡Qué tío!",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "tot",
+      "text": "C_Romero está a punto para pisar el césped. Entrará por P_Porro Todo apunta a que jugará de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "tot",
+      "text": "L_Bergvall con un pase entre los centrales D_Spence aparece con velocidad desde atrás D_Spence tiene una oportunidad de oro Diogo_Costa despeja con problemas",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "psg",
+      "text": "D_Doue mira a N_Mendes... y le manda un pase milimétrico Impresionante entrada de B_Gil Este tío está dando un clínic de cómo se defiende",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "tot",
+      "text": "J_Palhinha sustituye a un descontento B_Gil para jugar de MF",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "tot",
+      "text": "D_Spence con el control orientado Ha ganado una posición clara para chutar I_Zabarnyi placa a su oponente El otro día vi una acción así en la NHL Se lleva una (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "psg",
+      "text": "D_Doue supera a D_Udogie C_Romero se lleva bien el balón Tom_Henning_Ovrebo pita falta ¡Bufff!, no vale ni para la Segunda B (AMARILLA) Creo que el árbitro se ha pasado de riguroso",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "psg",
+      "text": "PSG reestructura sus filas y ahora va a jugar E",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "psg",
+      "text": "Creo que D_Doue ha pasado a jugar de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "psg",
+      "text": "Rafael_Leao salta sobre la tremenda entrada de D_Udogie M_Tel placa a su oponente ¿Pero esto es fútbol o hockey sobre hielo? El colegiado le muestra la cartulina (AMARILLA) Chico, frena que te vas a la calle",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "tot",
+      "text": "P_Sarr desliza el balón entre las piernas del defensa W_Pacho zancadillea a su oponente El árbitro se da la vuelta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "tot",
+      "text": "D_Udogie se va de Vitinha Lo ha dejado sentado L_HernÃ¡ndez manda el balón a la grada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "tot",
+      "text": "M_Tel hace un tremendo control al borde del área N_Mendes agarra a su rival en el área El delantero pide ¡PENALTI! desesperdamente Pero Tom_Henning_Ovrebo hace que 'no' con la cabeza",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "tot",
+      "text": "D_Solanke gambetea ante I_Zabarnyi, lo está desquiciando D_Solanke le pega con dureza No ha precisado demasiado Diogo_Costa despeja el balón... con el pecho Vaya manera de vacilar al contrario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "psg",
+      "text": "Vitinha se cuela por el extremo derecho Centro medido para Rafael_Leao R_Dragusin zancadillea a su oponente El árbitro se da la vuelta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "tot",
+      "text": "L_Bergvall lanza el contraataque Hace una pausa esperando apoyos D_Udogie lo dobla recibe el pase B_Barcola realiza una entrada terrible (AMARILLA) Deberá calmarse un poco a partir de ahora",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "tot",
+      "text": "M_Tel va en carrera I_Zabarnyi salta sobre su oponente y lo derriba Reglamento en mano, esto es falta Segunda amarilla (EXPULSADO) Esto puede variar el desenlace del partido",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "psg",
+      "text": "Vitinha hace una bicicleta L_Bergvall cae al suelo Lo ha ridiculizado R_Dragusin arriesgo con una entrada a ras de suelo Ay Le ha dado El árbitro no lo ha visto así",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "psg",
+      "text": "O_Dembele entra por L_HernÃ¡ndez, jugará de AM y sus aficionados reciben el cambio con alegría",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "tot",
+      "text": "D_Spence se hace con el balón Y busca a D_Solanke con un pase con el exterior W_Pacho controla el balón Ay va Vaya cañonazo ha pegado Si podía salir jugando",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "tot",
+      "text": "L_Bergvall combina con D_Spence. Le ha metido un buen balón picado Rafael_Leao le mete el codo Suena el siblato... falta (AMARILLA) Por unos momentos lo vi expulsado",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "psg",
+      "text": "Rafael_Leao al primer toque para O_Dembele O_Dembele busca el palo por bajo Fuera ¿De qué sirve tanta potencia si el disparo va fuera?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 3 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "tot",
+      "text": "R_Dragusin con el saque de banda Limpia el balón en su camiseta Y saca fuerte hacia J_Palhinha J_Palhinha con un verdadero obús Al lateral de la red Parte del estadio cantó gol",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 90,
+      "teamCode": "tot",
+      "text": "C_Romero para L_Bergvall Pero Nico_Paz cuelga el balón a la grada Z",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 90,
+      "teamCode": "psg",
+      "text": "B_Barcola ubica el balón a la espalda de la defensa. O_Dembele busca el desmarque L_Bergvall arriesga con una entrada a ras de suelo ¡OOOHHHH! El balón le queda rebotado al delantero Pero mete el pie de nuevo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "psg",
+      "text": "O_Dembele regatea a un rival A otro Esté en racha Y mete el pase hacia D_Doue P_Sarr se lleva el balón con la mano No hay falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "tot",
+      "text": "C_Romero se deshace de su marcador Esta noche va a aparecer en sus pesadillas Vitinha lo envía al césped Los aficionados reclaman penalti Pero Tom_Henning_Ovrebo se desentiende de la jugada",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

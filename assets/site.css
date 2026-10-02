@@ -1,0 +1,160 @@
+:root {
+  --league-bg: #080c12;
+  --league-surface: rgba(18, 24, 34, 0.92);
+  --league-surface-strong: #151c27;
+  --league-border: rgba(255, 255, 255, 0.1);
+  --league-accent: #f5a623;
+  --league-accent-soft: rgba(245, 166, 35, 0.14);
+  --league-text: #f4f6f8;
+  --league-muted: #98a2b3;
+  --league-radius: 14px;
+  --league-shadow: 0 18px 50px rgba(0, 0, 0, 0.26);
+}
+
+.league-page {
+  background:
+    radial-gradient(circle at 12% -10%, rgba(245, 166, 35, 0.11), transparent 34rem),
+    radial-gradient(circle at 90% 20%, rgba(52, 152, 219, 0.08), transparent 30rem),
+    var(--league-bg);
+  color: var(--league-text);
+  min-height: 100vh;
+}
+
+.league-page > header {
+  background: rgba(12, 17, 24, 0.84);
+  border-bottom: 1px solid var(--league-border);
+  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.18);
+  backdrop-filter: blur(16px);
+}
+
+.league-page .logo {
+  color: var(--league-accent);
+  text-transform: uppercase;
+  letter-spacing: 0.13em;
+}
+
+.league-page nav {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.league-page nav a {
+  display: grid;
+  min-width: 42px;
+  min-height: 42px;
+  place-items: center;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  color: var(--league-muted);
+  text-decoration: none;
+}
+
+.league-page nav a:hover,
+.league-page nav a[aria-current="page"] {
+  color: var(--league-accent);
+  border-color: rgba(245, 166, 35, 0.28);
+  background: var(--league-accent-soft);
+}
+
+.league-page :is(a, button, select, input):focus-visible {
+  outline: 3px solid rgba(245, 166, 35, 0.52);
+  outline-offset: 3px;
+}
+
+.league-page :is(.card, .comp-section, .jornadas-section, .partidos-section, .visor-content, .selector-wrap, .table-wrap) {
+  border-color: var(--league-border);
+}
+
+.league-page :is(.comp-btn, .jornada-btn, .team-btn, .cat-btn, .partido-card) {
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.12);
+}
+
+.league-page :is(.comp-btn, .jornada-btn, .team-btn, .cat-btn, .partido-card):hover {
+  transform: translateY(-2px);
+}
+
+.league-page .status-panel {
+  max-width: 760px;
+  margin: 1.2rem auto;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--league-border);
+  border-radius: 12px;
+  background: var(--league-surface);
+  color: var(--league-muted);
+  text-align: center;
+}
+
+.league-page .status-panel.error {
+  border-color: rgba(231, 76, 60, 0.45);
+  color: #ffaca3;
+}
+
+.league-page .penalty-score {
+  display: block;
+  margin-top: 0.15rem;
+  color: var(--league-muted);
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+
+.league-page .partido-card {
+  position: relative;
+}
+
+.league-page .partido-card:focus-visible {
+  border-color: var(--league-accent);
+}
+
+.league-page .open-match {
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: var(--league-accent);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.league-page .open-match:hover {
+  text-decoration: underline;
+}
+
+.league-page .data-note {
+  margin-top: 0.75rem;
+  color: var(--league-muted);
+  font-size: 0.75rem;
+  text-align: center;
+}
+
+@media (max-width: 680px) {
+  .league-page > header {
+    height: auto;
+    min-height: 58px;
+    padding: 0.55rem 0.8rem;
+  }
+
+  .league-page nav {
+    gap: 0.15rem;
+  }
+
+  .league-page nav a {
+    min-width: 38px;
+    min-height: 38px;
+    font-size: 1.15rem;
+  }
+
+  .league-page .partido-card {
+    min-width: 100%;
+    max-width: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .league-page *,
+  .league-page *::before,
+  .league-page *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}

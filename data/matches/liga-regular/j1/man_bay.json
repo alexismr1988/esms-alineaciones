@@ -1,0 +1,1303 @@
+{
+  "id": "liga-regular/j1/man_bay",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j1",
+  "roundLabel": "Jornada 1",
+  "fileName": "man_bay.txt",
+  "homeCode": "man",
+  "awayCode": "bay",
+  "homeTeam": "Manchester United",
+  "awayTeam": "Bayern Munich",
+  "result": {
+    "home": 2,
+    "away": 3,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Manchester United 2-3 Bayern Munich",
+  "formation": {
+    "home": "3-5-2 C",
+    "away": "4-3-1-2 N"
+  },
+  "referee": {
+    "name": "Anders Frisk",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "A_Onana",
+        "displayName": "A Onana",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "de_Ligt",
+        "displayName": "de Ligt",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Martinez",
+        "displayName": "L Martinez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Yoro",
+        "displayName": "L Yoro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Fernandes",
+        "displayName": "B Fernandes",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Casemiro",
+        "displayName": "M Casemiro",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Mount",
+        "displayName": "M Mount",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Ugarte",
+        "displayName": "M Ugarte",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "K_Mainoo",
+        "displayName": "K Mainoo",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Mbeumo",
+        "displayName": "B Mbeumo",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Garnacho",
+        "displayName": "A Garnacho",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Bayindir",
+        "displayName": "A Bayindir",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "H_Maguire",
+        "displayName": "H Maguire",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_Shaw",
+        "displayName": "L Shaw",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Dalot",
+        "displayName": "D Dalot",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Cunha",
+        "displayName": "M Cunha",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "M_Neuer",
+        "displayName": "M Neuer",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "S_Boey",
+        "displayName": "S Boey",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "K_Laimer",
+        "displayName": "K Laimer",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Davies",
+        "displayName": "A Davies",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Guerreiro",
+        "displayName": "R Guerreiro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Pavlovic",
+        "displayName": "A Pavlovic",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Musiala",
+        "displayName": "J Musiala",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "P_Wanner",
+        "displayName": "P Wanner",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Xavi_Simmons",
+        "displayName": "Xavi Simmons",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "M_Olise",
+        "displayName": "M Olise",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "L_Diaz",
+        "displayName": "L Diaz",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Urbig",
+        "displayName": "J Urbig",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Upamecano",
+        "displayName": "D Upamecano",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Kimmich",
+        "displayName": "J Kimmich",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_DeBruyne",
+        "displayName": "K DeBruyne",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "H_Kane",
+        "displayName": "H Kane",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Manchester United",
+      "mvp": "M_Mount",
+      "goals": "K_Mainoo (15), M_Mount (20)",
+      "sentOff": "N/A",
+      "booked": "K_Mainoo (46)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Bayern Munich",
+      "mvp": "A_Pavlovic (Jugador del partido)",
+      "goals": "L_Diaz (1), A_Pavlovic (9), de_Ligt (20 og)",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 17,
+      "away": 12
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 8,
+      "away": 9
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 9,
+      "away": 3
+    },
+    {
+      "label": "Posesión",
+      "home": 56,
+      "away": 44
+    },
+    {
+      "label": "Córners",
+      "home": 3,
+      "away": 2
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 0
+    },
+    {
+      "label": "Faltas",
+      "home": 10,
+      "away": 3
+    },
+    {
+      "label": "Entradas",
+      "home": 5,
+      "away": 6
+    },
+    {
+      "label": "Pases clave",
+      "home": 10,
+      "away": 9
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Manchester United",
+      "players": [
+        {
+          "name": "A_Onana",
+          "displayName": "A Onana",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 94,
+          "sav": 1,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "de_Ligt",
+          "displayName": "de Ligt",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Martinez",
+          "displayName": "L Martinez",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 19,
+          "sh": 7,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Yoro",
+          "displayName": "L Yoro",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 4,
+          "ag": 23,
+          "min": 66,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Fernandes",
+          "displayName": "B Fernandes",
+          "position": "MF",
+          "st": 2,
+          "tk": 9,
+          "ps": 43,
+          "sh": 26,
+          "ag": 27,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Casemiro",
+          "displayName": "M Casemiro",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 42,
+          "sh": 12,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Mount",
+          "displayName": "M Mount",
+          "position": "MF",
+          "st": 2,
+          "tk": 7,
+          "ps": 39,
+          "sh": 21,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 4,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Ugarte",
+          "displayName": "M Ugarte",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 38,
+          "sh": 8,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Mainoo",
+          "displayName": "K Mainoo",
+          "position": "MF",
+          "st": 2,
+          "tk": 4,
+          "ps": 38,
+          "sh": 19,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "B_Mbeumo",
+          "displayName": "B Mbeumo",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 15,
+          "sh": 41,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Garnacho",
+          "displayName": "A Garnacho",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 28,
+          "sh": 40,
+          "ag": 26,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Bayindir",
+          "displayName": "A Bayindir",
+          "position": "GK",
+          "st": 33,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Maguire",
+          "displayName": "H Maguire",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 4,
+          "ag": 24,
+          "min": 28,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Shaw",
+          "displayName": "L Shaw",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Dalot",
+          "displayName": "D Dalot",
+          "position": "MF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Cunha",
+          "displayName": "M Cunha",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 19,
+          "sh": 40,
+          "ag": 27,
+          "min": 49,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Bayern Munich",
+      "players": [
+        {
+          "name": "M_Neuer",
+          "displayName": "M Neuer",
+          "position": "GK",
+          "st": 43,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 94,
+          "sav": 7,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Boey",
+          "displayName": "S Boey",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 7,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 5,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Laimer",
+          "displayName": "K Laimer",
+          "position": "DF",
+          "st": 2,
+          "tk": 29,
+          "ps": 41,
+          "sh": 14,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Davies",
+          "displayName": "A Davies",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 21,
+          "sh": 9,
+          "ag": 28,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Guerreiro",
+          "displayName": "R Guerreiro",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 18,
+          "sh": 14,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Pavlovic",
+          "displayName": "A Pavlovic",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 37,
+          "sh": 12,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Musiala",
+          "displayName": "J Musiala",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 44,
+          "sh": 21,
+          "ag": 28,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Wanner",
+          "displayName": "P Wanner",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 36,
+          "sh": 14,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Xavi_Simmons",
+          "displayName": "Xavi Simmons",
+          "position": "AM",
+          "st": 2,
+          "tk": 18,
+          "ps": 44,
+          "sh": 27,
+          "ag": 21,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Olise",
+          "displayName": "M Olise",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 21,
+          "sh": 41,
+          "ag": 27,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Diaz",
+          "displayName": "L Diaz",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 26,
+          "sh": 42,
+          "ag": 28,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 6,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Urbig",
+          "displayName": "J Urbig",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Upamecano",
+          "displayName": "D Upamecano",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Kimmich",
+          "displayName": "J Kimmich",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 14,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_DeBruyne",
+          "displayName": "K DeBruyne",
+          "position": "MF",
+          "st": 2,
+          "tk": 18,
+          "ps": 45,
+          "sh": 26,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Kane",
+          "displayName": "H Kane",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 45,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "bay",
+      "text": "A_Pavlovic mete un balón interior para L_Diaz L_Diaz empalma con la zurda. Colocó mal el cuerpo GOOOOOL Hace un mortal hacia atrás. Ei Eso lo inventó Hugo Sánchez El Bayern Munich golpea. Ahora manda en el marcador Manchester United 0-1 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "man",
+      "text": "M_Ugarte tira la pared con su delantero A_Garnacho con un preciso pase de primeras Menuda jugada A_Garnacho con un sutil toque de puntera Pero M_Neuer alcanza el cuero con el puño Ha demostrado mucha valentía en esa acción",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "bay",
+      "text": "L_Diaz con un giro rapidísimo Le enseña el dorsal al defensa Hace un mal control de_Ligt está muy encima en su marcaje y le arrebata el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "man",
+      "text": "K_Mainoo mete el pase A_Pavlovic resbala M_Mount se apodera del balón M_Mount levanta la cabeza, apunta a la escuadra y... ¡dispara! M_Neuer tapa perfectamente el ángulo largo Y detiene el balón con sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "man",
+      "text": "M_Casemiro encuentra el pasadizo ¡Qué habilidad! M_Casemiro connecta el balón con la cabeza y lo peina hacia atrás Pero M_Neuer rechaza el balón Y la defensa, muy atenta, aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "bay",
+      "text": "A_Pavlovic recoge el balón rebotado en la frontal Tiene hueco para el disparo La defensa sale, demasiado tarde A_Pavlovic llega forzado al remate GOOOOOL Qué bien lo ha buscado Manchester United 0-2 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "bay",
+      "text": "A_Davies tiene espacio para el disparo A_Davies desde fuera del área Fuera ¿De qué sirve tanta potencia si el disparo va fuera?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 13,
+      "teamCode": "bay",
+      "text": "J_Musiala busca opciones Su compañero se deshace del marcador L_Diaz recibe un pase medido L_Diaz tiene tiempo y espacio Busca la vaselina Sitúa el balón suavemente lejos del alcance del portero Pero va a parar al larguero Y fuera A_Onana acaricia su portería. No me extraña",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "bay",
+      "text": "A_Davies se va en un palmo de terreno B_Fernandes entra con los tacos por delante Creo que buscaba el balón, pero debería calmarse un poquito Tuvo suerte de no ver la cartulina \"Primer aviso... y último\" le espeta el colegiado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "man",
+      "text": "B_Fernandes mete un balón interior para K_Mainoo K_Mainoo remata forzado... con la rodilla El balón vuela como un obús hacia la portería M_Neuer reacciona con rapidez ¿Llegará a desviar el envenenado disparo? ¡NO! GOOOOOL M_Neuer descarga su frustración pateando el palo Manchester United 1-2 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "man",
+      "text": "M_Mount mata el pase, prepara el disparo Punterazo impresionante de M_Mount Dispara excesivamente alto Está horrorizado por lo que falló ¿Su entrenador está hablando solo? Ui no, creo que era un insulto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "man",
+      "text": "M_Casemiro cruza para M_Mount S_Boey entra con todo Y corta el balón. Ha intimidado al delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "bay",
+      "text": "M_Olise controla el cuero. ¡Uau! Qué detalle Busca el pase Pero rebote en un defensa y lea cae limpia. Se va solo L_Martinez corta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "man",
+      "text": "M_Mount deja a A_Davies en el camino M_Mount mete la cabeza con valentía GOOOOOL Se lleva las manos a las orejas Está provocando a los aficionados del Bayern Munich \"Agradecen\" el gesto con insultos Manchester United empata el partido Manchester United 2-2 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "man",
+      "text": "de_Ligt trata de despejar el centro Pero el balón le impacta en el cuerpo GOOOOOL Ha marcado en propia puerta Manchester United 2-3 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "man",
+      "text": "L_Martinez encara a R_Guerreiro Se va con facilidad R_Guerreiro reacciona rápidamente y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons se mete en el área. Va a chutar No, pase para L_Diaz L_Diaz con un toque de maestro Se estrella en el larguero Pero remata de cabeza tras llegar al rechace Va a ser gol Pero un defensa saca al balón bajo la línea De dónde ha salido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "man",
+      "text": "de_Ligt regatea a un rival A otro Esté en racha Y mete el pase hacia A_Garnacho S_Boey sega el césped con una entrada terrorífica",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "bay",
+      "text": "S_Boey recupera el balón y pasa largo hacia L_Diaz. Ha pillado a la defensa desolocada M_Casemiro eleva demasiado el pie Anders_Frisk hace gestos con las manos de que se calme",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 33,
+      "teamCode": "man",
+      "text": "A_Garnacho agarra al defensa de la camiseta y se lleva el balón !Qué vivo ha estado, el árbitro no pudo ver nada! A_Garnacho con un disparo a ras de suelo El balón hace un mal bote sobre el césped y su disparo se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "bay",
+      "text": "M_Neuer se resiente del tobillo El fisio examina la zona dolorida Todo parece indicar que va a seguir",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "man",
+      "text": "A_Garnacho engaña a P_Wanner con una finta de cuerpo A_Garnacho se escapa ¡Cuidado! Dispara excesivamente alto Está horrorizado por lo que falló No es para menos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons tiene varias opciones de pase Pero busca un regate y se va hacia el área. Chupón Xavi_Simmons tiene el disparo a punto Impacta mal al cuero Se pierde inofensivamente por la línea de fondo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se va a añadir 1 minuto al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "bay",
+      "text": "L_Diaz con el preciso regate Se va de cara a puerta L_Diaz connecta el balón con la cabeza y lo peina hacia atrás Su disparo es rechazado por el portero Se hace con el rebote Y dispara fuera Se precipitó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "man",
+      "text": "M_Cunha va a tener su oportunidad en este partido A_Garnacho deja el terreno de juego con cara de pocos amigos Su sustituto jugará de FW",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "bay",
+      "text": "K_Laimer supera a de_Ligt Tiene mucho espacio K_Mainoo llega segundos tarde al corte Se levanta y se disculpa de su oponente Ay, ay, ay Podría ser expulsado por eso (AMARILLA) Los jugadores rivales increpan al árbitro",
+      "type": "red"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "bay",
+      "text": "J_Musiala se la pone a L_Diaz en el pie L_Diaz duerme el balón con el pecho y lo empalma de primeras A la nubes",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "man",
+      "text": "de_Ligt cruza la línea de medios Ve un hueco en el flanco Mete el balón sobre la llegada de K_Mainoo K_Mainoo con el disparo Rebota en el palo Se anticipa al defensa para el rebote Tiene la portería para él solo ¡NOOOOOOOO! La ha tirado fuera Imposible No me lo creo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "bay",
+      "text": "A_Pavlovic al primer toque para P_Wanner P_Wanner trata de sorprender al portero Está muy adelantado Al lateral de la red",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "man",
+      "text": "M_Neuer se la saca de encima el balón le cae a M_Cunha M_Cunha empalma el balón a la perfección Pega en el pie de un defensa Y se pierde por la lína de fondo CÓRNER M_Ugarte saca el balón a la frontal El balón va directo hacia A_Davies, que despeja con contundencia",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "bay",
+      "text": "L_Diaz pone el balón a la espalda de los centrales J_Musiala se cuela desde atrás J_Musiala salta y pica el balón perfectamente de cabeza La red se mueve OH Pegó en el lateral Parte de la grada cantó GOL",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "man",
+      "text": "M_Mount sale lanzado por el carril Xavi_Simmons intenta cortar su avance con una entrada a ras de suelo El delantero salta por encima ¡Qué reflejos! R_Guerreiro corta el balón Despeja a lo loco La ha enviado a la grada CÓRNER M_Casemiro centra con fuerza al área pequeña K_Mainoo se deshace de su marcador y mete la cabeza M_Neuer rechaza el balón con los pies Su defensa cierra el rebote y envía el balón al centro del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "man",
+      "text": "K_Mainoo le gana la espalda a su marcador Eh, se ha despistado S_Boey entra con todo Y corta el balón. Ha intimidado al delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "man",
+      "text": "H_Maguire entrará en el campo. Está impaciente por demostrar su clase L_Yoro se marcha en su lugar No acaba de estar del todo satisfecho consigo mismo Su compañero jugará de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "man",
+      "text": "de_Ligt regatea a su marcador Va a disparar No Pasa hacia M_Cunha Ha engañado a todos M_Cunha prueba suerte M_Neuer se saca una espectacular parada de la manga ¿Cómo lo hizo para llegar a ese balón?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "man",
+      "text": "B_Fernandes gambetea a lo Maradona ¿Hará 'la mano de Diós' también? L_Diaz placa a su oponente Eso es tarjeta aquí, en Argentina y en la China",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "bay",
+      "text": "A_Davies se lleva la mano al muslo Parece que no va a seguir Sí, solo ha sido un susto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "man",
+      "text": "M_Mount acelera por la banda izquierda Juega para B_Mbeumo B_Mbeumo con un toque de maestro Es incapaz de chutar a puerta Ha tardado una eternidad Se le ha hecho de noche",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "bay",
+      "text": "L_Diaz encara al defensa B_Mbeumo mete la pierna, pero el rebote favorece al atacante Fue un golpe de suerte, pero continúa hacia adelante Gran entrada a ras de suelo de M_Cunha Se pierde por la línea de fondo CÓRNER K_Laimer centra hacia el área L_Martinez se anticipa a la jugada Y manda el balón a la grada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "man",
+      "text": "M_Mount le pega al balón con el exterior El efecto despista a la defensa, que no puede evitar que le llegue a B_Mbeumo B_Mbeumo suelta un disparo con el exterior del pie M_Neuer salta de manera espectacular Y atrapa el balón Se ha adornado para la foto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "bay",
+      "text": "P_Wanner asiste a A_Davies con espacio por delante L_Martinez envía el balón a las gradas publicitarias",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "man",
+      "text": "B_Fernandes conduce por la línea de medios Pasa hacia M_Cunha Pero S_Boey corta el ataque con mucha sobriedad CÓRNER K_Mainoo le de mucho efecto a su lanzamiento S_Boey controla el balón tras varios rebotes Sale jugando por bajo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "bay",
+      "text": "M_Olise dispara Pega en la espalda de un compañero y va a parar a K_Laimer Vaya suerte M_Cunha placa a su oponente El otro día vi una acción así en la NHL",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "bay",
+      "text": "L_Diaz recoge el balón rebotado en la frontal Tiene hueco para el disparo La defensa sale, demasiado tarde L_Diaz busca desequilibrar el partido Se va fuera Pero un defensa mete la pierna Va a puerta A_Onana mete la pierna y la envía a córner. Uf CÓRNER J_Musiala saca a la zona de peligro El balón va directo hacia M_Mount, que despeja con contundencia",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 86,
+      "teamCode": "bay",
+      "text": "A_Davies con un pase entre los centrales L_Diaz aparece con velocidad desde atrás H_Maguire entra con los tacos por delante ¡Ufff! Lleva la marca de la bota impresa en el muslo Anders_Frisk le pega una sonora reprimenda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 90,
+      "teamCode": "bay",
+      "text": "K_Laimer encara al defensa B_Mbeumo mete la pierna, pero el rebote favorece al atacante Fue un golpe de suerte, pero continúa hacia adelante H_Maguire sega el césped con una entrada terrorífica El delantero evita a su rival, pero pierde el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 90,
+      "teamCode": "man",
+      "text": "M_Cunha recibe el balón en el extremo Se va de su marcador por el interior Está en una posición inmejorable A_Pavlovic salta de cabeza con su rival Falta Lo estaba agarrando Anders_Frisk ignora las vehementes peticiones de tarjeta El entrenador de Bayern Munich ha tenido suerte esta vez FALTA DIRECTA Es una posición buenísima para el lanzador B_Fernandes cuelga el balón al área M_Cunha se anticipa a su marcador M_Cunha busca el gol Golpea las vallas publicitarias",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "bay",
+      "text": "M_Olise con un impresionante desmarque M_Olise salta y pica el balón perfectamente de cabeza Demasiado alta, la ha tirado a Agraria",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "man",
+      "text": "M_Mount controla el balón con una gran calidad Despistó a su marcador Gran ocasión M_Mount mete el interior del pie con mucha intención Ay va Ha tirado a metros de la portería Creo que el míster lo va a poner a patear toda la semana como castigo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "bay",
+      "text": "A_Davies ve el desmarque de J_Musiala M_Casemiro con una entrada asesina Le ha pegado con toda la mala leche del mundo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 93,
+      "teamCode": "man",
+      "text": "M_Cunha hace una vuelta entera pisando el balón y se va solo de cara a puerta M_Cunha con el disparo M_Neuer se zambulle hacia su izquierda Sale rozando el palo Anders_Frisk dice que no ha tocado el balón Acertó",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

@@ -1,0 +1,1215 @@
+{
+  "id": "liga-regular/j6/psg_rma",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j6",
+  "roundLabel": "Jornada 6",
+  "fileName": "psg_rma.txt",
+  "homeCode": "psg",
+  "awayCode": "rma",
+  "homeTeam": "PSG",
+  "awayTeam": "Real Madrid",
+  "result": {
+    "home": 4,
+    "away": 1,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "PSG 3-1 Real Madrid",
+  "formation": {
+    "home": "4-4-2 N",
+    "away": "3-1-2-1-3 A"
+  },
+  "referee": {
+    "name": "Pierluigi Collina",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "G_Donnarumma",
+        "displayName": "G Donnarumma",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "A_Hakimi",
+        "displayName": "A Hakimi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Mendes",
+        "displayName": "N Mendes",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Marquinhos",
+        "displayName": "Marquinhos",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Pacho",
+        "displayName": "W Pacho",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Neves",
+        "displayName": "J Neves",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Vitinha",
+        "displayName": "Vitinha",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "W_ZaireEmery",
+        "displayName": "W ZaireEmery",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Nico_Paz",
+        "displayName": "Nico Paz",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "O_Dembele",
+        "displayName": "O Dembele",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "D_Doue",
+        "displayName": "D Doue",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Diogo_Costa",
+        "displayName": "Diogo Costa",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_HernÃ¡ndez",
+        "displayName": "L HernÃ¡ndez",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Ruiz",
+        "displayName": "F Ruiz",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Barcola",
+        "displayName": "B Barcola",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Rafael_Leao",
+        "displayName": "Rafael Leao",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "T_Courtois",
+        "displayName": "T Courtois",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "D_Huijsen",
+        "displayName": "D Huijsen",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Asencio",
+        "displayName": "R Asencio",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Rudiger",
+        "displayName": "A Rudiger",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Tchouameni",
+        "displayName": "A Tchouameni",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "F_Valverde",
+        "displayName": "F Valverde",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Bellingham",
+        "displayName": "J Bellingham",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Guler",
+        "displayName": "A Guler",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "K_Mbappe",
+        "displayName": "K Mbappe",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "V_Junior",
+        "displayName": "V Junior",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Rodrygo",
+        "displayName": "Rodrygo",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Lunin",
+        "displayName": "A Lunin",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Carvajal",
+        "displayName": "D Carvajal",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "E_Camavinga",
+        "displayName": "E Camavinga",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "G_Garcia",
+        "displayName": "G Garcia",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Endrick",
+        "displayName": "Endrick",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "PSG",
+      "mvp": "D_Doue (Jugador del partido)",
+      "goals": "Nico_Paz (13), D_Doue (18,28), J_Neves (74)",
+      "sentOff": "N/A",
+      "booked": "W_Pacho (32), Marquinhos (83)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Real Madrid",
+      "mvp": "J_Bellingham",
+      "goals": "J_Bellingham (30)",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 18,
+      "away": 7
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 7,
+      "away": 4
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 11,
+      "away": 3
+    },
+    {
+      "label": "Posesión",
+      "home": 68,
+      "away": 32
+    },
+    {
+      "label": "Córners",
+      "home": 4,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 2,
+      "away": 0
+    },
+    {
+      "label": "Sustituciones",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Faltas",
+      "home": 7,
+      "away": 11
+    },
+    {
+      "label": "Entradas",
+      "home": 8,
+      "away": 2
+    },
+    {
+      "label": "Pases clave",
+      "home": 10,
+      "away": 8
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "PSG",
+      "players": [
+        {
+          "name": "G_Donnarumma",
+          "displayName": "G Donnarumma",
+          "position": "GK",
+          "st": 46,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 95,
+          "sav": 2,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Hakimi",
+          "displayName": "A Hakimi",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 27,
+          "sh": 14,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Mendes",
+          "displayName": "N Mendes",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 16,
+          "sh": 12,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Marquinhos",
+          "displayName": "Marquinhos",
+          "position": "DF",
+          "st": 2,
+          "tk": 45,
+          "ps": 9,
+          "sh": 4,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "W_Pacho",
+          "displayName": "W Pacho",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 7,
+          "sh": 4,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "J_Neves",
+          "displayName": "J Neves",
+          "position": "DM",
+          "st": 2,
+          "tk": 24,
+          "ps": 45,
+          "sh": 16,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Vitinha",
+          "displayName": "Vitinha",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 44,
+          "sh": 16,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_ZaireEmery",
+          "displayName": "W ZaireEmery",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 16,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Nico_Paz",
+          "displayName": "Nico Paz",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 39,
+          "sh": 21,
+          "ag": 20,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Dembele",
+          "displayName": "O Dembele",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 45,
+          "ag": 26,
+          "min": 79,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 6,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Doue",
+          "displayName": "D Doue",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 33,
+          "sh": 42,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 6,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Diogo_Costa",
+          "displayName": "Diogo Costa",
+          "position": "GK",
+          "st": 41,
+          "tk": 1,
+          "ps": 1,
+          "sh": 1,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_HernÃ¡ndez",
+          "displayName": "L HernÃ¡ndez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 19,
+          "sh": 12,
+          "ag": 24,
+          "min": 16,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Ruiz",
+          "displayName": "F Ruiz",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 40,
+          "sh": 16,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Barcola",
+          "displayName": "B Barcola",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 21,
+          "sh": 40,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rafael_Leao",
+          "displayName": "Rafael Leao",
+          "position": "FW",
+          "st": 2,
+          "tk": 18,
+          "ps": 20,
+          "sh": 44,
+          "ag": 11,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Real Madrid",
+      "players": [
+        {
+          "name": "T_Courtois",
+          "displayName": "T Courtois",
+          "position": "GK",
+          "st": 45,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 95,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Huijsen",
+          "displayName": "D Huijsen",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Asencio",
+          "displayName": "R Asencio",
+          "position": "DF",
+          "st": 2,
+          "tk": 32,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Rudiger",
+          "displayName": "A Rudiger",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 9,
+          "sh": 4,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Tchouameni",
+          "displayName": "A Tchouameni",
+          "position": "DM",
+          "st": 2,
+          "tk": 24,
+          "ps": 41,
+          "sh": 12,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Valverde",
+          "displayName": "F Valverde",
+          "position": "MF",
+          "st": 2,
+          "tk": 27,
+          "ps": 43,
+          "sh": 16,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Bellingham",
+          "displayName": "J Bellingham",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 24,
+          "ag": 28,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Guler",
+          "displayName": "A Guler",
+          "position": "AM",
+          "st": 2,
+          "tk": 14,
+          "ps": 37,
+          "sh": 19,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Mbappe",
+          "displayName": "K Mbappe",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 49,
+          "ag": 30,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Junior",
+          "displayName": "V Junior",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 23,
+          "sh": 45,
+          "ag": 30,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rodrygo",
+          "displayName": "Rodrygo",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 40,
+          "ag": 28,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Lunin",
+          "displayName": "A Lunin",
+          "position": "GK",
+          "st": 37,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Carvajal",
+          "displayName": "D Carvajal",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 7,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Camavinga",
+          "displayName": "E Camavinga",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 14,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Garcia",
+          "displayName": "G Garcia",
+          "position": "MF",
+          "st": 2,
+          "tk": 7,
+          "ps": 14,
+          "sh": 32,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Endrick",
+          "displayName": "Endrick",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 16,
+          "sh": 37,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "psg",
+      "text": "O_Dembele se deshace de su marcador Su velocidad le está creando muchos problemas O_Dembele trata de sorprender al portero con una inesperada vaselina El balón le bota antes de disparar Y se va a la grada. Hay risas en algunos sectores del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "psg",
+      "text": "O_Dembele supera a A_Rudiger El defensa está viviendo una pesadilla O_Dembele trata de sorprender a T_Courtois desde fuera del área Pero T_Courtois hace una gran parada ¡Uau! Estuvo cerca Tuvo que emplearse a fondo para evitar el gol",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "rma",
+      "text": "D_Huijsen se anticipa a su marcador Eso es un ejemplo de cómo desmarcarse Falla en el control y A_Hakimi no desaprovecha el regalo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "rma",
+      "text": "A_Tchouameni lanza el contraataque Hace una pausa esperando apoyos K_Mbappe lo dobla recibe el pase El lanzamiento rebota en el muslo de K_Mbappe y se encamina a puerta Pero G_Donnarumma bloca el cuero con mucha tranquilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 13,
+      "teamCode": "psg",
+      "text": "Vitinha aguanta el balón Cambia súbitamente hacia Nico_Paz Nico_Paz tiene el disparo a punto T_Courtois resbala Pero llega a desviar el disparo Golpea en el palo... GOOOOOL Qué mala suerte Gritos de \"TONTO, TONTO\" en la grada El PSG se cobra ventaja ¿Podrá mantenerla hasta el final? PSG 1-0 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "rma",
+      "text": "J_Bellingham tiene campo por delante Pasa a V_Junior A_Hakimi va al choque Y se lleva el cuero. El delantero no sabe si ha sido un contrario o un tren de mercancías",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "psg",
+      "text": "D_Doue supera a D_Huijsen Lleva loco a su marcador D_Doue vuela con bravura para rematar en plancha Se mueve la red GOOOOOL Besa su camiseta Eso es amor por los colores Los aficionados corean su nombre PSG 2-0 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "rma",
+      "text": "K_Mbappe se deshace de su marcador Su velocidad le está creando muchos problemas Menudo obús de K_Mbappe Hala Al tercer anfiteatro Pero G_Donnarumma saca una pierna milagrosa y desvía el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "rma",
+      "text": "A_Tchouameni tira la pared con su delantero Rodrygo con un preciso pase de primeras Menuda jugada A_Hakimi envía al delantero al suelo y el balón sale fuera de banda El asistente indica... Saque de banda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 23,
+      "teamCode": "rma",
+      "text": "Rodrygo se tira el balón largo ante W_Pacho Se lleva al defensa por velocidad Interceptada por Vitinha",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "psg",
+      "text": "Nico_Paz está presionado, retrocede Está en peligro, se saca el balón de encima OH Le ha salida una maravillosa asistencia hacia O_Dembele O_Dembele prueba suerte T_Courtois está sorprendido Lo ha pillado fuera de posición OH Impacta en las vallas publicitarias Gran disparo Merecía el gol",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "psg",
+      "text": "D_Doue envía un pase en profundidad hacia O_Dembele O_Dembele coloca el balón al palo largo Dispara precipitadamente Fuera No puedo precisar el remate",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "psg",
+      "text": "Vitinha avanza metros Mira el extremo derecho Y le pone un pase de oro a D_Doue en el otro lado ¡Qué clase! D_Doue chuta sin mirar al portero Bota mal sobre un césped demasiado mojado Pero impacta en el lateral de la red CÓRNER J_Neves saca al primer palo Directo hacia D_Doue Remata como puede GOOOOOL Los aficionados enloquecen PSG 3-0 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "psg",
+      "text": "J_Neves espera apoyos D_Doue sale de la cueva. Para él va el balón D_Doue tiene tiempo y espacio Chuta Se va fuera No El efecto ha despistado al portero T_Courtois se lanza al otro lado y desvía el lanzamiento CÓRNER A_Hakimi centra hacia el área T_Courtois mete el puño derecho y despeja el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "rma",
+      "text": "J_Bellingham controla el balón y le hace un sombrero al defensa Sigue en carrera J_Bellingham busca la red G_Donnarumma está batido GOOOOOL No ha podido hacer nada PSG 3-1 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "rma",
+      "text": "V_Junior se cambia el balón de pierna Regatea al defensa Vaya obra de arte W_Pacho con una entrada alocada (AMARILLA) Por unos momentos lo vi expulsado El entrenador de Real Madrid parece asombrado de que no fuera roja",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "psg",
+      "text": "W_ZaireEmery avanza con el balón controlado Ve el desmarque de un compañero Cruza el pase O_Dembele con un control facilísimo A_Guler se hace con el balón y lo cede al portero T_Courtois resbala Ay Fuera Ha salido a córner CÓRNER J_Neves centra hacia el área Directo hacia A_Hakimi Remata como puede T_Courtois está justo en el sitio exacto Pero se lanza para hacerlo más espectacular Su entrenador está de los nervios",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "rma",
+      "text": "K_Mbappe agarra al defensa de la camiseta y se lleva el balón !Qué vivo ha estado, el árbitro no pudo ver nada! W_Pacho va al choque Y desplaza al delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "rma",
+      "text": "K_Mbappe tiene campo por delante Pasa a V_Junior Falla en el control y Marquinhos no desaprovecha el regalo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "psg",
+      "text": "J_Neves con el lanzamiento de la falta Observa el desmarque de su compañero O_Dembele se ha zafado de su marcador O_Dembele le da mucho efecto a su disparo Pero T_Courtois alcanza el cuero con el puño Ha caído en mala posición Su entrenador se levanta del banquillo Puede seguir",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 4 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "rma",
+      "text": "D_Huijsen busca el túnel ante Vitinha El defensa mete la pierna, pero el rebote favorece a su rival N_Mendes intercepta el pase",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "psg",
+      "text": "Nico_Paz pide desesperado un apoyo No aparece nadie Está rodeado Abre hacia el extremo D_Doue controla el cuero D_Doue toca el cuero de primeras T_Courtois cierra el ángulo y atrapa la pelota con facilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "rma",
+      "text": "V_Junior con el giro Se abre hueco W_Pacho le pone la zancadilla ¡Ohhh! Le ha dejado un recadito Se marcha con una simple amonestación ¿Se habrá dejado las tarjetas en el vestuario? El entrenador de Real Madrid está desesperado. Vaya arbitraje",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "rma",
+      "text": "A_Guler está escorado en la banda derecha Cambia de juego hacia Rodrygo Potente chut de Rodrygo El disparo coge un efecto envenenado ¡Fuera! Si llega a ir a puerta...",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "psg",
+      "text": "Nico_Paz pide desesperado un apoyo No aparece nadie Está rodeado Abre hacia el extremo J_Neves controla el cuero A_Rudiger entra con todo Y corta el balón. Ha intimidado al delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "psg",
+      "text": "D_Doue encara al defensa D_Huijsen mete la pierna, pero el rebote favorece al atacante Fue un golpe de suerte, pero continúa hacia adelante D_Doue busca la vaselina T_Courtois mete la mano y alcanza el balón con la punta de los dedos Pierluigi_Collina dice que no la ha tocado Menudo desastre",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "psg",
+      "text": "Vitinha quiebra a D_Huijsen con un suave toque hacia el exterior le rompió la cintura Vitinha regatea a su marcador y busca el gol Golpea en la madera Y fuera Está desesperado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "psg",
+      "text": "A_Hakimi toca de primeras al área para O_Dembele O_Dembele coloca un preciso disparo Al centro del marco, dondé está T_Courtois Trata de cogerla... pero se le escapa El rebote queda libre T_Courtois reacciona rápidamente Y la despeja con los pies a la grada Su error estuvo a punto de costarle caro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "psg",
+      "text": "Nico_Paz supera a D_Huijsen ¡Qué facilidad de regate! Nico_Paz se deshace de su marcador Buen movimiento ¡Y dispara! Va directo hacia T_Courtois Pone mal la pierna Sale rebotada hacia atrás T_Courtois mira el balón alarmado Y lo ve salir al lado del palo, suspira de alivio, menudo fallo CÓRNER O_Dembele cuelga el balón R_Asencio se anticipa a la jugada Y manda el balón a la grada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "rma",
+      "text": "F_Valverde llega al área, prepara el disparo... Pero en su lugar pasa hacia K_Mbappe. ¡Qué calidad! oooooh Que entrada más dura de N_Mendes No hay espacio en TSM para este tipo de acciones Pierluigi_Collina lo reclama No hay tarjeta FALTA DIRECTA ¡Peligro! K_Mbappe busca un disparo raso por debajo de la barrera Rebota en el palo El rebote le cae en los pies Trata de regatear al portero Se ha enredado con el balón Vaya fallo Su entrenador está dando puñetazos al banquillo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "psg",
+      "text": "J_Neves hace un sombrero sobre R_Asencio J_Neves busca el palo largo del portero ¡UAU! Ha pegado en el larguero y ha botado sobre la misma línea A Pierluigi_Collina le vibra la pulsera GOOOOOL Lo ha dado PSG 4-1 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "psg",
+      "text": "La grada ruge ya que L_HernÃ¡ndez substituye a O_Dembele para jugar de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "psg",
+      "text": "PSG se decide a cambiar a C",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "psg",
+      "text": "interesante cambio táctico J_Neves se coloca de DM",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "rma",
+      "text": "A_Tchouameni avanza pegado a la línea de banda Despista al defensa con un gran regate Y la pone en el área por bajo hacia V_Junior V_Junior toca el cuero de primeras Dispara al córner ¿Cómo hizo para pegarle tan mal?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "psg",
+      "text": "J_Neves con un regate eléctrico Pisa área... J_Neves remata con los ojos cerrados T_Courtois pone los puños. El balón sale hacia arriba T_Courtois salta y lo atrapa con seguridad Reaccionó rápidamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "rma",
+      "text": "F_Valverde ha roto por completo el fuera de juego Encara a G_Donnarumma Marquinhos lo derriba en el área En mala situación Pierluigi_Collina busca en su bolsillo Comprueba su número (AMARILLA) Creo que se la merecía con creces",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "rma",
+      "text": "K_Mbappe se deshace de su marcador Esta noche va a aparecer en sus pesadillas K_Mbappe trata de ajustar el cuero al palo Remata justo cuando el balón hace un mal bote A las nubes Los aficionados rivales se ríen de él",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que va a haber 1 minuto de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "rma",
+      "text": "A_Guler regatea a su marcador Va a disparar No Pasa hacia K_Mbappe Ha engañado a todos N_Mendes agarra a su rival en el área El delantero pide ¡PENALTI! desesperdamente Pero Pierluigi_Collina hace que 'no' con la cabeza",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

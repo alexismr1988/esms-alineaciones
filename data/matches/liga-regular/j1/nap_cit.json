@@ -1,0 +1,1261 @@
+{
+  "id": "liga-regular/j1/nap_cit",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j1",
+  "roundLabel": "Jornada 1",
+  "fileName": "nap_cit.txt",
+  "homeCode": "nap",
+  "awayCode": "cit",
+  "homeTeam": "Napoles",
+  "awayTeam": "Manchester City",
+  "result": {
+    "home": 1,
+    "away": 2,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Napoles 0-2 Manchester City",
+  "formation": {
+    "home": "4-3-1-2 P",
+    "away": "4-1-2-1-2 N"
+  },
+  "referee": {
+    "name": "Roberto Rosetti",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "A_Meret",
+        "displayName": "A Meret",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "A_Buongiorno",
+        "displayName": "A Buongiorno",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Gutierrez",
+        "displayName": "M Gutierrez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Kim",
+        "displayName": "M Kim",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "G_DiLorenzo",
+        "displayName": "G DiLorenzo",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Gilmour",
+        "displayName": "B Gilmour",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Goretzka",
+        "displayName": "L Goretzka",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "S_McTominay",
+        "displayName": "S McTominay",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "K_Kvaratskhelia",
+        "displayName": "K Kvaratskhelia",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "S_Gnabry",
+        "displayName": "S Gnabry",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "R_KoloMuani",
+        "displayName": "R KoloMuani",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "V_Milinkovic",
+        "displayName": "V Milinkovic",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Oliveira",
+        "displayName": "M Oliveira",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "S_Lobotka",
+        "displayName": "S Lobotka",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Anguissa",
+        "displayName": "F Anguissa",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "R_Lukaku",
+        "displayName": "R Lukaku",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "Unai_Simon",
+        "displayName": "Unai Simon",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "Laporte",
+        "displayName": "Laporte",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Dias",
+        "displayName": "R Dias",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Stones",
+        "displayName": "J Stones",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Gvardiol",
+        "displayName": "J Gvardiol",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Rodri",
+        "displayName": "Rodri",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "M_Kovacic",
+        "displayName": "M Kovacic",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "I_Gundogan",
+        "displayName": "I Gundogan",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Silva",
+        "displayName": "B Silva",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "P_Foden",
+        "displayName": "P Foden",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "E_Haaland",
+        "displayName": "E Haaland",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Ederson",
+        "displayName": "Ederson",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_Khusanov",
+        "displayName": "A Khusanov",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Nunes",
+        "displayName": "M Nunes",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "T_Reijnders",
+        "displayName": "T Reijnders",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "O_Marmoush",
+        "displayName": "O Marmoush",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Napoles",
+      "mvp": "S_McTominay",
+      "goals": "S_Gnabry (60)",
+      "sentOff": "N/A",
+      "booked": "M_Kim (36)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Manchester City",
+      "mvp": "P_Foden (Jugador del partido)",
+      "goals": "Rodri (17), P_Foden (41)",
+      "sentOff": "N/A",
+      "booked": "J_Gvardiol (69), E_Haaland (86)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 14,
+      "away": 4
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 4,
+      "away": 1
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 10,
+      "away": 3
+    },
+    {
+      "label": "Posesión",
+      "home": 64,
+      "away": 36
+    },
+    {
+      "label": "Córners",
+      "home": 3,
+      "away": 2
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Faltas",
+      "home": 4,
+      "away": 8
+    },
+    {
+      "label": "Entradas",
+      "home": 10,
+      "away": 10
+    },
+    {
+      "label": "Pases clave",
+      "home": 14,
+      "away": 7
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Napoles",
+      "players": [
+        {
+          "name": "A_Meret",
+          "displayName": "A Meret",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 19,
+          "min": 96,
+          "sav": 2,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Buongiorno",
+          "displayName": "A Buongiorno",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 7,
+          "ag": 21,
+          "min": 96,
+          "sav": 0,
+          "ktk": 4,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Gutierrez",
+          "displayName": "M Gutierrez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 27,
+          "sh": 9,
+          "ag": 22,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Kim",
+          "displayName": "M Kim",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "G_DiLorenzo",
+          "displayName": "G DiLorenzo",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 31,
+          "sh": 12,
+          "ag": 21,
+          "min": 78,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Gilmour",
+          "displayName": "B Gilmour",
+          "position": "MF",
+          "st": 2,
+          "tk": 25,
+          "ps": 38,
+          "sh": 14,
+          "ag": 21,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Goretzka",
+          "displayName": "L Goretzka",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 42,
+          "sh": 16,
+          "ag": 26,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_McTominay",
+          "displayName": "S McTominay",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 42,
+          "sh": 29,
+          "ag": 22,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Kvaratskhelia",
+          "displayName": "K Kvaratskhelia",
+          "position": "AM",
+          "st": 2,
+          "tk": 16,
+          "ps": 31,
+          "sh": 40,
+          "ag": 26,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Gnabry",
+          "displayName": "S Gnabry",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 41,
+          "ag": 27,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_KoloMuani",
+          "displayName": "R KoloMuani",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 28,
+          "sh": 41,
+          "ag": 25,
+          "min": 63,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Milinkovic",
+          "displayName": "V Milinkovic",
+          "position": "GK",
+          "st": 30,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Oliveira",
+          "displayName": "M Oliveira",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 28,
+          "sh": 12,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Lobotka",
+          "displayName": "S Lobotka",
+          "position": "MF",
+          "st": 2,
+          "tk": 27,
+          "ps": 41,
+          "sh": 14,
+          "ag": 21,
+          "min": 18,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Anguissa",
+          "displayName": "F Anguissa",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 38,
+          "sh": 16,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Lukaku",
+          "displayName": "R Lukaku",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 20,
+          "sh": 41,
+          "ag": 20,
+          "min": 33,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Manchester City",
+      "players": [
+        {
+          "name": "Unai_Simon",
+          "displayName": "Unai Simon",
+          "position": "GK",
+          "st": 43,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 96,
+          "sav": 9,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Laporte",
+          "displayName": "Laporte",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 11,
+          "sh": 9,
+          "ag": 19,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Dias",
+          "displayName": "R Dias",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 15,
+          "sh": 4,
+          "ag": 26,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Stones",
+          "displayName": "J Stones",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Gvardiol",
+          "displayName": "J Gvardiol",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 96,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Rodri",
+          "displayName": "Rodri",
+          "position": "DM",
+          "st": 2,
+          "tk": 29,
+          "ps": 47,
+          "sh": 9,
+          "ag": 27,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Kovacic",
+          "displayName": "M Kovacic",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 41,
+          "sh": 14,
+          "ag": 26,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "I_Gundogan",
+          "displayName": "I Gundogan",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 40,
+          "sh": 14,
+          "ag": 24,
+          "min": 78,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Silva",
+          "displayName": "B Silva",
+          "position": "AM",
+          "st": 2,
+          "tk": 9,
+          "ps": 43,
+          "sh": 21,
+          "ag": 27,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Foden",
+          "displayName": "P Foden",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 43,
+          "ag": 27,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Haaland",
+          "displayName": "E Haaland",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 12,
+          "sh": 49,
+          "ag": 30,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Ederson",
+          "displayName": "Ederson",
+          "position": "GK",
+          "st": 39,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Khusanov",
+          "displayName": "A Khusanov",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 18,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Nunes",
+          "displayName": "M Nunes",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 35,
+          "sh": 14,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Reijnders",
+          "displayName": "T Reijnders",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 14,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Marmoush",
+          "displayName": "O Marmoush",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 14,
+          "sh": 43,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "nap",
+      "text": "R_KoloMuani con un pase muy fuerte para K_Kvaratskhelia K_Kvaratskhelia con la red entre ceja y ceja Pero Unai_Simon hace una gran parada ¡Uau! Estuvo cerca Tuvo que emplearse a fondo para evitar el gol",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "cit",
+      "text": "P_Foden aprovecha un fallo defensivo Eso le puede costar caro G_DiLorenzo levanta demasiado la pierna Roberto_Rosetti se \"come\" la cartulina. Eso era amarilla",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "nap",
+      "text": "S_McTominay tiene a varios compañeros solos Decide jugar él solo. Un poco chupón, ¿eh? S_McTominay impacta el balón de primeras Unai_Simon hace una gran parada Pero no puede retener el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "nap",
+      "text": "K_Kvaratskhelia de tacón para G_DiLorenzo G_DiLorenzo chuta Unai_Simon hace una gran parada Y se las arregla para controlar el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "cit",
+      "text": "Rodri encuentra una autopista en la defensa El central había subido al ataque Rodri tiene la portería entre ceja y ceja El balón impacta en el palo Se mueve la red GOOOOOL El Manchester City se pone por delante Napoles 0-1 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "nap",
+      "text": "S_Gnabry salta sobre la tremenda entrada de Rodri Se lleva el balón y sigue con la pierna pegada al cuerpo S_Gnabry salta con potencia por encima de la defensa Golpea las vallas publicitarias",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "cit",
+      "text": "Al técnico del Manchester City no lo debe gustar lo que está viendo. Su equipo jugará ahora P",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "cit",
+      "text": "M_Kovacic levanta la cabeza, pasa hacia E_Haaland M_Gutierrez se lleva por delante a su rival PENALT No El colegiado da saque de puerta Se buscan gafas para el árbitro Urgente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "cit",
+      "text": "P_Foden controla de espaldas a la portería. Ojo Se ha girado P_Foden impacta el cuero con fuerza A_Meret está justo en el sitio exacto Pero se lanza para hacerlo más espectacular Su entrenador está de los nervios",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "nap",
+      "text": "B_Gilmour pasa hacia A_Buongiorno Envenenado trallazo de A_Buongiorno Unai_Simon se zambulle hacia su izquierda Sale rozando el palo Roberto_Rosetti dice que no ha tocado el balón Acertó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "nap",
+      "text": "M_Gutierrez baja el balón con el pecho. Lo pisa... y asiste a S_McTominay Punterazo impresionante de S_McTominay Unai_Simon hace una parada sencillita Todo lo que hace parece sencillo. Qué classe",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "cit",
+      "text": "I_Gundogan para el balón con el pecho Lo pisa, levanta la cabeza y pasa Madre mía, eso es de manual P_Foden recibe un pase medido Ojo que tiene espacio M_Kim levanta demasiado la pierna Roberto_Rosetti busca nerviosamente en sus bolsillos Medita su decisión (AMARILLA) Tanto cuento para esto...",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "nap",
+      "text": "S_Gnabry supera a R_Dias El defensa está viviendo una pesadilla R_Dias se anticipa perfectamente a la acción",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "nap",
+      "text": "R_KoloMuani observa como sus compañeros arrastran a sus marcadores Se juega la individual Un poco chupón Se cuela por el centro J_Gvardiol corta con mucha tranquilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "cit",
+      "text": "P_Foden encuentra el pasadizo El entrenador le dice de todo a sus centrales P_Foden busca una vaselina imposible GOOOOOL Bang Bang Bang Salió el pistolero Napoles 0-2 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "nap",
+      "text": "Napoles reestructura sus filas y ahora va a jugar N",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "nap",
+      "text": "K_Kvaratskhelia recupera el balón Levanta la cabeza Ve el desmarque de su compañero L_Goretzka recibe un pase increíble Se marcha Logra meter la plaanta del pie L_Goretzka Pero se las arregla para fallar Pone cara de mala leche. Menudo fallo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 3 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "nap",
+      "text": "R_KoloMuani levanta la cabeza, pasa hacia G_DiLorenzo G_DiLorenzo toca el balón con mucha sutileza Unai_Simon despeja... con la cabeza Estaba despistado Su entrenador se está comiendo el banquillo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "cit",
+      "text": "B_Silva con un pase milimétrico El balón pasa por encima de M_Gutierrez Y le llega a E_Haaland G_DiLorenzo se lleva el balón con la mano No hay falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "cit",
+      "text": "B_Silva se saca un pase en diagonal para E_Haaland Hace un mal control M_Kim está muy encima en su marcaje y le arrebata el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "nap",
+      "text": "L_Goretzka lanza el contraataque Hace una pausa esperando apoyos S_McTominay lo dobla recibe el pase S_McTominay suelta un disparo muy débil Espectacular parada de Unai_Simon Seguro que su seleccionador nacional habrá tomado buena nota",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "nap",
+      "text": "G_DiLorenzo controla un balón complicadísimo Regatea al defensa Se va solo Vaya dos detalles de calidad R_Dias choca con el delantero Y el balón sale fuera Córner CÓRNER B_Gilmour le de mucho efecto a su lanzamiento J_Stones conjura el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "nap",
+      "text": "B_Gilmour espera apoyos S_Gnabry sale de la cueva. Para él va el balón Impresionante entrada de Laporte Este tío está dando un clínic de cómo se defiende",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "nap",
+      "text": "S_McTominay hace un tremendo control al borde del área S_McTominay se va hacia la portería ¡Puede marcar! El balón busca el ángulo Peligro Unai_Simon salta con agilidad ¿Llegará a tiempo? Unai_Simon detiene el remate con estilo Su técnico aplaude",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "cit",
+      "text": "M_Kovacic cede atrás para E_Haaland A_Buongiorno despeja sin miramientos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "cit",
+      "text": "E_Haaland va en carrera B_Gilmour envía al delantero al suelo y el balón sale fuera de banda El asistente indica... Saque de banda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "nap",
+      "text": "El ayudante del entrenador llama a R_Lukaku R_KoloMuani va a ser sustituído Aplaude al público Su sustituto se ubica en FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "nap",
+      "text": "S_Gnabry está desmarcado S_Gnabry tiene tiempo y espacio Coloca suavemente el balón GOOOOOL Corre como un poseso hacia el córner Agarra el banderín y lo usa de micro Está cantando Napoles 1-2 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "cit",
+      "text": "B_Silva está escorado en la banda derecha Cambia de juego hacia Laporte L_Goretzka se anticipa a la acción y corta el balón Pero se le escapa Córner CÓRNER B_Silva acaricia el cuero E_Haaland se levanta sobre la defensa El disparo rebota en el defensa y va directo hacía la grada CÓRNER J_Stones saca a la zona de peligro A_Meret se anticipa a la jugada y atrapa el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "nap",
+      "text": "S_McTominay recibe de espalda. Se inventa un taconazo hacia K_Kvaratskhelia K_Kvaratskhelia impacta el cuero al primer toque Rebota en el palo Se anticipa al defensa para el rebote Tiene la portería para él solo ¡NOOOOOOOO! La ha tirado fuera Imposible No me lo creo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "nap",
+      "text": "M_Gutierrez se cuela por el extremo derecho Centro medido para S_McTominay J_Gvardiol controla el balón Ay va Vaya cañonazo ha pegado Si podía salir jugando",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "nap",
+      "text": "B_Gilmour pasa el balón a G_DiLorenzo G_DiLorenzo impacta el cuero al primer toque Podría haberla parado Unai_Simon salta y prolonga el balón por encima de larguero Estaba bien colocado. Ha sido clave CÓRNER S_McTominay le de mucho efecto a su lanzamiento Vuela hacia K_Kvaratskhelia Peina el balón hacia atrás Pero el balón se pierde inofensivamente por encima del larguero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "nap",
+      "text": "R_Lukaku tiene varias opciones de pase, pero busca la individual J_Gvardiol le mete el codo Suena el siblato... falta Tengo mis dudas que eso sea tarjeta SÍ (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "cit",
+      "text": "I_Gundogan hace dos bicicletas y engaña al defensa A_Buongiorno envía al delantero al suelo y el balón sale fuera de banda El asistente indica... Saque de banda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "cit",
+      "text": "P_Foden recupera el cuero K_Kvaratskhelia se juega el físico con una entrada durísima. Era su única opción",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "nap",
+      "text": "S_Lobotka entra y G_DiLorenzo se va la ducha antes de tiempo Todo apunta a que se ubicará en MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "cit",
+      "text": "A_Khusanov está a punto para pisar el césped. Entrará por I_Gundogan Todo apunta a que jugará de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "nap",
+      "text": "S_Lobotka inicia el contraataque Sale rápidamente Y envía un gran pase con la defensa descolocada. K_Kvaratskhelia recibe solo Pero pisa un charco y cae al suelo Laporte se encuentra con el balón 'regalado' y arma el contraataque",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "nap",
+      "text": "S_Lobotka mete el pase R_Dias resbala B_Gilmour se apodera del balón M_Kovacic se hace con el balón y lo cede al portero Unai_Simon ve con sorpresa como el pase va demasiado fuerte Se tira... no va a llegar Ui Salió rozando el palo CÓRNER L_Goretzka impacta el cuero con el interior del pie A_Khusanov se lanza en plancha y despeja el balón. Se ha jugado el físico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "cit",
+      "text": "M_Kovacic cruza hacia B_Silva Pero A_Buongiorno se anticipa a la jugada. Qué sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "nap",
+      "text": "R_Lukaku se va de su marcador Lo lleva por el camino de la amargura Pierde el control del balón Rodri despeja sin miramientos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "nap",
+      "text": "M_Kim busca a R_Lukaku en profundidad A_Khusanov entra con los tacos por delante FALTA DIRECTA Roberto_Rosetti dice que es indirecta M_Gutierrez con la jugada de estrategia S_Gnabry recibe el pase J_Stones despeja el balón con un verdadero cirio. Esa va a caer con nieve",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 86,
+      "teamCode": "nap",
+      "text": "B_Gilmour supera al defensa E_Haaland con una entrada asesina Roberto_Rosetti busca nerviosamente en sus bolsillos Medita su decisión (AMARILLA) Tanto cuento para esto...",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 3 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "nap",
+      "text": "M_Kim pica el balón por encima de la defensa K_Kvaratskhelia ya había iniciado la diagonal Hacia él va el balón J_Gvardiol envía el balón suelto a las nubues. Cuidado con los pájaros",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "cit",
+      "text": "J_Stones evita la entrada de A_Buongiorno A_Buongiorno recupera la compostura y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

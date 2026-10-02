@@ -1,0 +1,1275 @@
+{
+  "id": "liga-regular/j19/cit_man",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j19",
+  "roundLabel": "Jornada 19",
+  "fileName": "cit_man.txt",
+  "homeCode": "cit",
+  "awayCode": "man",
+  "homeTeam": "Manchester City",
+  "awayTeam": "Manchester United",
+  "result": {
+    "home": 3,
+    "away": 1,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Manchester City 3-1 Manchester United",
+  "formation": {
+    "home": "4-3-1-2 A",
+    "away": "5-2-3 E"
+  },
+  "referee": {
+    "name": "Iturralde Gonzalez",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "Unai_Simon",
+        "displayName": "Unai Simon",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "Laporte",
+        "displayName": "Laporte",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Dias",
+        "displayName": "R Dias",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Stones",
+        "displayName": "J Stones",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Gvardiol",
+        "displayName": "J Gvardiol",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Rodri",
+        "displayName": "Rodri",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "T_Reijnders",
+        "displayName": "T Reijnders",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Nunes",
+        "displayName": "M Nunes",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Silva",
+        "displayName": "B Silva",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "E_Haaland",
+        "displayName": "E Haaland",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "P_Foden",
+        "displayName": "P Foden",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Ederson",
+        "displayName": "Ederson",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_Khusanov",
+        "displayName": "A Khusanov",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "I_Gundogan",
+        "displayName": "I Gundogan",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "N_Gonzalez",
+        "displayName": "N Gonzalez",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "O_Marmoush",
+        "displayName": "O Marmoush",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "A_Onana",
+        "displayName": "A Onana",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "de_Ligt",
+        "displayName": "de Ligt",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Martinez",
+        "displayName": "L Martinez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Yoro",
+        "displayName": "L Yoro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "H_Maguire",
+        "displayName": "H Maguire",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Shaw",
+        "displayName": "L Shaw",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Fernandes",
+        "displayName": "B Fernandes",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Casemiro",
+        "displayName": "M Casemiro",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Garnacho",
+        "displayName": "A Garnacho",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "M_Cunha",
+        "displayName": "M Cunha",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "B_Sesko",
+        "displayName": "B Sesko",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Bayindir",
+        "displayName": "A Bayindir",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Dalot",
+        "displayName": "D Dalot",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "P_Dorgu",
+        "displayName": "P Dorgu",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Mount",
+        "displayName": "M Mount",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Zirkzee",
+        "displayName": "J Zirkzee",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Manchester City",
+      "mvp": "P_Foden (Jugador del partido)",
+      "goals": "E_Haaland (10), B_Silva (36), P_Foden (46)",
+      "sentOff": "N/A",
+      "booked": "Rodri (1), P_Foden (29)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Manchester United",
+      "mvp": "A_Garnacho",
+      "goals": "A_Garnacho (34)",
+      "sentOff": "B_Sesko (27), L_Yoro (85)",
+      "booked": "M_Casemiro (49)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 10,
+      "away": 7
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 3,
+      "away": 1
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 7,
+      "away": 6
+    },
+    {
+      "label": "Posesión",
+      "home": 56,
+      "away": 44
+    },
+    {
+      "label": "Córners",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 2
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Faltas",
+      "home": 5,
+      "away": 5
+    },
+    {
+      "label": "Entradas",
+      "home": 11,
+      "away": 9
+    },
+    {
+      "label": "Pases clave",
+      "home": 12,
+      "away": 9
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Manchester City",
+      "players": [
+        {
+          "name": "Unai_Simon",
+          "displayName": "Unai Simon",
+          "position": "GK",
+          "st": 43,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 97,
+          "sav": 6,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Laporte",
+          "displayName": "Laporte",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 11,
+          "sh": 9,
+          "ag": 19,
+          "min": 97,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Dias",
+          "displayName": "R Dias",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 15,
+          "sh": 4,
+          "ag": 26,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Stones",
+          "displayName": "J Stones",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 5,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Gvardiol",
+          "displayName": "J Gvardiol",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rodri",
+          "displayName": "Rodri",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 47,
+          "sh": 9,
+          "ag": 27,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "T_Reijnders",
+          "displayName": "T Reijnders",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 14,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Nunes",
+          "displayName": "M Nunes",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 35,
+          "sh": 14,
+          "ag": 25,
+          "min": 78,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Silva",
+          "displayName": "B Silva",
+          "position": "AM",
+          "st": 2,
+          "tk": 9,
+          "ps": 43,
+          "sh": 21,
+          "ag": 27,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Haaland",
+          "displayName": "E Haaland",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 12,
+          "sh": 49,
+          "ag": 30,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 4,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Foden",
+          "displayName": "P Foden",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 43,
+          "ag": 27,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 3,
+          "gls": 1,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Ederson",
+          "displayName": "Ederson",
+          "position": "GK",
+          "st": 39,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Khusanov",
+          "displayName": "A Khusanov",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 19,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "I_Gundogan",
+          "displayName": "I Gundogan",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 40,
+          "sh": 14,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Gonzalez",
+          "displayName": "N Gonzalez",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 35,
+          "sh": 14,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Marmoush",
+          "displayName": "O Marmoush",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 14,
+          "sh": 43,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Manchester United",
+      "players": [
+        {
+          "name": "A_Onana",
+          "displayName": "A Onana",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 97,
+          "sav": 4,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "de_Ligt",
+          "displayName": "de Ligt",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 97,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Martinez",
+          "displayName": "L Martinez",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 19,
+          "sh": 7,
+          "ag": 26,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Yoro",
+          "displayName": "L Yoro",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 4,
+          "ag": 23,
+          "min": 88,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "H_Maguire",
+          "displayName": "H Maguire",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 4,
+          "ag": 24,
+          "min": 97,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Shaw",
+          "displayName": "L Shaw",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Fernandes",
+          "displayName": "B Fernandes",
+          "position": "MF",
+          "st": 2,
+          "tk": 9,
+          "ps": 43,
+          "sh": 26,
+          "ag": 27,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Casemiro",
+          "displayName": "M Casemiro",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 42,
+          "sh": 12,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "A_Garnacho",
+          "displayName": "A Garnacho",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 28,
+          "sh": 40,
+          "ag": 26,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Cunha",
+          "displayName": "M Cunha",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 19,
+          "sh": 40,
+          "ag": 27,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Sesko",
+          "displayName": "B Sesko",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 21,
+          "sh": 38,
+          "ag": 27,
+          "min": 27,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "A_Bayindir",
+          "displayName": "A Bayindir",
+          "position": "GK",
+          "st": 33,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Dalot",
+          "displayName": "D Dalot",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 52,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Dorgu",
+          "displayName": "P Dorgu",
+          "position": "DF",
+          "st": 2,
+          "tk": 30,
+          "ps": 14,
+          "sh": 5,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Mount",
+          "displayName": "M Mount",
+          "position": "MF",
+          "st": 2,
+          "tk": 7,
+          "ps": 39,
+          "sh": 21,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Zirkzee",
+          "displayName": "J Zirkzee",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 22,
+          "sh": 38,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "man",
+      "text": "M_Cunha deja sentado a su marcador Rodri con una entrada asesina Ha sido un acto frío y deliberado. Indignante (AMARILLA) Se la estaba buscando Y más le valdrá que se calme",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "cit",
+      "text": "B_Silva espera a que alguien le acompañe en ataque Levanta los brazos, nadie se desmarca Busca la individual Prepara el disparo Rebota en un defensa y cae a pies de E_Haaland E_Haaland peina el balón hacia atrás Pega en la madera GOOOOOL Madre mía, qué golazo El Manchester City golpea. Ahora manda en el marcador Manchester City 1-0 Manchester United ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 11,
+      "teamCode": "man",
+      "text": "L_Shaw en una demostración de potencia y velocidad Pierde el control del balón J_Gvardiol mete el pie y lo envía a la grada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 13,
+      "teamCode": "cit",
+      "text": "P_Foden pisa el balón Sortea a L_Yoro con un taconazo Han visto eso Es una pieza de arte Pero M_Casemiro está más atento y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "man",
+      "text": "L_Yoro dispara Pega en la espalda de un compañero y va a parar a B_Fernandes Vaya suerte M_Nunes empuja a ru rival Qué animal",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "cit",
+      "text": "T_Reijnders toca de primeras al área para P_Foden Pero H_Maguire roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "cit",
+      "text": "M_Nunes hace la diagonal Ve un desmarque por el rabillo del ojo Se la pasa a E_Haaland Pero de_Ligt aparece de la nada y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "man",
+      "text": "A_Garnacho envía un pase en profundidad hacia B_Fernandes E_Haaland le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "cit",
+      "text": "T_Reijnders con un control impresionante Hace la croqueta ante H_Maguire Y centra hacia P_Foden. ¡Qué clase! P_Foden trata de sorprender a A_Onana Rebota en el palo Se anticipa al defensa para el rebote Es gol de Abreu, Abreu, Abreeeeeeeeeeu Ha tirado fuera ¿Como? Si no había portero",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 23,
+      "teamCode": "man",
+      "text": "M_Casemiro hace una pared con un compañero Trata de devolverle el cuero pero está cerrado Decide jugárse la individual M_Casemiro golpea el balón ¡Uau! Ha hecho la \"folha seca\" ¡Mira cómo baja! Unai_Simon pone los puños. El balón sale hacia arriba Unai_Simon salta y lo atrapa con seguridad Reaccionó rápidamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "cit",
+      "text": "T_Reijnders tiene campo por delante Sigue avanzando. Nadie le sale al paso Con todo el tiempo del mundo pone el balón para Laporte M_Casemiro envía al delantero al suelo y el balón sale fuera de banda El asistente indica... Saque de banda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "man",
+      "text": "B_Fernandes encara al defensa Oh, lo ha dejado sentado con un regate eléctrico B_Fernandes busca el disparo Unai_Simon pone el cuerpo detrás del balón y lo para normas básicas de cómo parar",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 27,
+      "teamCode": "cit",
+      "text": "B_Silva amaga el quiebro hacia un lado Pero sale por el otro. M_Casemiro está sorprendido Trata de zancallidearlo Pero lo esquiva B_Sesko realiza una entrada terrorífica Iturralde_Gonzalez lo reclama para hablar con él Madre mía (ROJA)",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "man",
+      "text": "B_Fernandes con un pase de 50 metros M_Cunha P_Foden placa a su oponente El otro día vi una acción así en la NHL (AMARILLA) Tendrá que medir un pocos sus acciones desde este momento",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "man",
+      "text": "A_Garnacho envía el balón por el lado derecho de Rodri y lo escoge por el otro Laporte va en carrera y agarra al delantero por la camiseta Falta El árbitro no lo ha visto El defensa sonríe El delantero pone cara de incredulidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "cit",
+      "text": "Rodri cruza hacia E_Haaland E_Haaland con un verdadero obús A_Onana mete la mano y alcanza el balón con la punta de los dedos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "man",
+      "text": "A_Garnacho con el control orientado Ha ganado una posición clara para chutar A_Garnacho salta con potencia por encima de la defensa El disparo coge un efecto endiablado Unai_Simon se lanza desesperadamente hacia el cuero No lo va a lograr GOOOOOL El efecto ha podido con Unai_Simon Manchester United se mete en el partido Manchester City 1-1 Manchester United ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "man",
+      "text": "H_Maguire escupe a B_Silva Eso le puede costar muy caro Iturralde_Gonzalez saca el tarjetero y se lo muestra. Una imagen vale más que mil plabaras",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "cit",
+      "text": "P_Foden pasa el balón a B_Silva B_Silva se va hacia la portería ¡Puede marcar! GOOOOOL A_Onana mira contrariado como sube el tanto al marcador Este gol pone al Manchester City por delante A ver cómo maneja el partido ahora Manchester City 2-1 Manchester United ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "man",
+      "text": "La grada empieza a animar ya que D_Dalot substituye a L_Shaw para jugar de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "cit",
+      "text": "P_Foden en un arranque de verticalidad P_Foden regatea a su marcador y busca el gol GOOOOOL Se agarra la camiseta y la enseña a la grada rival Vaya lluvia de objetos le está cayendo Manchester City 3-1 Manchester United ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "cit",
+      "text": "M_Nunes se interna por la banda Pone un medido centro sobre P_Foden L_Yoro corta y cede al portero A_Onana trata de evitar el córner El pase era defectuoso Se desliza... Córner No llegó CÓRNER B_Silva saca al primer palo E_Haaland dispara A_Onana cierra el ángulo El balón va directo hacia él A_Onana mete los puños Córner Podría haberla blocado CÓRNER Picado por Rodri de_Ligt controla el balón Y lo manda al centro del campo No se ha complicado",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "man",
+      "text": "A_Garnacho Pisa el balón hacia la izquierda Y se le vuelve a cambiar de pierna Vaya regate A_Garnacho golpea el balón a bote pronto Unai_Simon para el lanzamiento Y aleja el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "cit",
+      "text": "M_Nunes amaga el quiebro hacia un lado Pero sale por el otro. L_Martinez está sorprendido Trata de zancallidearlo Pero lo esquiva M_Casemiro envía a su oponente al césped Menudo trompazo (AMARILLA) Por unos momentos lo vi expulsado",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "man",
+      "text": "M_Casemiro tiene campo por delante Sigue avanzando. Nadie le sale al paso Con todo el tiempo del mundo pone el balón para A_Garnacho J_Gvardiol va en carrera y mete el codo El delantero va al suelo Ha sido sutil, el árbitro no lo ha visto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "cit",
+      "text": "J_Gvardiol avanza Cambia el ritmo ante H_Maguire. Wow eso me recordó a Cruyff Lo deja atrás Mete el pase hacia T_Reijnders T_Reijnders salta con potencia por encima de la defensa Pero A_Onana saca una pierna milagrosa y desvía el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "man",
+      "text": "A_Garnacho se deshace por velocidad de la defensa J_Stones corta con mucha tranquilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "man",
+      "text": "H_Maguire pasa el balón a M_Cunha J_Gvardiol despeja el balón hacia la grada Ei Un aficionado se lleva el balón Al ladrón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "cit",
+      "text": "E_Haaland se revuelve en la frontal Se ha quitado a su marcador de encima Acomoda el cuerpo Pero L_Yoro roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "man",
+      "text": "L_Yoro avanza Cambia el ritmo ante R_Dias. Wow eso me recordó a Cruyff Lo deja atrás Mete el pase hacia M_Cunha M_Cunha trata de sorprender al portero con una inesperada vaselina Unai_Simon hace una gran parada Pero no puede retener el balón Lo atrapa en el segundo intento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "cit",
+      "text": "Rodri inicia el ataque Pase picado por E_Haaland H_Maguire despeja sin miramientos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "man",
+      "text": "H_Maguire ubica el balón a la espalda de la defensa. M_Cunha busca el desmarque M_Cunha empalma con la zurda. Colocó mal el cuerpo Terrible disparo Un defensa se interpone en su camino El balón se desvía Fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "cit",
+      "text": "P_Foden evita la entrada de L_Martinez H_Maguire gana el balón fácilmente Iturralde_Gonzalez ha visto algo. La pregunta es qué",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "cit",
+      "text": "E_Haaland aprovecha un fallo defensivo Eso ha sido afortunado E_Haaland trata de sorprender a A_Onana desde fuera del área El balón hace un mal bote sobre el césped y su disparo se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "cit",
+      "text": "E_Haaland encara portería, levanta la cabeza Ve a M_Casemiro en su camino y lo regatea Se lo ha quitado de encima M_Casemiro recupera la compostura y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "man",
+      "text": "D_Dalot ve perfectamente el desmarque de A_Garnacho J_Stones patina por el césped... y corta el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "man",
+      "text": "H_Maguire pone el balón a la espalda de los centrales A_Garnacho se cuela desde atrás A_Garnacho dispara sin levantar la cabeza Pero Unai_Simon rechaza con los pies Podría haberla cogido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "man",
+      "text": "D_Dalot se cuela por el extremo derecho Centro medido para A_Garnacho J_Stones se lanza al corte Despeja el cuero Trata de evitar el córner Ha salido CÓRNER H_Maguire con un peligroso lanzamiento al segundo palo Unai_Simon se eleva Y caza el centro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "man",
+      "text": "D_Dalot pisa el balón ante R_Dias Se lo enseña, se lo esconde, otra vez... lo va a marear J_Stones corta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "cit",
+      "text": "A_Khusanov entra por M_Nunes y jugará de DF para regocizo de sus aficionados",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "cit",
+      "text": "El mánager del Manchester City hace señas a su portero para que pasen a jugar N",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "cit",
+      "text": "T_Reijnders recupera el balón Levanta la cabeza Ve el desmarque de su compañero P_Foden recibe un pase increíble Se marcha P_Foden toca el balón con mucha sutileza El disparo se le escurre a A_Onana de las manos rueda lentamente hacia el marco Pero sale a centímetros del palo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "cit",
+      "text": "Rodri cuelga de primeras para B_Silva Corte finísimo de L_Martinez Y evita el córner Está en un momento dulce",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "man",
+      "text": "B_Fernandes hace la croqueta ante J_Gvardiol El defensa mete la pierna, pero el rebote va a parar al delantero Pero J_Stones aparece a su lado y aborta el ataque",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "cit",
+      "text": "E_Haaland va directo hacia los centrales L_Yoro mide mal su fuerza y caza a su rival Creo que buscaba el balón, pero ha sido escalofriante Ay, ay, ay que se puede ir a la calle... El árbitro echa mano del tarjetero Le mira el número... (ROJA) No ha estado afortunado ahí. Con una amarilla hubiera bastado",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 4 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 90,
+      "teamCode": "man",
+      "text": "A_Garnacho con un preciso cambio de ritmo Laporte va en carrera y mete el codo El delantero va al suelo Ha sido sutil, el árbitro no lo ha visto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "cit",
+      "text": "T_Reijnders aprovecha una mala cesión de D_Dalot T_Reijnders busca el gol A_Onana se saca una espectacular parada Su capitán lo felicita por esa intervención",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

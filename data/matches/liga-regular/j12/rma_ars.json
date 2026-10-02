@@ -1,0 +1,1247 @@
+{
+  "id": "liga-regular/j12/rma_ars",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j12",
+  "roundLabel": "Jornada 12",
+  "fileName": "rma_ars.txt",
+  "homeCode": "rma",
+  "awayCode": "ars",
+  "homeTeam": "Real Madrid",
+  "awayTeam": "Arsenal",
+  "result": {
+    "home": 2,
+    "away": 2,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Real Madrid 1-1 Arsenal",
+  "formation": {
+    "home": "4-2-1-3 A",
+    "away": "4-4-2 E"
+  },
+  "referee": {
+    "name": "Tom Henning Ovrebo",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "T_Courtois",
+        "displayName": "T Courtois",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "D_Huijsen",
+        "displayName": "D Huijsen",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "E_Militao",
+        "displayName": "E Militao",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Rudiger",
+        "displayName": "A Rudiger",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Carvajal",
+        "displayName": "D Carvajal",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "F_Valverde",
+        "displayName": "F Valverde",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Bellingham",
+        "displayName": "J Bellingham",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Guler",
+        "displayName": "A Guler",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "V_Junior",
+        "displayName": "V Junior",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Rodrygo",
+        "displayName": "Rodrygo",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "K_Mbappe",
+        "displayName": "K Mbappe",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Lunin",
+        "displayName": "A Lunin",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "AlexArnold",
+        "displayName": "AlexArnold",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Ceballos",
+        "displayName": "D Ceballos",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Diaz",
+        "displayName": "B Diaz",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Endrick",
+        "displayName": "Endrick",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "D_Raya",
+        "displayName": "D Raya",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "W_Saliba",
+        "displayName": "W Saliba",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "G_Magalhaes",
+        "displayName": "G Magalhaes",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "C_Mosquera",
+        "displayName": "C Mosquera",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_LewisSkelly",
+        "displayName": "M LewisSkelly",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Odegaard",
+        "displayName": "M Odegaard",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Rice",
+        "displayName": "D Rice",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Zubimendi",
+        "displayName": "M Zubimendi",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Merino",
+        "displayName": "M Merino",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Saka",
+        "displayName": "Saka",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Isak",
+        "displayName": "A Isak",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "K_Arrizabalaga",
+        "displayName": "K Arrizabalaga",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_White",
+        "displayName": "B White",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "O_Zinchenko",
+        "displayName": "O Zinchenko",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Vieira",
+        "displayName": "F Vieira",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "V_Gyokeres",
+        "displayName": "V Gyokeres",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Real Madrid",
+      "mvp": "V_Junior",
+      "goals": "K_Mbappe (28), Rodrygo (64)",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "N/A"
+    },
+    {
+      "team": "Arsenal",
+      "mvp": "M_Zubimendi (Jugador del partido)",
+      "goals": "W_Saliba (34), M_Odegaard (59)",
+      "sentOff": "N/A",
+      "booked": "M_LewisSkelly (7), M_Zubimendi (64)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 10,
+      "away": 15
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 1,
+      "away": 5
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 9,
+      "away": 10
+    },
+    {
+      "label": "Posesión",
+      "home": 38,
+      "away": 62
+    },
+    {
+      "label": "Córners",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 0,
+      "away": 2
+    },
+    {
+      "label": "Sustituciones",
+      "home": 0,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 6,
+      "away": 11
+    },
+    {
+      "label": "Entradas",
+      "home": 8,
+      "away": 6
+    },
+    {
+      "label": "Pases clave",
+      "home": 5,
+      "away": 16
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Real Madrid",
+      "players": [
+        {
+          "name": "T_Courtois",
+          "displayName": "T Courtois",
+          "position": "GK",
+          "st": 45,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 94,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Huijsen",
+          "displayName": "D Huijsen",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Militao",
+          "displayName": "E Militao",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 12,
+          "sh": 4,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Rudiger",
+          "displayName": "A Rudiger",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 9,
+          "sh": 4,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 4,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Carvajal",
+          "displayName": "D Carvajal",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 7,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Valverde",
+          "displayName": "F Valverde",
+          "position": "MF",
+          "st": 2,
+          "tk": 27,
+          "ps": 43,
+          "sh": 16,
+          "ag": 27,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Bellingham",
+          "displayName": "J Bellingham",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 24,
+          "ag": 28,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Guler",
+          "displayName": "A Guler",
+          "position": "AM",
+          "st": 2,
+          "tk": 14,
+          "ps": 37,
+          "sh": 19,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Junior",
+          "displayName": "V Junior",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 23,
+          "sh": 45,
+          "ag": 30,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rodrygo",
+          "displayName": "Rodrygo",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 40,
+          "ag": 28,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Mbappe",
+          "displayName": "K Mbappe",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 49,
+          "ag": 30,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Lunin",
+          "displayName": "A Lunin",
+          "position": "GK",
+          "st": 37,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "AlexArnold",
+          "displayName": "AlexArnold",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 21,
+          "sh": 12,
+          "ag": 27,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Ceballos",
+          "displayName": "D Ceballos",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 37,
+          "sh": 12,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Diaz",
+          "displayName": "B Diaz",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 21,
+          "sh": 35,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Endrick",
+          "displayName": "Endrick",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 16,
+          "sh": 37,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Arsenal",
+      "players": [
+        {
+          "name": "D_Raya",
+          "displayName": "D Raya",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 94,
+          "sav": 7,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Saliba",
+          "displayName": "W Saliba",
+          "position": "DF",
+          "st": 2,
+          "tk": 44,
+          "ps": 16,
+          "sh": 7,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Magalhaes",
+          "displayName": "G Magalhaes",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 7,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Mosquera",
+          "displayName": "C Mosquera",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 6,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_LewisSkelly",
+          "displayName": "M LewisSkelly",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 6,
+          "ag": 21,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "M_Odegaard",
+          "displayName": "M Odegaard",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 29,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Rice",
+          "displayName": "D Rice",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 19,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Zubimendi",
+          "displayName": "M Zubimendi",
+          "position": "MF",
+          "st": 2,
+          "tk": 20,
+          "ps": 41,
+          "sh": 18,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 5,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "M_Merino",
+          "displayName": "M Merino",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 26,
+          "ag": 22,
+          "min": 58,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Saka",
+          "displayName": "Saka",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 24,
+          "sh": 43,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 6,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Isak",
+          "displayName": "A Isak",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 19,
+          "sh": 43,
+          "ag": 19,
+          "min": 68,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Arrizabalaga",
+          "displayName": "K Arrizabalaga",
+          "position": "GK",
+          "st": 37,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_White",
+          "displayName": "B White",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 19,
+          "sh": 9,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Zinchenko",
+          "displayName": "O Zinchenko",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 24,
+          "sh": 9,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Vieira",
+          "displayName": "F Vieira",
+          "position": "MF",
+          "st": 2,
+          "tk": 20,
+          "ps": 39,
+          "sh": 18,
+          "ag": 22,
+          "min": 36,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Gyokeres",
+          "displayName": "V Gyokeres",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 22,
+          "sh": 41,
+          "ag": 24,
+          "min": 26,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "rma",
+      "text": "D_Raya con un mal rechace Rodrygo encara portería W_Saliba corta con mucha tranquilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "rma",
+      "text": "K_Mbappe en un arranque de verticalidad M_Zubimendi entra con una dureza desmedida El atacante de retuerce de dolor Tuvo suerte de no ver la cartulina \"Primer aviso... y último\" le espeta el colegiado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "ars",
+      "text": "A_Isak con un pase muy fuerte para Saka Punterazo endiablado de Saka T_Courtois pone el cuerpo. El balón queda muerto a escasos metros de la línea Pero lo atrapa",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "rma",
+      "text": "Rodrygo llega primero al balón que ha quedado muerto Ve a su compañero entrando desde atrás K_Mbappe controla en carrera M_LewisSkelly entra con los tacos por delante Iba al balón, pero ni lo ha olido Ojo que pede irse a la calle por eso Tom_Henning_Ovrebo le hace señas para que se acerque El colegiado lo mira fijamente ay (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 13,
+      "teamCode": "ars",
+      "text": "M_Zubimendi encuentra a Saka Saka rompe el intento de fuera de juego rival Se va solo T_Courtois sale desesperadamente Se adelanta el balón ante T_Courtois T_Courtois se lanza a sus pies jugándose el físico y atrapa el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "ars",
+      "text": "M_Merino se cuela por el extremo derecho Centro medido para Saka Saka acomoda su cuerpo y suelta... ¡Uau! ¡Qué cañonazo! T_Courtois vuela sobre la línea de gol Alcanza el balón y lo estrecha contra su pecho",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "rma",
+      "text": "A_Guler Pisa el balón hacia la izquierda Y se le vuelve a cambiar de pierna Vaya regate A_Guler busca la escuadra derecha D_Raya vuela hacia su escuadra derecha Logra meter la mano Impresionante Ha evitado el gol CÓRNER J_Bellingham acaricia el cuero D_Carvajal se deshace de su marcador y mete la cabeza D_Raya hace una gran parada Y se las arregla para controlar el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "ars",
+      "text": "D_Rice pisa campo contrario. Mete un pase entre los centrales para G_Magalhaes G_Magalhaes tiene una oportunidad de oro T_Courtois está justo en el sitio exacto Pero se lanza para hacerlo más espectacular Su entrenador está de los nervios",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "ars",
+      "text": "D_Rice controla un balón aéreo De primeras hacia Saka V_Junior entra con todo... y se lleva el balón limpiamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "rma",
+      "text": "F_Valverde está escorado en la banda izquierda Cambia el juego a la derecha hacia K_Mbappe M_Odegaard con una entrada asesina \"FUERA, FUERA, FUERA\" ruge el estadio Tom_Henning_Ovrebo le pega una sonora reprimenda FALTA DIRECTA Muy lejana, no creo que llegue F_Valverde engaña al equipo rival mete el pase para J_Bellingham J_Bellingham mira fijamente al portero Dispara entre las piernas de su marcador Demasiado alta, la ha tirado a Agraria",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "ars",
+      "text": "M_Zubimendi con un pase impresionante hacia A_Isak A_Isak golpea el balón a bote pronto Fuera Menos fuerza y más puntería chico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 23,
+      "teamCode": "rma",
+      "text": "J_Bellingham centra desde la banda, encuentra a V_Junior en el área D_Rice intuye el peligro y corta la acción",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "rma",
+      "text": "K_Mbappe despista a D_Rice con una rapidísima bicicleta. ¿Es futbolista o Lance Armstrong? K_Mbappe impacta el cuero con fuerza Se va fuera No, ha tomado efecto GOOOOOL El Real Madrid gana momentáneamente Real Madrid 1-0 Arsenal ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "ars",
+      "text": "Saka frena el contraataque y espera algún apoyo Hay un desmarque al otro lado Cambia el juego y corre hacia arriba Le devuelve el balón, vaya combinación A_Rudiger llega como un tren y corta el ataque lanzándose al suelo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "ars",
+      "text": "M_LewisSkelly cuelga de primeras para Saka Saka duerme el balón con el pecho y lo empalma de primeras Pero el balón se va lejos del marco, ha ido a Agraria",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "ars",
+      "text": "D_Rice con un inteligente cambio de dirección D_Rice trata de sorprender al portero con una inesperada vaselina Roza el palo Y fuera Buen disparo, mala suerte",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "rma",
+      "text": "V_Junior pasa largo con el interior hacia Rodrygo Rodrygo coloca el balón al palo largo D_Raya ve venir el balón. Parece fácil Se tira y lo atrapa espectacularmente Como se ha regalado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "ars",
+      "text": "W_Saliba encuentra el pasadizo Por ahí no pasaba ni un alfiler W_Saliba impacta el balón con dureza GOOOOOL Qué manera de acabar la jugada Empate Menudo final de partido nos espera Real Madrid 1-1 Arsenal ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "ars",
+      "text": "M_Merino se ve obligado a retener el cuero No hay opciones de pase. Se desespera Encara puerta en solitario Pierde el control del balón E_Militao mete el pie y lo envía a la grada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "rma",
+      "text": "V_Junior encuentra el pasadizo Por ahí no pasaba ni un alfiler V_Junior tiene tiempo y espacio ¡Dispara por bajo! D_Raya lo para cómodamente El disparo nunca llevó peligro real",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "ars",
+      "text": "M_Merino hace una bicicleta y descoloca a E_Militao M_Merino dispara sin levantar la cabeza T_Courtois lo atrapa cómodamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "ars",
+      "text": "M_Merino avanza Cambia el ritmo ante Rodrygo. Wow eso me recordó a Cruyff Lo deja atrás Mete el pase hacia A_Isak A_Isak busca la escuadra Pero T_Courtois alcanza el cuero con el puño Es el amo de su área. Buen portero",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "ars",
+      "text": "D_Rice asiste a A_Isak dentro del área A_Rudiger pone el pie y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "rma",
+      "text": "Rodrygo puede disparar M_LewisSkelly corta la jugada con un cabezazo en plancha",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "rma",
+      "text": "V_Junior hace una bicicleta y descoloca a C_Mosquera V_Junior controla el balón, amaga y... dispara ¡Oh! D_Raya adivina la trayectoria del cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "ars",
+      "text": "Los aficionados rugen cuando F_Vieira substituye a M_Merino para jugar de MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "ars",
+      "text": "M_Zubimendi mira a Saka... y le manda un pase milimétrico E_Militao sale al corte... lo logra",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "ars",
+      "text": "M_Zubimendi con el lanzamiento de la falta Ojo que la defensa está mal colocada Vuela directa hacia M_Odegaard M_Odegaard suelta un terrible disparo por debajo de las piernas de su marcador GOOOOOL Limpió las telarañas de la escuadra El Arsenal golpea. Ahora manda en el marcador Real Madrid 1-2 Arsenal ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "ars",
+      "text": "M_LewisSkelly cambia de dirección Ve a un compañero desdoblándolo Le cede el cuero a Saka, que va lanzado en carrera Saka tiene tiempo y espacio Coloca suavemente el balón T_Courtois se zambulle espectacularmente hacia su izquierda Qué paradón Se le ha aparecido la vírgen",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "rma",
+      "text": "Rodrygo con el giro Se abre hueco Rodrygo se va hacia la portería ¡Puede marcar! D_Raya está batido GOOOOOL No ha podido hacer nada Real Madrid nivela el luminoso Real Madrid 2-2 Arsenal ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "rma",
+      "text": "Rodrygo tiene tiempo y espacio en la frontal del área oooooh Que entrada más dura de M_Zubimendi \"FUERA, FUERA, FUERA\" ruge el estadio (AMARILLA) Por unos momentos lo vi expulsado",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "ars",
+      "text": "V_Gyokeres entra por A_Isak, jugará de FW y sus aficionados reciben el cambio con alegría",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "rma",
+      "text": "K_Mbappe supera a C_Mosquera M_LewisSkelly pone el pie y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "ars",
+      "text": "Saka hace una bicicleta y mete el pase sobre la llegada de V_Gyokeres Hace un mal control A_Rudiger está muy encima en su marcaje y le arrebata el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "ars",
+      "text": "M_Odegaard pasa de rabona hacia G_Magalhaes. Madre mía ¿Ha nacido en Brasil? A_Guler le pone la zancadilla ¡Qué entrada más ruin!",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "rma",
+      "text": "V_Junior se anticipa a su marcador V_Junior trata de sorprender al portero con una inesperada vaselina Pero D_Raya saca una pierna milagrosa y desvía el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "ars",
+      "text": "M_Odegaard baja el balón con el pecho E_Militao pone el pie en el momento oportuno y despeja el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "rma",
+      "text": "A_Guler encuentra el pasadizo La defensa buscó el fuera de juego M_Zubimendi se anticipa a la jugada y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "ars",
+      "text": "F_Vieira se interna por la banda Pone un medido centro sobre V_Gyokeres V_Gyokeres trata de sorprender al portero con una inesperada vaselina Pero T_Courtois alcanza el cuero con el puño Ha caído en mala posición Su entrenador se levanta del banquillo Puede seguir",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "rma",
+      "text": "J_Bellingham controla el balón con facilidad W_Saliba se anticipa a la jugada y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "ars",
+      "text": "M_Zubimendi dispara en carrera Hay un rebote le cae a V_Gyokeres V_Gyokeres se saca una tijera ¡Qué bello! Bota mal sobre un césped demasiado mojado T_Courtois trata de reaccionar Se va a centímetros del palo CÓRNER M_Odegaard con un peligroso lanzamiento al segundo palo Saka entra desde atrás Pero el cuero sale lejos de la portería",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "ars",
+      "text": "F_Vieira le pega al balón con el exterior El efecto despista a la defensa, que no puede evitar que le llegue a M_Odegaard Falla en el control y A_Rudiger no desaprovecha el regalo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se va a añadir 1 minuto al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "rma",
+      "text": "K_Mbappe recibe de espalda. Se inventa un taconazo hacia V_Junior V_Junior impacta el cuero en un alarde de calidad Pero D_Raya responde con una parada muy sencilla",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

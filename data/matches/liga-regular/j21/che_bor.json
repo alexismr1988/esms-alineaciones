@@ -1,0 +1,1184 @@
+{
+  "id": "liga-regular/j21/che_bor",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j21",
+  "roundLabel": "Jornada 21",
+  "fileName": "che_bor.txt",
+  "homeCode": "che",
+  "awayCode": "bor",
+  "homeTeam": "Chelsea",
+  "awayTeam": "Borussia Dortmund",
+  "result": {
+    "home": 0,
+    "away": 0,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Chelsea 0-0 Borussia Dortmund",
+  "formation": {
+    "home": "4-1-3-2 N",
+    "away": "3-6-1 L"
+  },
+  "referee": {
+    "name": "Wolfgang Stark",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "R_Sanchez",
+        "displayName": "R Sanchez",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "Colwill",
+        "displayName": "Colwill",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Cucurella",
+        "displayName": "M Cucurella",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Badiashile",
+        "displayName": "B Badiashile",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Adarabioyo",
+        "displayName": "Adarabioyo",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Caicedo",
+        "displayName": "M Caicedo",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "D_Olmo",
+        "displayName": "D Olmo",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "E_Fernandez",
+        "displayName": "E Fernandez",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Nico_Williams",
+        "displayName": "Nico Williams",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "C_Palmer",
+        "displayName": "C Palmer",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "P_Neto",
+        "displayName": "P Neto",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "G_Slonina",
+        "displayName": "G Slonina",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "T_Chalobah",
+        "displayName": "T Chalobah",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "C_Nkunku",
+        "displayName": "C Nkunku",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Raphinha",
+        "displayName": "Raphinha",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Joao_Pedro",
+        "displayName": "Joao Pedro",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "G_Kobel",
+        "displayName": "G Kobel",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "N_Schlotterbeck",
+        "displayName": "N Schlotterbeck",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Anton",
+        "displayName": "W Anton",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Sule",
+        "displayName": "N Sule",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Brandt",
+        "displayName": "J Brandt",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "P_Gross",
+        "displayName": "P Gross",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "E_Can",
+        "displayName": "E Can",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Sabitzer",
+        "displayName": "M Sabitzer",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "G_Reyna",
+        "displayName": "G Reyna",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "S_Ozcan",
+        "displayName": "S Ozcan",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "S_Guirassy",
+        "displayName": "S Guirassy",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Meyer",
+        "displayName": "A Meyer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "R_Bensebaini",
+        "displayName": "R Bensebaini",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Y_Couto",
+        "displayName": "Y Couto",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Nmecha",
+        "displayName": "F Nmecha",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_Adeyemi",
+        "displayName": "K Adeyemi",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Chelsea",
+      "mvp": "R_Sanchez",
+      "goals": "N/A",
+      "sentOff": "N/A",
+      "booked": "P_Neto (13), Colwill (76), D_Olmo (81)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Borussia Dortmund",
+      "mvp": "N_Schlotterbeck (Jugador del partido)",
+      "goals": "N/A",
+      "sentOff": "N/A",
+      "booked": "J_Brandt (1), M_Sabitzer (6), N_Sule (11), N_Schlotterbeck (22), S_Guirassy (34), P_Gross (54)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 1,
+      "away": 10
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 0,
+      "away": 5
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 1,
+      "away": 5
+    },
+    {
+      "label": "Posesión",
+      "home": 39,
+      "away": 61
+    },
+    {
+      "label": "Córners",
+      "home": 1,
+      "away": 6
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 3,
+      "away": 6
+    },
+    {
+      "label": "Sustituciones",
+      "home": 0,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 9,
+      "away": 12
+    },
+    {
+      "label": "Entradas",
+      "home": 4,
+      "away": 8
+    },
+    {
+      "label": "Pases clave",
+      "home": 5,
+      "away": 8
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Chelsea",
+      "players": [
+        {
+          "name": "R_Sanchez",
+          "displayName": "R Sanchez",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 19,
+          "min": 95,
+          "sav": 6,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Colwill",
+          "displayName": "Colwill",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 17,
+          "sh": 7,
+          "ag": 18,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "M_Cucurella",
+          "displayName": "M Cucurella",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 18,
+          "sh": 21,
+          "ag": 20,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Badiashile",
+          "displayName": "B Badiashile",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 7,
+          "ag": 21,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Adarabioyo",
+          "displayName": "Adarabioyo",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 8,
+          "sh": 7,
+          "ag": 21,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Caicedo",
+          "displayName": "M Caicedo",
+          "position": "DM",
+          "st": 2,
+          "tk": 31,
+          "ps": 43,
+          "sh": 16,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Olmo",
+          "displayName": "D Olmo",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 19,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "E_Fernandez",
+          "displayName": "E Fernandez",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 41,
+          "sh": 9,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Nico_Williams",
+          "displayName": "Nico Williams",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 18,
+          "sh": 42,
+          "ag": 20,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Palmer",
+          "displayName": "C Palmer",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 44,
+          "sh": 33,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Neto",
+          "displayName": "P Neto",
+          "position": "FW",
+          "st": 2,
+          "tk": 19,
+          "ps": 22,
+          "sh": 39,
+          "ag": 21,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "G_Slonina",
+          "displayName": "G Slonina",
+          "position": "GK",
+          "st": 25,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 17,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Chalobah",
+          "displayName": "T Chalobah",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 7,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Nkunku",
+          "displayName": "C Nkunku",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 13,
+          "sh": 41,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Raphinha",
+          "displayName": "Raphinha",
+          "position": "MF",
+          "st": 2,
+          "tk": 12,
+          "ps": 21,
+          "sh": 40,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Joao_Pedro",
+          "displayName": "Joao Pedro",
+          "position": "FW",
+          "st": 2,
+          "tk": 5,
+          "ps": 11,
+          "sh": 38,
+          "ag": 16,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Borussia Dortmund",
+      "players": [
+        {
+          "name": "G_Kobel",
+          "displayName": "G Kobel",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 95,
+          "sav": 1,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Schlotterbeck",
+          "displayName": "N Schlotterbeck",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 17,
+          "sh": 7,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "W_Anton",
+          "displayName": "W Anton",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 7,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Sule",
+          "displayName": "N Sule",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 4,
+          "ag": 22,
+          "min": 68,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "J_Brandt",
+          "displayName": "J Brandt",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 26,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "P_Gross",
+          "displayName": "P Gross",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 19,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "E_Can",
+          "displayName": "E Can",
+          "position": "MF",
+          "st": 2,
+          "tk": 28,
+          "ps": 38,
+          "sh": 16,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Sabitzer",
+          "displayName": "M Sabitzer",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 38,
+          "sh": 21,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "G_Reyna",
+          "displayName": "G Reyna",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 24,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Ozcan",
+          "displayName": "S Ozcan",
+          "position": "MF",
+          "st": 2,
+          "tk": 28,
+          "ps": 36,
+          "sh": 14,
+          "ag": 22,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Guirassy",
+          "displayName": "S Guirassy",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 25,
+          "sh": 43,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "A_Meyer",
+          "displayName": "A Meyer",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Bensebaini",
+          "displayName": "R Bensebaini",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 12,
+          "ag": 22,
+          "min": 27,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Couto",
+          "displayName": "Y Couto",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 31,
+          "sh": 14,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Nmecha",
+          "displayName": "F Nmecha",
+          "position": "MF",
+          "st": 2,
+          "tk": 26,
+          "ps": 36,
+          "sh": 16,
+          "ag": 22,
+          "min": 50,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Adeyemi",
+          "displayName": "K Adeyemi",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 40,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "che",
+      "text": "Colwill orienta su control Pisa área y tiene hueco J_Brandt corta el juego con una falta táctica Ha cortado el atauqe rival, pero, ¿a qué precio? (AMARILLA) Deberá calmarse un poco a partir de ahora",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "che",
+      "text": "E_Fernandez se interna Le hace dos bicicletas a N_Sule Lo ha roto. Centra a M_Caicedo W_Anton sega el césped con una entrada terrorífica El delantero evita a su rival, pero pierde el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "bor",
+      "text": "M_Sabitzer envía el balón por el lado derecho de B_Badiashile y lo escoge por el otro M_Sabitzer mete el interior del pie con mucha intención Pero R_Sanchez se saca de la manga la parada del partido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "che",
+      "text": "D_Olmo se aprovecha de un error de G_Reyna Corre hacia el marco M_Sabitzer con una entrada desmesurada Creo que buscaba el balón, pero debería calmarse un poquito (AMARILLA), una más... y fuera FALTA DIRECTA Es una oportunidad buenísima M_Caicedo engaña al equipo rival mete el pase para Nico_Williams N_Schlotterbeck se lleva el balón con la mano No hay falta",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "bor",
+      "text": "N_Schlotterbeck recibe el balón en el extremo Se deshace del lateral Pisa área, ay N_Schlotterbeck se anticipa a su marcador Pero R_Sanchez bloca el remate con mucha seguridad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 11,
+      "teamCode": "bor",
+      "text": "N_Sule entra duramente a M_Caicedo sin balón por medio Ha perdido los nervios Intolerable Wolfgang_Stark detiene el juego Toma Eso ha sido muy feo Wolfgang_Stark le indica que se gire ¿Será tarjeta, pero tendrá valor para expulsarlo? ¡NO! (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "che",
+      "text": "M_Cucurella se va de N_Sule Lo ha dejado sentado M_Cucurella resuelve la jugada con un taconazo G_Kobel mete la mano y alcanza el balón con la punta de los dedos córner, marca Wolfgang_Stark Pero el asistente lo corrige ¿Eso es asistir?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 13,
+      "teamCode": "bor",
+      "text": "M_Sabitzer tira la pared con su delantero W_Anton con un preciso pase de primeras Menuda jugada P_Neto placa a su oponente El colegiado le muestra la cartulina (AMARILLA) Chico, frena que te vas a la calle",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "che",
+      "text": "El balón queda suelto P_Neto llega antes que nadie y se dispone a chutar de primeras N_Schlotterbeck con una entrada alocada Se lleva una (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "bor",
+      "text": "J_Brandt avanza Cambia el ritmo ante C_Palmer. Wow eso me recordó a Cruyff Lo deja atrás Mete el pase hacia E_Can Corte finísimo de Adarabioyo Y evita el córner Está en un momento dulce",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 27,
+      "teamCode": "che",
+      "text": "M_Cucurella recibe el balón en el extremo Se va de su marcador por el interior Está en una posición inmejorable Pero W_Anton está más atento y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "che",
+      "text": "E_Fernandez con un control impresionante Hace la croqueta ante S_Ozcan Y centra hacia Colwill. ¡Qué clase! S_Guirassy se lanza al corte ¡Ufff! Esto tiene toda la pinta de una amarilla (AMARILLA) Creo que el árbitro se ha pasado de riguroso",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "bor",
+      "text": "A ver qué inventa N_Schlotterbeck ahora. Pase de interior hacia S_Guirassy P_Neto sega el césped con una entrada terrorífica",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "bor",
+      "text": "F_Nmecha sustituye a S_Ozcan en la posición de MF",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "bor",
+      "text": "M_Sabitzer se aprovecha de un error de D_Olmo P_Neto se anticipa a la acción y corta el balón Pero se le escapa Córner CÓRNER El lanzamiento va a cargo de S_Ozcan Colwill cubre el segundo palo Y evita el remate del delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "bor",
+      "text": "G_Reyna para el balón con el pecho Está copmpletamente solo Mala señal Tiene tiempo de mirar y meter un pase largo F_Nmecha busca el cuero M_Caicedo va al choque Y se lleva el cuero. El delantero no sabe si ha sido un contrario o un tren de mercancías",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "che",
+      "text": "D_Olmo se cuela por la banda Quiebra a N_Schlotterbeck en velocidad Mete un pase raso hacia Nico_Williams P_Gross se hace con el balón y lo cede al portero G_Kobel resbala Ay Fuera Ha salido a córner CÓRNER E_Fernandez impacta el cuero con el interior del pie J_Brandt se lanza en plancha y despeja el balón. Se ha jugado el físico",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "che",
+      "text": "Nico_Williams encuentra el pasadizo Por ahí no pasaba ni un alfiler M_Sabitzer aparece de la nada. El delantero aún está buscando el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "bor",
+      "text": "E_Can está presionado, retrocede Está en peligro, se saca el balón de encima OH Le ha salida una maravillosa asistencia hacia G_Reyna G_Reyna cruza la línea de medios, avanza, mira al portero y chuta Los aficionados se levantan de sus asientos Pero el balón se va por encima del larguero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "che",
+      "text": "E_Fernandez tiene el cuero Le hace un túnel a M_Sabitzer Ohhh Esto es caviar del bueno Y pasa a P_Neto W_Anton entra zon dureza y corta el balón. Está metido en el partido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "che",
+      "text": "Colwill hace una pared con un compañero Se va directo a puerta P_Gross despeja sin miramientos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "che",
+      "text": "P_Neto ha roto por completo el fuera de juego Encara a G_Kobel P_Gross lo derriba en el área Toma Eso ha sido muy feo Wolfgang_Stark le indica que se gire ¿Será tarjeta, pero tendrá valor para expulsarlo? ¡NO! (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "bor",
+      "text": "J_Brandt recibe de espalda. Se inventa un taconazo hacia E_Can B_Badiashile entra con los dos pies por delante Wolfgang_Stark detiene el juego Wolfgang_Stark hace gestos con las manos de que se calme",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "bor",
+      "text": "E_Can coge el cuero en el flanco Se deshace de M_Caicedo con una bicicleta Y pasa atrás hacia W_Anton. ¡Qué jugada! W_Anton mete la cabeza segundos antes que su marcador El disparo coge un efecto envenenado ¡Fuera! Si llega a ir a puerta...",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "bor",
+      "text": "R_Bensebaini sustituye a un descontento N_Sule para jugar de DF",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "bor",
+      "text": "G_Reyna se hace con el balón suelto D_Olmo va al corte con dureza solo puede ser falta Le pide que se enfríe un poco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "bor",
+      "text": "G_Reyna gambetea ante Adarabioyo, lo está desquiciando G_Reyna trata de sorprender al portero con una inesperada vaselina R_Sanchez detiene el balón con una mano El rebote cae al centro, limpio para el delantero Remata FUERA Qué fallo Está desesperado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "bor",
+      "text": "E_Can se encuentra solo y con tiempo para pensar E_Can con un toque de maestro El disparo rebota en el defensa y va directo hacía la grada CÓRNER E_Can centra con fuerza al área pequeña M_Cucurella salta en el primer palo Y mete la cabeza. Ha cortado la jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "bor",
+      "text": "E_Can ha roto por completo el fuera de juego Encara a R_Sanchez Colwill lo derriba en el área Está en problemas (AMARILLA) Desde luego, se lo merecía Y tiene suerte de que no ha sido de otro color FALTA DIRECTA Está a una buena distancia J_Brandt amaga el disparo Pasa hacia S_Guirassy sin embargo S_Guirassy tiene el disparo a punto R_Sanchez mira horrorizado el terrible disparo Va a la escuadra Pega en el palo Rebota en la espalda del portero Y sale fuera R_Sanchez besa su palo. No es para menos CÓRNER F_Nmecha le de mucho efecto a su lanzamiento Adarabioyo cabecea hacia su portero",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "bor",
+      "text": "P_Gross cambia el ritmo Se va por velocidad de Adarabioyo D_Olmo se deja caer No hay espacio en TSM para este tipo de acciones Wolfgang_Stark lo llama a parte Wolfgang_Stark le dice que ya le ha advertido suficientes veces (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 86,
+      "teamCode": "bor",
+      "text": "P_Gross está cerrado por tres contrarios Abre a la banda para romper la presión E_Can recibe con campo por delante Nico_Williams salta de cabeza con su rival Falta, le ha impedido saltar Wolfgang_Stark le pega una sonora reprimenda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "che",
+      "text": "Nico_Williams mete el balón a la espalda de la defensa Su compañero ya había empezado la carrera P_Neto controla el balón N_Schlotterbeck llega como un tren y arrolla a delantero y balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "bor",
+      "text": "J_Brandt hace un regate digno de Garrincha J_Brandt busca un disparo con efecto Esto es fútbol Bota mal sobre un césped demasiado mojado Pero impacta en el lateral de la red CÓRNER R_Bensebaini saca el balón a la frontal S_Guirassy al primer toque R_Sanchez trata de blocar el cuero No ha podido. Córner CÓRNER P_Gross cuelga el balón J_Brandt trata de colocar su disparo R_Sanchez resbala Mete una mano agónica a gatas El balón cruza por delante de la línea de gol Y se pierde a centímetros del palo R_Sanchez respira aliviado CÓRNER R_Bensebaini cuelga el balón R_Sanchez mete los puños con fuerza y aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "che",
+      "text": "D_Olmo se va en un arranque de genio W_Anton le pone la zancadilla ¡Ohhh! Le ha dejado un recadito Tiene suerte de no ser amonestado El técnico de Borussia Dortmund respira tranquilo El técnico de Chelsea se encara con el árbitro árbitro pidiéndole explicaciones",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

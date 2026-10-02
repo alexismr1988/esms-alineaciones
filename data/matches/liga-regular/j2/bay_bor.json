@@ -1,0 +1,1376 @@
+{
+  "id": "liga-regular/j2/bay_bor",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j2",
+  "roundLabel": "Jornada 2",
+  "fileName": "bay_bor.txt",
+  "homeCode": "bay",
+  "awayCode": "bor",
+  "homeTeam": "Bayern Munich",
+  "awayTeam": "Borussia Dortmund",
+  "result": {
+    "home": 1,
+    "away": 5,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Bayern Munich 0-2 Borussia Dortmund",
+  "formation": {
+    "home": "3-1-3-1-2 P",
+    "away": "4-2-2-2 C"
+  },
+  "referee": {
+    "name": "Felix Brych",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "M_Neuer",
+        "displayName": "M Neuer",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "S_Boey",
+        "displayName": "S Boey",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Davies",
+        "displayName": "A Davies",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Upamecano",
+        "displayName": "D Upamecano",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "K_Laimer",
+        "displayName": "K Laimer",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "A_Pavlovic",
+        "displayName": "A Pavlovic",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "P_Wanner",
+        "displayName": "P Wanner",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Musiala",
+        "displayName": "J Musiala",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "H_Kane",
+        "displayName": "H Kane",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Xavi_Simmons",
+        "displayName": "Xavi Simmons",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "M_Olise",
+        "displayName": "M Olise",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Urbig",
+        "displayName": "J Urbig",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "R_Guerreiro",
+        "displayName": "R Guerreiro",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Tah",
+        "displayName": "J Tah",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_DeBruyne",
+        "displayName": "K DeBruyne",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_Diaz",
+        "displayName": "L Diaz",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "G_Kobel",
+        "displayName": "G Kobel",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "N_Schlotterbeck",
+        "displayName": "N Schlotterbeck",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Anton",
+        "displayName": "W Anton",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Sule",
+        "displayName": "N Sule",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Svensson",
+        "displayName": "D Svensson",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "E_Can",
+        "displayName": "E Can",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Brandt",
+        "displayName": "J Brandt",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "F_Nmecha",
+        "displayName": "F Nmecha",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "G_Reyna",
+        "displayName": "G Reyna",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "S_Guirassy",
+        "displayName": "S Guirassy",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "K_Adeyemi",
+        "displayName": "K Adeyemi",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Meyer",
+        "displayName": "A Meyer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Y_Couto",
+        "displayName": "Y Couto",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "P_Gross",
+        "displayName": "P Gross",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Sabitzer",
+        "displayName": "M Sabitzer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Beier",
+        "displayName": "M Beier",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Bayern Munich",
+      "mvp": "K_Laimer",
+      "goals": "K_Laimer (67)",
+      "sentOff": "N/A",
+      "booked": "D_Upamecano (20), K_Laimer (32)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Borussia Dortmund",
+      "mvp": "K_Adeyemi (Jugador del partido)",
+      "goals": "J_Brandt (4), G_Reyna (42), K_Adeyemi (47,67), S_Guirassy (49)",
+      "sentOff": "N/A",
+      "booked": "J_Brandt (37), N_Sule (81)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 19,
+      "away": 20
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 8,
+      "away": 9
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 11,
+      "away": 11
+    },
+    {
+      "label": "Posesión",
+      "home": 47,
+      "away": 53
+    },
+    {
+      "label": "Córners",
+      "home": 4,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 2,
+      "away": 2
+    },
+    {
+      "label": "Sustituciones",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Faltas",
+      "home": 8,
+      "away": 10
+    },
+    {
+      "label": "Entradas",
+      "home": 7,
+      "away": 4
+    },
+    {
+      "label": "Pases clave",
+      "home": 14,
+      "away": 13
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Bayern Munich",
+      "players": [
+        {
+          "name": "M_Neuer",
+          "displayName": "M Neuer",
+          "position": "GK",
+          "st": 43,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 94,
+          "sav": 6,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Boey",
+          "displayName": "S Boey",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 7,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Davies",
+          "displayName": "A Davies",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 21,
+          "sh": 9,
+          "ag": 28,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Upamecano",
+          "displayName": "D Upamecano",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "K_Laimer",
+          "displayName": "K Laimer",
+          "position": "DM",
+          "st": 2,
+          "tk": 29,
+          "ps": 41,
+          "sh": 14,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "A_Pavlovic",
+          "displayName": "A Pavlovic",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 37,
+          "sh": 12,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Wanner",
+          "displayName": "P Wanner",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 36,
+          "sh": 14,
+          "ag": 25,
+          "min": 61,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Musiala",
+          "displayName": "J Musiala",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 44,
+          "sh": 21,
+          "ag": 28,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Kane",
+          "displayName": "H Kane",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 45,
+          "ag": 28,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 6,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Xavi_Simmons",
+          "displayName": "Xavi Simmons",
+          "position": "AM",
+          "st": 2,
+          "tk": 18,
+          "ps": 44,
+          "sh": 27,
+          "ag": 21,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Olise",
+          "displayName": "M Olise",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 21,
+          "sh": 41,
+          "ag": 27,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 5,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Urbig",
+          "displayName": "J Urbig",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Guerreiro",
+          "displayName": "R Guerreiro",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 18,
+          "sh": 14,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Tah",
+          "displayName": "J Tah",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_DeBruyne",
+          "displayName": "K DeBruyne",
+          "position": "MF",
+          "st": 2,
+          "tk": 18,
+          "ps": 45,
+          "sh": 26,
+          "ag": 20,
+          "min": 33,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Diaz",
+          "displayName": "L Diaz",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 26,
+          "sh": 42,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Borussia Dortmund",
+      "players": [
+        {
+          "name": "G_Kobel",
+          "displayName": "G Kobel",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 94,
+          "sav": 12,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Schlotterbeck",
+          "displayName": "N Schlotterbeck",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 17,
+          "sh": 7,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Anton",
+          "displayName": "W Anton",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 7,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Sule",
+          "displayName": "N Sule",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 4,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "D_Svensson",
+          "displayName": "D Svensson",
+          "position": "DF",
+          "st": 2,
+          "tk": 31,
+          "ps": 19,
+          "sh": 9,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Can",
+          "displayName": "E Can",
+          "position": "MF",
+          "st": 2,
+          "tk": 28,
+          "ps": 38,
+          "sh": 16,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Brandt",
+          "displayName": "J Brandt",
+          "position": "AM",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 26,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 2,
+          "sht": 2,
+          "gls": 1,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "F_Nmecha",
+          "displayName": "F Nmecha",
+          "position": "MF",
+          "st": 2,
+          "tk": 26,
+          "ps": 36,
+          "sh": 16,
+          "ag": 22,
+          "min": 1,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Reyna",
+          "displayName": "G Reyna",
+          "position": "AM",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 24,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Guirassy",
+          "displayName": "S Guirassy",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 25,
+          "sh": 43,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 5,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Adeyemi",
+          "displayName": "K Adeyemi",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 40,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 10,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Meyer",
+          "displayName": "A Meyer",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Couto",
+          "displayName": "Y Couto",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 31,
+          "sh": 14,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Gross",
+          "displayName": "P Gross",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 19,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Sabitzer",
+          "displayName": "M Sabitzer",
+          "position": "AM",
+          "st": 2,
+          "tk": 24,
+          "ps": 38,
+          "sh": 21,
+          "ag": 23,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Beier",
+          "displayName": "M Beier",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 24,
+          "sh": 38,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "bor",
+      "text": "M_Sabitzer entra y F_Nmecha se va la ducha antes de tiempo Todo apunta a que se ubicará en AM",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "bor",
+      "text": "G_Reyna pica el balón por encima de los centrales K_Adeyemi aparece de la nada. Los ha pillado despistados K_Adeyemi dispara sin levantar la cabeza Al palo y fuera Bueno, a veces entra, a veces no...",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "bor",
+      "text": "G_Reyna cambia de dirección A_Davies, que lo estaba persiguiendo, resbala Pero P_Wanner lo aparta del balón con el codo. El delantero se queja, el defensa, sonríe",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "bay",
+      "text": "P_Wanner se interna Le hace dos bicicletas a N_Sule Lo ha roto. Centra a A_Davies N_Schlotterbeck entra al corte y despeja el balón Pero lo echa fuera CÓRNER P_Wanner cuelga el centro al segundo palo W_Anton mira atentamente el centro... y lo despeja",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "bor",
+      "text": "J_Brandt hace una pared con un compañero Se va directo a puerta J_Brandt se va de su defensor, mete el pie El balón se le escurre a M_Neuer de las manos GOOOOOL Menudo error El Borussia Dortmund jugará con ventaja a partir de ahora Bayern Munich 0-1 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "bay",
+      "text": "J_Musiala corta de manera impresionante Arma el contraataque Es un dos contra dos H_Kane se desmarca y recibe el pase H_Kane empalma con la derecha Pero G_Kobel hinca la rodilla en el suelo y desvía el disparo raso CÓRNER J_Musiala con un peligroso lanzamiento al segundo palo Directo hacia H_Kane Empalma de primeras G_Kobel para Puso el cuerpo atrás, como marcan los cánones",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "bor",
+      "text": "S_Guirassy mete el pie y se lleva el balón. Ojo S_Guirassy tiene tiempo y espacio Busca la vaselina Rebota en el palo Se anticipa al defensa para el rebote Tiene la portería para él solo ¡NOOOOOOOO! La ha tirado fuera Imposible No me lo creo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons baja el balón con el pecho W_Anton entra con los tacos por delante Creo que buscaba el balón, pero debería calmarse un poquito",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "bor",
+      "text": "N_Schlotterbeck escupe a K_Laimer Eso le puede costar muy caro Felix_Brych hace gestos con las manos de que se calme",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 11,
+      "teamCode": "bor",
+      "text": "D_Svensson supera a A_Davies Lleva loco a su marcador Falla en el control y K_Laimer no desaprovecha el regalo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "bay",
+      "text": "M_Olise controla el balón en una demostración de clase Abre el juego a la derecha J_Musiala recibe el cuero J_Musiala no va a llegar. Sí, mete el pie... Bota mal sobre un césped demasiado mojado G_Kobel trata de reaccionar Se va a centímetros del palo CÓRNER H_Kane con un peligroso lanzamiento al segundo palo G_Kobel lo atrapa",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "bor",
+      "text": "W_Anton con un pase largo K_Adeyemi K_Adeyemi remata forzado... con la cabeza Pero el balón se pierde inofensivamente por la línea de meta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "bay",
+      "text": "P_Wanner ve perfectamente el desmarque de H_Kane W_Anton corta la jugada con un cabezazo en plancha",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "bor",
+      "text": "E_Can lleva el balón hacia arriba E_Can remata forzado... con la cabeza M_Neuer hace una gran parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "bor",
+      "text": "S_Guirassy hace la croqueta ante A_Pavlovic El defensa mete la pierna, pero el rebote va a parar al delantero D_Upamecano con la falta Eso será tarjeta y con todo merecimiento (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 23,
+      "teamCode": "bay",
+      "text": "H_Kane se deshace por velocidad de la defensa H_Kane remacha el balón a ras de suelo G_Kobel está sorprendido Lo ha pillado fuera de posición OH Impacta en las vallas publicitarias Gran disparo Merecía el gol",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "bay",
+      "text": "P_Wanner pisa campo contrario. Mete un pase entre los centrales para M_Olise M_Olise se va solo hacia la portería El asistente levante la bandera Pero Felix_Brych le desautoriza Encara a G_Kobel Levanta el balón ante la salida desesperada de G_Kobel Da en la parte superior del larguero y a la gradas",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "bor",
+      "text": "M_Sabitzer coge el cuero en el flanco Se deshace de D_Upamecano con una bicicleta Y pasa atrás hacia K_Adeyemi. ¡Qué jugada! K_Adeyemi hace un gran control ¡Y dispara! M_Neuer alcanza el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "bor",
+      "text": "G_Reyna supera al defensor G_Reyna con el disparo M_Neuer alcanza el cuero. Buena parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "bay",
+      "text": "K_Laimer dispara en carrera Hay un rebote le cae a M_Olise W_Anton entra con todo Y corta el balón. Ha intimidado al delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "bor",
+      "text": "K_Adeyemi gambetea a lo Maradona ¿Hará 'la mano de Diós' también? J_Musiala pone el pie en el momento oportuno y despeja el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "bay",
+      "text": "K_Laimer en carrera con su marcador. Mete el hombro Lo aparta del cuero Continúa avanzando Balón para la entrada de P_Wanner N_Sule con una entrada asesina Falta Ha jugado al límite del reglamento Felix_Brych no tiene la menor intención de amonestarlo Me apuesto lo que quieras a que se le han caído las lentillas",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "bay",
+      "text": "S_Boey mira a la derecha Y cruza a la izquierda para Xavi_Simmons. Eso lo hacía Laudrup Xavi_Simmons mete la cabeza con valentía G_Kobel alcanza el cuero. Buena parada El árbitro pita falta sobre G_Kobel , de todas maneras",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "bor",
+      "text": "J_Brandt ha roto por completo el fuera de juego Encara a M_Neuer K_Laimer lo derriba en el área Está en problemas Felix_Brych busca en su bolsillo Comprueba su número (AMARILLA) Debe sentirse afortunado que solo fuera eso FALTA DIRECTA Justo en el pico del área S_Guirassy dispara un verdadero obús Fuera Menos fuerza y más puntería chico",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "bor",
+      "text": "G_Reyna conecta con K_Adeyemi. Qué entendimiento hay entre ambos S_Boey se lanza hacia su oponente Y toca el balón Que clase",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons tiene a varios compañeros solos Decide jugar él solo. Un poco chupón, ¿eh? W_Anton se coloca en el camino del atacante Felix_Brych pita la falta. Se ha desentendido del cuero Tuvo suerte de no ver la cartulina \"Primer aviso... y último\" le espeta el colegiado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "bor",
+      "text": "K_Adeyemi supera a S_Boey Tiene mucho espacio K_Adeyemi coloca el balón al palo largo Pero el balón se pierde inofensivamente por encima del larguero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "bor",
+      "text": "S_Guirassy juega al primer toque para M_Sabitzer K_Laimer envía al delantero al suelo y el balón sale fuera de banda El asistente indica... Saque de banda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "bay",
+      "text": "A_Davies encara a J_Brandt Se va con facilidad J_Brandt salta sobre su oponente y lo derriba Reglamento en mano, esto es falta Tengo mis dudas que eso sea tarjeta SÍ (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "bay",
+      "text": "J_Musiala encuentra una autopista en la defensa La defensa estaba embobada J_Musiala se abre un hueco entre la defensa rival y dispara Pero G_Kobel alcanza el cuero con el puño Es el amo de su área. Buen portero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "bor",
+      "text": "N_Sule con un pase entre los centrales K_Adeyemi aparece con velocidad desde atrás Potente chut de K_Adeyemi M_Neuer llega con la punta de los dedos al balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "bay",
+      "text": "M_Olise supera a N_Schlotterbeck Es demasiado rápido para su marcador M_Olise se abre un hueco entre la defensa rival y dispara G_Kobel se saca el balón de encima como puede Poco estético, pero efectivo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "bor",
+      "text": "S_Guirassy va flechado hacia la portería Sortea a S_Boey Encara portería S_Guirassy busca el palo largo del portero El disparo coge un efecto envenenado M_Neuer reacciona rápidamente y corrige su posición No va a llegar Pero sale rozando el palo M_Neuer estaba batido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "bor",
+      "text": "G_Reyna busca el túnel ante A_Davies El defensa mete la pierna, pero el rebote favorece a su rival Punterazo endiablado de G_Reyna M_Neuer está batido GOOOOOL Está desolado Bayern Munich 0-2 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se va a añadir 1 minuto al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "bay",
+      "text": "Bayern Munich reestructura sus filas y ahora va a jugar A",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "bay",
+      "text": "A_Pavlovic centra desde la banda, encuentra a S_Boey en el área Potente chut de S_Boey G_Kobel hace una gran parada Pero no puede retener el balón Lo atrapa en el segundo intento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "bor",
+      "text": "E_Can se la lleva con la mano El defensa se para Pero el árbitro no lo vio K_Laimer salta de cabeza con su rival Falta Lo estaba agarrando",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "bor",
+      "text": "K_Adeyemi con un inteligente cambio de dirección K_Adeyemi se lanza en plancha... ¡Qué valentía! M_Neuer lo atrapa cómodamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons combina con K_Laimer. Juegan de memoria K_Laimer suelta un terrible disparo por debajo de las piernas de su marcador Dispara al córner ¿Cómo hizo para pegarle tan mal?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "bor",
+      "text": "G_Reyna acelera por la banda derecha Hace la pared con el delantero Quiebra al lateral S_Guirassy se la pide dentro del área Le pone el balón en el pie ¡Qué pase! S_Guirassy duerme el balón con el pecho y lo empalma de primeras M_Neuer no va a llegar El esférico se estrella en la madera Y fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "bor",
+      "text": "N_Schlotterbeck cambia el juego hacia K_Adeyemi K_Adeyemi impacta el balón con una volea defectuosa GOOOOOL ¿Es una sonrisa eso que hay en la cara de su entrenador? Bayern Munich 0-3 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons combina con H_Kane. Le ha metido un buen balón picado Preciso cabezazo de H_Kane G_Kobel cierra el ángulo y atrapa la pelota con facilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "bor",
+      "text": "J_Brandt corre metros La defensa rival se ha despistado, hay hueco Pone un peligroso balón sobre la entrada de S_Guirassy S_Guirassy con la red entre ceja y ceja GOOOOOL Se agarra la camiseta y la enseña a la grada rival Vaya lluvia de objetos le está cayendo Bayern Munich 0-4 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "bay",
+      "text": "M_Olise con un regate eléctrico Pisa área... M_Olise pica el balón por encima del portero Lo envía al córner Qué fallo \"QUÉ MALO ERES\" cantan los aficionados del Borussia Dortmund",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "bor",
+      "text": "N_Sule controla el balón en una demostración de clase Abre el juego a la derecha N_Schlotterbeck recibe el cuero H_Kane entra con los tacos por delante Le ha pegado con toda la mala leche del mundo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "bor",
+      "text": "E_Can le gana la espalda a la defensa D_Upamecano se anticipa a la jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "bor",
+      "text": "E_Can con el saque de banda Ve a un compañero solo El balón vuela hacia K_Adeyemi K_Adeyemi con un toque sutil ¡El balón va a puerta! Dispara excesivamente alto Está horrorizado por lo que falló ¿Su entrenador está hablando solo? Ui no, creo que era un insulto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "bay",
+      "text": "Confirmado Hay cambio K_DeBruyne entrará en lugar de P_Wanner. Se ubica como MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "bay",
+      "text": "M_Olise se va de uno Regatea a otro A otro Parece Maradona contra Inglaterra ¡Puede marcar el gol del siglo! M_Olise chuta Al palo y fuera Bueno, a veces entra, a veces no...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "bor",
+      "text": "G_Reyna retrocede ante la presión Golpea el balón hacia arriba sin sentido y le cae a K_Adeyemi Ha sacado petróleo de esa jugada K_Adeyemi busca el palo largo M_Neuer ha estado afortunado en esa jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "bay",
+      "text": "K_Laimer busca el túnel ante D_Svensson El defensa mete la pierna, pero el rebote favorece a su rival K_Laimer con un sutil toque de puntera Parece un balón fácil para G_Kobel Pero hace un extraño GOOOOOL G_Kobel estaba en Babia Bayern Munich 1-4 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "bor",
+      "text": "J_Brandt cambia de dirección Ve a un compañero desdoblándolo Le cede el cuero a K_Adeyemi, que va lanzado en carrera K_Adeyemi pica el balón por encima del portero M_Neuer no va a llegar Impacta en la madera GOOOOOL Imparable Bayern Munich 1-5 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "bor",
+      "text": "G_Reyna busca el túnel ante A_Davies El defensa mete la pierna, pero el rebote favorece a su rival Impresionante entrada de S_Boey Este tío está dando un clínic de cómo se defiende",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "bay",
+      "text": "M_Olise con un pase muy fuerte para H_Kane H_Kane se va de su defensor, mete el pie G_Kobel despeja... con la cabeza Estaba despistado Su entrenador se está comiendo el banquillo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "bay",
+      "text": "M_Olise se tira el balón largo ante N_Sule Se lleva al defensa por velocidad E_Can se juega el físico con una entrada durísima",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "bor",
+      "text": "N_Schlotterbeck está escorado en la banda derecha Cambia de juego hacia J_Brandt J_Brandt con un tremendo disparo Coloca el balón suavemente lejos del alcance del portero Pero sale rozando el palo M_Neuer estaba vendido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "bay",
+      "text": "J_Musiala frena el contraataque y espera algún apoyo Hay un desmarque al otro lado Cambia el juego y corre hacia arriba Le devuelve el balón, vaya combinación Potente chut de J_Musiala G_Kobel ve como el balón se pierde lejos de su marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "bay",
+      "text": "H_Kane encara al defensa H_Kane con un tremendo cabezazo Pero G_Kobel alcanza el cuero con el puño Ha caído en mala posición Su entrenador se levanta del banquillo Puede seguir",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons hace una bicicleta y mete el pase sobre la llegada de M_Olise N_Sule con una entrada asesina Ha sido un acto frío y deliberado. Indignante Felix_Brych lo llama a parte Felix_Brych le dice que ya le ha advertido suficientes veces (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "bay",
+      "text": "A_Davies está escorado en la banda derecha Cambia de juego hacia M_Olise M_Olise se saca una tijera ¡Qué bello! G_Kobel está justo en el sitio exacto Pero se lanza para hacerlo más espectacular Su entrenador está de los nervios",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "bay",
+      "text": "M_Olise con un cambio de ritmo a lo Cruyff N_Sule se lanza al corte Felix_Brych lo llama inmediatamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 3 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "bay",
+      "text": "J_Musiala encuentra un hueco en la defensa rival J_Musiala busca la escuadra derecha Pega en la espalda de un defensa G_Kobel ha quedado descolocado Sale rozando el palo Uy CÓRNER H_Kane centra hacia el área G_Kobel se eleva Y caza el centro",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

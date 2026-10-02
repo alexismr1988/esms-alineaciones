@@ -1,0 +1,1289 @@
+{
+  "id": "liga-regular/j18/bay_che",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j18",
+  "roundLabel": "Jornada 18",
+  "fileName": "bay_che.txt",
+  "homeCode": "bay",
+  "awayCode": "che",
+  "homeTeam": "Bayern Munich",
+  "awayTeam": "Chelsea",
+  "result": {
+    "home": 7,
+    "away": 4,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Bayern Munich 5-1 Chelsea",
+  "formation": {
+    "home": "4-4-2 P",
+    "away": "3-1-3-1-2 P"
+  },
+  "referee": {
+    "name": "Rafa Guerrero",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "M_Neuer",
+        "displayName": "M Neuer",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "S_Boey",
+        "displayName": "S Boey",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Davies",
+        "displayName": "A Davies",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Guerreiro",
+        "displayName": "R Guerreiro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Tah",
+        "displayName": "J Tah",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Pavlovic",
+        "displayName": "A Pavlovic",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Musiala",
+        "displayName": "J Musiala",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Xavi_Simmons",
+        "displayName": "Xavi Simmons",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "H_Kane",
+        "displayName": "H Kane",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Kimmich",
+        "displayName": "J Kimmich",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Olise",
+        "displayName": "M Olise",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Urbig",
+        "displayName": "J Urbig",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "H_Ito",
+        "displayName": "H Ito",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_DeBruyne",
+        "displayName": "K DeBruyne",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_Laimer",
+        "displayName": "K Laimer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_Diaz",
+        "displayName": "L Diaz",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "G_Slonina",
+        "displayName": "G Slonina",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "Reece_James",
+        "displayName": "Reece James",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Badiashile",
+        "displayName": "B Badiashile",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Cucurella",
+        "displayName": "M Cucurella",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Caicedo",
+        "displayName": "M Caicedo",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "E_Fernandez",
+        "displayName": "E Fernandez",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Olmo",
+        "displayName": "D Olmo",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "C_Palmer",
+        "displayName": "C Palmer",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "P_Neto",
+        "displayName": "P Neto",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "Nico_Williams",
+        "displayName": "Nico Williams",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Raphinha",
+        "displayName": "Raphinha",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "T_Chalobah",
+        "displayName": "T Chalobah",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Adarabioyo",
+        "displayName": "Adarabioyo",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "R_Lavia",
+        "displayName": "R Lavia",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Joao_Pedro",
+        "displayName": "Joao Pedro",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "C_Nkunku",
+        "displayName": "C Nkunku",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Bayern Munich",
+      "mvp": "M_Olise (Jugador del partido)",
+      "goals": "H_Kane (2,19), M_Olise (3,53,78), Reece_James (11 og), A_Pavlovic (23)",
+      "sentOff": "H_Ito (70)",
+      "booked": "N/A",
+      "injured": "R_Guerreiro (48)"
+    },
+    {
+      "team": "Chelsea",
+      "mvp": "E_Fernandez",
+      "goals": "Raphinha (38), Nico_Williams (54), P_Neto (73), C_Nkunku (75)",
+      "sentOff": "Raphinha (67)",
+      "booked": "E_Fernandez (14), P_Neto (68), C_Palmer (72)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 20,
+      "away": 9
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 9,
+      "away": 4
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 11,
+      "away": 5
+    },
+    {
+      "label": "Posesión",
+      "home": 59,
+      "away": 41
+    },
+    {
+      "label": "Córners",
+      "home": 3,
+      "away": 1
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 0,
+      "away": 3
+    },
+    {
+      "label": "Sustituciones",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Faltas",
+      "home": 9,
+      "away": 8
+    },
+    {
+      "label": "Entradas",
+      "home": 5,
+      "away": 6
+    },
+    {
+      "label": "Pases clave",
+      "home": 16,
+      "away": 10
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Bayern Munich",
+      "players": [
+        {
+          "name": "M_Neuer",
+          "displayName": "M Neuer",
+          "position": "GK",
+          "st": 43,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 98,
+          "sav": 1,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Boey",
+          "displayName": "S Boey",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 7,
+          "ag": 24,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Davies",
+          "displayName": "A Davies",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 21,
+          "sh": 9,
+          "ag": 28,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Guerreiro",
+          "displayName": "R Guerreiro",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 18,
+          "sh": 14,
+          "ag": 26,
+          "min": 48,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Tah",
+          "displayName": "J Tah",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Pavlovic",
+          "displayName": "A Pavlovic",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 37,
+          "sh": 12,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 2,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Musiala",
+          "displayName": "J Musiala",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 44,
+          "sh": 21,
+          "ag": 28,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 7,
+          "ass": 2,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Xavi_Simmons",
+          "displayName": "Xavi Simmons",
+          "position": "MF",
+          "st": 2,
+          "tk": 18,
+          "ps": 44,
+          "sh": 27,
+          "ag": 21,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Kane",
+          "displayName": "H Kane",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 45,
+          "ag": 28,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 4,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Kimmich",
+          "displayName": "J Kimmich",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 14,
+          "ag": 26,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Olise",
+          "displayName": "M Olise",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 21,
+          "sh": 41,
+          "ag": 27,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 8,
+          "gls": 3,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Urbig",
+          "displayName": "J Urbig",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Ito",
+          "displayName": "H Ito",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 26,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "K_DeBruyne",
+          "displayName": "K DeBruyne",
+          "position": "MF",
+          "st": 2,
+          "tk": 18,
+          "ps": 45,
+          "sh": 26,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Laimer",
+          "displayName": "K Laimer",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 41,
+          "sh": 14,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Diaz",
+          "displayName": "L Diaz",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 26,
+          "sh": 42,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Chelsea",
+      "players": [
+        {
+          "name": "G_Slonina",
+          "displayName": "G Slonina",
+          "position": "GK",
+          "st": 25,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 17,
+          "min": 98,
+          "sav": 5,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Reece_James",
+          "displayName": "Reece James",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 17,
+          "sh": 7,
+          "ag": 18,
+          "min": 98,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Badiashile",
+          "displayName": "B Badiashile",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 7,
+          "ag": 21,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Cucurella",
+          "displayName": "M Cucurella",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 18,
+          "sh": 21,
+          "ag": 20,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Caicedo",
+          "displayName": "M Caicedo",
+          "position": "DM",
+          "st": 2,
+          "tk": 31,
+          "ps": 43,
+          "sh": 16,
+          "ag": 22,
+          "min": 74,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Fernandez",
+          "displayName": "E Fernandez",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 41,
+          "sh": 9,
+          "ag": 22,
+          "min": 98,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 3,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "D_Olmo",
+          "displayName": "D Olmo",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 19,
+          "ag": 26,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Palmer",
+          "displayName": "C Palmer",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 44,
+          "sh": 33,
+          "ag": 22,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "P_Neto",
+          "displayName": "P Neto",
+          "position": "AM",
+          "st": 2,
+          "tk": 19,
+          "ps": 22,
+          "sh": 39,
+          "ag": 21,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Nico_Williams",
+          "displayName": "Nico Williams",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 18,
+          "sh": 42,
+          "ag": 20,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Raphinha",
+          "displayName": "Raphinha",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 21,
+          "sh": 40,
+          "ag": 28,
+          "min": 71,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "T_Chalobah",
+          "displayName": "T Chalobah",
+          "position": "GK",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 7,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Adarabioyo",
+          "displayName": "Adarabioyo",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 8,
+          "sh": 7,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Lavia",
+          "displayName": "R Lavia",
+          "position": "MF",
+          "st": 2,
+          "tk": 28,
+          "ps": 39,
+          "sh": 14,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Joao_Pedro",
+          "displayName": "Joao Pedro",
+          "position": "AM",
+          "st": 2,
+          "tk": 5,
+          "ps": 11,
+          "sh": 38,
+          "ag": 16,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Nkunku",
+          "displayName": "C Nkunku",
+          "position": "FW",
+          "st": 2,
+          "tk": 19,
+          "ps": 13,
+          "sh": 41,
+          "ag": 21,
+          "min": 24,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "bay",
+      "text": "A_Pavlovic recupera el balón Levanta la cabeza Ve el desmarque de su compañero Xavi_Simmons recibe un pase increíble Se marcha Xavi_Simmons golpea el balón a bote pronto Va directo hacia G_Slonina Pone mal la pierna Sale rebotada hacia atrás G_Slonina mira el balón alarmado Y lo ve salir al lado del palo, suspira de alivio, menudo fallo CÓRNER J_Musiala impacta el cuero con el interior del pie H_Kane llega al centro GOOOOOL G_Slonina se encara con el líbero El Bayern Munich jugará con ventaja a partir de ahora Bayern Munich 1-0 Chelsea ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "bay",
+      "text": "A_Pavlovic de tacón para M_Olise M_Olise mira a G_Slonina Trata de superarlo por el palo largo GOOOOOL Lo celebra corriendo hacia el banquillo Y se abraza a un compañero lesionado. Qué compañerismo Esto lo lleva a celebrar su tanto número 10 Bayern Munich 2-0 Chelsea ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "che",
+      "text": "M_Caicedo conduce por la línea de medios Pasa hacia Nico_Williams Nico_Williams suelta un disparo con el exterior del pie M_Neuer cubre su ángulo El balón hace un extraño M_Neuer ha quedado descolocado Pero sale desviada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons sale del regate y mete un pase hacia H_Kane Perfecto corte de M_Cucurella Lo hizo fácil Pero no puede evitar que salga a córner CÓRNER Picado por J_Musiala Xavi_Simmons entra desde atrás Pero dispara ancho ¿Dónde estaría apuntando?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons recupera el balón Levanta la cabeza Ve el desmarque de su compañero M_Olise recibe un pase increíble Se marcha M_Olise coloca el balón al palo largo G_Slonina hace una gran parada Pero no puede retener el balón Lo atrapa en el segundo intento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "che",
+      "text": "Nico_Williams mete el cuero en profundidad para la llegada de B_Badiashile B_Badiashile trata de colar el cuero entre las piernas del defensa M_Neuer ve como el balón se pierde lejos de su marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 11,
+      "teamCode": "che",
+      "text": "Reece_James llega forzado al corte y mete la punta de la bota Ojo El balón va puerta GOOOOOL En propia puerta Golpe moral para su equipo Bayern Munich 3-0 Chelsea ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "bay",
+      "text": "J_Musiala mete el pase M_Cucurella resbala Xavi_Simmons se apodera del balón Punterazo endiablado de Xavi_Simmons Sale fuera y será saque de puerta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "bay",
+      "text": "H_Kane ha roto por completo el fuera de juego Encara a G_Slonina E_Fernandez lo derriba en el área Está en problemas (AMARILLA) Desde luego, se lo merecía Y tiene suerte de que no ha sido de otro color FALTA DIRECTA Es una posición buenísima para el lanzador M_Olise con un terrible disparo Pero dispara muy abierto ¿Sabrá que el objetivo del fútbol es meter el balón en la portería?",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "che",
+      "text": "Raphinha se abre a la banda. Recibe el balón Levanta la cabeza, no hay salida Pero encuentra a C_Palmer. ¡Qué visión de juego! C_Palmer tiene el disparo a punto M_Neuer vuela sobre la línea de gol Y atrapa el cuero ¡Uau!, fue digno de la Araña Negra",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "bay",
+      "text": "M_Olise pisa el balón, arranca, vuelve a parar... el defensa está desquiciado E_Fernandez se lleva el balón con la mano No hay falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "bay",
+      "text": "H_Kane encara a M_Cucurella El defensa resbala H_Kane trata de sorprender al portero Está muy adelantado GOOOOOL G_Slonina se encara con el líbero Bayern Munich 4-0 Chelsea ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "bay",
+      "text": "J_Tah envía el balón por el lado derecho de Reece_James y lo escoge por el otro J_Tah busca el palo largo del portero El disparo coge un efecto envenenado G_Slonina reacciona rápidamente y corrige su posición No va a llegar Pero sale rozando el palo G_Slonina estaba batido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 23,
+      "teamCode": "bay",
+      "text": "A_Pavlovic con un tremendo sprint A_Pavlovic trata de sorprender con un chut lejano G_Slonina está sorprendido No va a tener tiempo de llegar GOOOOOL Se tapa la cara con los guantes Bayern Munich 5-0 Chelsea ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "bay",
+      "text": "J_Musiala le pega mal Pero le llega a M_Olise Eso ha sido de leche M_Olise con un disparo a ras de suelo Pero G_Slonina bloca el remate con mucha seguridad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "bay",
+      "text": "G_Slonina con un mal rechace H_Kane encara portería Reece_James va en carrera y mete el codo El delantero va al suelo Ha sido sutil, el árbitro no lo ha visto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "bay",
+      "text": "J_Musiala regatea a su marcador y pasa rápidamente a Xavi_Simmons Xavi_Simmons se escapa ¡Cuidado! Vuela por encima de G_Slonina Va a puerta El portero mete la mano, ¿será suficiente? Sí, ha desviado el disparo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "bay",
+      "text": "J_Musiala conduce por la línea de medios Pasa hacia R_Guerreiro R_Guerreiro se anticipa a su marcador Regatea al líbero Se va solo le queda G_Slonina Encara a G_Slonina Es medio gol Ajusta su remate ¡Fuera!",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "che",
+      "text": "C_Palmer controla un balón aéreo De primeras hacia Nico_Williams Corte finísimo y preciso de A_Davies Podría haber cometido la falta perfectamente si no hubiera estado tan fino",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "bay",
+      "text": "H_Kane se aprovecha de un error de B_Badiashile H_Kane trata de sorprender con un chut lejano Los aficionados se levantan de sus asientos G_Slonina vuela y bloca el cuero Grande chico, grande",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "che",
+      "text": "Chelsea jugará ahora L tras los cambios ordenados por su técnico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "che",
+      "text": "M_Caicedo mira a la derecha Y cruza a la izquierda para Raphinha. Eso lo hacía Laudrup Raphinha impacta el cuero al primer toque Se mueve la red GOOOOOL Hace una voltereta, dos, tres ¡Qué barbaridad! Bayern Munich 5-1 Chelsea ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "che",
+      "text": "M_Cucurella tira la pared con su delantero Raphinha con un preciso pase de primeras Menuda jugada R_Guerreiro envía el balón suelto a las nubues. Cuidado con los pájaros",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 4 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "bay",
+      "text": "R_Guerreiro está lesionado. Qué mala suerte",
+      "type": "injury"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "bay",
+      "text": "Los aficionados rugen cuando H_Ito substituye a R_Guerreiro para jugar de DF",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "che",
+      "text": "E_Fernandez inicia el contraataque Sale rápidamente Y envía un gran pase con la defensa descolocada. Nico_Williams recibe solo H_Ito entra con todo Y corta el balón. Ha intimidado al delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons está cerrado por tres contrarios Abre a la banda para romper la presión M_Olise recibe con campo por delante E_Fernandez placa a su oponente Rafa_Guerrero le hace señas de que se acerque",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "che",
+      "text": "El mánager del Chelsea hace señas a su portero para que pasen a jugar P",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "bay",
+      "text": "A_Pavlovic volea el cuero. Va directo hacia M_Olise M_Olise prueba suerte GOOOOOL G_Slonina abronca estrepitosamente a sus defensas Bayern Munich 6-1 Chelsea ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "che",
+      "text": "E_Fernandez con un peligroso pase hacia Raphinha J_Tah agarra a su rival de la camiseta Rafa_Guerrero detiene el juego Bien visto Rafa_Guerrero Tuvo suerte de no ver la cartulina \"Primer aviso... y último\" le espeta el colegiado FALTA DIRECTA El portero coloca a su barrera C_Palmer cuelga el balón al área Nico_Williams se anticipa a su marcador Nico_Williams trata de sorprender al portero Está muy adelantado Se mueve la red GOOOOOL Besa su camiseta Eso es amor por los colores Los aficionados corean su nombre Bayern Munich 6-2 Chelsea ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "bay",
+      "text": "J_Musiala ha roto por completo el fuera de juego Encara a G_Slonina B_Badiashile lo derriba en el área Rafa_Guerrero simplemente lo avisa. Ahí ha acertado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "bay",
+      "text": "H_Kane aguanta el balón Cambia súbitamente hacia Xavi_Simmons Corte finísimo y preciso de Reece_James",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "bay",
+      "text": "J_Musiala con un control impresionante Hace la croqueta ante B_Badiashile Y centra hacia M_Olise. ¡Qué clase! M_Olise regatea a su marcador y busca el gol Golpea las vallas publicitarias",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "bay",
+      "text": "S_Boey busca opciones Nadie le sale al apoyo Se saca el balón de encima. Va hacia M_Olise M_Olise se deshace de su marcador Buen movimiento ¡Y dispara! G_Slonina está batido Cruje el larguero Y a la grada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "bay",
+      "text": "S_Boey al primer toque para J_Musiala E_Fernandez sega el césped con una entrada terrorífica Je je je, el delantero saltó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "bay",
+      "text": "H_Kane se anticipa a su marcador Raphinha se desliza... y derriba a su adversario (ROJA) eso implica el final del partido para él",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "bay",
+      "text": "H_Ito mata el pase Gran control Tiene espacio para el disparo P_Neto empuja a ru rival Qué animal Está en problemas (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "bay",
+      "text": "Bayern Munich reestructura sus filas y ahora va a jugar D",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "che",
+      "text": "C_Palmer aprovecha un fallo defensivo Eso le puede costar caro H_Ito eleva demasiado el pie Rafa_Guerrero lo llama a parte Le da una charla (AMARILLA) Pero sigue protestando (ROJA)",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "che",
+      "text": "Confirmado Hay cambio C_Nkunku entrará en lugar de M_Caicedo. Se ubica como FW FALTA DIRECTA ¡Peligro! Reece_James amaga el disparo Pasa hacia C_Palmer sin embargo S_Boey se anticipa a la acción y corta el balón Pero se le escapa Córner CÓRNER C_Palmer con un cerrado lanzamiento al primer palo C_Nkunku se deshace de su marcador y mete la cabeza Pero el balón se pierde inofensivamente por la línea de meta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "bay",
+      "text": "J_Musiala pica el balón por encima de la defensa hacia H_Kane H_Kane se precipita en su remate G_Slonina para. Le vino directo a las manos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "che",
+      "text": "C_Palmer con un giro rapidísimo Le enseña el dorsal al defensa Xavi_Simmons se hace con el balón Y lo manda hacia arriba",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "che",
+      "text": "C_Palmer escupe a J_Musiala Eso le puede costar muy caro Está en problemas (AMARILLA) Desde luego, se lo merecía Y tiene suerte de que no ha sido de otro color",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "che",
+      "text": "P_Neto se va solo El asistente no levanta la bandera P_Neto se escapa ¡Cuidado! M_Neuer no va a llegar Impacta en la madera GOOOOOL Imparable Bayern Munich 6-3 Chelsea ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "che",
+      "text": "E_Fernandez dispara en carrera El defensa mete la pierna sale rebotada hacia C_Nkunku C_Nkunku golpea el balón a bote pronto GOOOOOL ¿Es una sonrisa eso que hay en la cara de su entrenador? Bayern Munich 6-4 Chelsea ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "bay",
+      "text": "J_Musiala envía un taconazo hacia M_Olise. ¡Qué lujo de jugador! M_Olise pisa el balón, se lo acomoda a la derecha y... chuta GOOOOOL G_Slonina se encara con el líbero Hat trick Vaya tarde Bayern Munich 7-4 Chelsea ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "bay",
+      "text": "M_Olise se abre a la banda y cambie el juego hacia H_Kane C_Nkunku se hace con el balón y lo cede al portero G_Slonina estaba descolocado Corre a la desesperada Fuera Por poco CÓRNER J_Musiala cuelga el centro al segundo palo Nico_Williams sale al corte Y llega el primero al balón. Buenos reflejos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "bay",
+      "text": "J_Tah aprovecha un fallo defensivo El entrenador está abroncando a su defensa J_Tah trata de ajustar el cuero al palo Pero G_Slonina saca una pierna milagrosa y desvía el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 4 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "che",
+      "text": "C_Palmer le pega al balón con el exterior El efecto despista a la defensa, que no puede evitar que le llegue a C_Nkunku C_Nkunku peina el balón hacia atrás Vuela por encima de M_Neuer Va a puerta Pero se pierde por encima del larguero Tenía mucha intención",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

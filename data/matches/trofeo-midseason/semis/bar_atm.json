@@ -1,0 +1,1149 @@
+{
+  "id": "trofeo-midseason/semis/bar_atm",
+  "competitionId": "trofeo-midseason",
+  "competitionLabel": "Trofeo Mid-Season",
+  "roundId": "semis",
+  "roundLabel": "Semifinales",
+  "fileName": "bar_atm.txt",
+  "homeCode": "bar",
+  "awayCode": "atm",
+  "homeTeam": "FC Barcelona",
+  "awayTeam": "Atletico Madrid",
+  "result": {
+    "home": 1,
+    "away": 0,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "FC Barcelona 0-0 Atletico Madrid",
+  "formation": {
+    "home": "4-1-2-1-2 P",
+    "away": "5-4-1 L"
+  },
+  "referee": {
+    "name": "Rafa Guerrero",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "M_TerStegen",
+        "displayName": "M TerStegen",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "P_Cubarsi",
+        "displayName": "P Cubarsi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Fofana",
+        "displayName": "W Fofana",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Guehi",
+        "displayName": "Guehi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Kounde",
+        "displayName": "J Kounde",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Gavi",
+        "displayName": "Gavi",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "Estevao",
+        "displayName": "Estevao",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Pedri",
+        "displayName": "Pedri",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Yamal",
+        "displayName": "L Yamal",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "R_Lewandowski",
+        "displayName": "R Lewandowski",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "F_Torres",
+        "displayName": "F Torres",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Grimaldo",
+        "displayName": "Grimaldo",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "W_Szczesny",
+        "displayName": "W Szczesny",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_Lee",
+        "displayName": "K Lee",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Lopez",
+        "displayName": "F Lopez",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Rashford",
+        "displayName": "M Rashford",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "J_Oblak",
+        "displayName": "J Oblak",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "R_LeNormand",
+        "displayName": "R LeNormand",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Gimenez",
+        "displayName": "J Gimenez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Llorente",
+        "displayName": "M Llorente",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Ruggeri",
+        "displayName": "M Ruggeri",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Molina",
+        "displayName": "N Molina",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Koke",
+        "displayName": "Koke",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Baena",
+        "displayName": "A Baena",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "P_Barrios",
+        "displayName": "P Barrios",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "C_Gallagher",
+        "displayName": "C Gallagher",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Griezmann",
+        "displayName": "A Griezmann",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Musso",
+        "displayName": "J Musso",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "C_Lenglet",
+        "displayName": "C Lenglet",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Galan",
+        "displayName": "J Galan",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "T_Almada",
+        "displayName": "T Almada",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Alvarez",
+        "displayName": "J Alvarez",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "FC Barcelona",
+      "mvp": "P_Cubarsi (Jugador del partido)",
+      "goals": "Estevao (75)",
+      "sentOff": "N/A",
+      "booked": "L_Yamal (47)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Atletico Madrid",
+      "mvp": "P_Barrios",
+      "goals": "N/A",
+      "sentOff": "N/A",
+      "booked": "A_Griezmann (14)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 6,
+      "away": 4
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 3,
+      "away": 1
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 3,
+      "away": 3
+    },
+    {
+      "label": "Posesión",
+      "home": 61,
+      "away": 39
+    },
+    {
+      "label": "Córners",
+      "home": 0,
+      "away": 2
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 13,
+      "away": 7
+    },
+    {
+      "label": "Entradas",
+      "home": 4,
+      "away": 6
+    },
+    {
+      "label": "Pases clave",
+      "home": 6,
+      "away": 5
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "FC Barcelona",
+      "players": [
+        {
+          "name": "M_TerStegen",
+          "displayName": "M TerStegen",
+          "position": "GK",
+          "st": 40,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 97,
+          "sav": 3,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Cubarsi",
+          "displayName": "P Cubarsi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 4,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Fofana",
+          "displayName": "W Fofana",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 16,
+          "sh": 7,
+          "ag": 22,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Guehi",
+          "displayName": "Guehi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Kounde",
+          "displayName": "J Kounde",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 26,
+          "sh": 7,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Gavi",
+          "displayName": "Gavi",
+          "position": "DM",
+          "st": 2,
+          "tk": 24,
+          "ps": 42,
+          "sh": 16,
+          "ag": 26,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Estevao",
+          "displayName": "Estevao",
+          "position": "DM",
+          "st": 2,
+          "tk": 28,
+          "ps": 38,
+          "sh": 21,
+          "ag": 20,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Pedri",
+          "displayName": "Pedri",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 16,
+          "ag": 27,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Yamal",
+          "displayName": "L Yamal",
+          "position": "AM",
+          "st": 2,
+          "tk": 12,
+          "ps": 28,
+          "sh": 42,
+          "ag": 27,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "R_Lewandowski",
+          "displayName": "R Lewandowski",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 48,
+          "ag": 26,
+          "min": 79,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Torres",
+          "displayName": "F Torres",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 40,
+          "ag": 27,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Grimaldo",
+          "displayName": "Grimaldo",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 20,
+          "sh": 20,
+          "ag": 22,
+          "min": 18,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Szczesny",
+          "displayName": "W Szczesny",
+          "position": "GK",
+          "st": 39,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Lee",
+          "displayName": "K Lee",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 33,
+          "sh": 33,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Lopez",
+          "displayName": "F Lopez",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 33,
+          "sh": 16,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Rashford",
+          "displayName": "M Rashford",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 38,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Atletico Madrid",
+      "players": [
+        {
+          "name": "J_Oblak",
+          "displayName": "J Oblak",
+          "position": "GK",
+          "st": 45,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 97,
+          "sav": 2,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_LeNormand",
+          "displayName": "R LeNormand",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Gimenez",
+          "displayName": "J Gimenez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Llorente",
+          "displayName": "M Llorente",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 36,
+          "sh": 14,
+          "ag": 27,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Ruggeri",
+          "displayName": "M Ruggeri",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Molina",
+          "displayName": "N Molina",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 19,
+          "sh": 7,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Koke",
+          "displayName": "Koke",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 43,
+          "sh": 12,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Baena",
+          "displayName": "A Baena",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 39,
+          "sh": 21,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Barrios",
+          "displayName": "P Barrios",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 12,
+          "ag": 26,
+          "min": 97,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Gallagher",
+          "displayName": "C Gallagher",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 14,
+          "ag": 26,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Griezmann",
+          "displayName": "A Griezmann",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 28,
+          "sh": 44,
+          "ag": 28,
+          "min": 68,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "J_Musso",
+          "displayName": "J Musso",
+          "position": "GK",
+          "st": 30,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Lenglet",
+          "displayName": "C Lenglet",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Galan",
+          "displayName": "J Galan",
+          "position": "DF",
+          "st": 2,
+          "tk": 32,
+          "ps": 19,
+          "sh": 7,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Almada",
+          "displayName": "T Almada",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 19,
+          "ag": 26,
+          "min": 52,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Alvarez",
+          "displayName": "J Alvarez",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 21,
+          "sh": 42,
+          "ag": 29,
+          "min": 29,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "atm",
+      "text": "C_Gallagher retrocede ante la presión Golpea el balón hacia arriba sin sentido y le cae a P_Barrios Ha sacado petróleo de esa jugada P_Barrios chuta con el interior Pero M_TerStegen rechaza el balón Y la defensa, muy atenta, aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "atm",
+      "text": "C_Gallagher combina con P_Barrios. Le ha metido un buen balón picado oooooh Que entrada más dura de Guehi Rafa_Guerrero le pega una sonora reprimenda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "atm",
+      "text": "A_Griezmann va al choque con el defensa Ambos caen al suelo Pero el delantero se levanta antes y coge el balón Pero pisa un charco y cae al suelo Estevao recoge el balón. Menudo marcaje le está haciendo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "bar",
+      "text": "F_Torres ha roto por completo el fuera de juego Encara a J_Oblak A_Griezmann lo derriba en el área Está en problemas Rafa_Guerrero busca en su bolsillo Comprueba su número (AMARILLA) Debe sentirse afortunado que solo fuera eso",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "bar",
+      "text": "Estevao llega al área, prepara el disparo... Pero en su lugar pasa hacia Pedri. ¡Qué calidad! A_Baena envía el balón a las gradas publicitarias",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "bar",
+      "text": "R_Lewandowski tiene tiempo para meditar la jugada R_Lewandowski supera a J_Oblak con una precisa vaselina J_Oblak está justo en el sitio exacto Pero se lanza para hacerlo más espectacular Su entrenador está de los nervios",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "atm",
+      "text": "M_Llorente con un pase de 50 metros A_Griezmann El balón golpea a P_Cubarsi en la cara Peligro despejado Al defensa no le hace ninguna gracia",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "bar",
+      "text": "L_Yamal con el lanzamiento de la falta Observa el desmarque de su compañero P_Cubarsi se ha zafado de su marcador P_Cubarsi prueba suerte desde la lejanía J_Oblak está justo en el sitio exacto Pero se lanza para hacerlo más espectacular Su entrenador está de los nervios",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 3 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "bar",
+      "text": "R_Lewandowski evita la entrada de N_Molina R_Lewandowski regatea a su marcador y busca el gol Rebota en el palo El rebote le cae en los pies Trata de regatear al portero Se ha enredado con el balón Vaya fallo Su entrenador está dando puñetazos al banquillo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "atm",
+      "text": "Los aficionados rugen cuando T_Almada substituye a C_Gallagher para jugar de MF",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "bar",
+      "text": "L_Yamal escupe a M_Llorente Eso le puede costar muy caro Toma Eso ha sido muy feo Rafa_Guerrero le indica que se gire ¿Será tarjeta, pero tendrá valor para expulsarlo? ¡NO! (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "atm",
+      "text": "A_Griezmann despista a Gavi con una rapidísima bicicleta. ¿Es futbolista o Lance Armstrong? F_Torres agarra a su rival de la camiseta Rafa_Guerrero detiene el juego Bien visto Rafa_Guerrero Se marcha con una simple amonestación ¿Se habrá dejado las tarjetas en el vestuario?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "atm",
+      "text": "A_Griezmann esquiva una entrada asesina Va directo a puerta Gavi se hace con el balón y lo cede al portero M_TerStegen estaba descolocado Corre a la desesperada Fuera Por poco CÓRNER A_Baena con un cerrado lanzamiento al primer palo Guehi mira atentamente el centro... y lo despeja",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "bar",
+      "text": "F_Torres encuentra el pasadizo La defensa buscó el fuera de juego F_Torres solo tiene una cosa en la cabeza: el GOL ¡Suelta un potente latigazo! J_Oblak no va a llegar El esférico se estrella en la madera Y fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "atm",
+      "text": "A_Griezmann para y espera algún apoyo Corre hacia el marco A_Griezmann mete la cabeza con valentía M_TerStegen ve venir el balón Y lo atrapa con facilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "bar",
+      "text": "Gavi envía un pase desde su propio campo hacia R_Lewandowski P_Barrios se le anticipa y le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "atm",
+      "text": "M_Ruggeri aprovecha una mala cesión de W_Fofana M_Ruggeri se saca una bicicleta de la nada y chuta El disparo agarra un efecto endiablado Un defensa mete la cabeza Y envía a córner CÓRNER A_Griezmann acaricia el cuero W_Fofana conjura el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "bar",
+      "text": "Estevao mira a la derecha Y cruza a la izquierda para R_Lewandowski. Eso lo hacía Laudrup Pero M_Llorente cuelga el balón a la grada Z",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "atm",
+      "text": "P_Barrios sale lanzado por el carril J_Kounde intenta cortar su avance con una entrada a ras de suelo El delantero salta por encima ¡Qué reflejos! Estevao choca y envía a su oponente al suelo ¿Falta? Este árbitro lo más redondo que ha visto es un melón. Si no fue falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "atm",
+      "text": "P_Barrios pasa de rabona hacia A_Griezmann. Madre mía ¿Ha nacido en Brasil? P_Cubarsi entra zon dureza y corta el balón. Está metido en el partido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "bar",
+      "text": "R_Lewandowski aprovecha un fallo defensivo El entrenador está abroncando a su defensa P_Barrios lee la jugada antes de que se produzca y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "bar",
+      "text": "L_Yamal cede atrás para F_Torres P_Barrios se interpone entre el delantero y el balón. Ha ganado la posición",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "atm",
+      "text": "El ayudante del entrenador llama a J_Alvarez A_Griezmann va a ser sustituído Está decepcionado porque no puede seguir Su sustituto jugará de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "bar",
+      "text": "L_Yamal en carrera Le hace un túnel a T_Almada Ui, le ha soltado el pie Si lo pilla... L_Yamal ve a J_Oblak adelantado Su disparo es rechazado por el portero Se hace con el rebote Y dispara fuera Se precipitó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "atm",
+      "text": "J_Gimenez envía un pase en profundidad hacia M_Llorente M_Llorente golpea el balón ¡Uau! Ha hecho la \"folha seca\" ¡Mira cómo baja! M_TerStegen para el lanzamiento Y aleja el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "bar",
+      "text": "P_Cubarsi se cuela por el extremo derecho Centro medido para Estevao Estevao vuela con bravura para rematar en plancha J_Oblak para Pero el balón queda muerto GOOOOOL La defensa ha ido a por uvas El FC Barcelona jugará con ventaja a partir de ahora FC Barcelona 1-0 Atletico Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "bar",
+      "text": "La grada ruge cuando Grimaldo substituye a R_Lewandowski para jugar de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "bar",
+      "text": "Estevao cambia a la posición de DM en un cambio táctico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "bar",
+      "text": "Pedri se planta en la frontal del área Pierde el control del balón Koke mete el pie y lo envía a la grada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 4 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

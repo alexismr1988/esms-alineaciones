@@ -1,0 +1,1250 @@
+{
+  "id": "liga-regular/j13/bor_tot",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j13",
+  "roundLabel": "Jornada 13",
+  "fileName": "bor_tot.txt",
+  "homeCode": "bor",
+  "awayCode": "tot",
+  "homeTeam": "Borussia Dortmund",
+  "awayTeam": "Tottenham",
+  "result": {
+    "home": 1,
+    "away": 2,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Borussia Dortmund 1-2 Tottenham",
+  "formation": {
+    "home": "4-4-2 E",
+    "away": "4-2-4 C"
+  },
+  "referee": {
+    "name": "Wolfgang Stark",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "G_Kobel",
+        "displayName": "G Kobel",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "Y_Couto",
+        "displayName": "Y Couto",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Sule",
+        "displayName": "N Sule",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Anton",
+        "displayName": "W Anton",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Schlotterbeck",
+        "displayName": "N Schlotterbeck",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "P_Gross",
+        "displayName": "P Gross",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Brandt",
+        "displayName": "J Brandt",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Jobe_Bellingham",
+        "displayName": "Jobe Bellingham",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Sabitzer",
+        "displayName": "M Sabitzer",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "S_Guirassy",
+        "displayName": "S Guirassy",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "K_Adeyemi",
+        "displayName": "K Adeyemi",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Meyer",
+        "displayName": "A Meyer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Ryerson",
+        "displayName": "J Ryerson",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "S_Ozcan",
+        "displayName": "S Ozcan",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Duranville",
+        "displayName": "J Duranville",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Beier",
+        "displayName": "M Beier",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "G_Vicario",
+        "displayName": "G Vicario",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "P_Porro",
+        "displayName": "P Porro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "C_Romero",
+        "displayName": "C Romero",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_VandeVen",
+        "displayName": "M VandeVen",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "K_Danso",
+        "displayName": "K Danso",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Maddison",
+        "displayName": "J Maddison",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "R_Bentancur",
+        "displayName": "R Bentancur",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Johnson",
+        "displayName": "B Johnson",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Richarlison",
+        "displayName": "Richarlison",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "D_Solanke",
+        "displayName": "D Solanke",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "M_Tel",
+        "displayName": "M Tel",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Kinsky",
+        "displayName": "A Kinsky",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Udogie",
+        "displayName": "D Udogie",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Davies",
+        "displayName": "B Davies",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Kulusevski",
+        "displayName": "D Kulusevski",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Kudus",
+        "displayName": "M Kudus",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Borussia Dortmund",
+      "mvp": "P_Gross",
+      "goals": "P_Gross (11)",
+      "sentOff": "N/A",
+      "booked": "K_Adeyemi (49), N_Schlotterbeck (70)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Tottenham",
+      "mvp": "Richarlison (Jugador del partido)",
+      "goals": "Richarlison (15,19)",
+      "sentOff": "N/A",
+      "booked": "B_Johnson (29)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 16,
+      "away": 12
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 7,
+      "away": 4
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 9,
+      "away": 8
+    },
+    {
+      "label": "Posesión",
+      "home": 58,
+      "away": 42
+    },
+    {
+      "label": "Córners",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 0,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 8,
+      "away": 6
+    },
+    {
+      "label": "Entradas",
+      "home": 9,
+      "away": 2
+    },
+    {
+      "label": "Pases clave",
+      "home": 11,
+      "away": 12
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Borussia Dortmund",
+      "players": [
+        {
+          "name": "G_Kobel",
+          "displayName": "G Kobel",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 96,
+          "sav": 7,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Couto",
+          "displayName": "Y Couto",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 31,
+          "sh": 14,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Sule",
+          "displayName": "N Sule",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 4,
+          "ag": 22,
+          "min": 96,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Anton",
+          "displayName": "W Anton",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 7,
+          "ag": 22,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Schlotterbeck",
+          "displayName": "N Schlotterbeck",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 17,
+          "sh": 7,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "P_Gross",
+          "displayName": "P Gross",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 19,
+          "ag": 22,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Brandt",
+          "displayName": "J Brandt",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 26,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Jobe_Bellingham",
+          "displayName": "Jobe Bellingham",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 33,
+          "sh": 16,
+          "ag": 22,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Sabitzer",
+          "displayName": "M Sabitzer",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 38,
+          "sh": 21,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Guirassy",
+          "displayName": "S Guirassy",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 25,
+          "sh": 43,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Adeyemi",
+          "displayName": "K Adeyemi",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 40,
+          "ag": 26,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "A_Meyer",
+          "displayName": "A Meyer",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Ryerson",
+          "displayName": "J Ryerson",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 12,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Ozcan",
+          "displayName": "S Ozcan",
+          "position": "MF",
+          "st": 2,
+          "tk": 28,
+          "ps": 36,
+          "sh": 14,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Duranville",
+          "displayName": "J Duranville",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 33,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Beier",
+          "displayName": "M Beier",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 24,
+          "sh": 38,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Tottenham",
+      "players": [
+        {
+          "name": "G_Vicario",
+          "displayName": "G Vicario",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 96,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Porro",
+          "displayName": "P Porro",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 28,
+          "sh": 14,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Romero",
+          "displayName": "C Romero",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 15,
+          "sh": 7,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_VandeVen",
+          "displayName": "M VandeVen",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 4,
+          "sh": 7,
+          "ag": 22,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Danso",
+          "displayName": "K Danso",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 5,
+          "sh": 7,
+          "ag": 21,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Maddison",
+          "displayName": "J Maddison",
+          "position": "MF",
+          "st": 2,
+          "tk": 12,
+          "ps": 41,
+          "sh": 18,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 5,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Bentancur",
+          "displayName": "R Bentancur",
+          "position": "MF",
+          "st": 2,
+          "tk": 28,
+          "ps": 38,
+          "sh": 16,
+          "ag": 23,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Johnson",
+          "displayName": "B Johnson",
+          "position": "FW",
+          "st": 2,
+          "tk": 19,
+          "ps": 20,
+          "sh": 41,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Richarlison",
+          "displayName": "Richarlison",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 26,
+          "sh": 40,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 5,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Solanke",
+          "displayName": "D Solanke",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 14,
+          "sh": 36,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Tel",
+          "displayName": "M Tel",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 24,
+          "sh": 33,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Kinsky",
+          "displayName": "A Kinsky",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Udogie",
+          "displayName": "D Udogie",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 18,
+          "sh": 12,
+          "ag": 23,
+          "min": 51,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Davies",
+          "displayName": "B Davies",
+          "position": "DF",
+          "st": 2,
+          "tk": 32,
+          "ps": 9,
+          "sh": 4,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Kulusevski",
+          "displayName": "D Kulusevski",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 14,
+          "ag": 23,
+          "min": 51,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Kudus",
+          "displayName": "M Kudus",
+          "position": "FW",
+          "st": 2,
+          "tk": 19,
+          "ps": 30,
+          "sh": 28,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "bor",
+      "text": "N_Schlotterbeck cede atrás para M_Sabitzer M_Sabitzer coloca el balón al palo largo G_Vicario lo atrapa fácilmente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "tot",
+      "text": "R_Bentancur pone el balón a la espalda de los centrales B_Johnson se cuela desde atrás K_Adeyemi efectúa un espectacular tackle pero Wolfgang_Stark el colegiado pita falta del delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "tot",
+      "text": "Richarlison con un tremendo sprint Su marcador no puede alcanzarlo Va a chutar W_Anton le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 11,
+      "teamCode": "bor",
+      "text": "Jobe_Bellingham pica el balón por encima de los centrales P_Gross aparece de la nada. Los ha pillado despistados P_Gross dispara sin levantar la cabeza GOOOOOL G_Vicario abronca estrepitosamente a sus defensas El Borussia Dortmund se cobra ventaja ¿Podrá mantenerla hasta el final? Borussia Dortmund 1-0 Tottenham ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 11,
+      "teamCode": "tot",
+      "text": "J_Maddison corta el balón con dureza Desde el suelo mete la puntera Y hace llegar el cuero a M_Tel Preciso cabezazo de M_Tel G_Kobel alcanza el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "tot",
+      "text": "Richarlison gambetea ante W_Anton, lo está desquiciando Richarlison con el disparo GOOOOOL Corre a festejar el tanto con su mánager Ahora están igualados Borussia Dortmund 1-1 Tottenham ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "tot",
+      "text": "J_Maddison ve el desmarque de Richarlison Richarlison con un tremendo cabezazo GOOOOOL Qué manera de acabar la jugada El Tottenham manda en el luminoso Borussia Dortmund 1-2 Tottenham ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "tot",
+      "text": "R_Bentancur supera a N_Schlotterbeck Es demasiado rápido para su marcador Pero W_Anton corta la acción con contundencia",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "bor",
+      "text": "N_Schlotterbeck asiste a S_Guirassy dentro del área S_Guirassy suelta un terrible disparo por debajo de las piernas de su marcador Chuta con el exterior ¡Uhhhhh! Ha salido a metros del marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "tot",
+      "text": "B_Johnson hace una bicicleta W_Anton cae al suelo Lo ha ridiculizado Pero J_Brandt se anticipa a la jugada. Qué sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "bor",
+      "text": "N_Schlotterbeck ha roto por completo el fuera de juego Encara a G_Vicario B_Johnson lo derriba en el área Ojo que pede irse a la calle por eso Wolfgang_Stark le hace señas para que se acerque El colegiado lo mira fijamente ay (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "bor",
+      "text": "N_Schlotterbeck con un preciso cambio de ritmo N_Schlotterbeck se saca una vaselina magistral de la chistera G_Vicario mete los puños y manda el cuero al centro del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 33,
+      "teamCode": "bor",
+      "text": "M_Sabitzer con un pase de tiralíneas S_Guirassy S_Guirassy suelta un chut con un efecto endiablado G_Vicario lo atrapa cómodamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "tot",
+      "text": "Richarlison mete el pie y se lleva el balón. Ojo Richarlison con un toque de maestro G_Kobel mete los puños y desvía el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "tot",
+      "text": "J_Maddison centra desde la banda, encuentra a Richarlison en el área Richarlison coloca el balón al palo largo G_Kobel para el balón, que queda muerto G_Kobel se levanta rápidamente y para el segundo remate Qué bueno",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "tot",
+      "text": "M_Tel se interna por una banda Túnel al defensa Oh ¿Lo han visto? Quiebra al lateral Qué jugada Richarlison tira el desmarque en el centro Le pone una pase medido Richarlison se va de su defensor, mete el pie G_Kobel lo para cómodamente El disparo nunca llevó peligro real",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "tot",
+      "text": "D_Solanke evita la entrada de N_Sule N_Schlotterbeck va al choque Y desplaza al delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 4 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "tot",
+      "text": "Aparece el cartel electrónico - D_Kulusevski entra por R_Bentancur y jugará de MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "tot",
+      "text": "Confirmado Hay cambio D_Udogie entrará en lugar de K_Danso. Se ubica como DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "bor",
+      "text": "K_Adeyemi se va de su marcador Lo lleva por el camino de la amargura K_Adeyemi se deshace de su marcador Buen movimiento ¡Y dispara! Al lateral de la red Ha tirado a la basura una ocasión de oro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "bor",
+      "text": "W_Anton le pega al balón con el exterior El efecto despista a la defensa, que no puede evitar que le llegue a S_Guirassy S_Guirassy le pega con dureza No ha precisado demasiado G_Vicario no va a llegar OH Sale rozando el larguero G_Vicario sonríe El que ríe último...",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "tot",
+      "text": "D_Solanke aprovecha un fallo defensivo El entrenador está abroncando a su defensa N_Schlotterbeck entra por detrás y levanta al delantero ¿(ROJA)? No El colegiado no vio ni falta",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "bor",
+      "text": "Jobe_Bellingham espera a que alguien le acompañe en ataque Levanta los brazos, nadie se desmarca Busca la individual Prepara el disparo Rebota en un defensa y cae a pies de J_Brandt J_Brandt se levanta sobre su marcador, carga el cabezazo, lo suelta... ¡Peligro! G_Vicario mete los puños y manda el cuero al centro del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "tot",
+      "text": "J_Maddison envía el esférico en profundidad. D_Solanke lo controla K_Adeyemi agarra a su rival de la camiseta Wolfgang_Stark hace sonar el silbato Wolfgang_Stark está pitando bien hoy (AMARILLA) FALTA DIRECTA Muy lejana, no creo que llegue Richarlison toca en corto D_Solanke llega como un obús desde atrás N_Sule entra zon dureza y corta el balón. Está metido en el partido",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "tot",
+      "text": "B_Johnson recibe de espalda. Se inventa un taconazo hacia D_Solanke D_Solanke suelta un disparo muy débil Se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "bor",
+      "text": "P_Gross con un pase milimétrico El balón pasa por encima de D_Solanke Y le llega a Y_Couto C_Romero llega apurado al corte y mete la pierna hacia G_Vicario ¡Ohhhh! no Ha superado a G_Vicario Rueda lentamente Fuera CÓRNER El lanzamiento va a cargo de M_Sabitzer Vuela hacia P_Gross Peina el balón hacia atrás G_Vicario está justo en el sitio exacto Pero se lanza para hacerlo más espectacular Su entrenador está de los nervios",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "tot",
+      "text": "M_Tel hace un movimiento eléctrico M_Tel suelta un cañonazo ¡Uou! Ni Oliver y Benji hacían eso Pero G_Kobel rechaza con los pies Podría haberla cogido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "bor",
+      "text": "J_Brandt se aprovecha de un error de B_Johnson Corre hacia el marco Menudo obús de J_Brandt Hala Al tercer anfiteatro Pero G_Vicario bloca el remate con mucha seguridad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "tot",
+      "text": "D_Kulusevski envía un pase desde su propio campo hacia B_Johnson Pero N_Schlotterbeck se hace con el balón Gran anticipación",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "tot",
+      "text": "D_Udogie de tacón hacia Richarlison. Gran pase N_Sule va en carrera y mete el codo El delantero va al suelo Ha sido sutil, el árbitro no lo ha visto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "bor",
+      "text": "J_Brandt engaña a M_VandeVen con una finta de cuerpo J_Brandt hace un quiebro y dispara rápidamente Pero G_Vicario alcanza el cuero con el puño Ha demostrado mucha valentía en esa acción",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "tot",
+      "text": "El defensa resbala B_Johnson se va solo N_Schlotterbeck se lanza al corte Wolfgang_Stark lo llama inmediatamente Wolfgang_Stark le hace señas. Esto no pinta bien Wolfgang_Stark charla acaloradamente con él (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "tot",
+      "text": "M_Tel se hace con el balón Y busca a B_Johnson con un pase con el exterior B_Johnson remata forzado... con la cabeza Bota mal sobre un césped demasiado mojado Pero impacta en el lateral de la red CÓRNER D_Udogie centra con fuerza al área pequeña G_Kobel mete el puño derecho y despeja el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "bor",
+      "text": "Y_Couto pica el balón por encima de la defensa hacia J_Brandt J_Brandt se va, se va, se va No hay fuera de juego Se va solo hacia G_Vicario Amaga el disparo y chuta de cuchara G_Vicario Poco preciso Fuera Creo que habían soluciones mejores",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "bor",
+      "text": "Y_Couto coge el cuero en el flanco Se deshace de M_VandeVen con una bicicleta Y pasa atrás hacia K_Adeyemi. ¡Qué jugada! K_Adeyemi se saca una bicicleta de la nada y chuta Pero el balón se pierde inofensivamente por la línea de meta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "bor",
+      "text": "K_Adeyemi encara a D_Udogie Se va con facilidad P_Porro placa a su oponente El otro día vi una acción así en la NHL",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "bor",
+      "text": "P_Gross hace una rápida pared con un compañero Sigue hacia adelante P_Gross trata de sorprender a G_Vicario G_Vicario hace una parada realmente complicada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "tot",
+      "text": "D_Solanke regatea a un rival A otro Esté en racha Y mete el pase hacia J_Maddison N_Sule levanta al delantero dos metros del suelo ¡Ay va! Qué entrada El colegiado se acerca corriendo Y le dice al delantero que no haga cuento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "bor",
+      "text": "P_Gross mete la pierna. Cortó el balón Se lo pone a S_Guirassy en el pie S_Guirassy impacta el cuero al primer toque Podría haberla parado El disparo se le escurre a G_Vicario de las manos rueda lentamente hacia el marco Pero sale a centímetros del palo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 86,
+      "teamCode": "bor",
+      "text": "K_Adeyemi gambetea a lo Maradona ¿Hará 'la mano de Diós' también? Pero B_Johnson aparece desde atrás y corta el balón El público ruge pidiendo falta. Wolfgang_Stark se hace el sueco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "bor",
+      "text": "J_Brandt cuelga arriba sobre K_Adeyemi Menudo obús de K_Adeyemi Hala Al tercer anfiteatro Chuta con muy poca precisión El balón se pierde lejos del marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "tot",
+      "text": "El defensa está presionado Se saca el balón de encima J_Maddison se va solo J_Maddison con una preciosa vaselina G_Kobel no llegará a ese balón Impacta en la madera Y se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 90,
+      "teamCode": "tot",
+      "text": "J_Maddison con el lanzamiento de la falta Observa el desmarque de su compañero P_Porro se ha zafado de su marcador P_Porro chuta sin mirar al portero Los aficionados se levantan de sus asientos El portero no se mueve Pero sale a centímetros de la escuadra G_Kobel respira aliviado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "tot",
+      "text": "D_Kulusevski se saca un pase al primer toque hacia D_Solanke de la chistera D_Solanke suelta una rabona G_Kobel mete los puños y desvía el balón",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

@@ -1,0 +1,1191 @@
+{
+  "id": "liga-regular/j13/ars_bay",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j13",
+  "roundLabel": "Jornada 13",
+  "fileName": "ars_bay.txt",
+  "homeCode": "ars",
+  "awayCode": "bay",
+  "homeTeam": "Arsenal",
+  "awayTeam": "Bayern Munich",
+  "result": {
+    "home": 3,
+    "away": 2,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Arsenal 2-1 Bayern Munich",
+  "formation": {
+    "home": "4-3-3 L",
+    "away": "4-4-2 A"
+  },
+  "referee": {
+    "name": "Mark Clattenburg",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "D_Raya",
+        "displayName": "D Raya",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "W_Saliba",
+        "displayName": "W Saliba",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "G_Magalhaes",
+        "displayName": "G Magalhaes",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "C_Mosquera",
+        "displayName": "C Mosquera",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_LewisSkelly",
+        "displayName": "M LewisSkelly",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Odegaard",
+        "displayName": "M Odegaard",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Rice",
+        "displayName": "D Rice",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Zubimendi",
+        "displayName": "M Zubimendi",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Saka",
+        "displayName": "Saka",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Isak",
+        "displayName": "A Isak",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "V_Gyokeres",
+        "displayName": "V Gyokeres",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "K_Arrizabalaga",
+        "displayName": "K Arrizabalaga",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_White",
+        "displayName": "B White",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "O_Zinchenko",
+        "displayName": "O Zinchenko",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Merino",
+        "displayName": "M Merino",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "G_Martinelli",
+        "displayName": "G Martinelli",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "L_Klanc",
+        "displayName": "L Klanc",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "S_Boey",
+        "displayName": "S Boey",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Davies",
+        "displayName": "A Davies",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Tah",
+        "displayName": "J Tah",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "H_Ito",
+        "displayName": "H Ito",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "K_Laimer",
+        "displayName": "K Laimer",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Pavlovic",
+        "displayName": "A Pavlovic",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Musiala",
+        "displayName": "J Musiala",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Diaz",
+        "displayName": "L Diaz",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Xavi_Simmons",
+        "displayName": "Xavi Simmons",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Olise",
+        "displayName": "M Olise",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Urbig",
+        "displayName": "J Urbig",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Upamecano",
+        "displayName": "D Upamecano",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Kimmich",
+        "displayName": "J Kimmich",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_DeBruyne",
+        "displayName": "K DeBruyne",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "H_Kane",
+        "displayName": "H Kane",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Arsenal",
+      "mvp": "D_Rice (Jugador del partido)",
+      "goals": "Saka (30), A_Isak (33), G_Martinelli (60)",
+      "sentOff": "N/A",
+      "booked": "G_Magalhaes (63)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Bayern Munich",
+      "mvp": "K_Laimer",
+      "goals": "A_Davies (39), K_Laimer (50)",
+      "sentOff": "N/A",
+      "booked": "A_Pavlovic (17)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 10,
+      "away": 4
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 5,
+      "away": 1
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 5,
+      "away": 3
+    },
+    {
+      "label": "Posesión",
+      "home": 47,
+      "away": 53
+    },
+    {
+      "label": "Córners",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Faltas",
+      "home": 5,
+      "away": 10
+    },
+    {
+      "label": "Entradas",
+      "home": 5,
+      "away": 7
+    },
+    {
+      "label": "Pases clave",
+      "home": 10,
+      "away": 5
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Arsenal",
+      "players": [
+        {
+          "name": "D_Raya",
+          "displayName": "D Raya",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 92,
+          "sav": 1,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Saliba",
+          "displayName": "W Saliba",
+          "position": "DF",
+          "st": 2,
+          "tk": 44,
+          "ps": 16,
+          "sh": 7,
+          "ag": 23,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Magalhaes",
+          "displayName": "G Magalhaes",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 7,
+          "ag": 22,
+          "min": 92,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "C_Mosquera",
+          "displayName": "C Mosquera",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 6,
+          "ag": 22,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_LewisSkelly",
+          "displayName": "M LewisSkelly",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 6,
+          "ag": 21,
+          "min": 92,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Odegaard",
+          "displayName": "M Odegaard",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 29,
+          "ag": 24,
+          "min": 92,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Rice",
+          "displayName": "D Rice",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 19,
+          "ag": 24,
+          "min": 92,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 5,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Zubimendi",
+          "displayName": "M Zubimendi",
+          "position": "MF",
+          "st": 2,
+          "tk": 20,
+          "ps": 41,
+          "sh": 18,
+          "ag": 22,
+          "min": 56,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Saka",
+          "displayName": "Saka",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 24,
+          "sh": 43,
+          "ag": 25,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 4,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Isak",
+          "displayName": "A Isak",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 19,
+          "sh": 43,
+          "ag": 19,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Gyokeres",
+          "displayName": "V Gyokeres",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 22,
+          "sh": 41,
+          "ag": 24,
+          "min": 56,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Arrizabalaga",
+          "displayName": "K Arrizabalaga",
+          "position": "GK",
+          "st": 37,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_White",
+          "displayName": "B White",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 19,
+          "sh": 9,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Zinchenko",
+          "displayName": "O Zinchenko",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 24,
+          "sh": 9,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Merino",
+          "displayName": "M Merino",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 26,
+          "ag": 22,
+          "min": 36,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Martinelli",
+          "displayName": "G Martinelli",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 40,
+          "ag": 24,
+          "min": 36,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Bayern Munich",
+      "players": [
+        {
+          "name": "L_Klanc",
+          "displayName": "L Klanc",
+          "position": "GK",
+          "st": 23,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 21,
+          "min": 92,
+          "sav": 2,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Boey",
+          "displayName": "S Boey",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 7,
+          "ag": 24,
+          "min": 92,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Davies",
+          "displayName": "A Davies",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 21,
+          "sh": 9,
+          "ag": 28,
+          "min": 92,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Tah",
+          "displayName": "J Tah",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 92,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Ito",
+          "displayName": "H Ito",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 62,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Laimer",
+          "displayName": "K Laimer",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 41,
+          "sh": 14,
+          "ag": 25,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Pavlovic",
+          "displayName": "A Pavlovic",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 37,
+          "sh": 12,
+          "ag": 25,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "J_Musiala",
+          "displayName": "J Musiala",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 44,
+          "sh": 21,
+          "ag": 28,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Diaz",
+          "displayName": "L Diaz",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 26,
+          "sh": 42,
+          "ag": 28,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Xavi_Simmons",
+          "displayName": "Xavi Simmons",
+          "position": "MF",
+          "st": 2,
+          "tk": 18,
+          "ps": 44,
+          "sh": 27,
+          "ag": 21,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Olise",
+          "displayName": "M Olise",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 21,
+          "sh": 41,
+          "ag": 27,
+          "min": 92,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Urbig",
+          "displayName": "J Urbig",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Upamecano",
+          "displayName": "D Upamecano",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Kimmich",
+          "displayName": "J Kimmich",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 14,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_DeBruyne",
+          "displayName": "K DeBruyne",
+          "position": "MF",
+          "st": 2,
+          "tk": 18,
+          "ps": 45,
+          "sh": 26,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Kane",
+          "displayName": "H Kane",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 45,
+          "ag": 28,
+          "min": 30,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "ars",
+      "text": "C_Mosquera encara al defensa Le tira una gambeta Pone el cuerpo para disparar Pero suelta el pase hacia Saka Corte finísimo de A_Davies Y evita el córner Está en un momento dulce",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "ars",
+      "text": "V_Gyokeres recoge el balón rebotado en la frontal Tiene hueco para el disparo La defensa sale, demasiado tarde Gran entrada a ras de suelo de J_Tah Se pierde por la línea de fondo CÓRNER D_Rice saca a la zona de peligro Saka remata de cabeza Se estrella en el larguero Controla el rebote con el pecho OHHHHHHHH Un defensa ha estado más rápido y ha enviado el balón fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "ars",
+      "text": "Saka coge el cuero en el flanco Se deshace de S_Boey con una bicicleta Y pasa atrás hacia A_Isak. ¡Qué jugada! Pierde el control del balón H_Ito despeja sin miramientos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 11,
+      "teamCode": "ars",
+      "text": "D_Rice cruza la línea de medios Ve un hueco en el flanco Mete el balón sobre la llegada de V_Gyokeres H_Ito va al suelo con los dos pies por delante Mark_Clattenburg estaba encima, pero no ha visto falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "bay",
+      "text": "K_Laimer golpea el balón hacia M_Olise M_Olise con un toque sutil ¡El balón va a puerta! Se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "ars",
+      "text": "A_Isak está desmarcado H_Ito comete la falta Se ha pasado Tiene suerte de no ser amonestado El técnico de Bayern Munich respira tranquilo El técnico de Arsenal se encara con el árbitro árbitro pidiéndole explicaciones",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "ars",
+      "text": "M_Zubimendi quiebra a H_Ito con un suave toque hacia el exterior le rompió la cintura M_Zubimendi se escapa ¡Cuidado! El disparo coge un efecto envenenado L_Klanc reacciona rápidamente y corrige su posición No va a llegar Pero sale rozando el palo L_Klanc estaba batido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "ars",
+      "text": "V_Gyokeres salta sobre la tremenda entrada de A_Davies A_Pavlovic entra y deja la pierna ¡Ohhh! Le ha dejado un recadito (AMARILLA) FALTA DIRECTA Mark_Clattenburg dice que es indirecta A_Isak juega en corto para V_Gyokeres Pero S_Boey aparece desde atrás y corta el balón",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "ars",
+      "text": "Saka hace una rapidísima bicicleta El defensa no sabe si está en el Tour o en el campo Saka dispara un verdadero obús Bota en la línea tras golpear en el travesaño El colegiado duda... mira al asistente ¡Sigan! Dice No ha dado el gol Pues parecía que había cruzado la línea",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "ars",
+      "text": "D_Rice pasa el balón a Saka Saka mete la cabeza con valentía L_Klanc está tapado. No verá el balón Qué reflejos Lo ha atrapado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "ars",
+      "text": "M_Zubimendi ve a Saka completamente solo Saka busca la vaselina... desde MEDIO CAMPO L_Klanc la saca sobre la misma línea Mark_Clattenburg para e indica... GOOOOOL El Arsenal toma la iniciativa en el luminoso Arsenal 1-0 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 33,
+      "teamCode": "ars",
+      "text": "D_Rice cambia el juego hacia A_Isak A_Isak supera a L_Klanc con una precisa vaselina L_Klanc está batido Golpea en el larguero GOOOOOL El portero solo ha podido mirárselo Arsenal 2-0 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "bay",
+      "text": "A_Davies se anticipa a su marcador Ha sido mucho más rápido M_LewisSkelly choca y envía a su oponente al suelo ¿Falta? Este árbitro lo más redondo que ha visto es un melón. Si no fue falta Mark_Clattenburg le avisa: \"Es la última vez\"",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "bay",
+      "text": "M_Olise hace una doble pared con A_Davies A_Davies prueba suerte con un disparo raso GOOOOOL Los seguidores del Bayern Munich lo celebran efusivamente Arsenal 2-1 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons pone el balón a la espalda de los centrales A_Davies se cuela desde atrás M_LewisSkelly corta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se va a añadir 1 minuto al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "bay",
+      "text": "L_Diaz se planta en la frontal del área D_Rice placa a su oponente Se marcha con una simple amonestación",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "bay",
+      "text": "A_Pavlovic tira hacia arriba G_Magalhaes ve venir el pase y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "bay",
+      "text": "K_Laimer busca el túnel ante W_Saliba El defensa mete la pierna, pero el rebote favorece a su rival K_Laimer se abre un hueco entre la defensa rival y dispara GOOOOOL ¿Pero quién es este tío, la reencarnación de Pelé? Bayern Munich ha empatado Arsenal 2-2 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "ars",
+      "text": "V_Gyokeres tira la pared con su delantero A_Isak se la queda Encara a puerta S_Boey patina por el césped... y corta el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "ars",
+      "text": "Los aficionados rugen cuando G_Martinelli substituye a V_Gyokeres para jugar de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "ars",
+      "text": "Confirmado Hay cambio M_Merino entrará en lugar de M_Zubimendi. Se ubica como MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "ars",
+      "text": "M_Merino avanza en carrera y gira súbitamente El cambio de dirección sorprendió a A_Davies M_Merino tiene tiempo y espacio ¡Dispara por bajo! Se estrella en el larguero Controla el rebote con el pecho OHHHHHHHH Un defensa ha estado más rápido y ha enviado el balón fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "bay",
+      "text": "A_Pavlovic desliza el balón entre las piernas del defensa A_Pavlovic hace una diagonal Y suelta un sorprendente disparo D_Raya está justo en el sitio exacto Pero se lanza para hacerlo más espectacular Su entrenador está de los nervios",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "ars",
+      "text": "G_Martinelli controla un balón complicadísimo Levanta la cabeza y busca el pase Pero se decide por la jugada individual G_Martinelli suelta un cañonazo. Problemas para L_Klanc OOOOHHHHH GOOOOOL Qué sangre fría Los aficionados del Arsenal enloquecen El Arsenal se pone por delante Arsenal 3-2 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "bay",
+      "text": "Los aficionados rugen cuando H_Kane substituye a H_Ito para jugar de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "bay",
+      "text": "El entrenador del Bayern Munich ordena a sus jugadores que pasen a jugar N",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "ars",
+      "text": "C_Mosquera se retuerce de dolor en el suelo Se levanta rápidamente ¿Juega a fútbol o hace teatro?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "bay",
+      "text": "J_Musiala está escorado en la banda derecha Cambia de juego hacia Xavi_Simmons G_Magalhaes llega tarde al corte Ha parecido peor de lo que realmente ha sido Los jugadores del Bayern Munich le increpan. Ay, que se arma Mark_Clattenburg le hace señas. Esto no pinta bien Mark_Clattenburg charla acaloradamente con él (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "ars",
+      "text": "D_Rice con el saque de banda Ve a un compañero solo El balón vuela hacia A_Isak A_Isak salta y pica el balón perfectamente de cabeza Vuela por encima de L_Klanc Va a puerta El portero mete la mano, ¿será suficiente? Sí, ha desviado el disparo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "ars",
+      "text": "A_Isak hace un sombrero sobre J_Tah S_Boey choca con su oponente y lo envía al césped solo puede ser falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons busca opciones Nadie le sale al apoyo Se saca el balón de encima. Va hacia H_Kane D_Rice va en carrera y mete el codo El delantero va al suelo Ha sido sutil, el árbitro no lo ha visto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "ars",
+      "text": "M_Odegaard envía un taconazo hacia M_Merino. ¡Qué lujo de jugador! J_Tah ve venir el pase y lo corta con facilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "bay",
+      "text": "El defensa hace un mal control L_Diaz está atento. Roba el cuero y prepara el disparo M_LewisSkelly se juega el físico con una entrada durísima",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "bay",
+      "text": "M_Olise recoge el rebote M_Odegaard se anticipa a la jugada y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "ars",
+      "text": "D_Rice Con un pase demasiado fuerte. C_Mosquera va a llegar C_Mosquera mete la cabeza con valentía L_Klanc hace una gran parada Pero no puede retener el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se va a añadir 1 minuto al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

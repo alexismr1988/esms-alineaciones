@@ -1,0 +1,1103 @@
+{
+  "id": "liga-regular/j19/che_ars",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j19",
+  "roundLabel": "Jornada 19",
+  "fileName": "che_ars.txt",
+  "homeCode": "che",
+  "awayCode": "ars",
+  "homeTeam": "Chelsea",
+  "awayTeam": "Arsenal",
+  "result": {
+    "home": 1,
+    "away": 0,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Chelsea 0-0 Arsenal",
+  "formation": {
+    "home": "3-6-1 L",
+    "away": "4-4-2 D"
+  },
+  "referee": {
+    "name": "Nicola Rizzoli",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "G_Slonina",
+        "displayName": "G Slonina",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "Reece_James",
+        "displayName": "Reece James",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Cucurella",
+        "displayName": "M Cucurella",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Adarabioyo",
+        "displayName": "Adarabioyo",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "C_Palmer",
+        "displayName": "C Palmer",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Caicedo",
+        "displayName": "M Caicedo",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "E_Fernandez",
+        "displayName": "E Fernandez",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Olmo",
+        "displayName": "D Olmo",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "R_Lavia",
+        "displayName": "R Lavia",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "P_Neto",
+        "displayName": "P Neto",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Nico_Williams",
+        "displayName": "Nico Williams",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "T_Chalobah",
+        "displayName": "T Chalobah",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Colwill",
+        "displayName": "Colwill",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Badiashile",
+        "displayName": "B Badiashile",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "C_Disasi",
+        "displayName": "C Disasi",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "C_Nkunku",
+        "displayName": "C Nkunku",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "K_Arrizabalaga",
+        "displayName": "K Arrizabalaga",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "W_Saliba",
+        "displayName": "W Saliba",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "G_Magalhaes",
+        "displayName": "G Magalhaes",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "C_Mosquera",
+        "displayName": "C Mosquera",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_LewisSkelly",
+        "displayName": "M LewisSkelly",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Odegaard",
+        "displayName": "M Odegaard",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Rice",
+        "displayName": "D Rice",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Zubimendi",
+        "displayName": "M Zubimendi",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Merino",
+        "displayName": "M Merino",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Saka",
+        "displayName": "Saka",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Isak",
+        "displayName": "A Isak",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "B_White",
+        "displayName": "B White",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "O_Zinchenko",
+        "displayName": "O Zinchenko",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Timber",
+        "displayName": "J Timber",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Vieira",
+        "displayName": "F Vieira",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "V_Gyokeres",
+        "displayName": "V Gyokeres",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Chelsea",
+      "mvp": "M_Cucurella (Jugador del partido)",
+      "goals": "C_Nkunku (91)",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "N/A"
+    },
+    {
+      "team": "Arsenal",
+      "mvp": "W_Saliba",
+      "goals": "N/A",
+      "sentOff": "C_Mosquera (85)",
+      "booked": "M_Odegaard (49)",
+      "injured": "W_Saliba (64)"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 2,
+      "away": 0
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Posesión",
+      "home": 48,
+      "away": 52
+    },
+    {
+      "label": "Córners",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 1
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 0,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 3
+    },
+    {
+      "label": "Faltas",
+      "home": 3,
+      "away": 7
+    },
+    {
+      "label": "Entradas",
+      "home": 4,
+      "away": 6
+    },
+    {
+      "label": "Pases clave",
+      "home": 8,
+      "away": 4
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Chelsea",
+      "players": [
+        {
+          "name": "G_Slonina",
+          "displayName": "G Slonina",
+          "position": "GK",
+          "st": 25,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 17,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Reece_James",
+          "displayName": "Reece James",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 17,
+          "sh": 7,
+          "ag": 18,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Cucurella",
+          "displayName": "M Cucurella",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 18,
+          "sh": 21,
+          "ag": 20,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Adarabioyo",
+          "displayName": "Adarabioyo",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 8,
+          "sh": 7,
+          "ag": 21,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Palmer",
+          "displayName": "C Palmer",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 44,
+          "sh": 33,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Caicedo",
+          "displayName": "M Caicedo",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 43,
+          "sh": 16,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Fernandez",
+          "displayName": "E Fernandez",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 41,
+          "sh": 9,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Olmo",
+          "displayName": "D Olmo",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 19,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Lavia",
+          "displayName": "R Lavia",
+          "position": "MF",
+          "st": 2,
+          "tk": 28,
+          "ps": 39,
+          "sh": 14,
+          "ag": 20,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Neto",
+          "displayName": "P Neto",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 22,
+          "sh": 39,
+          "ag": 21,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Nico_Williams",
+          "displayName": "Nico Williams",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 18,
+          "sh": 42,
+          "ag": 20,
+          "min": 56,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Chalobah",
+          "displayName": "T Chalobah",
+          "position": "GK",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 7,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Colwill",
+          "displayName": "Colwill",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 17,
+          "sh": 7,
+          "ag": 18,
+          "min": 49,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Badiashile",
+          "displayName": "B Badiashile",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 7,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Disasi",
+          "displayName": "C Disasi",
+          "position": "MF",
+          "st": 2,
+          "tk": 37,
+          "ps": 16,
+          "sh": 7,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Nkunku",
+          "displayName": "C Nkunku",
+          "position": "FW",
+          "st": 2,
+          "tk": 19,
+          "ps": 13,
+          "sh": 41,
+          "ag": 21,
+          "min": 38,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Arsenal",
+      "players": [
+        {
+          "name": "K_Arrizabalaga",
+          "displayName": "K Arrizabalaga",
+          "position": "GK",
+          "st": 37,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 94,
+          "sav": 1,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Saliba",
+          "displayName": "W Saliba",
+          "position": "DF",
+          "st": 2,
+          "tk": 44,
+          "ps": 16,
+          "sh": 7,
+          "ag": 23,
+          "min": 65,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Magalhaes",
+          "displayName": "G Magalhaes",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 7,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Mosquera",
+          "displayName": "C Mosquera",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 6,
+          "ag": 22,
+          "min": 86,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "M_LewisSkelly",
+          "displayName": "M LewisSkelly",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 6,
+          "ag": 21,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Odegaard",
+          "displayName": "M Odegaard",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 29,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "D_Rice",
+          "displayName": "D Rice",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 19,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Zubimendi",
+          "displayName": "M Zubimendi",
+          "position": "MF",
+          "st": 2,
+          "tk": 20,
+          "ps": 41,
+          "sh": 18,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Merino",
+          "displayName": "M Merino",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 26,
+          "ag": 22,
+          "min": 56,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Saka",
+          "displayName": "Saka",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 24,
+          "sh": 43,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Isak",
+          "displayName": "A Isak",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 19,
+          "sh": 43,
+          "ag": 19,
+          "min": 66,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_White",
+          "displayName": "B White",
+          "position": "GK",
+          "st": 2,
+          "tk": 36,
+          "ps": 19,
+          "sh": 9,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Zinchenko",
+          "displayName": "O Zinchenko",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 24,
+          "sh": 9,
+          "ag": 22,
+          "min": 29,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Timber",
+          "displayName": "J Timber",
+          "position": "DF",
+          "st": 2,
+          "tk": 31,
+          "ps": 19,
+          "sh": 9,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Vieira",
+          "displayName": "F Vieira",
+          "position": "MF",
+          "st": 2,
+          "tk": 20,
+          "ps": 39,
+          "sh": 18,
+          "ag": 22,
+          "min": 38,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Gyokeres",
+          "displayName": "V Gyokeres",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 22,
+          "sh": 41,
+          "ag": 24,
+          "min": 28,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "ars",
+      "text": "Saka se aprovecha de un error de Reece_James ¿Lo aprovechará? M_Cucurella despeja el balón con un verdadero cirio. Esa va a caer con nieve",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "che",
+      "text": "D_Olmo escupe a W_Saliba Eso le puede costar muy caro Se marcha con una simple amonestación",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "che",
+      "text": "M_Caicedo recoge el balón muerto y arranca hacia la portería W_Saliba se lanza hacia su oponente Y toca el balón Que clase",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "che",
+      "text": "Adarabioyo se interna Le hace dos bicicletas a M_LewisSkelly Lo ha roto. Centra a E_Fernandez M_Odegaard va en carrera y mete el codo El delantero va al suelo Ha sido sutil, el árbitro no lo ha visto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 23,
+      "teamCode": "che",
+      "text": "C_Palmer se hace con el balón Y busca a M_Cucurella con un pase con el exterior Pero M_LewisSkelly corta el ataque con mucha sobriedad CÓRNER P_Neto con un peligroso lanzamiento al segundo palo K_Arrizabalaga mete el puño derecho y despeja el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "che",
+      "text": "D_Olmo con el lanzamiento de la falta Observa el desmarque de su compañero P_Neto se ha zafado de su marcador M_Zubimendi entra zon dureza y corta el balón. Está metido en el partido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "che",
+      "text": "Reece_James salta sobre la tremenda entrada de D_Rice Se lleva el balón y sigue con la pierna pegada al cuerpo Pierde el control del balón W_Saliba despeja sin miramientos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se va a añadir 1 minuto al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "ars",
+      "text": "M_Zubimendi con un pase muy fuerte para A_Isak Pero M_Caicedo se anticipa a la jugada. Qué sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "che",
+      "text": "Colwill entra y Adarabioyo se va la ducha antes de tiempo Todo apunta a que se ubicará en DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "che",
+      "text": "Nico_Williams se ofrece, está solo M_Odegaard entra con los tacos por delante Nicola_Rizzoli lo llama inmediatamente Ay, ay, ay Podría ser expulsado por eso (AMARILLA) Los jugadores rivales increpan al árbitro",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "che",
+      "text": "C_Nkunku está a punto para pisar el césped. Entrará por Nico_Williams Todo apunta a que jugará de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "ars",
+      "text": "F_Vieira sustituye a M_Merino en la posición de MF",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "ars",
+      "text": "W_Saliba ve perfectamente el desmarque de M_Odegaard Falla en el control y M_Caicedo no desaprovecha el regalo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "ars",
+      "text": "W_Saliba está renqueante. Se prepara el cambio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "ars",
+      "text": "O_Zinchenko entrará en el campo. Está impaciente por demostrar su clase W_Saliba se marcha en su lugar No acaba de estar del todo satisfecho consigo mismo Su compañero jugará de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "ars",
+      "text": "La grada ruge cuando V_Gyokeres substituye a A_Isak para jugar de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "che",
+      "text": "C_Nkunku envía el esférico en profundidad. P_Neto lo controla D_Rice corta el juego con una falta táctica ¿Y ahora qué? ¿Amarilla? Se marcha con una simple amonestación ¿Se habrá dejado las tarjetas en el vestuario?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "ars",
+      "text": "D_Rice envía un pase desde su propio campo hacia Saka Colwill entra con los tacos por delante \"ASESINO, ASESINO, ASESINO\" ruge el estadio Nicola_Rizzoli le pega una sonora reprimenda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "ars",
+      "text": "C_Mosquera con un pase entre los centrales Saka aparece con velocidad desde atrás E_Fernandez va en carrera y agarra al delantero por la camiseta Falta El árbitro no lo ha visto El defensa sonríe El delantero pone cara de incredulidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "che",
+      "text": "D_Olmo centra desde la banda, encuentra a C_Nkunku en el área C_Mosquera entra zon dureza y corta el balón. Está metido en el partido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "che",
+      "text": "R_Lavia centra desde la banda, encuentra a C_Nkunku en el área C_Mosquera corta limpiamente el balón Suena el silbato Se ha equivocado (ROJA) Ha recibido un duro castigo por su acción",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "che",
+      "text": "M_Cucurella controla el cuero con calidad Mete un pase al centro C_Nkunku es el destinatario Preciso cabezazo de C_Nkunku K_Arrizabalaga resbala GOOOOOL K_Arrizabalaga está avergonzado. No es para menos Qué oportuno Ha dejado el partido visto para sentencia Chelsea 1-0 Arsenal ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "che",
+      "text": "D_Olmo avanza con el balón controlado Ve a un compañero completamente solo Juega el balón hacia él R_Lavia llega al balón R_Lavia empalma el balón a la perfección Bota en la línea tras golpear en el travesaño El colegiado duda... mira al asistente ¡Sigan! Dice No ha dado el gol Pues parecía que había cruzado la línea",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

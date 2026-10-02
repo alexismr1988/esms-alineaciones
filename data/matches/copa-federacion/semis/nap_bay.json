@@ -1,0 +1,1317 @@
+{
+  "id": "copa-federacion/semis/nap_bay",
+  "competitionId": "copa-federacion",
+  "competitionLabel": "Copa Federación",
+  "roundId": "semis",
+  "roundLabel": "Semifinales",
+  "fileName": "nap_bay.txt",
+  "homeCode": "nap",
+  "awayCode": "bay",
+  "homeTeam": "Napoles",
+  "awayTeam": "Bayern Munich",
+  "result": {
+    "home": 5,
+    "away": 1,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Napoles 4-0 Bayern Munich",
+  "formation": {
+    "home": "4-1-3-2 C",
+    "away": "4-1-3-1-1 P"
+  },
+  "referee": {
+    "name": "Pierluigi Collina",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "A_Meret",
+        "displayName": "A Meret",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "A_Buongiorno",
+        "displayName": "A Buongiorno",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "G_DiLorenzo",
+        "displayName": "G DiLorenzo",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Kim",
+        "displayName": "M Kim",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Gutierrez",
+        "displayName": "M Gutierrez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "S_Lobotka",
+        "displayName": "S Lobotka",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "S_McTominay",
+        "displayName": "S McTominay",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Goretzka",
+        "displayName": "L Goretzka",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Politano",
+        "displayName": "M Politano",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "S_Gnabry",
+        "displayName": "S Gnabry",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "K_Kvaratskhelia",
+        "displayName": "K Kvaratskhelia",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "V_Milinkovic",
+        "displayName": "V Milinkovic",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Oliveira",
+        "displayName": "M Oliveira",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Gilmour",
+        "displayName": "B Gilmour",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "R_Lukaku",
+        "displayName": "R Lukaku",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "R_KoloMuani",
+        "displayName": "R KoloMuani",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "M_Neuer",
+        "displayName": "M Neuer",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "J_Stanisic",
+        "displayName": "J Stanisic",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Davies",
+        "displayName": "A Davies",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Upamecano",
+        "displayName": "D Upamecano",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "H_Ito",
+        "displayName": "H Ito",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Kimmich",
+        "displayName": "J Kimmich",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "K_Laimer",
+        "displayName": "K Laimer",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Pavlovic",
+        "displayName": "A Pavlovic",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "H_Kane",
+        "displayName": "H Kane",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Musiala",
+        "displayName": "J Musiala",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "K_DeBruyne",
+        "displayName": "K DeBruyne",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "J_Urbig",
+        "displayName": "J Urbig",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "S_Boey",
+        "displayName": "S Boey",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "P_Wanner",
+        "displayName": "P Wanner",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Olise",
+        "displayName": "M Olise",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_Diaz",
+        "displayName": "L Diaz",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Napoles",
+      "mvp": "S_McTominay (Jugador del partido)",
+      "goals": "S_McTominay (8,17,20), M_Gutierrez (15), K_Kvaratskhelia (90 pen)",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "N/A"
+    },
+    {
+      "team": "Bayern Munich",
+      "mvp": "H_Kane",
+      "goals": "A_Pavlovic (56)",
+      "sentOff": "N/A",
+      "booked": "K_DeBruyne (57)",
+      "injured": "D_Upamecano (20), K_DeBruyne (93)"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 23,
+      "away": 9
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 6,
+      "away": 0
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 17,
+      "away": 9
+    },
+    {
+      "label": "Posesión",
+      "home": 57,
+      "away": 43
+    },
+    {
+      "label": "Córners",
+      "home": 5,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 0,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 1,
+      "away": 3
+    },
+    {
+      "label": "Faltas",
+      "home": 9,
+      "away": 5
+    },
+    {
+      "label": "Entradas",
+      "home": 7,
+      "away": 5
+    },
+    {
+      "label": "Pases clave",
+      "home": 12,
+      "away": 9
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Napoles",
+      "players": [
+        {
+          "name": "A_Meret",
+          "displayName": "A Meret",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 19,
+          "min": 95,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Buongiorno",
+          "displayName": "A Buongiorno",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 7,
+          "ag": 21,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_DiLorenzo",
+          "displayName": "G DiLorenzo",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 31,
+          "sh": 12,
+          "ag": 21,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Kim",
+          "displayName": "M Kim",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Gutierrez",
+          "displayName": "M Gutierrez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 27,
+          "sh": 9,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Lobotka",
+          "displayName": "S Lobotka",
+          "position": "DM",
+          "st": 2,
+          "tk": 27,
+          "ps": 41,
+          "sh": 14,
+          "ag": 21,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_McTominay",
+          "displayName": "S McTominay",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 42,
+          "sh": 29,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 5,
+          "gls": 3,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Goretzka",
+          "displayName": "L Goretzka",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 42,
+          "sh": 16,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Politano",
+          "displayName": "M Politano",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 40,
+          "sh": 20,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 1,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Gnabry",
+          "displayName": "S Gnabry",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 41,
+          "ag": 27,
+          "min": 77,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Kvaratskhelia",
+          "displayName": "K Kvaratskhelia",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 31,
+          "sh": 40,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 5,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Milinkovic",
+          "displayName": "V Milinkovic",
+          "position": "GK",
+          "st": 30,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Oliveira",
+          "displayName": "M Oliveira",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 28,
+          "sh": 12,
+          "ag": 20,
+          "min": 18,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Gilmour",
+          "displayName": "B Gilmour",
+          "position": "MF",
+          "st": 2,
+          "tk": 25,
+          "ps": 38,
+          "sh": 14,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Lukaku",
+          "displayName": "R Lukaku",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 20,
+          "sh": 41,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_KoloMuani",
+          "displayName": "R KoloMuani",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 28,
+          "sh": 41,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Bayern Munich",
+      "players": [
+        {
+          "name": "M_Neuer",
+          "displayName": "M Neuer",
+          "position": "GK",
+          "st": 43,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 95,
+          "sav": 13,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Stanisic",
+          "displayName": "J Stanisic",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 7,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Davies",
+          "displayName": "A Davies",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 21,
+          "sh": 9,
+          "ag": 28,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Upamecano",
+          "displayName": "D Upamecano",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 20,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Ito",
+          "displayName": "H Ito",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Kimmich",
+          "displayName": "J Kimmich",
+          "position": "DM",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 14,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Laimer",
+          "displayName": "K Laimer",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 41,
+          "sh": 14,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Pavlovic",
+          "displayName": "A Pavlovic",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 37,
+          "sh": 12,
+          "ag": 25,
+          "min": 67,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Kane",
+          "displayName": "H Kane",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 45,
+          "ag": 28,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 6,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Musiala",
+          "displayName": "J Musiala",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 44,
+          "sh": 21,
+          "ag": 28,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_DeBruyne",
+          "displayName": "K DeBruyne",
+          "position": "AM",
+          "st": 2,
+          "tk": 18,
+          "ps": 45,
+          "sh": 26,
+          "ag": 20,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "J_Urbig",
+          "displayName": "J Urbig",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Boey",
+          "displayName": "S Boey",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 7,
+          "ag": 24,
+          "min": 75,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Wanner",
+          "displayName": "P Wanner",
+          "position": "AM",
+          "st": 2,
+          "tk": 14,
+          "ps": 36,
+          "sh": 14,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Olise",
+          "displayName": "M Olise",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 21,
+          "sh": 41,
+          "ag": 27,
+          "min": 28,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Diaz",
+          "displayName": "L Diaz",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 26,
+          "sh": 42,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "nap",
+      "text": "S_McTominay cambia de dirección Ve a un compañero desdoblándolo Le cede el cuero a S_Gnabry, que va lanzado en carrera S_Gnabry coloca el balón al palo largo Fuera Menos fuerza y más puntería chico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "nap",
+      "text": "S_McTominay evita la entrada de J_Stanisic S_McTominay tiene la portería entre ceja y ceja GOOOOOL Los aficionados enloquecen El Napoles se coloca por delante Napoles 1-0 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "bay",
+      "text": "J_Kimmich llega el priimero al balóm suelto Y lo mete en profundidad hacia H_Kane K_Kvaratskhelia se lanza hacia su oponente Y toca el balón Que clase",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "bay",
+      "text": "K_Laimer ubica el balón a la espalda de la defensa. H_Kane busca el desmarque H_Kane trata de sorprender al portero Está muy adelantado Pero A_Meret alcanza el cuero con el puño Ha demostrado mucha valentía en esa acción",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 13,
+      "teamCode": "nap",
+      "text": "M_Politano se hace con el balón suelto M_Politano busca la escuadra derecha Pero M_Neuer desvía el lanzamiento Pierluigi_Collina da saque de puerta ¿Algún oculista en la grada? Es urgente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "nap",
+      "text": "S_Gnabry en un arranque de verticalidad S_Gnabry impacta el cuero al primer toque M_Neuer cierra el ángulo y atrapa la pelota con facilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "nap",
+      "text": "M_Gutierrez está desmarcado M_Gutierrez se escapa ¡Cuidado! Pega en la madera Y en la espalda de M_Neuer GOOOOOL Los jugadores del Bayern Munich miran desolados a su portero Napoles 2-0 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "nap",
+      "text": "S_McTominay encara a D_Upamecano Se va con facilidad Punterazo endiablado de S_McTominay GOOOOOL Lo celebra corriendo hacia el banquillo Y se abraza a un eufórico El entrenador de Napoles Napoles 3-0 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "bay",
+      "text": "K_DeBruyne llega el primero al balón Abre a la banda sobre J_Musiala Pierde el control del balón G_DiLorenzo despeja sin miramientos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "nap",
+      "text": "M_Politano volea el cuero. Va directo hacia S_McTominay S_McTominay tiene una oportunidad de oro M_Neuer desvía el balón con el guante izquierdo Pero el rebote le cae al delantero GOOOOOL Y es su hat trick Los jugadores del Napoles lo felicitan Napoles 4-0 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "bay",
+      "text": "D_Upamecano se toca el tobillo Pide urgentemente que le atienda el médico Nada que hacer Cambio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "bay",
+      "text": "Confirmado Hay cambio S_Boey entrará en lugar de D_Upamecano. Se ubica como DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "bay",
+      "text": "H_Kane pierde el balón, pero mete el pie... y se lo lleva Pero S_Lobotka está muy metido en el partido y le roba la cartera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 23,
+      "teamCode": "nap",
+      "text": "S_Lobotka llega al área, prepara el disparo... Pero en su lugar pasa hacia G_DiLorenzo. ¡Qué calidad! K_DeBruyne se hace con el balón Y lo manda hacia arriba",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "nap",
+      "text": "G_DiLorenzo controla el balón y encara a J_Kimmich. ¡Qué regate! G_DiLorenzo le pega con dureza No ha precisado demasiado Pero se las arregla para fallar Los aficionados del Bayern Munich se ríen de él",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 27,
+      "teamCode": "bay",
+      "text": "A_Pavlovic se cuela por la banda Quiebra a S_McTominay en velocidad Mete un pase raso hacia H_Kane Interceptada por M_Gutierrez",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "nap",
+      "text": "S_Gnabry controla el cuero. ¡Uau! Qué detalle Busca el pase Pero rebote en un defensa y lea cae limpia. Se va solo S_Gnabry busca la red M_Neuer mira horrorizado el terrible disparo Va a la escuadra Pega en el palo Rebota en la espalda del portero Y sale fuera M_Neuer besa su palo. No es para menos CÓRNER El lanzamiento va a cargo de L_Goretzka K_Kvaratskhelia llega al centro Dispara excesivamente alto Está horrorizado por lo que falló No es para menos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "bay",
+      "text": "H_Kane quiebra a A_Buongiorno con un suave toque hacia el exterior le rompió la cintura H_Kane chuta con el interior A_Meret hace una gran parada Pero no puede retener el balón Lo atrapa en el segundo intento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 33,
+      "teamCode": "nap",
+      "text": "M_Gutierrez busca algún apoyo Ojo Casi pierde el balón en una zona peligrosa Pero consigue meter el pase para S_Gnabry S_Gnabry remata forzado... con la rodilla M_Neuer está tapado. No ve venir el balón Reacciona rápidamente Y desvía el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "bay",
+      "text": "H_Kane hace un tremendo control en el línea de medios Corre hacia el área y nadie le sale al paso Los centrales salen demasiado tarde, va a chutar H_Kane se levanta sobre su marcador, carga el cabezazo, lo suelta... ¡Peligro! A_Meret mete los puños y desvía el balón Buena parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "bay",
+      "text": "K_DeBruyne en carrera Le hace un túnel a S_Lobotka Ui, le ha soltado el pie Si lo pilla... A_Buongiorno se interpone entre el delantero y el balón. Ha ganado la posición",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "bay",
+      "text": "K_DeBruyne supera a K_Kvaratskhelia El defensa está viviendo una pesadilla K_DeBruyne hace un quiebro y dispara rápidamente A_Meret hinca la rodilla en el suelo y despeja Ei Eso es estilo argentino",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "nap",
+      "text": "S_McTominay encara al defensa J_Stanisic mete la pierna, pero el rebote favorece al atacante Fue un golpe de suerte, pero continúa hacia adelante S_McTominay mira fijamente al marco ¡Dispara! M_Neuer llega con la punta de los dedos al balón y sale rozando el palo CÓRNER G_DiLorenzo centra con fuerza al área pequeña M_Neuer se eleva entre los contrarios y caza el centro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "nap",
+      "text": "M_Politano acelera por la banda derecha Hace la pared con el delantero Quiebra al lateral K_Kvaratskhelia se la pide dentro del área Le pone el balón en el pie ¡Qué pase! H_Ito entra con todo... y se lleva el balón limpiamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "nap",
+      "text": "S_Lobotka retrocede ante la presión Golpea el balón hacia arriba sin sentido y le cae a M_Politano Ha sacado petróleo de esa jugada A_Pavlovic corta la jugada con un cabezazo en plancha",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "nap",
+      "text": "L_Goretzka pone el balón a la espalda de los centrales K_Kvaratskhelia se cuela desde atrás K_Kvaratskhelia se deshace de su marcador Buen movimiento ¡Y dispara! Pero M_Neuer alcanza el cuero con el puño Tuvo suerte de llegar a ese disparo",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "bay",
+      "text": "H_Kane sale lanzado por el carril M_Gutierrez intenta cortar su avance con una entrada a ras de suelo El delantero salta por encima ¡Qué reflejos! H_Kane suelta un terrible disparo por debajo de las piernas de su marcador A_Meret palmea a córner Pierluigi_Collina pita saque de puerta Increíble",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "nap",
+      "text": "K_Kvaratskhelia despista a J_Stanisic con una rapidísima bicicleta. ¿Es futbolista o Lance Armstrong? K_Kvaratskhelia saca un disparo durísimo desde lejos M_Neuer alcanza el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "nap",
+      "text": "K_Kvaratskhelia busca el túnel ante S_Boey El defensa mete la pierna, pero el rebote favorece a su rival K_Kvaratskhelia con un tremendo disparo Golpea en el larguero Bota hacia abajo M_Neuer la atrapa Evitó el gol Parte de la grada reclama el tanto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "bay",
+      "text": "S_Boey conecta con J_Kimmich. Qué entendimiento hay entre ambos J_Kimmich suelta un disparo con el exterior del pie A_Meret alcanza el cuero. Buena parada El árbitro pita falta sobre A_Meret , de todas maneras",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "bay",
+      "text": "J_Musiala tiene que retroceder Está presionado, se saca el balón de encima A_Pavlovic gana el salto A_Pavlovic mira fijamente al marco ¡Dispara! A_Meret la saca sobre la misma línea Pierluigi_Collina para e indica... GOOOOOL Napoles 4-1 Bayern Munich ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "nap",
+      "text": "M_Gutierrez supera al defensa Pero H_Ito está muy metido en el partido y le roba la cartera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "nap",
+      "text": "S_Lobotka se va en un palmo de terreno K_DeBruyne debería levantar el pie del acelerador. Se está jugando la roja Ve la (AMARILLA) Sus compañeros cuestionan la rigurosa decisión arbitral",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "bay",
+      "text": "K_DeBruyne se abre a la banda y cambie el juego hacia J_Kimmich S_Gnabry salta de cabeza con su rival Falta, le ha impedido saltar Pierluigi_Collina simplemente lo avisa. Se ha quedado descansado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "nap",
+      "text": "K_Kvaratskhelia va al choque con el defensa Ambos caen al suelo Pero el delantero se levanta antes y coge el balón K_Kvaratskhelia impacta el balón con dureza M_Neuer la desvía a centímetros del palo Muy buena parada CÓRNER S_McTominay centra con fuerza al área pequeña G_DiLorenzo remata de cabeza Pero M_Neuer manda el balón fuera Pierluigi_Collina marcará el córner El asistente le marca córner Pues vaya ayuda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "bay",
+      "text": "M_Olise sustituye a un descontento A_Pavlovic para jugar de FW",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "bay",
+      "text": "El entrenador del Bayern Munich ordena a sus jugadores que pasen a jugar A",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "bay",
+      "text": "K_DeBruyne encara al defensa Le tira una gambeta Pone el cuerpo para disparar Pero suelta el pase hacia H_Kane S_McTominay le mete el codo Suena el siblato... falta Pierluigi_Collina le pega una sonora reprimenda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "nap",
+      "text": "S_Gnabry para el balón con el pecho Lo pisa, levanta la cabeza y pasa Madre mía, eso es de manual L_Goretzka recibe un pase medido Ojo que tiene espacio L_Goretzka busca el disparo Pega en el muslo de un defensa Y sale a centímetros de la escuadra CÓRNER S_Lobotka impacta el cuero con el interior del pie El centro es despejado S_Boey",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "bay",
+      "text": "H_Kane gana metros H_Kane con un tremendo disparo A_Meret se saca una espectacular parada Su capitán lo felicita por esa intervención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "nap",
+      "text": "M_Politano supera a S_Boey Tiene mucho espacio M_Politano suelta un terrible disparo por debajo de las piernas de su marcador M_Neuer llega con la punta de los dedos al balón y sale rozando el palo Qué gran intervención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "bay",
+      "text": "H_Kane en carrera Le hace un túnel a M_Politano Ui, le ha soltado el pie Si lo pilla... H_Kane con un toque de maestro Pero A_Meret se saca de la manga la parada del partido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "nap",
+      "text": "S_Lobotka baja el balón con un cabezazo hacia G_DiLorenzo G_DiLorenzo ve a M_Neuer adelantado M_Neuer está tapado. No ve venir el balón Reacciona rápidamente Y desvía el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "nap",
+      "text": "M_Oliveira entra y S_Gnabry se va la ducha antes de tiempo Todo apunta a que se ubicará en DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "nap",
+      "text": "Napoles reestructura sus filas y ahora va a jugar D",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "nap",
+      "text": "M_Kim con un pase largo M_Politano M_Politano solo tiene una cosa en la cabeza: el GOL ¡Suelta un potente latigazo! M_Neuer se las apaña para meter los guantes",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "nap",
+      "text": "A_Buongiorno retrocede ante la presión Golpea el balón hacia arriba sin sentido y le cae a M_Politano Ha sacado petróleo de esa jugada S_Boey va al choque Y se lleva el cuero. El delantero no sabe si ha sido un contrario o un tren de mercancías",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "bay",
+      "text": "M_Olise hace una bicicleta S_Lobotka cae al suelo Lo ha ridiculizado M_Gutierrez se recompone y mete el pie",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 90,
+      "teamCode": "bay",
+      "text": "J_Musiala conduce por la línea de medios Pasa hacia M_Olise M_Oliveira se lleva por delante a su rival PENALT No El colegiado da saque de puerta Se buscan gafas para el árbitro Urgente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 90,
+      "teamCode": "nap",
+      "text": "K_Kvaratskhelia se anticipa a su marcador M_Neuer corta limpiamente el balón Suena el silbato Se ha equivocado ¡PENALTI! K_Kvaratskhelia mira fijamente al portero M_Neuer vuela GOOOOOL Poco podía hacer el portero ante un lanzamiento así Napoles 5-1 Bayern Munich...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "nap",
+      "text": "M_Politano está escorado en la banda derecha Cambia de juego hacia S_McTominay Logra meter la plaanta del pie S_McTominay El disparo agarra un efecto endiablado M_Neuer reacciona con velocidad No va a llegar Se cuela Pero un defensa se lanza en plancha y mete el cuerpo CÓRNER Picado por G_DiLorenzo A_Davies sale al corte Y llega el primero al balón. Buenos reflejos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 93,
+      "teamCode": "bay",
+      "text": "K_DeBruyne hace ostensibles gestos de dolor. Habrá cambio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 93,
+      "teamCode": "bay",
+      "text": "El ayudante del entrenador llama a P_Wanner K_DeBruyne va a ser sustituído Aplaude al público Su sustituto se ubica en AM",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

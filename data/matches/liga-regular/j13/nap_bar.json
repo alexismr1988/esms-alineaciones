@@ -1,0 +1,1324 @@
+{
+  "id": "liga-regular/j13/nap_bar",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j13",
+  "roundLabel": "Jornada 13",
+  "fileName": "nap_bar.txt",
+  "homeCode": "nap",
+  "awayCode": "bar",
+  "homeTeam": "Napoles",
+  "awayTeam": "FC Barcelona",
+  "result": {
+    "home": 2,
+    "away": 6,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Napoles 0-3 FC Barcelona",
+  "formation": {
+    "home": "4-1-3-1-1 C",
+    "away": "4-1-2-1-2 E"
+  },
+  "referee": {
+    "name": "Nicola Rizzoli",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "A_Meret",
+        "displayName": "A Meret",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "A_Buongiorno",
+        "displayName": "A Buongiorno",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Gutierrez",
+        "displayName": "M Gutierrez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Oliveira",
+        "displayName": "M Oliveira",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "G_DiLorenzo",
+        "displayName": "G DiLorenzo",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "F_Anguissa",
+        "displayName": "F Anguissa",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "S_Lobotka",
+        "displayName": "S Lobotka",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Goretzka",
+        "displayName": "L Goretzka",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Gilmour",
+        "displayName": "B Gilmour",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "S_McTominay",
+        "displayName": "S McTominay",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "R_Lukaku",
+        "displayName": "R Lukaku",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "V_Milinkovic",
+        "displayName": "V Milinkovic",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Kim",
+        "displayName": "M Kim",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Politano",
+        "displayName": "M Politano",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Neres",
+        "displayName": "D Neres",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "R_KoloMuani",
+        "displayName": "R KoloMuani",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "M_TerStegen",
+        "displayName": "M TerStegen",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "P_Cubarsi",
+        "displayName": "P Cubarsi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Fofana",
+        "displayName": "W Fofana",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Guehi",
+        "displayName": "Guehi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Kounde",
+        "displayName": "J Kounde",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Estevao",
+        "displayName": "Estevao",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "F_DeJong",
+        "displayName": "F DeJong",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Pedri",
+        "displayName": "Pedri",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Yamal",
+        "displayName": "L Yamal",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "R_Lewandowski",
+        "displayName": "R Lewandowski",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "F_Torres",
+        "displayName": "F Torres",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Grimaldo",
+        "displayName": "Grimaldo",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "W_Szczesny",
+        "displayName": "W Szczesny",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Casado",
+        "displayName": "M Casado",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Lopez",
+        "displayName": "F Lopez",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Rashford",
+        "displayName": "M Rashford",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Napoles",
+      "mvp": "S_Lobotka",
+      "goals": "S_Lobotka (73), M_Politano (84)",
+      "sentOff": "A_Buongiorno (46)",
+      "booked": "R_KoloMuani (61)",
+      "injured": "N/A"
+    },
+    {
+      "team": "FC Barcelona",
+      "mvp": "R_Lewandowski (Jugador del partido)",
+      "goals": "L_Yamal (16), R_Lewandowski (25,34,61,88), F_Torres (80)",
+      "sentOff": "N/A",
+      "booked": "F_Torres (40), W_Fofana (46), Guehi (94)",
+      "injured": "F_DeJong (75)"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 11,
+      "away": 20
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 3,
+      "away": 8
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 8,
+      "away": 12
+    },
+    {
+      "label": "Posesión",
+      "home": 47,
+      "away": 53
+    },
+    {
+      "label": "Córners",
+      "home": 3,
+      "away": 8
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 3
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Faltas",
+      "home": 6,
+      "away": 8
+    },
+    {
+      "label": "Entradas",
+      "home": 8,
+      "away": 6
+    },
+    {
+      "label": "Pases clave",
+      "home": 13,
+      "away": 20
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Napoles",
+      "players": [
+        {
+          "name": "A_Meret",
+          "displayName": "A Meret",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 19,
+          "min": 95,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Buongiorno",
+          "displayName": "A Buongiorno",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 7,
+          "ag": 21,
+          "min": 46,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "M_Gutierrez",
+          "displayName": "M Gutierrez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 27,
+          "sh": 9,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 5,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Oliveira",
+          "displayName": "M Oliveira",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 28,
+          "sh": 12,
+          "ag": 20,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_DiLorenzo",
+          "displayName": "G DiLorenzo",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 31,
+          "sh": 12,
+          "ag": 21,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Anguissa",
+          "displayName": "F Anguissa",
+          "position": "DM",
+          "st": 2,
+          "tk": 29,
+          "ps": 38,
+          "sh": 16,
+          "ag": 21,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Lobotka",
+          "displayName": "S Lobotka",
+          "position": "MF",
+          "st": 2,
+          "tk": 27,
+          "ps": 41,
+          "sh": 14,
+          "ag": 21,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Goretzka",
+          "displayName": "L Goretzka",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 42,
+          "sh": 16,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Gilmour",
+          "displayName": "B Gilmour",
+          "position": "MF",
+          "st": 2,
+          "tk": 25,
+          "ps": 38,
+          "sh": 14,
+          "ag": 21,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_McTominay",
+          "displayName": "S McTominay",
+          "position": "AM",
+          "st": 2,
+          "tk": 19,
+          "ps": 42,
+          "sh": 29,
+          "ag": 22,
+          "min": 61,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Lukaku",
+          "displayName": "R Lukaku",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 20,
+          "sh": 41,
+          "ag": 20,
+          "min": 51,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Milinkovic",
+          "displayName": "V Milinkovic",
+          "position": "GK",
+          "st": 30,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Kim",
+          "displayName": "M Kim",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Politano",
+          "displayName": "M Politano",
+          "position": "AM",
+          "st": 2,
+          "tk": 14,
+          "ps": 40,
+          "sh": 20,
+          "ag": 22,
+          "min": 34,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Neres",
+          "displayName": "D Neres",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 39,
+          "sh": 22,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_KoloMuani",
+          "displayName": "R KoloMuani",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 28,
+          "sh": 41,
+          "ag": 25,
+          "min": 44,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "FC Barcelona",
+      "players": [
+        {
+          "name": "M_TerStegen",
+          "displayName": "M TerStegen",
+          "position": "GK",
+          "st": 40,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 95,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Cubarsi",
+          "displayName": "P Cubarsi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 4,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Fofana",
+          "displayName": "W Fofana",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 16,
+          "sh": 7,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Guehi",
+          "displayName": "Guehi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "J_Kounde",
+          "displayName": "J Kounde",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 26,
+          "sh": 7,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Estevao",
+          "displayName": "Estevao",
+          "position": "DM",
+          "st": 2,
+          "tk": 28,
+          "ps": 38,
+          "sh": 21,
+          "ag": 20,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_DeJong",
+          "displayName": "F DeJong",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 14,
+          "ag": 26,
+          "min": 76,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 5,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Pedri",
+          "displayName": "Pedri",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 16,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Yamal",
+          "displayName": "L Yamal",
+          "position": "AM",
+          "st": 2,
+          "tk": 12,
+          "ps": 28,
+          "sh": 42,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 1,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Lewandowski",
+          "displayName": "R Lewandowski",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 48,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 12,
+          "gls": 4,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Torres",
+          "displayName": "F Torres",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 40,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 4,
+          "gls": 1,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Grimaldo",
+          "displayName": "Grimaldo",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 20,
+          "sh": 20,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Szczesny",
+          "displayName": "W Szczesny",
+          "position": "GK",
+          "st": 39,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Casado",
+          "displayName": "M Casado",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 33,
+          "sh": 12,
+          "ag": 24,
+          "min": 19,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Lopez",
+          "displayName": "F Lopez",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 33,
+          "sh": 16,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Rashford",
+          "displayName": "M Rashford",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 38,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "bar",
+      "text": "Creo que FC Barcelona quieren jugar C ahora",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "nap",
+      "text": "M_Gutierrez se acerca al área Ve a R_Lukaku desmarcarse Le tira un pase medido Guehi llega como un tren y corta el ataque lanzándose al suelo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "bar",
+      "text": "F_Torres acelera por la banda derecha Pone el balón en el área. Directo hacia Pedri Pedri trata de regatear a A_Meret El cuero sale disparado A_Meret salta ante el tremendo disparo ¿Llegará? No Pero se estrella en palo Y va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "bar",
+      "text": "R_Lewandowski hace un sombrero sobre M_Gutierrez R_Lewandowski suelta una rabona Dispara excesivamente alto Está horrorizado por lo que falló ¿Su entrenador está hablando solo? Ui no, creo que era un insulto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 13,
+      "teamCode": "nap",
+      "text": "B_Gilmour se va de uno, de dos, de tres Mira a un lado... y pasa hacia M_Oliveira al otro lado OH Pero P_Cubarsi corta el ataque con mucha sobriedad CÓRNER B_Gilmour con un peligroso lanzamiento al segundo palo Estevao se anticipa a la jugada Y manda el balón a la grada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "bar",
+      "text": "L_Yamal supera a F_Anguissa Tiene mucho espacio R_Lukaku entra con los tacos por delante Creo que buscaba el balón, pero debería calmarse un poquito",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "bar",
+      "text": "L_Yamal envía el balón por el lado derecho de A_Buongiorno y lo escoge por el otro L_Yamal acomoda el balón Y le pega GOOOOOL Se besa el anillo de casado. ¡Ohhhhh!, qué tierno El FC Barcelona se pone por delante Napoles 0-1 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "bar",
+      "text": "L_Yamal llega el primero al balón Abre a la banda sobre Estevao Estevao supera a A_Meret con una precisa vaselina A_Meret adivina la direeción del balón y lo retiene",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "nap",
+      "text": "S_McTominay avanza con el balón controlado Ve a un compañero completamente solo Juega el balón hacia él R_Lukaku llega al balón Pero Estevao conjura el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "nap",
+      "text": "S_McTominay cede atrás para S_Lobotka S_Lobotka le pega como puede... con la espinilla M_TerStegen salta y prolonga el balón por encima de larguero Estaba bien colocado. Ha sido clave CÓRNER R_Lukaku saca al primer palo M_TerStegen se eleva Y caza el centro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "bar",
+      "text": "Estevao ha roto por completo el fuera de juego Encara a A_Meret A_Buongiorno lo derriba en el área Toma Eso ha sido muy feo Nicola_Rizzoli le indica que se gire ¿Será tarjeta, pero tendrá valor para expulsarlo? ¡NO! (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "bar",
+      "text": "F_Torres con el lanzamiento de la falta Observa el desmarque de su compañero R_Lewandowski se ha zafado de su marcador R_Lewandowski busca el disparo GOOOOOL Tocó madera y para dentro. Imparable Napoles 0-2 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "nap",
+      "text": "El entrenador del Napoles decide que es el momento de pasar a P",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "bar",
+      "text": "R_Lewandowski encuentra una autopista en la defensa El entrenador se desgañita en la banda M_Oliveira se lanza al corte Despeja el cuero Trata de evitar el córner Ha salido CÓRNER F_DeJong con un cerrado lanzamiento al primer palo M_Gutierrez salta en el primer palo Y mete la cabeza. Ha cortado la jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "bar",
+      "text": "L_Yamal llega el primero al balón Abre a la banda sobre R_Lewandowski R_Lewandowski le pega con dureza No ha precisado demasiado A_Meret no va a llegar GOOOOOL Gran remate Napoles 0-3 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "bar",
+      "text": "F_DeJong recupera el balón y pasa largo hacia R_Lewandowski. Ha pillado a la defensa desolocada R_Lewandowski saca un disparo durísimo desde lejos Chuta con el exterior ¡Uhhhhh! Ha salido a metros del marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "nap",
+      "text": "L_Goretzka coge el cuero en el flanco Se deshace de Guehi con una bicicleta Y pasa atrás hacia R_Lukaku. ¡Qué jugada! Guehi recupera la compostura y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "bar",
+      "text": "J_Kounde con el saque de banda Coge carrerilla Y saca larco hacia R_Lewandowski A_Buongiorno se le anticipa y le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "nap",
+      "text": "R_Lukaku hace una bicicleta R_Lewandowski cae al suelo Lo ha ridiculizado F_Torres le pone la zancadilla ¡Qué entrada más ruin! (AMARILLA) Creo que el árbitro se ha pasado de riguroso",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se va a añadir 1 minuto al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "nap",
+      "text": "R_Lukaku tiene espacio para el disparo R_Lukaku coloca el balón al palo largo M_TerStegen se zambulle hacia su izquierda Sale rozando el palo Nicola_Rizzoli dice que no ha tocado el balón Acertó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "bar",
+      "text": "F_DeJong le pega al balón con el exterior El efecto despista a la defensa, que no puede evitar que le llegue a R_Lewandowski A_Buongiorno entra con una dureza desmedida El atacante de retuerce de dolor Segunda amarilla (EXPULSADO) Sus compañers están indignados. ¿Reaccionarán con rabia?",
+      "type": "red"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "nap",
+      "text": "M_Oliveira se aprovecha de un error de Estevao Ha tenido suerte W_Fofana placa a su oponente Como si fuera un jugador de rugby (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "nap",
+      "text": "L_Goretzka tiene espacio y tiempo A ver qué inventa Amaga el disparo y mete un pase R_Lukaku controla con el pecho Encara puerta R_Lukaku desde fuera del área M_TerStegen llega con la punta de los dedos al balón y sale rozando el palo Qué gran intervención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "bar",
+      "text": "Pedri inicia el contraataque Sale rápidamente Y envía un gran pase con la defensa descolocada. R_Lewandowski recibe solo R_Lewandowski coloca el balón al palo largo A_Meret mete los puños y desvía el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "nap",
+      "text": "S_Lobotka mete la pierna. Cortó el balón Se lo pone a F_Anguissa en el pie F_Anguissa se levanta sobre su marcador, carga el cabezazo, lo suelta... ¡Peligro! Al lateral de la red",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "nap",
+      "text": "La grada empieza a animar ya que R_KoloMuani substituye a R_Lukaku para jugar de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "nap",
+      "text": "L_Goretzka sorprende a la defensa rival con un pase en diagonal hacia S_McTominay S_McTominay regatea a uno, dos y chuta M_TerStegen vuela sobre la línea de gol Y realiza una espectacular parada Está enchufado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "bar",
+      "text": "Pedri asiste a R_Lewandowski dentro del área R_Lewandowski busca desequilibrar el partido Coloca el balón suavemente lejos del alcance del portero Pero sale rozando el palo A_Meret estaba vendido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "bar",
+      "text": "F_DeJong envía un pase en profundidad hacia W_Fofana Pero M_Gutierrez aparece desde atrás y corta el balón El público ruge pidiendo falta. Nicola_Rizzoli se hace el sueco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "nap",
+      "text": "M_Oliveira con el lanzamiento de la falta Ojo que la defensa está mal colocada Vuela directa hacia R_KoloMuani Pierde el control del balón Guehi despeja sin miramientos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "nap",
+      "text": "M_Politano entra y S_McTominay se va la ducha antes de tiempo Todo apunta a que se ubicará en AM",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "bar",
+      "text": "W_Fofana pone el balón a la espalda de los centrales F_Torres llega con comodidad F_Torres otea la posición de A_Meret ¡Dispara! El disparo rebota en el defensa y va directo hacía la grada CÓRNER Pedri con un peligroso lanzamiento al segundo palo M_Gutierrez aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "bar",
+      "text": "Pedri va al choque con el defensa y lo tira al suelo R_KoloMuani choca con su oponente y lo envía al césped Hubo obstrucción Falta (AMARILLA) Por unos momentos lo vi expulsado El técnico de FC Barcelona parece asombrado de que no fuera roja",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "bar",
+      "text": "R_Lewandowski envía el balón por el lado derecho de M_Gutierrez y lo escoge por el otro R_Lewandowski empalma el balón a la perfección GOOOOOL Celebra como loco su hat trick Napoles 0-4 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "bar",
+      "text": "R_Lewandowski agarra al defensa de la camiseta y se lleva el balón !Qué vivo ha estado, el árbitro no pudo ver nada! R_Lewandowski tiene tiempo y espacio Busca la vaselina Pero golpea en un defensa y se va córner CÓRNER Guehi cuelga el balón A_Meret mete los puños con fuerza y aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "bar",
+      "text": "Guehi con un pase largo F_DeJong F_DeJong impacta el balón con una volea defectuosa A_Meret pone lo puños. El balón sale hacia atrás... CÓRNER Estevao saca al primer palo Directo hacia F_Torres Empalma de primeras No le podría haber pegado mejor A_Meret desvía el lanzamiento ¡Qué gran parada! CÓRNER Pedri cuelga el centro al segundo palo F_Anguissa cubre el segundo palo Y evita el remate del delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "bar",
+      "text": "W_Fofana tiene que retroceder Está presionado, se saca el balón de encima R_Lewandowski gana el salto Corte finísimo y preciso de M_Gutierrez Ha medido muy bien",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "bar",
+      "text": "F_DeJong mete el pase M_Oliveira resbala R_Lewandowski se apodera del balón M_Gutierrez sale al corte... lo logra",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "nap",
+      "text": "G_DiLorenzo combina con S_Lobotka. Juegan de memoria S_Lobotka chuta sin mirar al portero El balón vuela como un obús hacia la portería M_TerStegen reacciona con rapidez ¿Llegará a desviar el envenenado disparo? No, está vendido Pero golpea en el palo Y dentro GOOOOOL Napoles 1-4 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "bar",
+      "text": "Pedri controla el balón en una demostración de clase Abre el juego a la derecha F_Torres recibe el cuero F_Torres busca una vaselina imposible A_Meret mete la manopla y fuerza el córner CÓRNER Picado por F_DeJong Directo hacia R_Lewandowski Empalma de primeras Ha batido a A_Meret Pero se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "nap",
+      "text": "M_Gutierrez recibe de espalda. Se inventa un taconazo hacia L_Goretzka L_Goretzka se escapa ¡Cuidado! Pero M_TerStegen se saca de la manga la parada del partido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "bar",
+      "text": "F_DeJong con el lanzamiento de la falta Observa el desmarque de su compañero R_Lewandowski se ha zafado de su marcador Balón bombeado R_Lewandowski se anticipa al defensa de cabeza Se va solo hacia A_Meret Regatea a A_Meret A_Meret mete el pie y aleja el balón El delantero lo mira sorprendido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "bar",
+      "text": "F_DeJong se lleva la mano al muslo Hace que no con la cabeza Se ha roto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "bar",
+      "text": "M_Casado entra por F_DeJong y jugará de MF para regocizo de sus aficionados",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "nap",
+      "text": "M_Oliveira le gana la espalda a su marcador Eh, se ha despistado M_Oliveira suelta un disparo con el exterior del pie Busca la escuadra Ojo con el efecto. El portero no va a llegar Pero aterriza en la grada superior de la portería M_TerStegen sonríe. Estaba batido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "nap",
+      "text": "S_Lobotka encara a J_Kounde El defensa resbala S_Lobotka duerme el balón con el pecho y lo empalma de primeras Vuela por encima de M_TerStegen Va a puerta Pero se pierde por encima del larguero Tenía mucha intención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "bar",
+      "text": "Pedri envía un pase desde su propio campo hacia F_Torres F_Torres mira fijamente al marco ¡Dispara! GOOOOOL Corre a festejar el tanto con su mánager Napoles 1-5 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "nap",
+      "text": "M_Politano se deshace de Guehi M_Politano se deshace de su marcador Buen movimiento ¡Y dispara! GOOOOOL Su entrenador ni ha parpadeado. Qué frialdad No lo celebra. ¿Para qué? Napoles 2-5 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 86,
+      "teamCode": "nap",
+      "text": "B_Gilmour está cerrado por tres contrarios Pisa el balón dos veces y los deja sentados ¡OH! ¡Qué calse! Ahora mete el pase a R_KoloMuani W_Fofana se lanza hacia su oponente Y toca el balón Que clase",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "bar",
+      "text": "L_Yamal con un pase impresionante hacia R_Lewandowski G_DiLorenzo se lanza al corte Despeja el cuero Trata de evitar el córner Ha salido CÓRNER L_Yamal saca a la zona de peligro A_Meret mete los puños con fuerza y aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 4 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "bar",
+      "text": "Estevao dispara Pega en la espalda de un compañero y va a parar a L_Yamal Vaya suerte B_Gilmour despeja a córner CÓRNER M_Casado saca al primer palo R_Lewandowski mete la pierna GOOOOOL Se agarra la camiseta y la enseña a la grada rival Vaya lluvia de objetos le está cayendo Napoles 2-6 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 90,
+      "teamCode": "bar",
+      "text": "R_Lewandowski acelera por la banda izquierda Juega para L_Yamal Pero S_Lobotka aparece desde atrás y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "bar",
+      "text": "R_Lewandowski tiene espacio para el disparo Un defensa le sale al paso Lo regatea, ahora sí que va a chutar R_Lewandowski salta con potencia por encima de la defensa Coloca el balón suavemente lejos del alcance del portero Pero sale rozando el palo A_Meret estaba vendido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 94,
+      "teamCode": "nap",
+      "text": "Peligroso centro de L_Goretzka a G_DiLorenzo Guehi corta limpiamente el balón Suena el silbato Se ha equivocado Nicola_Rizzoli busca nerviosamente en sus bolsillos Medita su decisión (AMARILLA) Tanto cuento para esto... FALTA DIRECTA Está a una buena distancia G_DiLorenzo con un terrible disparo Pero M_TerStegen rechaza con los puños Córner CÓRNER M_Oliveira centra hacia el área M_TerStegen sale con valentía y atrapa el balón",
+      "type": "yellow"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

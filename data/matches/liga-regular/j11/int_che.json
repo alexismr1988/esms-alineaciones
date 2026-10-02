@@ -1,0 +1,1163 @@
+{
+  "id": "liga-regular/j11/int_che",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j11",
+  "roundLabel": "Jornada 11",
+  "fileName": "int_che.txt",
+  "homeCode": "int",
+  "awayCode": "che",
+  "homeTeam": "Inter Milan",
+  "awayTeam": "Chelsea",
+  "result": {
+    "home": 2,
+    "away": 0,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Inter Milan 1-0 Chelsea",
+  "formation": {
+    "home": "5-2-3 C",
+    "away": "4-2-3-1 N"
+  },
+  "referee": {
+    "name": "Iturralde Gonzalez",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "J_Martinez",
+        "displayName": "J Martinez",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "A_Bastoni",
+        "displayName": "A Bastoni",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Pavard",
+        "displayName": "B Pavard",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Y_Bisseck",
+        "displayName": "Y Bisseck",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "S_DeVrij",
+        "displayName": "S DeVrij",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "F_Dimarco",
+        "displayName": "F Dimarco",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Barella",
+        "displayName": "N Barella",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "H_Calhanoglu",
+        "displayName": "H Calhanoglu",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Martinez",
+        "displayName": "L Martinez",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "M_Thuram",
+        "displayName": "M Thuram",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "E_Sebastiano",
+        "displayName": "E Sebastiano",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Y_Sommer",
+        "displayName": "Y Sommer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Dumfries",
+        "displayName": "D Dumfries",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "T_Palacios",
+        "displayName": "T Palacios",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Fratessi",
+        "displayName": "D Fratessi",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Taremi",
+        "displayName": "M Taremi",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "R_Sanchez",
+        "displayName": "R Sanchez",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "T_Chalobah",
+        "displayName": "T Chalobah",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Colwill",
+        "displayName": "Colwill",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Reece_James",
+        "displayName": "Reece James",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Cucurella",
+        "displayName": "M Cucurella",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Lavia",
+        "displayName": "R Lavia",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "E_Fernandez",
+        "displayName": "E Fernandez",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Caicedo",
+        "displayName": "M Caicedo",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "N_Jackson",
+        "displayName": "N Jackson",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "D_Olmo",
+        "displayName": "D Olmo",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "C_Palmer",
+        "displayName": "C Palmer",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "G_Slonina",
+        "displayName": "G Slonina",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Badiashile",
+        "displayName": "B Badiashile",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "P_Neto",
+        "displayName": "P Neto",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Joao_Pedro",
+        "displayName": "Joao Pedro",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Nico_Williams",
+        "displayName": "Nico Williams",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Inter Milan",
+      "mvp": "D_Fratessi (Jugador del partido)",
+      "goals": "M_Thuram (33), D_Fratessi (76)",
+      "sentOff": "N/A",
+      "booked": "J_Martinez (82)",
+      "injured": "H_Calhanoglu (46)"
+    },
+    {
+      "team": "Chelsea",
+      "mvp": "C_Palmer",
+      "goals": "N/A",
+      "sentOff": "N/A",
+      "booked": "R_Lavia (48)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 5,
+      "away": 6
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 2,
+      "away": 3
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 3,
+      "away": 3
+    },
+    {
+      "label": "Posesión",
+      "home": 41,
+      "away": 59
+    },
+    {
+      "label": "Córners",
+      "home": 3,
+      "away": 2
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 3,
+      "away": 0
+    },
+    {
+      "label": "Faltas",
+      "home": 6,
+      "away": 5
+    },
+    {
+      "label": "Entradas",
+      "home": 5,
+      "away": 9
+    },
+    {
+      "label": "Pases clave",
+      "home": 7,
+      "away": 5
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Inter Milan",
+      "players": [
+        {
+          "name": "J_Martinez",
+          "displayName": "J Martinez",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 21,
+          "min": 95,
+          "sav": 3,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "A_Bastoni",
+          "displayName": "A Bastoni",
+          "position": "DF",
+          "st": 2,
+          "tk": 45,
+          "ps": 16,
+          "sh": 4,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Pavard",
+          "displayName": "B Pavard",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 9,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Bisseck",
+          "displayName": "Y Bisseck",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 4,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_DeVrij",
+          "displayName": "S DeVrij",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 4,
+          "ag": 21,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Dimarco",
+          "displayName": "F Dimarco",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 36,
+          "sh": 14,
+          "ag": 24,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Barella",
+          "displayName": "N Barella",
+          "position": "MF",
+          "st": 2,
+          "tk": 25,
+          "ps": 43,
+          "sh": 24,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Calhanoglu",
+          "displayName": "H Calhanoglu",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 40,
+          "sh": 19,
+          "ag": 25,
+          "min": 46,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Martinez",
+          "displayName": "L Martinez",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 26,
+          "sh": 44,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Thuram",
+          "displayName": "M Thuram",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 40,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Sebastiano",
+          "displayName": "E Sebastiano",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 24,
+          "sh": 36,
+          "ag": 22,
+          "min": 58,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Sommer",
+          "displayName": "Y Sommer",
+          "position": "GK",
+          "st": 35,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Dumfries",
+          "displayName": "D Dumfries",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 31,
+          "sh": 16,
+          "ag": 24,
+          "min": 50,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Palacios",
+          "displayName": "T Palacios",
+          "position": "DF",
+          "st": 2,
+          "tk": 31,
+          "ps": 16,
+          "sh": 7,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Fratessi",
+          "displayName": "D Fratessi",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 21,
+          "ag": 24,
+          "min": 49,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Taremi",
+          "displayName": "M Taremi",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 26,
+          "sh": 35,
+          "ag": 21,
+          "min": 37,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Chelsea",
+      "players": [
+        {
+          "name": "R_Sanchez",
+          "displayName": "R Sanchez",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 19,
+          "min": 95,
+          "sav": 3,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Chalobah",
+          "displayName": "T Chalobah",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 7,
+          "ag": 21,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Colwill",
+          "displayName": "Colwill",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 17,
+          "sh": 7,
+          "ag": 18,
+          "min": 95,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Reece_James",
+          "displayName": "Reece James",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 17,
+          "sh": 7,
+          "ag": 18,
+          "min": 95,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Cucurella",
+          "displayName": "M Cucurella",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 18,
+          "sh": 21,
+          "ag": 20,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Lavia",
+          "displayName": "R Lavia",
+          "position": "DM",
+          "st": 2,
+          "tk": 28,
+          "ps": 39,
+          "sh": 14,
+          "ag": 20,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "E_Fernandez",
+          "displayName": "E Fernandez",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 41,
+          "sh": 9,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Caicedo",
+          "displayName": "M Caicedo",
+          "position": "DM",
+          "st": 2,
+          "tk": 31,
+          "ps": 43,
+          "sh": 16,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Jackson",
+          "displayName": "N Jackson",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 14,
+          "sh": 39,
+          "ag": 17,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Olmo",
+          "displayName": "D Olmo",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 19,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Palmer",
+          "displayName": "C Palmer",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 44,
+          "sh": 33,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Slonina",
+          "displayName": "G Slonina",
+          "position": "GK",
+          "st": 25,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 17,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Badiashile",
+          "displayName": "B Badiashile",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 7,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Neto",
+          "displayName": "P Neto",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 22,
+          "sh": 39,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Joao_Pedro",
+          "displayName": "Joao Pedro",
+          "position": "MF",
+          "st": 2,
+          "tk": 5,
+          "ps": 11,
+          "sh": 38,
+          "ag": 16,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Nico_Williams",
+          "displayName": "Nico Williams",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 18,
+          "sh": 42,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "int",
+      "text": "E_Sebastiano cambia el ritmo Se va por velocidad de M_Cucurella E_Fernandez sale al corte como un búfalo salvaje",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "che",
+      "text": "M_Caicedo pica el balón por encima de los centrales N_Jackson aparece de la nada. Los ha pillado despistados S_DeVrij corta con claridad Midió a la perfección Su entrenador aplaude",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "che",
+      "text": "C_Palmer se cambia el balón de pierna Regatea al defensa Vaya obra de arte C_Palmer con un disparo a ras de suelo J_Martinez está tapado. No ve venir el balón Reacciona rápidamente Y desvía el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "int",
+      "text": "E_Sebastiano deja a R_Lavia en el camino Pero Colwill está muy metido en el partido y le roba la cartera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "che",
+      "text": "M_Caicedo mete el balón en la zona de peligro D_Olmo se ofrece y recibe el cuero Y_Bisseck despeja el balón hacia la grada Ei Un aficionado se lleva el balón Al ladrón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "che",
+      "text": "C_Palmer hace una pared con un compañero Se cuela en el área C_Palmer busca la escuadra J_Martinez mete los puños y desvía el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "int",
+      "text": "N_Barella se cuela por la banda Quiebra a Reece_James en velocidad Mete un pase raso hacia M_Thuram Pero Colwill cuelga el balón a la grada Z",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 33,
+      "teamCode": "int",
+      "text": "L_Martinez con un pase impresionante hacia M_Thuram M_Thuram golpea el balón ¡Uau! Ha hecho la \"folha seca\" ¡Mira cómo baja! El balón impacta en el palo Pero el rebote le cae a los pies GOOOOOL A ver como administra su ventaja el Inter Milan Inter Milan 1-0 Chelsea ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "int",
+      "text": "D_Dumfries se despoja del chándal. Entrará por F_Dimarco Jugará de DF El entrenador reza para que el cambio de sus frutos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "int",
+      "text": "H_Calhanoglu se ha torcido gravemente la rodilla El fisio del Inter Milan entra al campo apresuradamente Pero el Reflex no suerte efecto Cambio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "int",
+      "text": "Confirmado Hay cambio D_Fratessi entrará en lugar de H_Calhanoglu. Se ubica como MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "che",
+      "text": "R_Lavia Con un pase demasiado fuerte. C_Palmer va a llegar Pero Y_Bisseck corta el ataque con mucha sobriedad CÓRNER R_Lavia saca el balón a la frontal Depejado por B_Pavard",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "int",
+      "text": "M_Thuram Pisa el balón hacia la izquierda Y se le vuelve a cambiar de pierna Vaya regate T_Chalobah sale al corte como un búfalo salvaje",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "int",
+      "text": "M_Thuram cuelga de primeras para L_Martinez R_Lavia se lanza al corte ¡Ohhh! Le ha dejado un recadito (AMARILLA) Increíble Una de las más rigurosas de la historia de TSM",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "int",
+      "text": "El ayudante del entrenador llama a M_Taremi E_Sebastiano va a ser sustituído El técnico le indica que juegue de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "che",
+      "text": "D_Olmo está desmarcado Pero Y_Bisseck aparece de la nada y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "int",
+      "text": "D_Fratessi con el saque de banda El defensa pide fuera de juego Si no hay M_Taremi se escapa Reece_James llega apurado al corte y mete la pierna hacia R_Sanchez ¡Ohhhh! no Ha superado a R_Sanchez Rueda lentamente Fuera CÓRNER Y_Bisseck acaricia el cuero R_Sanchez se anticipa a la jugada y atrapa el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "che",
+      "text": "M_Cucurella lanza el contraataque Hace una pausa esperando apoyos N_Jackson lo dobla recibe el pase N_Jackson prueba suerte con un disparo raso Es incapaz de chutar a puerta Un defensa le arrebató el balón en el último momento Este tío juega a cámara lenta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "che",
+      "text": "C_Palmer va flechado hacia la portería Sortea a Y_Bisseck Encara portería A_Bastoni se anticipa a la jugada y corta de cabeza",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "int",
+      "text": "M_Taremi con un giro rapidísimo Le enseña el dorsal al defensa M_Taremi mira fijamente al marco ¡Dispara! El disparo rebota en el defensa y va directo hacía la grada CÓRNER N_Barella cuelga el centro al segundo palo Vuela hacia S_DeVrij Peina el balón hacia atrás R_Sanchez flota sobre la línea de meta Mete la mano ¿Córner? No se equivocó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "int",
+      "text": "L_Martinez va flechado hacia la portería Sortea a T_Chalobah Encara portería Falla en el control y Reece_James no desaprovecha el regalo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "int",
+      "text": "M_Thuram hace una rápida pared con un compañero Tiene un defensa delante Le hace una bicicleta y mira al portero Colwill se hace con el balón y lo cede al portero R_Sanchez ve con sorpresa como el pase va demasiado fuerte Se tira... no va a llegar Ui Salió rozando el palo CÓRNER Y_Bisseck centra hacia el área R_Sanchez se anticipa a la jugada y atrapa el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "int",
+      "text": "L_Martinez encara al defensa Reece_James mete la pierna, pero el rebote favorece al atacante Fue un golpe de suerte, pero continúa hacia adelante N_Jackson entra con los tacos por delante Le ha pegado con toda la mala leche del mundo Iturralde_Gonzalez le avisa: \"Es la última vez\"",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "che",
+      "text": "E_Fernandez se lleva la mano al muslo Parece que no va a seguir Sí, solo ha sido un susto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "che",
+      "text": "Colwill engaña a S_DeVrij con una finta de cuerpo Colwill trata de sorprender a J_Martinez con una inesperada vaselina J_Martinez no va a llegar OH Se pierde por encima del larguero J_Martinez sonríe ¿Sabía que iba fuera? No se, no se...",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "int",
+      "text": "D_Fratessi con un control impresionante Hace la croqueta ante C_Palmer Y centra hacia M_Thuram. ¡Qué clase! M_Thuram hace una diagonal Y suelta un sorprendente disparo R_Sanchez ve como el balón se pierde lejos de su marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "int",
+      "text": "R_Sanchez se la saca de encima el balón le cae a D_Fratessi D_Fratessi recibe el balón de espaldas Oh Se ha sacado una tijereta GOOOOOL R_Sanchez se encara con el líbero Inter Milan 2-0 Chelsea ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "int",
+      "text": "B_Pavard dispara Pega en la espalda de un compañero y va a parar a L_Martinez Vaya suerte Reece_James patina por el césped... y corta el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "che",
+      "text": "N_Jackson ha roto por completo el fuera de juego Se va solo a puerta Dribla a J_Martinez J_Martinez lo derriba En mala situación Iturralde_Gonzalez busca en su bolsillo Comprueba su número (AMARILLA) Creo que se la merecía con creces FALTA DIRECTA N_Jackson busca un disparo raso por debajo de la barrera J_Martinez la pone atrás para el córner CÓRNER E_Fernandez impacta el cuero con el interior del pie Depejado por A_Bastoni",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "che",
+      "text": "D_Olmo ve el desmarque de T_Chalobah T_Chalobah regatea a uno, dos y... oh Chuta Impacta mal al cuero Se pierde inofensivamente por la línea de fondo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "int",
+      "text": "A_Bastoni se abre a la banda. Recibe el balón Levanta la cabeza, no hay salida Pero encuentra a M_Thuram. ¡Qué visión de juego! T_Chalobah despeja sin miramientos",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

@@ -1,0 +1,1338 @@
+{
+  "id": "liga-regular/j14/atm_psg",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j14",
+  "roundLabel": "Jornada 14",
+  "fileName": "atm_psg.txt",
+  "homeCode": "atm",
+  "awayCode": "psg",
+  "homeTeam": "Atletico Madrid",
+  "awayTeam": "PSG",
+  "result": {
+    "home": 3,
+    "away": 4,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Atletico Madrid 3-3 PSG",
+  "formation": {
+    "home": "4-2-4 P",
+    "away": "4-1-2-1-2 P"
+  },
+  "referee": {
+    "name": "Anders Frisk",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "J_Oblak",
+        "displayName": "J Oblak",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "R_LeNormand",
+        "displayName": "R LeNormand",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Gimenez",
+        "displayName": "J Gimenez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Llorente",
+        "displayName": "M Llorente",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Hancko",
+        "displayName": "D Hancko",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Koke",
+        "displayName": "Koke",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Baena",
+        "displayName": "A Baena",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Griezmann",
+        "displayName": "A Griezmann",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Alvarez",
+        "displayName": "J Alvarez",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "G_Raspadori",
+        "displayName": "G Raspadori",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Sorloth",
+        "displayName": "A Sorloth",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Musso",
+        "displayName": "J Musso",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Ruggeri",
+        "displayName": "M Ruggeri",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "N_Molina",
+        "displayName": "N Molina",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "P_Barrios",
+        "displayName": "P Barrios",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "G_Simeone",
+        "displayName": "G Simeone",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "Diogo_Costa",
+        "displayName": "Diogo Costa",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "L_HernÃ¡ndez",
+        "displayName": "L HernÃ¡ndez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Mendes",
+        "displayName": "N Mendes",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Pacho",
+        "displayName": "W Pacho",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "I_Zabarnyi",
+        "displayName": "I Zabarnyi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Neves",
+        "displayName": "J Neves",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "Vitinha",
+        "displayName": "Vitinha",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "W_ZaireEmery",
+        "displayName": "W ZaireEmery",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Nico_Paz",
+        "displayName": "Nico Paz",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "D_Doue",
+        "displayName": "D Doue",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Rafael_Leao",
+        "displayName": "Rafael Leao",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "L_Chevalier",
+        "displayName": "L Chevalier",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Marquinhos",
+        "displayName": "Marquinhos",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Asensio",
+        "displayName": "M Asensio",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Barcola",
+        "displayName": "B Barcola",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "O_Dembele",
+        "displayName": "O Dembele",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Atletico Madrid",
+      "mvp": "A_Sorloth",
+      "goals": "A_Sorloth (9,21), J_Alvarez (48)",
+      "sentOff": "J_Alvarez (89)",
+      "booked": "D_Hancko (19)",
+      "injured": "N/A"
+    },
+    {
+      "team": "PSG",
+      "mvp": "Rafael_Leao (Jugador del partido)",
+      "goals": "Rafael_Leao (9,35), D_Doue (14,57)",
+      "sentOff": "N/A",
+      "booked": "N_Mendes (67)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 13,
+      "away": 19
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 5,
+      "away": 10
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 8,
+      "away": 9
+    },
+    {
+      "label": "Posesión",
+      "home": 45,
+      "away": 55
+    },
+    {
+      "label": "Córners",
+      "home": 2,
+      "away": 4
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Faltas",
+      "home": 13,
+      "away": 10
+    },
+    {
+      "label": "Entradas",
+      "home": 7,
+      "away": 6
+    },
+    {
+      "label": "Pases clave",
+      "home": 13,
+      "away": 15
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Atletico Madrid",
+      "players": [
+        {
+          "name": "J_Oblak",
+          "displayName": "J Oblak",
+          "position": "GK",
+          "st": 45,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 95,
+          "sav": 5,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_LeNormand",
+          "displayName": "R LeNormand",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Gimenez",
+          "displayName": "J Gimenez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Llorente",
+          "displayName": "M Llorente",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 36,
+          "sh": 14,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Hancko",
+          "displayName": "D Hancko",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Koke",
+          "displayName": "Koke",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 43,
+          "sh": 12,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Baena",
+          "displayName": "A Baena",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 39,
+          "sh": 21,
+          "ag": 25,
+          "min": 59,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Griezmann",
+          "displayName": "A Griezmann",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 28,
+          "sh": 44,
+          "ag": 28,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Alvarez",
+          "displayName": "J Alvarez",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 21,
+          "sh": 42,
+          "ag": 29,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "G_Raspadori",
+          "displayName": "G Raspadori",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 21,
+          "sh": 36,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Sorloth",
+          "displayName": "A Sorloth",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 36,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 3,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Musso",
+          "displayName": "J Musso",
+          "position": "GK",
+          "st": 30,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Ruggeri",
+          "displayName": "M Ruggeri",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 50,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Molina",
+          "displayName": "N Molina",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 19,
+          "sh": 7,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Barrios",
+          "displayName": "P Barrios",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 12,
+          "ag": 26,
+          "min": 36,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Simeone",
+          "displayName": "G Simeone",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 28,
+          "sh": 32,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "PSG",
+      "players": [
+        {
+          "name": "Diogo_Costa",
+          "displayName": "Diogo Costa",
+          "position": "GK",
+          "st": 41,
+          "tk": 1,
+          "ps": 1,
+          "sh": 1,
+          "ag": 21,
+          "min": 95,
+          "sav": 5,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_HernÃ¡ndez",
+          "displayName": "L HernÃ¡ndez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 19,
+          "sh": 12,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Mendes",
+          "displayName": "N Mendes",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 16,
+          "sh": 12,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "W_Pacho",
+          "displayName": "W Pacho",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 7,
+          "sh": 4,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "I_Zabarnyi",
+          "displayName": "I Zabarnyi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 7,
+          "sh": 4,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Neves",
+          "displayName": "J Neves",
+          "position": "DM",
+          "st": 2,
+          "tk": 24,
+          "ps": 45,
+          "sh": 16,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Vitinha",
+          "displayName": "Vitinha",
+          "position": "DM",
+          "st": 2,
+          "tk": 21,
+          "ps": 44,
+          "sh": 16,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 5,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_ZaireEmery",
+          "displayName": "W ZaireEmery",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 16,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Nico_Paz",
+          "displayName": "Nico Paz",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 39,
+          "sh": 21,
+          "ag": 20,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 1,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Doue",
+          "displayName": "D Doue",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 33,
+          "sh": 42,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 6,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rafael_Leao",
+          "displayName": "Rafael Leao",
+          "position": "FW",
+          "st": 2,
+          "tk": 18,
+          "ps": 20,
+          "sh": 44,
+          "ag": 11,
+          "min": 74,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 6,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Chevalier",
+          "displayName": "L Chevalier",
+          "position": "GK",
+          "st": 38,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Marquinhos",
+          "displayName": "Marquinhos",
+          "position": "DF",
+          "st": 2,
+          "tk": 45,
+          "ps": 9,
+          "sh": 4,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Asensio",
+          "displayName": "M Asensio",
+          "position": "AM",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 33,
+          "ag": 24,
+          "min": 21,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Barcola",
+          "displayName": "B Barcola",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 21,
+          "sh": 40,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Dembele",
+          "displayName": "O Dembele",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 45,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "psg",
+      "text": "Vitinha sale a la contra. Mete un pase medido a L_HernÃ¡ndez L_HernÃ¡ndez le pega con dureza No ha precisado demasiado OOOOHHHHH Fuera Tenía una posición clara El entrenador le está abroncando",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "atm",
+      "text": "M_Llorente de tacón para A_Griezmann A_Griezmann golpea el balón a bote pronto Pero se las arregla para fallar No ha estado nada fino",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "atm",
+      "text": "A_Baena espera a que alguien le acompañe en ataque Levanta los brazos, nadie se desmarca Busca la individual Prepara el disparo Rebota en un defensa y cae a pies de A_Sorloth A_Sorloth trata de sorprender a Diogo_Costa Diogo_Costa está batido Golpea en el larguero GOOOOOL El portero solo ha podido mirárselo El Atletico Madrid toma la iniciativa en el luminoso Atletico Madrid 1-0 PSG ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "psg",
+      "text": "W_Pacho en el centro del campo Cruza hacia Nico_Paz Nico_Paz otea la posición de J_Oblak ¡Dispara! Bota mal sobre un césped demasiado mojado J_Oblak trata de reaccionar Se va a centímetros del palo CÓRNER Nico_Paz cuelga el centro al segundo palo Directo hacia Rafael_Leao Empalma de primeras GOOOOOL J_Oblak he hecho vista y se la ha tragado Eso mete a PSG de nuevo en el partido Atletico Madrid 1-1 PSG ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "psg",
+      "text": "Nico_Paz pica el balón por encima de los centrales N_Mendes aparece de la nada. Los ha pillado despistados N_Mendes regatea a uno, dos y... oh Chuta Fuera Menos fuerza y más puntería chico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "psg",
+      "text": "L_HernÃ¡ndez con un pase muy fuerte para D_Doue Logra meter la plaanta del pie D_Doue El disparo rebota en un defensa y se desvía GOOOOOL Qué mala suerte para el portero El PSG se cobra ventaja ¿Podrá mantenerla hasta el final? Atletico Madrid 1-2 PSG ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "psg",
+      "text": "Vitinha está escorado en la banda derecha Cambia de juego hacia D_Doue R_LeNormand mete la pierna y manda el balón a córner CÓRNER Nico_Paz acaricia el cuero Directo hacia W_ZaireEmery Empalma de primeras Demasiado alta, la ha tirado a Agraria",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "psg",
+      "text": "Nico_Paz salta sobre la tremenda entrada de M_Llorente Se lleva el balón y sigue con la pierna pegada al cuerpo D_Hancko caza gravemente a su oponente Los aficionados contrarios rugen de ira Anders_Frisk le indica que se acerce (AMARILLA) Estuvo afortunado de no ver la roja",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "atm",
+      "text": "J_Gimenez sale del regate y mete un pase hacia A_Sorloth A_Sorloth se cuela entre los dos centrales Mano a mano con Diogo_Costa Encara a Diogo_Costa Es medio gol Le levanta el balón sobre la salida GOOOOOL Atletico Madrid ha empatado Atletico Madrid 2-2 PSG ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "psg",
+      "text": "W_ZaireEmery se hace con el balón Y busca a D_Doue con un pase con el exterior D_Doue busca la escuadra Pero el balón se pierde inofensivamente por la línea de meta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "atm",
+      "text": "A_Sorloth busca opciones Su compañero se deshace del marcador J_Alvarez recibe un pase medido J_Neves corta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "psg",
+      "text": "Rafael_Leao tira la pared con su delantero Nico_Paz se la queda Encara a puerta J_Alvarez agarra de la camiseta a su rival Ve la (AMARILLA) Sus compañeros cuestionan la rigurosa decisión arbitral",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "psg",
+      "text": "D_Doue deja sentado a su marcador D_Doue mete la cabeza con valentía Pero J_Oblak rechaza con los pies Podría haberla cogido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "psg",
+      "text": "Nico_Paz pisa el balón ante A_Sorloth Le suelta el túnel y recibe un agarrón de la camiseta Anders_Frisk da la ley de la ventaja Pero pisa un charco y cae al suelo J_Gimenez recoge el balón. Menudo marcaje le está haciendo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "atm",
+      "text": "A_Sorloth se interna por la banda Pone un medido centro sobre G_Raspadori W_Pacho empuja al delantero Qué listo, engañó al árbitro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "atm",
+      "text": "D_Hancko inicia el contraataque Sale rápidamente Y envía un gran pase con la defensa descolocada. A_Sorloth recibe solo A_Sorloth con el disparo Diogo_Costa no va a llegar OH Se pierde por encima del larguero Diogo_Costa sonríe ¿Sabía que iba fuera? No se, no se...",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "atm",
+      "text": "G_Raspadori hace un preciso control ¿Qué inventará ahora? G_Raspadori tiene el disparo a punto El disparo rebota en el defensa y va directo hacía la grada CÓRNER A_Baena saca a la zona de peligro W_Pacho se eleva sobre los demás Y despeja con la cabeza",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "psg",
+      "text": "N_Mendes se cuela por la banda Centra hacia Rafael_Leao Rafael_Leao busca el disparo El balón se le escurre a J_Oblak de las manos GOOOOOL Menudo error Este gol pone al PSG por delante A ver cómo maneja el partido ahora Atletico Madrid 2-3 PSG ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "atm",
+      "text": "A_Griezmann aprovecha un fallo defensivo Eso ha sido afortunado A_Griezmann trata de regatear a Diogo_Costa Envía un disparo colocadísimo Diogo_Costa llega con la punta de los dedos Gran parada Estas acciones pueden ser claves en un partido CÓRNER M_Llorente acaricia el cuero El balón va directo hacia W_Pacho, que despeja con contundencia",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "atm",
+      "text": "J_Alvarez controla el balón en una demostración de clase Abre el juego a la derecha A_Griezmann recibe el cuero A_Griezmann mete el interior del pie con mucha intención Diogo_Costa resbala Pero ve como el disparo se pierde lejos de su marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "atm",
+      "text": "A_Griezmann se aprovecha de un error de N_Mendes Ese error puede costarle caro A_Griezmann pisa el balón, se lo acomoda a la derecha y... chuta Diogo_Costa para Puso el cuerpo atrás, como marcan los cánones",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "atm",
+      "text": "G_Raspadori sorprende a la defensa rival con un pase en diagonal hacia A_Baena A_Baena pisa el balón, se lo acomoda a la derecha y... chuta Diogo_Costa rechaza el cuero con los puños El colegiado pita saque de puerta Creo que el árbitro ha sido el único que no ha visto que Diogo_Costa tocó el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "atm",
+      "text": "J_Alvarez se aprovecha de un error de Nico_Paz ¿Lo aprovechará? D_Doue le pone la zancadilla ¡Ohhh! Le ha dejado un recadito",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 4 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "psg",
+      "text": "Nico_Paz con el lanzamiento de la falta Ve el desmarque de su compañero El balón va directo hacia el pie de Rafael_Leao Rafael_Leao tiene tiempo y espacio Coloca suavemente el balón J_Oblak mete los puños y manda el balón a la banda. Cómo marcan los cánones",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "atm",
+      "text": "M_Ruggeri se despoja del chándal. Entrará por D_Hancko Jugará de DF El entrenador reza para que el cambio de sus frutos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "psg",
+      "text": "Rafael_Leao aprovecha un fallo defensivo Eso ha sido afortunado Rafael_Leao se saca una terrible volea J_Oblak mete los puños y manda el balón a la banda. Cómo marcan los cánones",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "atm",
+      "text": "J_Alvarez va directo a puerta J_Alvarez no va a llegar. Sí, mete el pie... Diogo_Costa desvía el balón con el guante izquierdo GOOOOOL No fue suficiente Atletico Madrid nivela el luminoso Atletico Madrid 3-3 PSG ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "atm",
+      "text": "J_Alvarez para A_Griezmann Rafael_Leao sega el césped con una entrada terrorífica El delantero evita a su rival, pero pierde el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "atm",
+      "text": "G_Raspadori con el cambio de ritmo Se va de cara a puerta Los aficionados se levantan G_Raspadori mete la cabeza con valentía Diogo_Costa detiene el cuero, que queda muerto Pero remata por encima del larguero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "psg",
+      "text": "Rafael_Leao deja a J_Gimenez sentado Rafael_Leao suelta un cañonazo ¡Uou! Ni Oliver y Benji hacían eso Ha batido a J_Oblak Pero se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "psg",
+      "text": "Vitinha tiene tiempo y espacio en la frontal del área Vitinha le da mucho efecto a su disparo Su disparo es rechazado por el portero Se hace con el rebote Y dispara fuera Se precipitó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "atm",
+      "text": "A_Sorloth mete el pie y se lleva el balón. Ojo Rafael_Leao despeja el balón con un verdadero cirio. Esa va a caer con nieve",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "atm",
+      "text": "La grada empieza a animar ya que P_Barrios substituye a A_Baena para jugar de MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "atm",
+      "text": "P_Barrios envía un pase en profundidad hacia J_Alvarez J_Alvarez se levanta sobre su marcador, carga el cabezazo, lo suelta... ¡Peligro! Dispara precipitadamente Fuera No puedo precisar el remate",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "psg",
+      "text": "J_Neves acelera por la banda izquierda Juega para Vitinha M_Llorente va al choque Y desplaza al delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "psg",
+      "text": "Vitinha para el balón Levanta la vista y ve a un compañero completamente solo Le envía el pase con el exterior Rafael_Leao controla el milimétrico pase. Hasta yo lo hubiera hecho Rafael_Leao mete la cabeza con valentía Pero J_Oblak prefiere no complicarse y ceder un córner CÓRNER J_Neves centra hacia el área Vuela hacia D_Doue Peina el balón hacia atrás GOOOOOL La ha clavado ¡Se quita la camiseta! ¡Sus fans enloquecen! El PSG jugará con ventaja a partir de ahora Atletico Madrid 3-4 PSG ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "psg",
+      "text": "Vitinha pica el balón por encima de la defensa D_Doue ya había iniciado la diagonal Hacia él va el balón M_Ruggeri se lanza al corte Falta Ha jugado al límite del reglamento Anders_Frisk simplemente lo avisa. Ahí ha acertado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "psg",
+      "text": "D_Doue con un tremendo sprint D_Doue acomoda su cuerpo y suelta... ¡Uau! ¡Qué cañonazo! Pero J_Oblak hace una gran parada ¡Uau! Estuvo cerca Tuvo que emplearse a fondo para evitar el gol",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "psg",
+      "text": "L_HernÃ¡ndez escupe a A_Sorloth Eso le puede costar muy caro Anders_Frisk no tiene la menor intención de amonestarlo Me apuesto lo que quieras a que se le han caído las lentillas",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "psg",
+      "text": "Vitinha quiebra a J_Gimenez con un suave toque hacia el exterior le rompió la cintura Pero M_Ruggeri está más atento y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "psg",
+      "text": "Nico_Paz se deshace de J_Gimenez Nico_Paz hace un gran control ¡Y dispara! Al centro del marco, dondé está J_Oblak Trata de cogerla... pero se le escapa El rebote queda libre J_Oblak reacciona rápidamente Y la despeja con los pies a la grada Su error estuvo a punto de costarle caro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "psg",
+      "text": "Nico_Paz despista a M_Ruggeri con una rapidísima bicicleta. ¿Es futbolista o Lance Armstrong? Nico_Paz busca el palo largo del portero A las nubes Dejó el cuerpo atrás y no controló bien el disparo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "atm",
+      "text": "A_Sorloth está desmarcado N_Mendes le mete el codo Suena el siblato... falta Anders_Frisk le muestra la (AMARILLA) Madre mía, qué malos son los árbitros españoles",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "psg",
+      "text": "M_Asensio entrará en el campo. Está impaciente por demostrar su clase Rafael_Leao dejará el terreno de juego Aplaude a los aficionados El técnico le indica que juegue de AM",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "psg",
+      "text": "PSG va a variar su planteamiento. Su elección es... D",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "psg",
+      "text": "Vitinha pasa a jugar de DM tras recibir las indicaciones de su entrenador",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "psg",
+      "text": "Creo que Nico_Paz ha pasado a jugar de MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "psg",
+      "text": "Vitinha controla el cuero con calidad Mete un pase al centro D_Doue es el destinatario D_Doue busca un disparo con efecto Esto es fútbol J_Oblak resbala Pero el balón se pierde por la línea de fondo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "atm",
+      "text": "M_Ruggeri se saca un pase al primer toque hacia A_Sorloth de la chistera Nico_Paz entra con todo... y se lleva el balón limpiamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "atm",
+      "text": "A_Sorloth hace una bicicleta y mete el pase sobre la llegada de G_Raspadori W_ZaireEmery envía al delantero al suelo y el balón sale fuera de banda El asistente indica... Saque de banda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "psg",
+      "text": "D_Doue supera a M_Llorente Es demasiado rápido para su marcador J_Gimenez corta con mucha tranquilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "psg",
+      "text": "El defensa está presionado Se saca el balón de encima N_Mendes se va solo Pero G_Raspadori roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "atm",
+      "text": "M_Llorente conecta con J_Alvarez. Qué entendimiento hay entre ambos J_Alvarez tiene el disparo a punto Pero Diogo_Costa desvía levemente el balón Anders_Frisk da saque de puerta ¡Increíble! El portero la tocó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "psg",
+      "text": "Nico_Paz recoge el balón muerto y arranca hacia la portería G_Raspadori corta el juego con una falta táctica Ha cortado el atauqe rival, pero, ¿a qué precio?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "psg",
+      "text": "W_ZaireEmery está cerrado por tres contrarios Abre a la banda para romper la presión M_Asensio recibe con campo por delante M_Llorente llega apurado al corte y mete la pierna hacia J_Oblak ¡Ohhhh! no Ha superado a J_Oblak Rueda lentamente Fuera CÓRNER Vitinha saca a la zona de peligro J_Gimenez controla el balón tras varios rebotes Sale jugando por bajo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se va a añadir 1 minuto al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "psg",
+      "text": "L_HernÃ¡ndez avanza hacia el córner Busca el centro hacia D_Doue J_Alvarez se lleva bien el balón Anders_Frisk pita falta ¡Bufff!, no vale ni para la Segunda B Ya había sido amonestado, sabe lo que se le viene encima... (ROJA)",
+      "type": "red"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

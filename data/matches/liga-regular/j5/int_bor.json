@@ -1,0 +1,1338 @@
+{
+  "id": "liga-regular/j5/int_bor",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j5",
+  "roundLabel": "Jornada 5",
+  "fileName": "int_bor.txt",
+  "homeCode": "int",
+  "awayCode": "bor",
+  "homeTeam": "Inter Milan",
+  "awayTeam": "Borussia Dortmund",
+  "result": {
+    "home": 5,
+    "away": 0,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Inter Milan 1-0 Borussia Dortmund",
+  "formation": {
+    "home": "5-4-1 N",
+    "away": "4-4-2 A"
+  },
+  "referee": {
+    "name": "Cuneyt Cakir",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "J_Martinez",
+        "displayName": "J Martinez",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "D_Dumfries",
+        "displayName": "D Dumfries",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "T_Palacios",
+        "displayName": "T Palacios",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "C_Augusto",
+        "displayName": "C Augusto",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Bastoni",
+        "displayName": "A Bastoni",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Darmian",
+        "displayName": "M Darmian",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "H_Mkhitaryan",
+        "displayName": "H Mkhitaryan",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "F_Dimarco",
+        "displayName": "F Dimarco",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "P_Sucic",
+        "displayName": "P Sucic",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "K_Asllani",
+        "displayName": "K Asllani",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "E_Sebastiano",
+        "displayName": "E Sebastiano",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Y_Sommer",
+        "displayName": "Y Sommer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "S_DeVrij",
+        "displayName": "S DeVrij",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Pavard",
+        "displayName": "B Pavard",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_Henrique",
+        "displayName": "L Henrique",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Taremi",
+        "displayName": "M Taremi",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "G_Kobel",
+        "displayName": "G Kobel",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "N_Schlotterbeck",
+        "displayName": "N Schlotterbeck",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Anton",
+        "displayName": "W Anton",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Sule",
+        "displayName": "N Sule",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Y_Couto",
+        "displayName": "Y Couto",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "P_Gross",
+        "displayName": "P Gross",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Brandt",
+        "displayName": "J Brandt",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Sabitzer",
+        "displayName": "M Sabitzer",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "G_Reyna",
+        "displayName": "G Reyna",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "S_Guirassy",
+        "displayName": "S Guirassy",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "K_Adeyemi",
+        "displayName": "K Adeyemi",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Meyer",
+        "displayName": "A Meyer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "R_Bensebaini",
+        "displayName": "R Bensebaini",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Jobe_Bellingham",
+        "displayName": "Jobe Bellingham",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Nmecha",
+        "displayName": "F Nmecha",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Beier",
+        "displayName": "M Beier",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Inter Milan",
+      "mvp": "P_Sucic (Jugador del partido)",
+      "goals": "D_Dumfries (27), M_Taremi (58,67), C_Augusto (63), L_Henrique (71)",
+      "sentOff": "N/A",
+      "booked": "F_Dimarco (46)",
+      "injured": "T_Palacios (1)"
+    },
+    {
+      "team": "Borussia Dortmund",
+      "mvp": "P_Gross",
+      "goals": "N/A",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "G_Kobel (9), K_Adeyemi (28)"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 26,
+      "away": 8
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 11,
+      "away": 3
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 15,
+      "away": 5
+    },
+    {
+      "label": "Posesión",
+      "home": 66,
+      "away": 34
+    },
+    {
+      "label": "Córners",
+      "home": 6,
+      "away": 1
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Sustituciones",
+      "home": 3,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 4,
+      "away": 7
+    },
+    {
+      "label": "Entradas",
+      "home": 8,
+      "away": 9
+    },
+    {
+      "label": "Pases clave",
+      "home": 21,
+      "away": 8
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Inter Milan",
+      "players": [
+        {
+          "name": "J_Martinez",
+          "displayName": "J Martinez",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 21,
+          "min": 96,
+          "sav": 6,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Dumfries",
+          "displayName": "D Dumfries",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 31,
+          "sh": 16,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Palacios",
+          "displayName": "T Palacios",
+          "position": "DF",
+          "st": 2,
+          "tk": 31,
+          "ps": 16,
+          "sh": 7,
+          "ag": 20,
+          "min": 1,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Augusto",
+          "displayName": "C Augusto",
+          "position": "DF",
+          "st": 2,
+          "tk": 31,
+          "ps": 32,
+          "sh": 14,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 4,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Bastoni",
+          "displayName": "A Bastoni",
+          "position": "DF",
+          "st": 2,
+          "tk": 45,
+          "ps": 16,
+          "sh": 4,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Darmian",
+          "displayName": "M Darmian",
+          "position": "DF",
+          "st": 2,
+          "tk": 30,
+          "ps": 31,
+          "sh": 14,
+          "ag": 21,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Mkhitaryan",
+          "displayName": "H Mkhitaryan",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 35,
+          "sh": 9,
+          "ag": 21,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 1,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Dimarco",
+          "displayName": "F Dimarco",
+          "position": "MF",
+          "st": 2,
+          "tk": 33,
+          "ps": 36,
+          "sh": 14,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 4,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "P_Sucic",
+          "displayName": "P Sucic",
+          "position": "MF",
+          "st": 2,
+          "tk": 12,
+          "ps": 36,
+          "sh": 21,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 5,
+          "ass": 1,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Asllani",
+          "displayName": "K Asllani",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 32,
+          "sh": 19,
+          "ag": 22,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Sebastiano",
+          "displayName": "E Sebastiano",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 24,
+          "sh": 36,
+          "ag": 22,
+          "min": 57,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Sommer",
+          "displayName": "Y Sommer",
+          "position": "GK",
+          "st": 35,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_DeVrij",
+          "displayName": "S DeVrij",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 4,
+          "ag": 21,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Pavard",
+          "displayName": "B Pavard",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 9,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Henrique",
+          "displayName": "L Henrique",
+          "position": "MF",
+          "st": 2,
+          "tk": 26,
+          "ps": 32,
+          "sh": 21,
+          "ag": 23,
+          "min": 51,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 4,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Taremi",
+          "displayName": "M Taremi",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 26,
+          "sh": 35,
+          "ag": 21,
+          "min": 39,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 3,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Borussia Dortmund",
+      "players": [
+        {
+          "name": "G_Kobel",
+          "displayName": "G Kobel",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 9,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Schlotterbeck",
+          "displayName": "N Schlotterbeck",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 17,
+          "sh": 7,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Anton",
+          "displayName": "W Anton",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 7,
+          "ag": 22,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Sule",
+          "displayName": "N Sule",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 4,
+          "ag": 22,
+          "min": 96,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Couto",
+          "displayName": "Y Couto",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 31,
+          "sh": 14,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Gross",
+          "displayName": "P Gross",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 19,
+          "ag": 22,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Brandt",
+          "displayName": "J Brandt",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 26,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Sabitzer",
+          "displayName": "M Sabitzer",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 38,
+          "sh": 21,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Reyna",
+          "displayName": "G Reyna",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 24,
+          "ag": 23,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Guirassy",
+          "displayName": "S Guirassy",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 25,
+          "sh": 43,
+          "ag": 24,
+          "min": 96,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Adeyemi",
+          "displayName": "K Adeyemi",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 40,
+          "ag": 26,
+          "min": 28,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Meyer",
+          "displayName": "A Meyer",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 87,
+          "sav": 11,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Bensebaini",
+          "displayName": "R Bensebaini",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 12,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Jobe_Bellingham",
+          "displayName": "Jobe Bellingham",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 33,
+          "sh": 16,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Nmecha",
+          "displayName": "F Nmecha",
+          "position": "MF",
+          "st": 2,
+          "tk": 26,
+          "ps": 36,
+          "sh": 16,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Beier",
+          "displayName": "M Beier",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 24,
+          "sh": 38,
+          "ag": 24,
+          "min": 68,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "int",
+      "text": "T_Palacios se toca el tobillo Pide urgentemente que le atienda el médico Nada que hacer Cambio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "int",
+      "text": "El ayudante del entrenador llama a S_DeVrij T_Palacios va a ser sustituído El técnico le indica que juegue de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "bor",
+      "text": "M_Sabitzer se la pone a P_Gross en el pie P_Gross le pega con dureza No ha precisado demasiado J_Martinez se saca una espectacular parada de la manga ¿Cómo lo hizo para llegar a ese balón?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "bor",
+      "text": "G_Reyna supera a A_Bastoni El defensa está viviendo una pesadilla M_Darmian se le anticipa y le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "int",
+      "text": "H_Mkhitaryan se abre a la banda. Recibe el balón Levanta la cabeza, no hay salida Pero encuentra a P_Sucic. ¡Qué visión de juego! Y_Couto ve venir el pase y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "bor",
+      "text": "G_Kobel hace ostensibles gestos de dolor Trata de seguir... Imposible",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "bor",
+      "text": "A_Meyer entra y G_Kobel se va la ducha antes de tiempo Todo apunta a que se ubicará en GK",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 11,
+      "teamCode": "int",
+      "text": "El balón queda muerto D_Dumfries lo controla y prepara el disparo Pero N_Sule aparece de la nada y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "int",
+      "text": "D_Dumfries con el saque de banda El defensa pide fuera de juego Si no hay K_Asllani se escapa K_Asllani se saca una bicicleta de la nada y chuta A_Meyer no llegará a ese balón Oooh se pierde por arriba",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "int",
+      "text": "H_Mkhitaryan cruza hacia M_Darmian M_Darmian trata de sorprender con un chut lejano A_Meyer despeja el balón... con el pecho Vaya manera de vacilar al contrario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "bor",
+      "text": "K_Adeyemi con un tremendo sprint A_Bastoni se lleva por delante a su rival PENALT No El colegiado da saque de puerta Se buscan gafas para el árbitro Urgente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "bor",
+      "text": "J_Brandt deja a S_DeVrij en el camino C_Augusto corta con mucha tranquilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "int",
+      "text": "A_Bastoni ve a D_Dumfries completamente solo K_Adeyemi se interpone entre el delantero y el balón. Ha ganado la posición",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "int",
+      "text": "M_Darmian sale lanzado por el carril N_Sule intenta cortar su avance con una entrada a ras de suelo El delantero salta por encima ¡Qué reflejos! M_Darmian se anticipa a su marcador A_Meyer despeja el balón... con el pecho Vaya manera de vacilar al contrario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "int",
+      "text": "K_Asllani baja el balón con el pecho. Lo pisa... y asiste a E_Sebastiano Pero N_Schlotterbeck se anticipa a la jugada. Qué sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 27,
+      "teamCode": "int",
+      "text": "D_Dumfries controla un balón que bajaba con nieve Arranca en un suspiro y se planta en el área D_Dumfries hace un quiebro y dispara rápidamente GOOOOOL Regateó a A_Meyer El Inter Milan jugará con ventaja a partir de ahora Inter Milan 1-0 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "bor",
+      "text": "K_Adeyemi se ha torcido gravemente la rodilla El fisio del Borussia Dortmund entra al campo apresuradamente Pero el Reflex no suerte efecto Cambio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "bor",
+      "text": "Los aficionados rugen cuando M_Beier substituye a K_Adeyemi para jugar de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "bor",
+      "text": "Y_Couto está desmarcado H_Mkhitaryan corta el juego con una falta táctica Ha cortado el atauqe rival, pero, ¿a qué precio? Cuneyt_Cakir no lo amonesta Vaya, yo creo que es de los peores árbitros de TSM",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "int",
+      "text": "P_Sucic cruza para H_Mkhitaryan Logra meter la plaanta del pie H_Mkhitaryan El disparo se le escurre a A_Meyer de las manos rueda lentamente hacia el marco Pero sale a centímetros del palo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "int",
+      "text": "E_Sebastiano hace una rápida pared con un compañero Tiene un defensa delante Le hace una bicicleta y mira al portero E_Sebastiano busca un disparo con efecto Esto es fútbol A_Meyer alcanza el cuero. Buena parada El árbitro pita falta sobre A_Meyer , de todas maneras",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "int",
+      "text": "S_DeVrij mete el balón a la espalda de la defensa Su compañero ya había empezado la carrera E_Sebastiano controla el balón W_Anton llega velozmente y mete la planta del pie ¡Qué velocidad!",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "int",
+      "text": "E_Sebastiano con un pase de 50 metros F_Dimarco F_Dimarco peina el balón hacia atrás Dispara defectuosamente Tenía muy poco espacio para maniobrar",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "bor",
+      "text": "S_Guirassy controla de espaldas a la portería Se protege del defensa con los brazos Gira... y se lo lleva S_Guirassy tiene tiempo y espacio ¡Dispara por bajo! Pero J_Martinez saca una pierna milagrosa y desvía el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "bor",
+      "text": "S_Guirassy cuelga arriba sobre J_Brandt Espectacular remate de J_Brandt Pero J_Martinez se saca de la manga la parada del partido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 2 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "int",
+      "text": "L_Henrique sustituye a un descontento K_Asllani para jugar de MF",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "bor",
+      "text": "M_Beier hace una bicicleta y descoloca a F_Dimarco A_Bastoni corta con claridad Midió a la perfección Su entrenador aplaude",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "bor",
+      "text": "Y_Couto con el regate Evita la entrada F_Dimarco efectúa un espectacular tackle El colegiado indica la falta... hacia el otro lado (AMARILLA) FALTA DIRECTA La barrera se coloca N_Schlotterbeck con la jugada de estrategia S_Guirassy recibe el pase S_Guirassy mira a A_Meyer Trata de superarlo por el palo largo OOOOHHHHH Increible Se ha ido fuera",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "bor",
+      "text": "P_Gross con un pase milimétrico El balón pasa por encima de S_DeVrij Y le llega a M_Beier L_Henrique despeja a córner CÓRNER N_Schlotterbeck coloca el balón con mucha suavidad El centro va directo a las manos de J_Martinez",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "bor",
+      "text": "N_Schlotterbeck le pega mal Pero le llega a P_Gross Eso ha sido de leche P_Gross busca la vaselina J_Martinez alcanza el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "bor",
+      "text": "S_Guirassy al primer toque para M_Beier Pero M_Darmian se anticipa a la jugada. Qué sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "int",
+      "text": "E_Sebastiano se interna Le hace dos bicicletas a W_Anton Lo ha roto. Centra a C_Augusto Envenenado trallazo de C_Augusto A_Meyer vuela sobre la línea de gol Y realiza una espectacular parada Está enchufado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "int",
+      "text": "La grada ruge ya que M_Taremi substituye a E_Sebastiano para jugar de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "int",
+      "text": "P_Sucic ve especio entre el central y el lateral. Pone un peligroso pase diagonal para D_Dumfries Potente chut de D_Dumfries A_Meyer palmea a córner Cuneyt_Cakir pita saque de puerta Increíble",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "int",
+      "text": "P_Sucic tira la pared con su delantero C_Augusto con un preciso pase de primeras Menuda jugada C_Augusto busca el palo por bajo El disparo rebota en el defensa y va directo hacía la grada CÓRNER H_Mkhitaryan cuelga el balón Vuela hacia A_Bastoni se anticipa a su marcador Terrorífico disparo Rebota en el pie del defensa Se aleja del marco Pero el portero no puede evitar el córner CÓRNER S_DeVrij saca el balón a la frontal A_Meyer mete los puños con fuerza y aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "bor",
+      "text": "G_Reyna con un inteligente pase hacia Y_Couto D_Dumfries se interpone entre el delantero y el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "int",
+      "text": "M_Taremi se encuentra solo y con tiempo para pensar M_Taremi trata de sorprender al portero con una inesperada vaselina GOOOOOL Corre como un poseso hacia el córner Agarra el banderín y lo mece al viento Inter Milan 2-0 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "int",
+      "text": "M_Taremi supera a W_Anton Lleva loco a su marcador M_Taremi busca el palo largo del portero Pero falla Este tío no le mete un gol ni en el arco iris",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "int",
+      "text": "H_Mkhitaryan pasa de rabona hacia C_Augusto. Madre mía ¿Ha nacido en Brasil? C_Augusto busca el palo largo GOOOOOL Hace un mortal hacia atrás. Ei Eso lo inventó Hugo Sánchez Inter Milan 3-0 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "int",
+      "text": "L_Henrique sale del regate y mete un pase hacia F_Dimarco F_Dimarco impacta el balón con una volea defectuosa Al lateral de la red Ha tirado a la basura una ocasión de oro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "int",
+      "text": "M_Taremi avanza en carrera y gira súbitamente El cambio de dirección sorprendió a M_Sabitzer M_Beier va al corte con dureza solo puede ser falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "int",
+      "text": "M_Taremi va en carrera junto a N_Schlotterbeck El atacante es más rápido M_Taremi tiene la portería entre ceja y ceja GOOOOOL Se desliza por el césped Y le cae una lluvia de compañeros encima Lo van a asfixiar Inter Milan 4-0 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "int",
+      "text": "F_Dimarco hace la diagonal Ve un desmarque por el rabillo del ojo Se la pasa a H_Mkhitaryan El lanzamiento rebota en el muslo de H_Mkhitaryan y se encamina a puerta Busca la escuadra Ojo con el efecto. El portero no va a llegar Pero aterriza en la grada superior de la portería A_Meyer sonríe. Estaba batido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "int",
+      "text": "P_Sucic llega primero al balón que ha quedado muerto Ve a su compañero entrando desde atrás L_Henrique controla en carrera L_Henrique otea la posición de A_Meyer ¡Dispara! A_Meyer no va a llegar GOOOOOL Qué golazo Inter Milan 5-0 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "int",
+      "text": "M_Taremi con un preciso pase hacia F_Dimarco N_Schlotterbeck se hace con el balón Y lo manda hacia arriba",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "int",
+      "text": "H_Mkhitaryan de tacón para M_Darmian M_Darmian mete la cabeza segundos antes que su marcador A_Meyer despeja el balón... con el pecho Vaya manera de vacilar al contrario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "int",
+      "text": "P_Sucic controla el balón y encara a G_Reyna. ¡Qué regate! P_Sucic con el disparo A_Meyer lo atrapa cómodamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "int",
+      "text": "F_Dimarco ve perfectamente el desmarque de H_Mkhitaryan W_Anton ve venir el pase y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "int",
+      "text": "L_Henrique gana metros Va de cara a puerta L_Henrique suelta un disparo muy débil El disparo coge un efecto envenenado A_Meyer reacciona rápidamente y corrige su posición No va a llegar Pero sale rozando el palo A_Meyer estaba batido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "bor",
+      "text": "P_Gross con un control impresionante Hace la croqueta ante S_DeVrij Y centra hacia J_Brandt. ¡Qué clase! Corte finísimo y preciso de F_Dimarco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "int",
+      "text": "F_Dimarco conduce por la línea de medios Pasa hacia C_Augusto Menudo obús de C_Augusto Hala Al tercer anfiteatro Coloca el balón lejos del alcance del portero Pero da en el palo Bueno, los palos también juegan",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "bor",
+      "text": "M_Sabitzer observa como sus compañeros arrastran a sus marcadores Se juega la individual Un poco chupón Se cuela por el centro M_Sabitzer se levanta sobre su marcador, carga el cabezazo, lo suelta... ¡Peligro! Dispara al córner ¿Cómo hizo para pegarle tan mal?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 86,
+      "teamCode": "bor",
+      "text": "P_Gross en una posición inmejorable P_Gross remacha el balón a ras de suelo Sale fuera y será saque de puerta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 4 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "int",
+      "text": "F_Dimarco mira a A_Bastoni... y le manda un pase milimétrico J_Brandt se hace con el balón y lo cede al portero A_Meyer estaba descolocado Corre a la desesperada Fuera Por poco CÓRNER M_Taremi le de mucho efecto a su lanzamiento Directo hacia P_Sucic Remata como puede A_Meyer la para con facilidad. ¡Oh! ¡Se le ha escapado! Es córner CÓRNER F_Dimarco saca el balón a la frontal Directo hacia L_Henrique Remata como puede Pero A_Meyer pone el muslo. Tuvo suerte de que se fue a córner y no a la red CÓRNER P_Sucic saca el balón a la frontal M_Darmian entra con todo Pega en la espalda de un defensa A_Meyer ha quedado descolocado Sale rozando el palo Uy CÓRNER M_Taremi centra hacia el área L_Henrique remata de cabeza A_Meyer hace una gran parada Pero no puede retener el balón Lo atrapa en el segundo intento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "int",
+      "text": "P_Sucic encuentra a H_Mkhitaryan N_Sule se lleva por delante a su rival PENALT No El colegiado da saque de puerta Se buscan gafas para el árbitro Urgente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 94,
+      "teamCode": "bor",
+      "text": "W_Anton llega primero al balón que ha quedado muerto Ve a su compañero entrando desde atrás Y_Couto controla en carrera Suelta un latigazo con su pierna izquierda J_Martinez flota sobre la línea de meta Mete la mano ¿Córner? No se equivocó",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

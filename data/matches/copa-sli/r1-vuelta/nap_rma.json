@@ -1,0 +1,1299 @@
+{
+  "id": "copa-sli/r1-vuelta/nap_rma",
+  "competitionId": "copa-sli",
+  "competitionLabel": "Copa SLI",
+  "roundId": "r1-vuelta",
+  "roundLabel": "1ª Ronda · Vuelta",
+  "fileName": "nap_rma.txt",
+  "homeCode": "nap",
+  "awayCode": "rma",
+  "homeTeam": "Napoles",
+  "awayTeam": "Real Madrid",
+  "result": {
+    "home": 4,
+    "away": 3,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Napoles 2-2 Real Madrid",
+  "formation": {
+    "home": "4-4-2 C",
+    "away": "4-1-2-1-2 C"
+  },
+  "referee": {
+    "name": "Pierluigi Collina",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "A_Meret",
+        "displayName": "A Meret",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "G_DiLorenzo",
+        "displayName": "G DiLorenzo",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Gutierrez",
+        "displayName": "M Gutierrez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Oliveira",
+        "displayName": "M Oliveira",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Buongiorno",
+        "displayName": "A Buongiorno",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "S_Lobotka",
+        "displayName": "S Lobotka",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Politano",
+        "displayName": "M Politano",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Goretzka",
+        "displayName": "L Goretzka",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "S_McTominay",
+        "displayName": "S McTominay",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "R_KoloMuani",
+        "displayName": "R KoloMuani",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "R_Lukaku",
+        "displayName": "R Lukaku",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "V_Milinkovic",
+        "displayName": "V Milinkovic",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Kim",
+        "displayName": "M Kim",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Anguissa",
+        "displayName": "F Anguissa",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Neres",
+        "displayName": "D Neres",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "S_Gnabry",
+        "displayName": "S Gnabry",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "T_Courtois",
+        "displayName": "T Courtois",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "D_Huijsen",
+        "displayName": "D Huijsen",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Asencio",
+        "displayName": "R Asencio",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "E_Militao",
+        "displayName": "E Militao",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Rudiger",
+        "displayName": "A Rudiger",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Ceballos",
+        "displayName": "D Ceballos",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "F_Valverde",
+        "displayName": "F Valverde",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Bellingham",
+        "displayName": "J Bellingham",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Guler",
+        "displayName": "A Guler",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "K_Mbappe",
+        "displayName": "K Mbappe",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "V_Junior",
+        "displayName": "V Junior",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Lunin",
+        "displayName": "A Lunin",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "AlexArnold",
+        "displayName": "AlexArnold",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "E_Camavinga",
+        "displayName": "E Camavinga",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Rodrygo",
+        "displayName": "Rodrygo",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "G_Garcia",
+        "displayName": "G Garcia",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Napoles",
+      "mvp": "S_Gnabry",
+      "goals": "M_Oliveira (15), S_Gnabry (38,48), S_Lobotka (46)",
+      "sentOff": "G_DiLorenzo (35)",
+      "booked": "M_Gutierrez (85), S_Gnabry (88)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Real Madrid",
+      "mvp": "K_Mbappe (Jugador del partido)",
+      "goals": "K_Mbappe (4), F_Valverde (29,55)",
+      "sentOff": "N/A",
+      "booked": "E_Militao (1), D_Huijsen (55)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 15,
+      "away": 13
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 7,
+      "away": 2
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 8,
+      "away": 11
+    },
+    {
+      "label": "Posesión",
+      "home": 49,
+      "away": 51
+    },
+    {
+      "label": "Córners",
+      "home": 4,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 2,
+      "away": 2
+    },
+    {
+      "label": "Sustituciones",
+      "home": 2,
+      "away": 0
+    },
+    {
+      "label": "Faltas",
+      "home": 6,
+      "away": 6
+    },
+    {
+      "label": "Entradas",
+      "home": 8,
+      "away": 7
+    },
+    {
+      "label": "Pases clave",
+      "home": 11,
+      "away": 15
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Napoles",
+      "players": [
+        {
+          "name": "A_Meret",
+          "displayName": "A Meret",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 19,
+          "min": 97,
+          "sav": 7,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_DiLorenzo",
+          "displayName": "G DiLorenzo",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 31,
+          "sh": 12,
+          "ag": 21,
+          "min": 35,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "M_Gutierrez",
+          "displayName": "M Gutierrez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 27,
+          "sh": 9,
+          "ag": 22,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "M_Oliveira",
+          "displayName": "M Oliveira",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 28,
+          "sh": 12,
+          "ag": 20,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Buongiorno",
+          "displayName": "A Buongiorno",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 7,
+          "ag": 21,
+          "min": 97,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Lobotka",
+          "displayName": "S Lobotka",
+          "position": "MF",
+          "st": 2,
+          "tk": 27,
+          "ps": 41,
+          "sh": 14,
+          "ag": 21,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Politano",
+          "displayName": "M Politano",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 40,
+          "sh": 20,
+          "ag": 22,
+          "min": 30,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Goretzka",
+          "displayName": "L Goretzka",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 42,
+          "sh": 16,
+          "ag": 26,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_McTominay",
+          "displayName": "S McTominay",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 42,
+          "sh": 29,
+          "ag": 22,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_KoloMuani",
+          "displayName": "R KoloMuani",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 28,
+          "sh": 41,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Lukaku",
+          "displayName": "R Lukaku",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 20,
+          "sh": 41,
+          "ag": 20,
+          "min": 52,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Milinkovic",
+          "displayName": "V Milinkovic",
+          "position": "GK",
+          "st": 30,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Kim",
+          "displayName": "M Kim",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Anguissa",
+          "displayName": "F Anguissa",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 38,
+          "sh": 16,
+          "ag": 21,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Neres",
+          "displayName": "D Neres",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 39,
+          "sh": 22,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Gnabry",
+          "displayName": "S Gnabry",
+          "position": "AM",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 41,
+          "ag": 27,
+          "min": 67,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 3,
+          "gls": 2,
+          "yel": 1,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Real Madrid",
+      "players": [
+        {
+          "name": "T_Courtois",
+          "displayName": "T Courtois",
+          "position": "GK",
+          "st": 45,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 97,
+          "sav": 5,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Huijsen",
+          "displayName": "D Huijsen",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 2,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "R_Asencio",
+          "displayName": "R Asencio",
+          "position": "DF",
+          "st": 2,
+          "tk": 32,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Militao",
+          "displayName": "E Militao",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 12,
+          "sh": 4,
+          "ag": 26,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "A_Rudiger",
+          "displayName": "A Rudiger",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 9,
+          "sh": 4,
+          "ag": 24,
+          "min": 97,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Ceballos",
+          "displayName": "D Ceballos",
+          "position": "DM",
+          "st": 2,
+          "tk": 16,
+          "ps": 37,
+          "sh": 12,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 5,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Valverde",
+          "displayName": "F Valverde",
+          "position": "MF",
+          "st": 2,
+          "tk": 27,
+          "ps": 43,
+          "sh": 16,
+          "ag": 27,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Bellingham",
+          "displayName": "J Bellingham",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 24,
+          "ag": 28,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Guler",
+          "displayName": "A Guler",
+          "position": "AM",
+          "st": 2,
+          "tk": 14,
+          "ps": 37,
+          "sh": 19,
+          "ag": 25,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Mbappe",
+          "displayName": "K Mbappe",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 49,
+          "ag": 30,
+          "min": 97,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 5,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Junior",
+          "displayName": "V Junior",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 23,
+          "sh": 45,
+          "ag": 30,
+          "min": 97,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 5,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Lunin",
+          "displayName": "A Lunin",
+          "position": "GK",
+          "st": 37,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "AlexArnold",
+          "displayName": "AlexArnold",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 21,
+          "sh": 12,
+          "ag": 27,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Camavinga",
+          "displayName": "E Camavinga",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 14,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rodrygo",
+          "displayName": "Rodrygo",
+          "position": "MF",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 40,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Garcia",
+          "displayName": "G Garcia",
+          "position": "FW",
+          "st": 2,
+          "tk": 7,
+          "ps": 14,
+          "sh": 32,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "rma",
+      "text": "D_Ceballos corre hacia la portería ¡Vaya mirada! Tiene el gol en mente G_DiLorenzo suelta una entrada desmedida Falta Está en problemas Pierluigi_Collina busca en su bolsillo Comprueba su número (AMARILLA) Debe sentirse afortunado que solo fuera eso",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "nap",
+      "text": "R_KoloMuani hace una bicicleta y descoloca a R_Asencio E_Militao efectúa un espectacular tackle pero Pierluigi_Collina el colegiado pita falta del delantero (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "nap",
+      "text": "L_Goretzka suelta un cañonazo Al larguero R_Lukaku recoge el rebote R_Lukaku llega forzado al remate Fuera Menos fuerza y más puntería chico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "rma",
+      "text": "D_Huijsen se revuelve buscando espacio para el disparo Desliza un pase hacia K_Mbappe K_Mbappe rompe el sistema defensivo rival Trata de rodear a A_Meret Sienta a A_Meret con una bicicleta ¡Qué calidad! Va a marcar GOOOOOL Ya ha celebrado 10 esta Liga El Real Madrid manda en el luminoso Napoles 0-1 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "nap",
+      "text": "M_Oliveira controla el balón y encara a D_Ceballos. ¡Qué regate! M_Oliveira empalma con la zurda. Colocó mal el cuerpo Se mueve la red GOOOOOL Hace una voltereta, dos, tres ¡Qué barbaridad! Napoles empata el partido Napoles 1-1 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "rma",
+      "text": "K_Mbappe hace una inteligente pared con un compañero Le sale al paso un defensa Se va de él y mira la portería K_Mbappe mete la cabeza segundos antes que su marcador A_Meret llega con la punta de los dedos al balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "nap",
+      "text": "S_Lobotka con un control impresionante Hace la croqueta ante D_Huijsen Y centra hacia R_KoloMuani. ¡Qué clase! R_KoloMuani busca el palo largo T_Courtois mete los puños y manda el balón a la banda. Cómo marcan los cánones",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "rma",
+      "text": "K_Mbappe con un giro rapidísimo Le enseña el dorsal al defensa S_Lobotka corta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "rma",
+      "text": "A_Guler se deshace de su marcador Esta noche va a aparecer en sus pesadillas R_Lukaku llega como un tren y arrolla a delantero y balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 27,
+      "teamCode": "rma",
+      "text": "A_Guler tira la pared con su delantero V_Junior se la queda Encara a puerta V_Junior golpea el balón a bote pronto Al centro del marco, dondé está A_Meret Trata de cogerla... pero se le escapa El rebote queda libre A_Meret reacciona rápidamente Y la despeja con los pies a la grada Su error estuvo a punto de costarle caro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "rma",
+      "text": "A_Guler controla el balón en una demostración de clase Abre el juego a la izquierda F_Valverde es el destinatario F_Valverde impacta el balón con dureza GOOOOOL Se lleva el dedo a los labios ¡Ufff! ¡Qué cabreo han pillado los aficionados rivales! El Real Madrid se coloca por delante Napoles 1-2 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "nap",
+      "text": "S_Gnabry va a entrar por M_Politano. Apostaría a que juega de AM. Sí",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "nap",
+      "text": "Se veía venir. Napoles ahora jugará E",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "nap",
+      "text": "R_Lukaku se hace con el balón Y busca a R_KoloMuani con un pase con el exterior R_KoloMuani salta con potencia por encima de la defensa Demasiado alta, la ha tirado a Agraria",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "rma",
+      "text": "R_Asencio conduce por la línea de medios Pasa hacia A_Rudiger G_DiLorenzo se lanza al corte ¡Ufff! Esto tiene toda la pinta de una amarilla Segunda amarilla (EXPULSADO) Qué infantil Sabía que debía tener cuidado después de la primera cartulina",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "rma",
+      "text": "V_Junior se ve obligado a retener el cuero No hay opciones de pase. Se desespera Encara puerta en solitario A_Buongiorno lo envía al césped Los aficionados reclaman penalti Pero Pierluigi_Collina se desentiende de la jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "nap",
+      "text": "S_Gnabry hace una bicicleta y descoloca a A_Rudiger D_Huijsen corta el balón Despeja a lo loco La ha enviado a la grada CÓRNER A_Buongiorno saca el balón a la frontal El centro va directo a las manos de T_Courtois",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "nap",
+      "text": "R_Lukaku hace una doble pared con S_Gnabry S_Gnabry pica el balón por encima del portero GOOOOOL Está haciendo pases con una muleta imaginaria Acaba de empatar Napoles 2-2 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "nap",
+      "text": "S_Lobotka se hace con el balón Y busca a R_Lukaku con un pase con el exterior R_Asencio despeja el balón con un verdadero cirio. Esa va a caer con nieve",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 4 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "rma",
+      "text": "J_Bellingham está presionado, retrocede Está en peligro, se saca el balón de encima OH Le ha salida una maravillosa asistencia hacia V_Junior Pero S_McTominay se anticipa a la jugada. Qué sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "rma",
+      "text": "K_Mbappe espera apoyos V_Junior sale de la cueva. Para él va el balón V_Junior pica el balón por encima del portero A_Meret para. Le vino directo a las manos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "rma",
+      "text": "D_Ceballos sale del regate y mete un pase hacia K_Mbappe K_Mbappe se ha deshecho de la defensa rival Pisa área, está completamente solo Levanta el balón ante la salida desesperada de A_Meret GOOOOOL Pero ha sido ANULADO Fuera de juego Acertó en su decisión",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "nap",
+      "text": "S_Lobotka encuentra una autopista en la defensa El entrenador se desgañita en la banda S_Lobotka pica el balón por encima del portero GOOOOOL Gran finalización Los aficionados del Napoles lo celebran con bengalas El Napoles golpea. Ahora manda en el marcador Napoles 3-2 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "nap",
+      "text": "R_KoloMuani llega el primero al balón Abre a la banda sobre S_Gnabry S_Gnabry remata forzado... con la rodilla GOOOOOL Se desliza por el césped Y le cae una lluvia de compañeros encima Lo van a asfixiar Napoles 4-2 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "nap",
+      "text": "F_Anguissa sustituye a R_Lukaku en la posición de MF",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "rma",
+      "text": "J_Bellingham llega al área, prepara el disparo... Pero en su lugar pasa hacia V_Junior. ¡Qué calidad! V_Junior tiene el disparo a punto A_Meret mete el cuerpo El balón rebota hacia arriba Pero A_Meret se incorpora velozmente y lo atrapa",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "nap",
+      "text": "F_Anguissa está cerrado por tres contrarios Se saca el balón de encima le cae a R_KoloMuani ¿Suerte o calidad? A_Rudiger sega el césped con una entrada terrorífica El delantero evita a su rival, pero pierde el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "rma",
+      "text": "K_Mbappe encara al defensa Frena un poco y arranca por el otro lado ¡Uau! ¡Vaya cambio de ritmo! K_Mbappe se anticipa a su marcador A_Meret lo para cómodamente El disparo nunca llevó peligro real",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "nap",
+      "text": "F_Anguissa cambia el juego S_McTominay recibe con campo por delante S_McTominay se saca una vaselina magistral de la chistera El diparo coge el efecto cambiado ¡Fuera! Impactó mal el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "rma",
+      "text": "D_Ceballos asiste a F_Valverde dentro del área F_Valverde chuta con la izquierda A_Meret no va a llegar GOOOOOL Gran remate Napoles 4-3 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "nap",
+      "text": "R_KoloMuani recibe el balón en el extremo Se deshace del lateral Pisa área, ay D_Huijsen con una entrada durísima Pierluigi_Collina lo llama inmediatamente Pierluigi_Collina le hace señas. Esto no pinta bien (AMARILLA) FALTA DIRECTA Muy lejana, no creo que llegue F_Anguissa juega en corto para L_Goretzka L_Goretzka golpea el balón a bote pronto T_Courtois lo atrapa cómodamente",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "nap",
+      "text": "S_Lobotka con un pase de 50 metros F_Anguissa Pero pisa un charco y cae al suelo D_Huijsen recoge el balón. Menudo marcaje le está haciendo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "nap",
+      "text": "S_Gnabry avanza hacia el córner Busca el centro hacia M_Oliveira A_Guler entra al corte y despeja el balón Pero lo echa fuera CÓRNER S_Lobotka saca a la zona de peligro F_Anguissa dispara Pero T_Courtois rechaza con los pies Podría haberla cogido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "nap",
+      "text": "S_Gnabry supera a R_Asencio D_Ceballos levanta demasiado la pierna Lo dice en el reglamento: FALTA Pierluigi_Collina saca el tarjetero y se lo muestra. Una imagen vale más que mil plabaras",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "rma",
+      "text": "K_Mbappe controla en carrera Le hace un sombrero a S_Lobotka K_Mbappe empalma con la derecha A_Meret flota sobre la línea de meta Mete la mano ¿Córner? No se equivocó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "rma",
+      "text": "D_Ceballos Con un pase demasiado fuerte. F_Valverde va a llegar Corte finísimo de A_Buongiorno Y evita el córner Está en un momento dulce",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "nap",
+      "text": "S_McTominay se aprovecha de un error de V_Junior Corre hacia el marco S_McTominay resuelve la jugada con un taconazo Pero el balón se pierde inofensivamente por la línea de meta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "rma",
+      "text": "D_Ceballos se interna por la banda Pone un medido centro sobre A_Guler A_Guler remata forzado... con la cabeza A_Meret despeja con problemas El líbero mete la cabeza y aleja el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "nap",
+      "text": "R_KoloMuani aprovecha un fallo defensivo Eso le puede costar caro R_KoloMuani se lanza en plancha... ¡Qué valentía! Suelta un disparo impregnado de calidad y colocación T_Courtois mete el guante Gran parada El público corea su nombre CÓRNER S_McTominay saca a la zona de peligro R_KoloMuani mete la pierna Pero dispara ancho ¿Dónde estaría apuntando?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "nap",
+      "text": "S_Gnabry pisa campo contrario. Mete un pase entre los centrales para S_McTominay K_Mbappe corta el juego con una falta táctica Ha cortado el atauqe rival, pero, ¿a qué precio?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "nap",
+      "text": "S_Gnabry encara al defensa Oh Vaya momento más inoportuno para resbalar S_Gnabry peina el balón hacia atrás OOOOHHHHH Fuera Tenía una posición clara El entrenador le está abroncando",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "rma",
+      "text": "K_Mbappe le pega al balón con el exterior El efecto despista a la defensa, que no puede evitar que le llegue a V_Junior V_Junior con un sorprendente remate Pero se las arregla para fallar Los aficionados del Napoles se ríen de él",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "rma",
+      "text": "V_Junior se anticipa a su marcador Ha sido mucho más rápido Pero L_Goretzka corta la acción con contundencia",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "nap",
+      "text": "S_Gnabry encara al defensa Se va de A_Guler en velocidad Menudo cambio de ritmo V_Junior corta y cede al portero T_Courtois trata de evitar el córner El pase era defectuoso Se desliza... Córner No llegó CÓRNER L_Goretzka saca el balón a la frontal F_Valverde controla el balón Y lo manda al centro del campo No se ha complicado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "rma",
+      "text": "K_Mbappe hace una croqueta Evita la dura entrada de M_Gutierrez. ¡Qué clase! M_Gutierrez con una entrada asesina (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 3 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "rma",
+      "text": "D_Ceballos combina con K_Mbappe. Le ha metido un buen balón picado S_Gnabry le pone la zancadilla ¡Qué entrada más ruin! El colegiado le muestra la cartulina (AMARILLA) Chico, frena que te vas a la calle",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "rma",
+      "text": "V_Junior pisa el balón ante M_Oliveira Le suelta el túnel y recibe un agarrón de la camiseta Pierluigi_Collina da la ley de la ventaja V_Junior empalma con la derecha A_Meret mete el cuerpo El balón rebota hacia arriba Pero A_Meret se incorpora velozmente y lo atrapa",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 90,
+      "teamCode": "nap",
+      "text": "M_Oliveira corta de manera impresionante Arma el contraataque Es un dos contra dos R_KoloMuani se desmarca y recibe el pase A_Rudiger se anticipa a la jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 90,
+      "teamCode": "rma",
+      "text": "A ver qué inventa J_Bellingham ahora. Pase de interior hacia K_Mbappe M_Gutierrez despeja el balón hacia la grada Ei Un aficionado se lleva el balón Al ladrón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "nap",
+      "text": "El defensa está presionado Se saca el balón de encima S_Lobotka se va solo S_Lobotka trata de regatear a T_Courtois Se estrella en el larguero Pero remata de cabeza tras llegar al rechace Va a ser gol Pero un defensa saca al balón bajo la línea De dónde ha salido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "rma",
+      "text": "D_Huijsen mete el balón en la zona de peligro K_Mbappe se ofrece y recibe el cuero M_Oliveira sega el césped con una entrada terrorífica",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

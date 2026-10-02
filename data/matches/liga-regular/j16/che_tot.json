@@ -1,0 +1,1180 @@
+{
+  "id": "liga-regular/j16/che_tot",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j16",
+  "roundLabel": "Jornada 16",
+  "fileName": "che_tot.txt",
+  "homeCode": "che",
+  "awayCode": "tot",
+  "homeTeam": "Chelsea",
+  "awayTeam": "Tottenham",
+  "result": {
+    "home": 1,
+    "away": 0,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Chelsea 1-0 Tottenham",
+  "formation": {
+    "home": "3-2-3-1-1 C",
+    "away": "4-5-1 D"
+  },
+  "referee": {
+    "name": "Al Ghandour",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "R_Sanchez",
+        "displayName": "R Sanchez",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "Adarabioyo",
+        "displayName": "Adarabioyo",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Colwill",
+        "displayName": "Colwill",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Cucurella",
+        "displayName": "M Cucurella",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Lavia",
+        "displayName": "R Lavia",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "M_Caicedo",
+        "displayName": "M Caicedo",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "E_Fernandez",
+        "displayName": "E Fernandez",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Olmo",
+        "displayName": "D Olmo",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "P_Neto",
+        "displayName": "P Neto",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "C_Palmer",
+        "displayName": "C Palmer",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Nico_Williams",
+        "displayName": "Nico Williams",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "G_Slonina",
+        "displayName": "G Slonina",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Badiashile",
+        "displayName": "B Badiashile",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Reece_James",
+        "displayName": "Reece James",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Raphinha",
+        "displayName": "Raphinha",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "N_Jackson",
+        "displayName": "N Jackson",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "G_Vicario",
+        "displayName": "G Vicario",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "P_Porro",
+        "displayName": "P Porro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "C_Romero",
+        "displayName": "C Romero",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_VandeVen",
+        "displayName": "M VandeVen",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Dragusin",
+        "displayName": "R Dragusin",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Maddison",
+        "displayName": "J Maddison",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "R_Bentancur",
+        "displayName": "R Bentancur",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Kulusevski",
+        "displayName": "D Kulusevski",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Gray",
+        "displayName": "A Gray",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Y_Bissouma",
+        "displayName": "Y Bissouma",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Johnson",
+        "displayName": "B Johnson",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Kinsky",
+        "displayName": "A Kinsky",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_Danso",
+        "displayName": "K Danso",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Udogie",
+        "displayName": "D Udogie",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_Bergvall",
+        "displayName": "L Bergvall",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Richarlison",
+        "displayName": "Richarlison",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Chelsea",
+      "mvp": "Colwill (Jugador del partido)",
+      "goals": "P_Neto (8)",
+      "sentOff": "E_Fernandez (9), Adarabioyo (65)",
+      "booked": "C_Palmer (92)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Tottenham",
+      "mvp": "P_Porro",
+      "goals": "N/A",
+      "sentOff": "N/A",
+      "booked": "J_Maddison (73)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 6,
+      "away": 6
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 1,
+      "away": 3
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 5,
+      "away": 3
+    },
+    {
+      "label": "Posesión",
+      "home": 41,
+      "away": 59
+    },
+    {
+      "label": "Córners",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 2,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 4,
+      "away": 7
+    },
+    {
+      "label": "Entradas",
+      "home": 9,
+      "away": 6
+    },
+    {
+      "label": "Pases clave",
+      "home": 8,
+      "away": 10
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Chelsea",
+      "players": [
+        {
+          "name": "R_Sanchez",
+          "displayName": "R Sanchez",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 19,
+          "min": 94,
+          "sav": 3,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Adarabioyo",
+          "displayName": "Adarabioyo",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 8,
+          "sh": 7,
+          "ag": 21,
+          "min": 66,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "Colwill",
+          "displayName": "Colwill",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 17,
+          "sh": 7,
+          "ag": 18,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Cucurella",
+          "displayName": "M Cucurella",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 18,
+          "sh": 21,
+          "ag": 20,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Lavia",
+          "displayName": "R Lavia",
+          "position": "DM",
+          "st": 2,
+          "tk": 28,
+          "ps": 39,
+          "sh": 14,
+          "ag": 20,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Caicedo",
+          "displayName": "M Caicedo",
+          "position": "DM",
+          "st": 2,
+          "tk": 31,
+          "ps": 43,
+          "sh": 16,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Fernandez",
+          "displayName": "E Fernandez",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 41,
+          "sh": 9,
+          "ag": 22,
+          "min": 9,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "D_Olmo",
+          "displayName": "D Olmo",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 19,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Neto",
+          "displayName": "P Neto",
+          "position": "AM",
+          "st": 2,
+          "tk": 19,
+          "ps": 22,
+          "sh": 39,
+          "ag": 21,
+          "min": 66,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Palmer",
+          "displayName": "C Palmer",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 44,
+          "sh": 33,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Nico_Williams",
+          "displayName": "Nico Williams",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 18,
+          "sh": 42,
+          "ag": 20,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Slonina",
+          "displayName": "G Slonina",
+          "position": "GK",
+          "st": 25,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 17,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Badiashile",
+          "displayName": "B Badiashile",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 7,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Reece_James",
+          "displayName": "Reece James",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 17,
+          "sh": 7,
+          "ag": 18,
+          "min": 28,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Raphinha",
+          "displayName": "Raphinha",
+          "position": "AM",
+          "st": 2,
+          "tk": 12,
+          "ps": 21,
+          "sh": 40,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Jackson",
+          "displayName": "N Jackson",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 14,
+          "sh": 39,
+          "ag": 17,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Tottenham",
+      "players": [
+        {
+          "name": "G_Vicario",
+          "displayName": "G Vicario",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 94,
+          "sav": 4,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Porro",
+          "displayName": "P Porro",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 28,
+          "sh": 14,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 4,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Romero",
+          "displayName": "C Romero",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 15,
+          "sh": 7,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_VandeVen",
+          "displayName": "M VandeVen",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 4,
+          "sh": 7,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Dragusin",
+          "displayName": "R Dragusin",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 7,
+          "ag": 22,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Maddison",
+          "displayName": "J Maddison",
+          "position": "MF",
+          "st": 2,
+          "tk": 12,
+          "ps": 41,
+          "sh": 18,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "R_Bentancur",
+          "displayName": "R Bentancur",
+          "position": "MF",
+          "st": 2,
+          "tk": 28,
+          "ps": 38,
+          "sh": 16,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Kulusevski",
+          "displayName": "D Kulusevski",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 14,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Gray",
+          "displayName": "A Gray",
+          "position": "MF",
+          "st": 2,
+          "tk": 8,
+          "ps": 36,
+          "sh": 14,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Bissouma",
+          "displayName": "Y Bissouma",
+          "position": "MF",
+          "st": 2,
+          "tk": 18,
+          "ps": 36,
+          "sh": 14,
+          "ag": 22,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Johnson",
+          "displayName": "B Johnson",
+          "position": "FW",
+          "st": 2,
+          "tk": 19,
+          "ps": 20,
+          "sh": 41,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Kinsky",
+          "displayName": "A Kinsky",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Danso",
+          "displayName": "K Danso",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 5,
+          "sh": 7,
+          "ag": 21,
+          "min": 49,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Udogie",
+          "displayName": "D Udogie",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 18,
+          "sh": 12,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Bergvall",
+          "displayName": "L Bergvall",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 36,
+          "sh": 16,
+          "ag": 22,
+          "min": 49,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Richarlison",
+          "displayName": "Richarlison",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 26,
+          "sh": 40,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "tot",
+      "text": "B_Johnson está desmarcado B_Johnson mete la cabeza con valentía R_Sanchez ve como el balón se pierde lejos de su marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "tot",
+      "text": "C_Romero golpea el balón al hueco. Y_Bissouma aparece de la nada Pero Colwill está más atento y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "che",
+      "text": "Colwill avanza con el balón controlado Ve a un compañero completamente solo Juega el balón hacia él P_Neto llega al balón P_Neto se saca una terrible volea G_Vicario está batido Golpea en el larguero GOOOOOL El portero solo ha podido mirárselo El Chelsea golpea. Ahora manda en el marcador Chelsea 1-0 Tottenham ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "tot",
+      "text": "P_Porro salta sobre la tremenda entrada de M_Caicedo Se lleva el balón y sigue con la pierna pegada al cuerpo D_Olmo entra con todo El balón rueda y cruza la línea de fondo CÓRNER Y_Bissouma impacta el cuero con el interior del pie P_Porro trata de colocar su disparo R_Sanchez ha estado afortunado en esa jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "tot",
+      "text": "B_Johnson hace una croqueta Evita la dura entrada de E_Fernandez. ¡Qué clase! E_Fernandez entra a la altura de la rodilla Uffff, podría haberle hecho mucho daño (ROJA) Se ha pasado dos pueblos",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "tot",
+      "text": "J_Maddison golpea el balón al hueco. R_Bentancur aparece de la nada R_Bentancur salta con potencia por encima de la defensa Los aficionados se levantan de sus asientos R_Sanchez vuela y bloca el cuero Grande chico, grande",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 23,
+      "teamCode": "tot",
+      "text": "D_Kulusevski con un balón a la espalda del lateral J_Maddison corre hacia el cuero Llega antes que el defensa, qué gran esfuerzo Corte finísimo y preciso de P_Neto Podría haber cometido la falta perfectamente si no hubiera estado tan fino",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "che",
+      "text": "R_Lavia con un balón a la espalda del lateral Nico_Williams corre hacia el cuero Llega antes que el defensa, qué gran esfuerzo Nico_Williams mete el pie antes que su marcador G_Vicario mete la pierna Hay que blocar el balón jefe",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "tot",
+      "text": "D_Kulusevski se cuela hasta la línea de fondo Centra al segundo palo B_Johnson entra el remate D_Olmo aparece de la nada. El delantero aún está buscando el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "che",
+      "text": "Nico_Williams envía el balón por el lado derecho de P_Porro y lo escoge por el otro C_Romero se anticipa a la jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que va a haber 1 minuto de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "tot",
+      "text": "A_Gray con el saque de banda Ve a un compañero solo El balón vuela hacia D_Kulusevski Nico_Williams agarra a su rival en el área El delantero pide ¡PENALTI! desesperdamente Pero Al_Ghandour hace que 'no' con la cabeza",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "tot",
+      "text": "A_Gray corta de manera impresionante Arma el contraataque Es un dos contra dos R_Bentancur se desmarca y recibe el pase Punterazo impresionante de R_Bentancur Golpea en el larguero Bota hacia abajo R_Sanchez la atrapa Evitó el gol Parte de la grada reclama el tanto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "tot",
+      "text": "L_Bergvall entrará en el campo. Está impaciente por demostrar su clase Y_Bissouma se marcha en su lugar No acaba de estar del todo satisfecho consigo mismo Su compañero jugará de MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "tot",
+      "text": "K_Danso sustituye a R_Dragusin en la posición de DF",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "che",
+      "text": "Colwill sale a la contra. Mete un pase medido a P_Neto C_Romero llega antes al balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "che",
+      "text": "Nico_Williams pisa el balón ante L_Bergvall Le suelta el túnel y recibe un agarrón de la camiseta Al_Ghandour da la ley de la ventaja Pero M_VandeVen corta la acción con contundencia",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "tot",
+      "text": "L_Bergvall usa su potencia para deshacerse de la defensa oooooh Que entrada más dura de R_Lavia Al_Ghandour lo llama inmediatamente Se marcha con una simple amonestación",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "che",
+      "text": "Nico_Williams encara portería, levanta la cabeza Ve a P_Porro en su camino y lo regatea Se lo ha quitado de encima Nico_Williams connecta el balón con la cabeza y lo peina hacia atrás G_Vicario alcanza el cuero. Buena parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "tot",
+      "text": "L_Bergvall ha roto por completo el fuera de juego Encara a R_Sanchez Adarabioyo lo derriba en el área Ay, ay, ay que se puede ir a la calle... El árbitro echa mano del tarjetero A ver cuál saca una (ROJA) Creo que se la merecía",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "che",
+      "text": "Aparece el cartel electrónico - Reece_James entra por P_Neto y jugará de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "tot",
+      "text": "B_Johnson controla en carrera Le hace un sombrero a Nico_Williams M_Caicedo envía el balón suelto a las nubues. Cuidado con los pájaros",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "tot",
+      "text": "L_Bergvall tira la pared con su delantero P_Porro se la queda Encara a puerta P_Porro se deshace de su marcador Buen movimiento ¡Y dispara! R_Sanchez vuela sobre la línea de gol Y atrapa el cuero ¡Uau!, fue digno de la Araña Negra",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "che",
+      "text": "Reece_James controla el balón en una demostración de clase Abre el juego a la derecha R_Lavia recibe el cuero J_Maddison se lanza al corte Falta Ha jugado al límite del reglamento Al_Ghandour le hace señas. Esto no pinta bien (AMARILLA) FALTA DIRECTA ¡Peligro! Nico_Williams chuta con dureza G_Vicario mete la pierna Hay que blocar el balón jefe",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "che",
+      "text": "C_Palmer corre metros La defensa rival se ha despistado, hay hueco Pone un peligroso balón sobre la entrada de Colwill P_Porro chuta el cuero con fuerza hacia la grada Ui Los ha cabreado Le tiran de todo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "tot",
+      "text": "J_Maddison regatea a su marcador y pasa rápidamente a L_Bergvall M_Caicedo llega como un tren y arrolla a delantero y balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "tot",
+      "text": "D_Kulusevski avanza metros Mira el extremo derecho Y le pone un pase de oro a R_Bentancur en el otro lado ¡Qué clase! R_Bentancur ha encontrado un hueco entre la defensa Su marcador se ha despistado Se va solo hacia R_Sanchez Está mano a mano con R_Sanchez Coloca el balón a un palo OH Fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "che",
+      "text": "M_Cucurella con el globo Colwill la baja con la cabeza oooooh Que entrada más dura de J_Maddison \"FUERA, FUERA, FUERA\" ruge el estadio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "che",
+      "text": "R_Lavia juega al primer toque para Nico_Williams M_VandeVen corta y cede al portero G_Vicario trata de evitar el córner El pase era defectuoso Se desliza... Córner No llegó CÓRNER D_Olmo coloca el balón con mucha suavidad P_Porro controla el balón Y lo manda al centro del campo No se ha complicado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "tot",
+      "text": "B_Johnson gambetea a lo Maradona ¿Hará 'la mano de Diós' también? M_Cucurella empuja al delantero Qué listo, engañó al árbitro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "che",
+      "text": "M_Cucurella para el balón con el pecho Lo pisa, levanta la cabeza y pasa Madre mía, eso es de manual Nico_Williams recibe un pase medido Ojo que tiene espacio Nico_Williams tiene tiempo y espacio Busca la vaselina G_Vicario pone lo puños. El balón sale hacia atrás... CÓRNER R_Lavia coloca el balón con mucha suavidad P_Porro cubre el segundo palo Y evita el remate del delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "che",
+      "text": "M_Cucurella para en seco y busca apoyos Un compañero lo dobla Aprovecha el espacio que le ha abierto para colarse entre la defensa M_Cucurella con un toque sutil ¡El balón va a puerta! Coloca el balón suavemente lejos del alcance del portero Pero sale rozando el palo G_Vicario estaba vendido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 3 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "tot",
+      "text": "L_Bergvall llega primero al balón que ha quedado muerto Ve a su compañero entrando desde atrás B_Johnson controla en carrera Pero pisa un charco y cae al suelo R_Lavia recoge el balón. Menudo marcaje le está haciendo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "tot",
+      "text": "El balón queda suelto B_Johnson gana la posesión C_Palmer con una entrada alocada Tengo mis dudas que eso sea tarjeta SÍ (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 93,
+      "teamCode": "che",
+      "text": "R_Lavia avanza con el balón controlado Ve el desmarque de un compañero Cruza el pase Colwill con un control facilísimo P_Porro zancadillea a su oponente El árbitro se da la vuelta",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

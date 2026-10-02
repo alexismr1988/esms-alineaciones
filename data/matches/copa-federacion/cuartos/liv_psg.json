@@ -1,0 +1,1226 @@
+{
+  "id": "copa-federacion/cuartos/liv_psg",
+  "competitionId": "copa-federacion",
+  "competitionLabel": "Copa Federación",
+  "roundId": "cuartos",
+  "roundLabel": "Cuartos",
+  "fileName": "liv_psg.txt",
+  "homeCode": "liv",
+  "awayCode": "psg",
+  "homeTeam": "Liverpool",
+  "awayTeam": "PSG",
+  "result": {
+    "home": 3,
+    "away": 0,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Liverpool 2-0 PSG",
+  "formation": {
+    "home": "4-2-2-2 C",
+    "away": "4-4-1-1 C"
+  },
+  "referee": {
+    "name": "Mateu Lahoz",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "Alisson",
+        "displayName": "Alisson",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "A_Robertson",
+        "displayName": "A Robertson",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "V_van_Dijk",
+        "displayName": "V van Dijk",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "I_Konate",
+        "displayName": "I Konate",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Kerkez",
+        "displayName": "M Kerkez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Gravenberch",
+        "displayName": "R Gravenberch",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "A_MacAllister",
+        "displayName": "A MacAllister",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "F_Wirtz",
+        "displayName": "F Wirtz",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "T_Endo",
+        "displayName": "T Endo",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Gakpo",
+        "displayName": "Gakpo",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "M_Salah",
+        "displayName": "M Salah",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Marmardashvili",
+        "displayName": "Marmardashvili",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Gomez",
+        "displayName": "J Gomez",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "S_Bajcetic",
+        "displayName": "S Bajcetic",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "C_Jones",
+        "displayName": "C Jones",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Chiesa",
+        "displayName": "F Chiesa",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "Diogo_Costa",
+        "displayName": "Diogo Costa",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "I_Zabarnyi",
+        "displayName": "I Zabarnyi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Mendes",
+        "displayName": "N Mendes",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Pacho",
+        "displayName": "W Pacho",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Marquinhos",
+        "displayName": "Marquinhos",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Neves",
+        "displayName": "J Neves",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Vitinha",
+        "displayName": "Vitinha",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "F_Ruiz",
+        "displayName": "F Ruiz",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Nico_Paz",
+        "displayName": "Nico Paz",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Asensio",
+        "displayName": "M Asensio",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "D_Doue",
+        "displayName": "D Doue",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "L_Chevalier",
+        "displayName": "L Chevalier",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_HernÃ¡ndez",
+        "displayName": "L HernÃ¡ndez",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "W_ZaireEmery",
+        "displayName": "W ZaireEmery",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "O_Dembele",
+        "displayName": "O Dembele",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Barcola",
+        "displayName": "B Barcola",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Liverpool",
+      "mvp": "R_Gravenberch (Jugador del partido)",
+      "goals": "R_Gravenberch (40), M_Salah (43), F_Wirtz (89)",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "N/A"
+    },
+    {
+      "team": "PSG",
+      "mvp": "J_Neves",
+      "goals": "N/A",
+      "sentOff": "N/A",
+      "booked": "Marquinhos (67)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 7,
+      "away": 7
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 3,
+      "away": 3
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 4,
+      "away": 4
+    },
+    {
+      "label": "Posesión",
+      "home": 54,
+      "away": 46
+    },
+    {
+      "label": "Córners",
+      "home": 0,
+      "away": 1
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 0,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 6,
+      "away": 14
+    },
+    {
+      "label": "Entradas",
+      "home": 7,
+      "away": 9
+    },
+    {
+      "label": "Pases clave",
+      "home": 8,
+      "away": 8
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Liverpool",
+      "players": [
+        {
+          "name": "Alisson",
+          "displayName": "Alisson",
+          "position": "GK",
+          "st": 44,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 98,
+          "sav": 4,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Robertson",
+          "displayName": "A Robertson",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 21,
+          "sh": 7,
+          "ag": 26,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_van_Dijk",
+          "displayName": "V van Dijk",
+          "position": "DF",
+          "st": 2,
+          "tk": 48,
+          "ps": 19,
+          "sh": 7,
+          "ag": 27,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "I_Konate",
+          "displayName": "I Konate",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Kerkez",
+          "displayName": "M Kerkez",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 12,
+          "sh": 7,
+          "ag": 24,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Gravenberch",
+          "displayName": "R Gravenberch",
+          "position": "DM",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 14,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_MacAllister",
+          "displayName": "A MacAllister",
+          "position": "DM",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 16,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Wirtz",
+          "displayName": "F Wirtz",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 46,
+          "sh": 22,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Endo",
+          "displayName": "T Endo",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 35,
+          "sh": 12,
+          "ag": 23,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Gakpo",
+          "displayName": "Gakpo",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 14,
+          "sh": 41,
+          "ag": 14,
+          "min": 78,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Salah",
+          "displayName": "M Salah",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 26,
+          "sh": 45,
+          "ag": 22,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Marmardashvili",
+          "displayName": "Marmardashvili",
+          "position": "GK",
+          "st": 43,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Gomez",
+          "displayName": "J Gomez",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 20,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Bajcetic",
+          "displayName": "S Bajcetic",
+          "position": "MF",
+          "st": 2,
+          "tk": 23,
+          "ps": 35,
+          "sh": 7,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Jones",
+          "displayName": "C Jones",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 16,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Chiesa",
+          "displayName": "F Chiesa",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 14,
+          "sh": 42,
+          "ag": 14,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "PSG",
+      "players": [
+        {
+          "name": "Diogo_Costa",
+          "displayName": "Diogo Costa",
+          "position": "GK",
+          "st": 41,
+          "tk": 1,
+          "ps": 1,
+          "sh": 1,
+          "ag": 21,
+          "min": 98,
+          "sav": 1,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "I_Zabarnyi",
+          "displayName": "I Zabarnyi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 7,
+          "sh": 4,
+          "ag": 23,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Mendes",
+          "displayName": "N Mendes",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 16,
+          "sh": 12,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Pacho",
+          "displayName": "W Pacho",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 7,
+          "sh": 4,
+          "ag": 24,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Marquinhos",
+          "displayName": "Marquinhos",
+          "position": "DF",
+          "st": 2,
+          "tk": 45,
+          "ps": 9,
+          "sh": 4,
+          "ag": 24,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "J_Neves",
+          "displayName": "J Neves",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 45,
+          "sh": 16,
+          "ag": 24,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Vitinha",
+          "displayName": "Vitinha",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 44,
+          "sh": 16,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Ruiz",
+          "displayName": "F Ruiz",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 40,
+          "sh": 16,
+          "ag": 24,
+          "min": 64,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Nico_Paz",
+          "displayName": "Nico Paz",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 39,
+          "sh": 21,
+          "ag": 20,
+          "min": 84,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Asensio",
+          "displayName": "M Asensio",
+          "position": "AM",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 33,
+          "ag": 24,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Doue",
+          "displayName": "D Doue",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 33,
+          "sh": 42,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Chevalier",
+          "displayName": "L Chevalier",
+          "position": "GK",
+          "st": 38,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_HernÃ¡ndez",
+          "displayName": "L HernÃ¡ndez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 19,
+          "sh": 12,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_ZaireEmery",
+          "displayName": "W ZaireEmery",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 16,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Dembele",
+          "displayName": "O Dembele",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 45,
+          "ag": 26,
+          "min": 14,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Barcola",
+          "displayName": "B Barcola",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 21,
+          "sh": 40,
+          "ag": 25,
+          "min": 34,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "psg",
+      "text": "J_Neves retrocede ante la presión Golpea el balón hacia arriba sin sentido y le cae a D_Doue Ha sacado petróleo de esa jugada D_Doue dispara un verdadero obús Pero golpea en un defensa y se va córner CÓRNER Vitinha saca el balón a la frontal Marquinhos remata de cabeza Alisson para Colocación y reflejos, la clave en un portero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "psg",
+      "text": "J_Neves para el balón con el pecho Lo pisa, levanta la cabeza y pasa Madre mía, eso es de manual D_Doue recibe un pase medido Ojo que tiene espacio I_Konate se lleva el balón con la mano No hay falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "psg",
+      "text": "D_Doue avanza con el balón controlado Ve a un compañero completamente solo Juega el balón hacia él Nico_Paz llega al balón Nico_Paz salta con potencia por encima de la defensa El balón busca el ángulo Peligro Alisson salta con agilidad ¿Llegará a tiempo? Alisson detiene el remate con estilo Su técnico aplaude",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "liv",
+      "text": "A_MacAllister está desmarcado Gran volea de A_MacAllister Se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "liv",
+      "text": "Peligroso centro de A_MacAllister a M_Salah Falla en el control y N_Mendes no desaprovecha el regalo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "psg",
+      "text": "Nico_Paz pica el balón por encima de los centrales J_Neves aparece de la nada. Los ha pillado despistados M_Kerkez envía al delantero al suelo y el balón sale fuera de banda El asistente indica... Saque de banda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "liv",
+      "text": "R_Gravenberch tiene espacio y tiempo A ver qué inventa Amaga el disparo y mete un pase T_Endo controla con el pecho Encara puerta Pero Marquinhos aparece a su lado y aborta el ataque",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "psg",
+      "text": "Nico_Paz supera al defensa Gakpo reacciona con una tremenda velocidad y controla el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 27,
+      "teamCode": "psg",
+      "text": "M_Asensio controla el balón con una gran calidad Despistó a su marcador Gran ocasión M_Asensio acomoda el balón Y le pega La red se mueve OH Pegó en el lateral Parte de la grada cantó GOL",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "liv",
+      "text": "A_MacAllister con el globo M_Salah la baja con la cabeza J_Neves se lanza hacia su oponente Y toca el balón Que clase",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 33,
+      "teamCode": "psg",
+      "text": "Marquinhos entra duramente a A_MacAllister sin balón por medio Terrible Eso es tarjeta aquí, en Argentina y en la China",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "liv",
+      "text": "R_Gravenberch se deshace de su marcador Se va directo a puerta R_Gravenberch tiene una oportunidad de oro GOOOOOL Lo celebra corriendo hacia el banquillo Y se abraza a un eufórico El técnico de Liverpool A ver como administra su ventaja el Liverpool Liverpool 1-0 PSG ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 4 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "liv",
+      "text": "M_Salah encuentra el pasadizo ¡Qué habilidad! M_Salah suelta un disparo con el exterior del pie ¡UAU! Ha pegado en el larguero y ha botado sobre la misma línea A Mateu_Lahoz le vibra la pulsera. La tecnología no falla GOOOOOL Es válido El balón ha cruzado la línea de meta Liverpool 2-0 PSG ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "liv",
+      "text": "R_Gravenberch con el saque de banda Limpia el balón en su camiseta Y saca fuerte hacia M_Salah M_Asensio salta sobre su oponente y lo derriba Midió mal sus fuerzas",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "liv",
+      "text": "Gakpo controla un balón complicadísimo Regatea al defensa Se va solo Vaya dos detalles de calidad Nico_Paz le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "liv",
+      "text": "M_Salah envía el balón por el lado derecho de F_Ruiz y lo escoge por el otro I_Zabarnyi zancadillea a su oponente El árbitro se da la vuelta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "psg",
+      "text": "B_Barcola sustituye a un descontento F_Ruiz para jugar de FW",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "psg",
+      "text": "El entrenador del PSG decide que es el momento de pasar a P",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "psg",
+      "text": "Marquinhos encara a su marcador Lo sienta con una croqueta Eso lo hacía Michael Laudrup Y ahora suelta un pase impresionante hacia D_Doue D_Doue desde fuera del área Alisson está justo en el sitio exacto Pero se lanza para hacerlo más espectacular Su entrenador está de los nervios",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "psg",
+      "text": "N_Mendes supera al defensa N_Mendes se anticipa a su marcador Alisson detiene el cuero espectacularmente El rebote cae al centro, claro para el delantero OHHHHHHHH Le pegó mal",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "psg",
+      "text": "D_Doue se encuentra solo y con tiempo para pensar T_Endo levanta demasiado la pierna Lo dice en el reglamento: FALTA Mateu_Lahoz ignora las vehementes peticiones de tarjeta El técnico de Liverpool ha tenido suerte esta vez",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "liv",
+      "text": "F_Wirtz tiene espacio para el disparo W_Pacho pone el pie en el momento oportuno y despeja el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "liv",
+      "text": "T_Endo mete un balón interior para M_Salah Marquinhos con una entrada asesina Mateu_Lahoz busca en sus bolsillos (AMARILLA) FALTA DIRECTA ¡Peligro! R_Gravenberch con un terrible disparo El balón hace un mal bote sobre el césped y su disparo se va fuera",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "liv",
+      "text": "A_MacAllister con un pase entre los centrales Gakpo aparece con velocidad desde atrás Gakpo prueba suerte con un disparo raso Diogo_Costa deja el balón suelto Su defensa cierra bien y envía el cuero a las gradas",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "psg",
+      "text": "J_Neves se tira el balón largo ante A_MacAllister Se lleva al defensa por velocidad A_Robertson corta con mucha tranquilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "liv",
+      "text": "J_Gomez entra y Gakpo se va la ducha antes de tiempo Todo apunta a que se ubicará en DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "psg",
+      "text": "J_Neves se abre a la banda y cambie el juego hacia B_Barcola B_Barcola tiene una oportunidad de oro Alisson está tapado. No ve venir el balón Reacciona rápidamente Y desvía el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "liv",
+      "text": "M_Salah se para ante N_Mendes... y le hace la 'cola de vaca' Oh Increíble solo se lo había visto hacer a Ronaldo y Romario Pero Vitinha cuelga el balón a la grada Z",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "psg",
+      "text": "D_Doue se encuentra solo y con tiempo para pensar F_Wirtz agarra a su rival en el área El delantero pide ¡PENALTI! desesperdamente Pero Mateu_Lahoz hace que 'no' con la cabeza",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "liv",
+      "text": "M_Salah pisa el balón ante N_Mendes Le suelta el túnel y recibe un agarrón de la camiseta Mateu_Lahoz da la ley de la ventaja D_Doue con una entrada desmesurada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "psg",
+      "text": "El entrenador aprovecha el parón en el juego para hacer un par de cambios O_Dembele entra en el campo en lugar de Nico_Paz para jugar de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "psg",
+      "text": "PSG reestructura sus filas y ahora va a jugar L",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "liv",
+      "text": "F_Wirtz ve especio entre el central y el lateral. Pone un peligroso pase diagonal para M_Salah N_Mendes mete la puntera de la bota y aleja el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "liv",
+      "text": "M_Salah se deshace por velocidad de la defensa M_Asensio corta la jugada con un cabezazo en plancha",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "liv",
+      "text": "R_Gravenberch mete un balón interior para T_Endo B_Barcola con una alocada entrada Falta Madre mía qué golpe Recibe una charla conciliadora de Mateu_Lahoz Aquí ha estado bien el árbitro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "psg",
+      "text": "M_Asensio se resiente del tobillo El fisio examina la zona dolorida Todo parece indicar que va a seguir",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 4 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "liv",
+      "text": "F_Wirtz va directo a puerta J_Neves choca con su oponente y lo envía al césped solo puede ser falta FALTA DIRECTA Un poco más adelante del medio campo M_Kerkez juega en corto para M_Salah M_Salah tiene la portería entre ceja y ceja Coloca el balón suavemente lejos del alcance del portero Pero sale rozando el palo Diogo_Costa estaba vendido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "liv",
+      "text": "T_Endo pone el balón al hueco F_Wirtz corre hacia el cuero F_Wirtz ve a Diogo_Costa adelantado Coloca el cuerpo y suelta un terrible disparo GOOOOOL Diogo_Costa ni se ha movido. ¿Para qué? Liverpool 3-0 PSG ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "psg",
+      "text": "O_Dembele acelera por la banda derecha Pone el balón en el área. Directo hacia D_Doue T_Endo levanta al delantero dos metros del suelo ¡Ay va! Qué entrada El colegiado se acerca corriendo Y le dice al delantero que no haga cuento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 93,
+      "teamCode": "psg",
+      "text": "D_Doue pasa largo con el interior hacia O_Dembele I_Konate intuye el peligro y corta la acción",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

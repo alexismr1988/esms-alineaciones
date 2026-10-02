@@ -1,0 +1,1254 @@
+{
+  "id": "trofeo-midseason/final/psg_bar",
+  "competitionId": "trofeo-midseason",
+  "competitionLabel": "Trofeo Mid-Season",
+  "roundId": "final",
+  "roundLabel": "Final",
+  "fileName": "psg_bar.txt",
+  "homeCode": "psg",
+  "awayCode": "bar",
+  "homeTeam": "PSG",
+  "awayTeam": "FC Barcelona",
+  "result": {
+    "home": 0,
+    "away": 1,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "PSG 0-1 FC Barcelona",
+  "formation": {
+    "home": "4-3-1-2 P",
+    "away": "5-4-1 N"
+  },
+  "referee": {
+    "name": "Manuel Mejuto",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "G_Donnarumma",
+        "displayName": "G Donnarumma",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "I_Zabarnyi",
+        "displayName": "I Zabarnyi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Mendes",
+        "displayName": "N Mendes",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Pacho",
+        "displayName": "W Pacho",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Marquinhos",
+        "displayName": "Marquinhos",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Neves",
+        "displayName": "J Neves",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Vitinha",
+        "displayName": "Vitinha",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Asensio",
+        "displayName": "M Asensio",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Doue",
+        "displayName": "D Doue",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "O_Dembele",
+        "displayName": "O Dembele",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Rafael_Leao",
+        "displayName": "Rafael Leao",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Diogo_Costa",
+        "displayName": "Diogo Costa",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_Hakimi",
+        "displayName": "A Hakimi",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_HernÃ¡ndez",
+        "displayName": "L HernÃ¡ndez",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Ruiz",
+        "displayName": "F Ruiz",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Barcola",
+        "displayName": "B Barcola",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "M_TerStegen",
+        "displayName": "M TerStegen",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "P_Cubarsi",
+        "displayName": "P Cubarsi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Fofana",
+        "displayName": "W Fofana",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Guehi",
+        "displayName": "Guehi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Kounde",
+        "displayName": "J Kounde",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Araujo",
+        "displayName": "R Araujo",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Estevao",
+        "displayName": "Estevao",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Gavi",
+        "displayName": "Gavi",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Pedri",
+        "displayName": "Pedri",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "F_DeJong",
+        "displayName": "F DeJong",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Yamal",
+        "displayName": "L Yamal",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Christensen",
+        "displayName": "A Christensen",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "W_Szczesny",
+        "displayName": "W Szczesny",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Casado",
+        "displayName": "M Casado",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_Lee",
+        "displayName": "K Lee",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Rashford",
+        "displayName": "M Rashford",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "PSG",
+      "mvp": "G_Donnarumma",
+      "goals": "N/A",
+      "sentOff": "O_Dembele (68)",
+      "booked": "M_Asensio (16)",
+      "injured": "N/A"
+    },
+    {
+      "team": "FC Barcelona",
+      "mvp": "J_Kounde (Jugador del partido)",
+      "goals": "J_Kounde (44)",
+      "sentOff": "N/A",
+      "booked": "Pedri (14), Gavi (47), Guehi (72)",
+      "injured": "Pedri (73)"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 3,
+      "away": 15
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 2,
+      "away": 5
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 1,
+      "away": 10
+    },
+    {
+      "label": "Posesión",
+      "home": 44,
+      "away": 56
+    },
+    {
+      "label": "Córners",
+      "home": 1,
+      "away": 3
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 3
+    },
+    {
+      "label": "Sustituciones",
+      "home": 0,
+      "away": 1
+    },
+    {
+      "label": "Faltas",
+      "home": 15,
+      "away": 6
+    },
+    {
+      "label": "Entradas",
+      "home": 4,
+      "away": 5
+    },
+    {
+      "label": "Pases clave",
+      "home": 7,
+      "away": 12
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "PSG",
+      "players": [
+        {
+          "name": "G_Donnarumma",
+          "displayName": "G Donnarumma",
+          "position": "GK",
+          "st": 46,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 95,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "I_Zabarnyi",
+          "displayName": "I Zabarnyi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 7,
+          "sh": 4,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Mendes",
+          "displayName": "N Mendes",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 16,
+          "sh": 12,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Pacho",
+          "displayName": "W Pacho",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 7,
+          "sh": 4,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Marquinhos",
+          "displayName": "Marquinhos",
+          "position": "DF",
+          "st": 2,
+          "tk": 45,
+          "ps": 9,
+          "sh": 4,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Neves",
+          "displayName": "J Neves",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 45,
+          "sh": 16,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Vitinha",
+          "displayName": "Vitinha",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 44,
+          "sh": 16,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Asensio",
+          "displayName": "M Asensio",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 33,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "D_Doue",
+          "displayName": "D Doue",
+          "position": "AM",
+          "st": 2,
+          "tk": 16,
+          "ps": 33,
+          "sh": 42,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Dembele",
+          "displayName": "O Dembele",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 45,
+          "ag": 26,
+          "min": 71,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "Rafael_Leao",
+          "displayName": "Rafael Leao",
+          "position": "FW",
+          "st": 2,
+          "tk": 18,
+          "ps": 20,
+          "sh": 44,
+          "ag": 11,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Diogo_Costa",
+          "displayName": "Diogo Costa",
+          "position": "GK",
+          "st": 41,
+          "tk": 1,
+          "ps": 1,
+          "sh": 1,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Hakimi",
+          "displayName": "A Hakimi",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 27,
+          "sh": 14,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_HernÃ¡ndez",
+          "displayName": "L HernÃ¡ndez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 19,
+          "sh": 12,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Ruiz",
+          "displayName": "F Ruiz",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 40,
+          "sh": 16,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Barcola",
+          "displayName": "B Barcola",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 21,
+          "sh": 40,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "FC Barcelona",
+      "players": [
+        {
+          "name": "M_TerStegen",
+          "displayName": "M TerStegen",
+          "position": "GK",
+          "st": 40,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 95,
+          "sav": 1,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Cubarsi",
+          "displayName": "P Cubarsi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 4,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Fofana",
+          "displayName": "W Fofana",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 16,
+          "sh": 7,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Guehi",
+          "displayName": "Guehi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "J_Kounde",
+          "displayName": "J Kounde",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 26,
+          "sh": 7,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Araujo",
+          "displayName": "R Araujo",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 14,
+          "sh": 4,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Estevao",
+          "displayName": "Estevao",
+          "position": "DM",
+          "st": 2,
+          "tk": 28,
+          "ps": 38,
+          "sh": 21,
+          "ag": 20,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Gavi",
+          "displayName": "Gavi",
+          "position": "DM",
+          "st": 2,
+          "tk": 24,
+          "ps": 42,
+          "sh": 16,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "Pedri",
+          "displayName": "Pedri",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 16,
+          "ag": 27,
+          "min": 76,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "F_DeJong",
+          "displayName": "F DeJong",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 14,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Yamal",
+          "displayName": "L Yamal",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 28,
+          "sh": 42,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 5,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Christensen",
+          "displayName": "A Christensen",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Szczesny",
+          "displayName": "W Szczesny",
+          "position": "GK",
+          "st": 39,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Casado",
+          "displayName": "M Casado",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 33,
+          "sh": 12,
+          "ag": 24,
+          "min": 19,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Lee",
+          "displayName": "K Lee",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 33,
+          "sh": 33,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Rashford",
+          "displayName": "M Rashford",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 38,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "bar",
+      "text": "Guehi con el regate Oportunidad clarísima Guehi suelta una rabona El disparo agarra un efecto endiablado Un defensa mete la cabeza Y envía a córner CÓRNER Pedri saca a la zona de peligro Marquinhos se lanza en plancha y despeja el balón. Se ha jugado el físico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "bar",
+      "text": "L_Yamal parece lesionado Se lo lleva la camilla, esperemos que no sea serio Vuelve al campo... va a entrar Parece que no ha sido nada",
+      "type": "injury"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "bar",
+      "text": "Estevao tiene tiempo y espacio en la frontal del área J_Neves controla el balón Ay va Vaya cañonazo ha pegado Si podía salir jugando",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "bar",
+      "text": "Pedri escupe a D_Doue Eso le puede costar muy caro Toma Eso ha sido muy feo Manuel_Mejuto le indica que se gire ¿Será tarjeta, pero tendrá valor para expulsarlo? ¡NO! (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "bar",
+      "text": "L_Yamal está desmarcado Controla el cuero M_Asensio corta el juego con una falta táctica Ha cortado el atauqe rival, pero, ¿a qué precio? (AMARILLA) Se la estaba buscando Y más le valdrá que se calme",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "psg",
+      "text": "Rafael_Leao se aprovecha de un error de F_DeJong Ha tenido suerte Pero W_Fofana aparece desde atrás y corta el balón El público ruge pidiendo falta. Manuel_Mejuto se hace el sueco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 23,
+      "teamCode": "bar",
+      "text": "Estevao mete el pase I_Zabarnyi resbala L_Yamal se apodera del balón L_Yamal hace un quiebro y dispara rápidamente G_Donnarumma desvía el balón con el guante izquierdo Va a pegar en el palo... GOOOOOL Pero ha sido anulado. El colegiado ha visto algo Falta del atacante",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "bar",
+      "text": "Pedri se ha girado la rodilla Pone cara de dolor, ¿podrá seguir? Sí El técnico respira aliviado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "psg",
+      "text": "J_Neves supera a Gavi ¡Qué facilidad de regate! Pero P_Cubarsi aparece a su lado y aborta el ataque",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "psg",
+      "text": "Vitinha golpea el balón hacia D_Doue F_DeJong choca con su oponente y lo envía al césped Hubo obstrucción Falta Manuel_Mejuto no tiene la menor intención de amonestarlo Me apuesto lo que quieras a que se le han caído las lentillas",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "bar",
+      "text": "Estevao pierde el balón, pero mete el pie... y se lo lleva Estevao con un tremendo cabezazo Pero el balón se pierde inofensivamente por encima del larguero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "bar",
+      "text": "L_Yamal hace una bicicleta Rafael_Leao cae al suelo Lo ha ridiculizado Vitinha corta el juego con una falta táctica ¡Ohhh! Le ha dejado un recadito",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "bar",
+      "text": "P_Cubarsi cambia de dirección Ve a un compañero desdoblándolo Le cede el cuero a L_Yamal, que va lanzado en carrera L_Yamal busca el disparo G_Donnarumma pone lo puños. El balón sale hacia atrás... CÓRNER F_DeJong cuelga el balón L_Yamal empuja a su marcador y remata G_Donnarumma resbala Pero ve como el disparo se pierde lejos de su marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "bar",
+      "text": "Peligroso centro de W_Fofana a L_Yamal L_Yamal trata de sorprender con un chut lejano G_Donnarumma mete la pierna Hay que blocar el balón jefe",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "bar",
+      "text": "Estevao curls the ball out wide to L_Yamal O_Dembele placa a su oponente Como si fuera un jugador de rugby Manuel_Mejuto saca el tarjetero y se lo muestra. Una imagen vale más que mil plabaras",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "bar",
+      "text": "Pedri envía un pase desde su propio campo hacia Estevao Estevao cabecea con claridad G_Donnarumma resbala Pero ve como el disparo se pierde lejos de su marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "bar",
+      "text": "J_Kounde con un preciso cambio de ritmo J_Kounde se abre un hueco entre la defensa rival y dispara GOOOOOL Regateó a G_Donnarumma El FC Barcelona toma la iniciativa en el luminoso PSG 0-1 FC Barcelona ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "bar",
+      "text": "Pedri tiene campo por delante Sigue avanzando. Nadie le sale al paso Con todo el tiempo del mundo pone el balón para Gavi O_Dembele entra con una dureza desmedida El atacante de retuerce de dolor Manuel_Mejuto lo llama a parte Manuel_Mejuto le dice que ya le ha advertido suficientes veces (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "bar",
+      "text": "Gavi supera a Vitinha Este defensa es un tronco No tiene cintura Gavi suelta un cañonazo ¡Uou! Ni Oliver y Benji hacían eso Pero G_Donnarumma bloca el cuero con mucha tranquilidad",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "psg",
+      "text": "M_Asensio encara portería, levanta la cabeza Ve a Guehi en su camino y lo regatea Se lo ha quitado de encima Gavi corta con limpieza El asistente indica la falta Increíble Ha sido legal (AMARILLA) Se irá a la caseta si repite algo así",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "bar",
+      "text": "Pedri tira la pared con su delantero P_Cubarsi se la queda Encara a puerta P_Cubarsi busca la escuadra G_Donnarumma para el balón, que queda muerto G_Donnarumma se levanta rápidamente y para el segundo remate Qué bueno",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "psg",
+      "text": "M_Asensio pica el balón por encima de la defensa hacia O_Dembele O_Dembele le pega 'mordida' El balón va haciendo extraños en el aire M_TerStegen salta y prolonga el balón por encima de larguero Estaba bien colocado. Ha sido clave CÓRNER M_Asensio le de mucho efecto a su lanzamiento J_Kounde salta en el primer palo Y mete la cabeza. Ha cortado la jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "bar",
+      "text": "L_Yamal se cambia el balón de pierna Regatea al defensa Vaya obra de arte Pero N_Mendes cuelga el balón a la grada Z",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "bar",
+      "text": "L_Yamal al primer toque para J_Kounde Potente chut de J_Kounde Golpea en el larguero Bota hacia abajo G_Donnarumma la atrapa Evitó el gol Parte de la grada reclama el tanto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "psg",
+      "text": "Rafael_Leao hace una croqueta Evita la dura entrada de W_Fofana. ¡Qué clase! R_Araujo se interpone entre el delantero y el balón. Ha ganado la posición",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "psg",
+      "text": "Rafael_Leao le pega mal Pero le llega a D_Doue Eso ha sido de leche El lanzamiento rebota en el muslo de D_Doue y se encamina a puerta Vuela por encima de M_TerStegen Va a puerta El portero mete la mano, ¿será suficiente? Sí, ha desviado el disparo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "psg",
+      "text": "J_Neves mete la pierna. Cortó el balón Se lo pone a Rafael_Leao en el pie Rafael_Leao con un toque sutil ¡El balón va a puerta! Dispara defectuosamente Tenía muy poco espacio para maniobrar",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "bar",
+      "text": "F_DeJong para en seco y busca apoyos Un compañero lo dobla Aprovecha el espacio que le ha abierto para colarse entre la defensa Marquinhos va al corte con dureza solo puede ser falta Manuel_Mejuto le avisa: \"Es la última vez\"",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "bar",
+      "text": "Pedri sale a la contra. Mete un pase medido a F_DeJong O_Dembele corta el juego con una falta táctica Ha cortado el atauqe rival, pero, ¿a qué precio? Manuel_Mejuto lo llama a parte Manuel_Mejuto le dice que ya le ha advertido suficientes veces Y ya tiene una (AMARILLA) Manuel_Mejuto le muestra la segunda (ROJA)",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "bar",
+      "text": "P_Cubarsi hace una inteligente pared con un compañero Le sale al paso un defensa Se va de él y mira la portería P_Cubarsi suelta una rabona OOOOHHHHH Fuera Tenía una posición clara El entrenador le está abroncando",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "bar",
+      "text": "P_Cubarsi con un pase impresionante hacia L_Yamal N_Mendes despeja el balón hacia la grada Ei Un aficionado se lleva el balón Al ladrón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "psg",
+      "text": "M_Asensio al primer toque para Vitinha Guehi con una entrada asesina (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "bar",
+      "text": "Pedri se levanta Trata de andar, pero va cojo Malas noticias Pide el cambio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "bar",
+      "text": "M_Casado va a tener su oportunidad en este partido Pedri deja el terreno de juego con cara de pocos amigos Su sustituto jugará de MF",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "psg",
+      "text": "PSG decide cambiar su formación a E",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "bar",
+      "text": "Estevao deja su actual posición para jugar de DM",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "bar",
+      "text": "Creo que Gavi ha pasado a jugar de DM",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "psg",
+      "text": "Rafael_Leao lanza el contraataque Hace una pausa esperando apoyos W_Pacho lo dobla recibe el pase Hace un mal control P_Cubarsi está muy encima en su marcaje y le arrebata el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "bar",
+      "text": "F_DeJong controla el balón suelto Lo juega hacia M_Casado M_Casado mira fijamente al portero Dispara entre las piernas de su marcador G_Donnarumma mete la pierna Hay que blocar el balón jefe",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "bar",
+      "text": "Gavi recupera el cuero Rafael_Leao envía a su oponente al césped Menudo trompazo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "bar",
+      "text": "El mánager del FC Barcelona hace señas a su portero para que pasen a jugar D",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "bar",
+      "text": "Gavi corre metros La defensa rival se ha despistado, hay hueco Pone un peligroso balón sobre la entrada de L_Yamal L_Yamal le pega con dureza No ha precisado demasiado Bota mal sobre un césped demasiado mojado Pero impacta en el lateral de la red CÓRNER Gavi le de mucho efecto a su lanzamiento M_Casado se levanta sobre la defensa Pero G_Donnarumma alcanza el cuero con el puño Tuvo suerte de llegar a ese disparo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 90,
+      "teamCode": "psg",
+      "text": "M_Asensio hace una bicicleta y mete el pase sobre la llegada de D_Doue Guehi corta con claridad Midió a la perfección Su entrenador aplaude",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "bar",
+      "text": "L_Yamal tiene espacio para el disparo Marquinhos va al choque Y se lleva el cuero. El delantero no sabe si ha sido un contrario o un tren de mercancías",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

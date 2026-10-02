@@ -1,0 +1,1282 @@
+{
+  "id": "liga-regular/j22/liv_ars",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j22",
+  "roundLabel": "Jornada 22",
+  "fileName": "liv_ars.txt",
+  "homeCode": "liv",
+  "awayCode": "ars",
+  "homeTeam": "Liverpool",
+  "awayTeam": "Arsenal",
+  "result": {
+    "home": 1,
+    "away": 3,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Liverpool 1-0 Arsenal",
+  "formation": {
+    "home": "4-1-3-2 A",
+    "away": "4-5-1 C"
+  },
+  "referee": {
+    "name": "Bjorn Kuipers",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "Alisson",
+        "displayName": "Alisson",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "R_Williams",
+        "displayName": "R Williams",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Frimpong",
+        "displayName": "J Frimpong",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "V_van_Dijk",
+        "displayName": "V van Dijk",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Kerkez",
+        "displayName": "M Kerkez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Gravenberch",
+        "displayName": "R Gravenberch",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "C_Jones",
+        "displayName": "C Jones",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_MacAllister",
+        "displayName": "A MacAllister",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Szoboszlai",
+        "displayName": "D Szoboszlai",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Salah",
+        "displayName": "M Salah",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Etikite",
+        "displayName": "Etikite",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Marmardashvili",
+        "displayName": "Marmardashvili",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_Robertson",
+        "displayName": "A Robertson",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "T_Endo",
+        "displayName": "T Endo",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Gakpo",
+        "displayName": "Gakpo",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Chiesa",
+        "displayName": "F Chiesa",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "D_Raya",
+        "displayName": "D Raya",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "C_Mosquera",
+        "displayName": "C Mosquera",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_LewisSkelly",
+        "displayName": "M LewisSkelly",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_White",
+        "displayName": "B White",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "O_Zinchenko",
+        "displayName": "O Zinchenko",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Odegaard",
+        "displayName": "M Odegaard",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Rice",
+        "displayName": "D Rice",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Zubimendi",
+        "displayName": "M Zubimendi",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Merino",
+        "displayName": "M Merino",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "F_Vieira",
+        "displayName": "F Vieira",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Saka",
+        "displayName": "Saka",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "K_Arrizabalaga",
+        "displayName": "K Arrizabalaga",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Timber",
+        "displayName": "J Timber",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "R_Calafiori",
+        "displayName": "R Calafiori",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_SambiLokonga",
+        "displayName": "A SambiLokonga",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_Isak",
+        "displayName": "A Isak",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Liverpool",
+      "mvp": "D_Szoboszlai",
+      "goals": "D_Szoboszlai (33)",
+      "sentOff": "N/A",
+      "booked": "R_Williams (19), J_Frimpong (72)",
+      "injured": "M_Salah (14)"
+    },
+    {
+      "team": "Arsenal",
+      "mvp": "M_Merino (Jugador del partido)",
+      "goals": "C_Mosquera (65), A_Isak (73), M_Merino (77)",
+      "sentOff": "N/A",
+      "booked": "C_Mosquera (43)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 9,
+      "away": 15
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 6,
+      "away": 6
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 3,
+      "away": 9
+    },
+    {
+      "label": "Posesión",
+      "home": 39,
+      "away": 61
+    },
+    {
+      "label": "Córners",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 10,
+      "away": 9
+    },
+    {
+      "label": "Entradas",
+      "home": 8,
+      "away": 6
+    },
+    {
+      "label": "Pases clave",
+      "home": 9,
+      "away": 17
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Liverpool",
+      "players": [
+        {
+          "name": "Alisson",
+          "displayName": "Alisson",
+          "position": "GK",
+          "st": 44,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 94,
+          "sav": 7,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Williams",
+          "displayName": "R Williams",
+          "position": "DF",
+          "st": 2,
+          "tk": 28,
+          "ps": 12,
+          "sh": 4,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "J_Frimpong",
+          "displayName": "J Frimpong",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 21,
+          "sh": 7,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "V_van_Dijk",
+          "displayName": "V van Dijk",
+          "position": "DF",
+          "st": 2,
+          "tk": 48,
+          "ps": 19,
+          "sh": 7,
+          "ag": 27,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Kerkez",
+          "displayName": "M Kerkez",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 12,
+          "sh": 7,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Gravenberch",
+          "displayName": "R Gravenberch",
+          "position": "DM",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 14,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Jones",
+          "displayName": "C Jones",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 16,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_MacAllister",
+          "displayName": "A MacAllister",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 16,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Szoboszlai",
+          "displayName": "D Szoboszlai",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 24,
+          "ag": 27,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Salah",
+          "displayName": "M Salah",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 26,
+          "sh": 45,
+          "ag": 22,
+          "min": 14,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Etikite",
+          "displayName": "Etikite",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 12,
+          "sh": 38,
+          "ag": 18,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Marmardashvili",
+          "displayName": "Marmardashvili",
+          "position": "GK",
+          "st": 43,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Robertson",
+          "displayName": "A Robertson",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 21,
+          "sh": 7,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Endo",
+          "displayName": "T Endo",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 35,
+          "sh": 12,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Gakpo",
+          "displayName": "Gakpo",
+          "position": "MF",
+          "st": 2,
+          "tk": 12,
+          "ps": 14,
+          "sh": 41,
+          "ag": 14,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Chiesa",
+          "displayName": "F Chiesa",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 14,
+          "sh": 42,
+          "ag": 14,
+          "min": 80,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Arsenal",
+      "players": [
+        {
+          "name": "D_Raya",
+          "displayName": "D Raya",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 94,
+          "sav": 2,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Mosquera",
+          "displayName": "C Mosquera",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 6,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "M_LewisSkelly",
+          "displayName": "M LewisSkelly",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 6,
+          "ag": 21,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_White",
+          "displayName": "B White",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 19,
+          "sh": 9,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 4,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Zinchenko",
+          "displayName": "O Zinchenko",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 24,
+          "sh": 9,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Odegaard",
+          "displayName": "M Odegaard",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 29,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Rice",
+          "displayName": "D Rice",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 19,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Zubimendi",
+          "displayName": "M Zubimendi",
+          "position": "MF",
+          "st": 2,
+          "tk": 20,
+          "ps": 41,
+          "sh": 18,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Merino",
+          "displayName": "M Merino",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 26,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Vieira",
+          "displayName": "F Vieira",
+          "position": "MF",
+          "st": 2,
+          "tk": 20,
+          "ps": 39,
+          "sh": 18,
+          "ag": 22,
+          "min": 57,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Saka",
+          "displayName": "Saka",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 24,
+          "sh": 43,
+          "ag": 25,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Arrizabalaga",
+          "displayName": "K Arrizabalaga",
+          "position": "GK",
+          "st": 37,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Timber",
+          "displayName": "J Timber",
+          "position": "DF",
+          "st": 2,
+          "tk": 31,
+          "ps": 19,
+          "sh": 9,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Calafiori",
+          "displayName": "R Calafiori",
+          "position": "DF",
+          "st": 2,
+          "tk": 30,
+          "ps": 16,
+          "sh": 7,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_SambiLokonga",
+          "displayName": "A SambiLokonga",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 14,
+          "ag": 22,
+          "min": 37,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Isak",
+          "displayName": "A Isak",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 19,
+          "sh": 43,
+          "ag": 19,
+          "min": 49,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "ars",
+      "text": "M_Odegaard está cerrado por tres contrarios Abre a la banda para romper la presión Saka recibe con campo por delante Saka dispara sin levantar la cabeza Alisson se saca el balón de encima como puede Poco estético, pero efectivo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "liv",
+      "text": "M_Salah mete el pase F_Vieira resbala V_van_Dijk se apodera del balón V_van_Dijk busca el palo largo D_Raya deja el balón suelto Su defensa cierra bien y envía el cuero a las gradas",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "ars",
+      "text": "F_Vieira envía el esférico en profundidad. Saka lo controla M_Kerkez va al choque Y se lleva el cuero. El delantero no sabe si ha sido un contrario o un tren de mercancías",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "liv",
+      "text": "D_Szoboszlai inicia el contraataque Sale rápidamente Y envía un gran pase con la defensa descolocada. Etikite recibe solo Etikite con un disparo a ras de suelo Rebota en las piernas de un defensa Despejó el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 13,
+      "teamCode": "liv",
+      "text": "C_Jones está cerrado por tres contrarios Se saca el balón de encima le cae a Etikite ¿Suerte o calidad? Etikite mira a D_Raya Trata de superarlo por el palo largo El disparo coge un efecto envenenado D_Raya reacciona rápidamente y corrige su posición No va a llegar Pero sale rozando el palo D_Raya estaba batido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "liv",
+      "text": "M_Salah está en el suelo El fisio del club entra rápidamente Dice que no con la cabeza. Cambio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "liv",
+      "text": "F_Chiesa se despoja del chándal. Entrará por M_Salah y se ubicará de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "liv",
+      "text": "D_Szoboszlai se deshace de M_LewisSkelly Le amagó por un lado y salió por el otro Pero F_Vieira se hace con el balón Gran anticipación",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "ars",
+      "text": "Saka se va de uno, de dos, de tres Mira a un lado... y pasa hacia M_Merino al otro lado OH M_Merino mira fijamente al portero Dispara entre las piernas de su marcador Alisson hace una gran parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "ars",
+      "text": "D_Rice frena el contraataque y espera algún apoyo Hay un desmarque al otro lado Cambia el juego y corre hacia arriba Le devuelve el balón, vaya combinación Pero R_Williams está más atento y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "liv",
+      "text": "R_Gravenberch hace dos bicicletas y engaña al defensa Pero O_Zinchenko roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "ars",
+      "text": "Saka con un preciso cambio de ritmo R_Williams llega segundos tarde al corte Creo que buscaba el balón Se lleva una (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "liv",
+      "text": "F_Chiesa se aprovecha de un error de F_Vieira Ese error puede costarle caro Pero B_White aparece desde atrás y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "ars",
+      "text": "F_Vieira con un pase de tiralíneas M_Zubimendi R_Gravenberch se interpone entre el delantero y el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "liv",
+      "text": "R_Gravenberch mete el pase D_Rice resbala Etikite se apodera del balón M_Zubimendi se interpone entre el delantero y el balón. Ha ganado la posición",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "ars",
+      "text": "F_Vieira pisa el balón ante R_Williams Se lo enseña, se lo esconde, otra vez... lo va a marear F_Vieira regatea a su marcador y busca el gol Alisson lo atrapa cómodamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "ars",
+      "text": "M_Odegaard llega el priimero al balóm suelto Y lo mete en profundidad hacia Saka Saka busca el gol OOOOHHHHH Increible Se ha ido fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "ars",
+      "text": "F_Vieira se interna por la banda Pone un medido centro sobre M_Zubimendi M_Zubimendi toca el balón con mucha sutileza Alisson ve venir el balón Y lo atrapa con facilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 33,
+      "teamCode": "liv",
+      "text": "R_Williams pide desesperado un apoyo No aparece nadie Está rodeado Abre hacia el extremo D_Szoboszlai controla el cuero Potente chut de D_Szoboszlai GOOOOOL Se lleva el dedo a los labios. Ha mandado a callar a los aficionados rivales El Liverpool se cobra ventaja ¿Podrá mantenerla hasta el final? Liverpool 1-0 Arsenal ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "liv",
+      "text": "M_Kerkez pisa campo contrario. Mete un pase entre los centrales para Etikite Etikite remata con los ojos cerrados El balón le bota antes de disparar Y se va a la grada. Hay risas en algunos sectores del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "ars",
+      "text": "M_Odegaard levanta la cabeza, pasa hacia Saka Saka con un sutil toque de puntera Alisson para el cuero con mucha seguridad Este tío rezuma confianza",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "liv",
+      "text": "R_Gravenberch corre hacia la portería ¡Vaya mirada! Tiene el gol en mente R_Gravenberch levanta la cabeza, apunta a la escuadra y... ¡dispara! Demasiado alta, la ha tirado a Agraria",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "ars",
+      "text": "M_Merino llega al balón muerto Tiene un montón de metros por delante Pero M_Kerkez roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "ars",
+      "text": "M_Odegaard hace una vuelta entera pisando el balón y se va solo de cara a puerta M_Odegaard desde fuera del área Al lateral de la red Se queda parado mirando hacia el cielo Creo que ni Diós sabe como pudo fallar eso",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "ars",
+      "text": "M_Zubimendi se interna por una banda Túnel al defensa Oh ¿Lo han visto? Quiebra al lateral Qué jugada M_Odegaard tira el desmarque en el centro Le pone una pase medido J_Frimpong agarra a su rival en el área El delantero pide ¡PENALTI! desesperdamente Pero Bjorn_Kuipers hace que 'no' con la cabeza",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "liv",
+      "text": "R_Gravenberch aprovecha una mala cesión de Saka oooooh Que entrada más dura de C_Mosquera Le ha pegado con toda la mala leche del mundo Está en problemas (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "liv",
+      "text": "C_Jones encara al defensa Le tira una gambeta Pone el cuerpo para disparar Pero suelta el pase hacia V_van_Dijk C_Mosquera se anticipa a la jugada y corta de cabeza",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "ars",
+      "text": "M_Merino despista a J_Frimpong con una rapidísima bicicleta. ¿Es futbolista o Lance Armstrong? R_Gravenberch se desliza a ras de suelo con la pierna por delante Sale fuera. Tocó en el delantero... No Córner CÓRNER El lanzamiento va a cargo de M_Odegaard Depejado por M_Kerkez",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "ars",
+      "text": "A_Isak entra por Saka, jugará de FW y sus aficionados reciben el cambio con alegría",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "ars",
+      "text": "A_SambiLokonga sustituye a un descontento F_Vieira para jugar de MF",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "ars",
+      "text": "M_Merino cambia el juego hacia A_Isak A_Isak se saca una bicicleta de la nada y chuta El disparo rebota en el defensa y va directo hacía la grada CÓRNER M_LewisSkelly saca a la zona de peligro Alisson sale con valentía y atrapa el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "ars",
+      "text": "M_Zubimendi avanza con el balón y se va de cuantos le salen al paso V_van_Dijk sale al corte como un búfalo salvaje",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "ars",
+      "text": "O_Zinchenko busca opciones Su compañero se deshace del marcador M_Odegaard recibe un pase medido C_Jones va al choque Y se lleva el cuero. El delantero no sabe si ha sido un contrario o un tren de mercancías",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "ars",
+      "text": "B_White evita una entrada a ras de suelo y manda el balón por bajo a A_SambiLokonga A_SambiLokonga chuta sin mirar al portero Alisson hace una gran parada Pero no puede retener el balón Lo atrapa en el segundo intento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "ars",
+      "text": "A_SambiLokonga lanza el contraataque Hace una pausa esperando apoyos M_Odegaard lo dobla recibe el pase D_Szoboszlai corta el juego con una falta táctica ¡Ohhh! Le ha dejado un recadito",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "ars",
+      "text": "C_Mosquera aprovecha una mala cesión de M_Kerkez C_Mosquera impacta el cuero en un alarde de calidad Coloca el cuerpo y suelta un terrible disparo GOOOOOL La clavó en la escuadra Qué golazo Eso mete a Arsenal de nuevo en el partido Liverpool 1-1 Arsenal ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "liv",
+      "text": "A_MacAllister encuentra una autopista en la defensa El entrenador se desgañita en la banda A_MacAllister se abre un hueco entre la defensa rival y dispara Pero D_Raya bloca el cuero con mucha tranquilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "liv",
+      "text": "D_Szoboszlai cruza para C_Jones C_Jones coloca un preciso disparo El disparo agarra un efecto endiablado D_Raya reacciona con velocidad No va a llegar Se cuela Pero un defensa se lanza en plancha y mete el cuerpo CÓRNER C_Jones saca al primer palo O_Zinchenko se anticipa a la delantera rival Y conjura el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "ars",
+      "text": "M_LewisSkelly asiste a B_White dentro del área B_White con un verdadero obús OOOOOOHHHHHHHH A salido lamiendo el palo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "liv",
+      "text": "C_Jones amaga el quiebro hacia un lado Pero sale por el otro. B_White está sorprendido Trata de zancallidearlo Pero lo esquiva C_Jones cruza la línea de medios, avanza, mira al portero y chuta Pero dispara muy abierto ¿Sabrá que el objetivo del fútbol es meter el balón en la portería?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "ars",
+      "text": "M_LewisSkelly se va de V_van_Dijk Lo ha dejado sentado D_Szoboszlai con una alocada entrada Falta Madre mía qué golpe Bjorn_Kuipers intenta calmarlo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "ars",
+      "text": "M_Merino tira la pared con su delantero O_Zinchenko con un preciso pase de primeras Menuda jugada O_Zinchenko trata de sorprender al portero Está muy adelantado Coloca el balón suavemente lejos del alcance del portero Pero sale rozando el palo Alisson estaba vendido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "ars",
+      "text": "B_White sale a la contra. Mete un pase medido a A_Isak J_Frimpong entra con los tacos por delante \"FUERA, FUERA, FUERA\" ruge el estadio Bjorn_Kuipers busca en sus bolsillos (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "ars",
+      "text": "B_White mira a la derecha Y cruza a la izquierda para A_Isak. Eso lo hacía Laudrup El defensa retrasa el balón hacia Alisson A_Isak lo intercepta Se va de frente hacia Alisson Sienta a Alisson con un regate seco Se ha escorado demasiado Pero se saca el chut Al palo Y dentro GOOOOOL El Arsenal se cobra ventaja ¿Podrá mantenerla hasta el final? Liverpool 1-2 Arsenal ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "ars",
+      "text": "B_White corta el balón con dureza Desde el suelo mete la puntera Y hace llegar el cuero a M_Zubimendi V_van_Dijk comete la falta Se ha pasado El colegiado le pide que se calme Una más de estas y nadie le salvará de la amarilla",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "ars",
+      "text": "A_Isak Pisa el balón hacia la izquierda Y se le vuelve a cambiar de pierna Vaya regate A_Isak tiene una oportunidad de oro El disparo coge un efecto envenenado ¡Fuera! Si llega a ir a puerta...",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "ars",
+      "text": "A_SambiLokonga mete el pase M_Kerkez resbala M_Merino se apodera del balón M_Merino busca la escuadra GOOOOOL Alisson he hecho vista y se la ha tragado Liverpool 1-3 Arsenal ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "liv",
+      "text": "R_Gravenberch acelera por la banda izquierda Juega para F_Chiesa Pero M_Merino está más atento y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 2 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

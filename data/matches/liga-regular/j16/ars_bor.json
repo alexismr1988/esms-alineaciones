@@ -1,0 +1,1243 @@
+{
+  "id": "liga-regular/j16/ars_bor",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j16",
+  "roundLabel": "Jornada 16",
+  "fileName": "ars_bor.txt",
+  "homeCode": "ars",
+  "awayCode": "bor",
+  "homeTeam": "Arsenal",
+  "awayTeam": "Borussia Dortmund",
+  "result": {
+    "home": 4,
+    "away": 3,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Arsenal 3-1 Borussia Dortmund",
+  "formation": {
+    "home": "4-3-3 A",
+    "away": "4-2-2-2 E"
+  },
+  "referee": {
+    "name": "Mateu Lahoz",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "D_Raya",
+        "displayName": "D Raya",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "W_Saliba",
+        "displayName": "W Saliba",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "G_Magalhaes",
+        "displayName": "G Magalhaes",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "C_Mosquera",
+        "displayName": "C Mosquera",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_LewisSkelly",
+        "displayName": "M LewisSkelly",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Odegaard",
+        "displayName": "M Odegaard",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Rice",
+        "displayName": "D Rice",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Zubimendi",
+        "displayName": "M Zubimendi",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Saka",
+        "displayName": "Saka",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "V_Gyokeres",
+        "displayName": "V Gyokeres",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "G_Martinelli",
+        "displayName": "G Martinelli",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "K_Arrizabalaga",
+        "displayName": "K Arrizabalaga",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_White",
+        "displayName": "B White",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "O_Zinchenko",
+        "displayName": "O Zinchenko",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Merino",
+        "displayName": "M Merino",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "N_Madueke",
+        "displayName": "N Madueke",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "G_Kobel",
+        "displayName": "G Kobel",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "W_Anton",
+        "displayName": "W Anton",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Sule",
+        "displayName": "N Sule",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Bensebaini",
+        "displayName": "R Bensebaini",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Schlotterbeck",
+        "displayName": "N Schlotterbeck",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "P_Gross",
+        "displayName": "P Gross",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Brandt",
+        "displayName": "J Brandt",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "Jobe_Bellingham",
+        "displayName": "Jobe Bellingham",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "G_Reyna",
+        "displayName": "G Reyna",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "K_Adeyemi",
+        "displayName": "K Adeyemi",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "S_Guirassy",
+        "displayName": "S Guirassy",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Meyer",
+        "displayName": "A Meyer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Y_Couto",
+        "displayName": "Y Couto",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Nmecha",
+        "displayName": "F Nmecha",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Sabitzer",
+        "displayName": "M Sabitzer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Duranville",
+        "displayName": "J Duranville",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Arsenal",
+      "mvp": "V_Gyokeres (Jugador del partido)",
+      "goals": "M_Odegaard (4), V_Gyokeres (23,89), G_Martinelli (26)",
+      "sentOff": "M_Odegaard (29)",
+      "booked": "D_Rice (68)",
+      "injured": "D_Raya (77)"
+    },
+    {
+      "team": "Borussia Dortmund",
+      "mvp": "P_Gross",
+      "goals": "N_Schlotterbeck (9), S_Guirassy (51), P_Gross (80)",
+      "sentOff": "N/A",
+      "booked": "W_Anton (91)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 14,
+      "away": 11
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 3,
+      "away": 2
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 11,
+      "away": 9
+    },
+    {
+      "label": "Posesión",
+      "home": 42,
+      "away": 58
+    },
+    {
+      "label": "Córners",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 3,
+      "away": 0
+    },
+    {
+      "label": "Faltas",
+      "home": 9,
+      "away": 8
+    },
+    {
+      "label": "Entradas",
+      "home": 7,
+      "away": 4
+    },
+    {
+      "label": "Pases clave",
+      "home": 10,
+      "away": 12
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Arsenal",
+      "players": [
+        {
+          "name": "D_Raya",
+          "displayName": "D Raya",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 79,
+          "sav": 6,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Saliba",
+          "displayName": "W Saliba",
+          "position": "DF",
+          "st": 2,
+          "tk": 44,
+          "ps": 16,
+          "sh": 7,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Magalhaes",
+          "displayName": "G Magalhaes",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 7,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Mosquera",
+          "displayName": "C Mosquera",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 6,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 4,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_LewisSkelly",
+          "displayName": "M LewisSkelly",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 6,
+          "ag": 21,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Odegaard",
+          "displayName": "M Odegaard",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 29,
+          "ag": 24,
+          "min": 29,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "D_Rice",
+          "displayName": "D Rice",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 19,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "M_Zubimendi",
+          "displayName": "M Zubimendi",
+          "position": "MF",
+          "st": 2,
+          "tk": 20,
+          "ps": 41,
+          "sh": 18,
+          "ag": 22,
+          "min": 57,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Saka",
+          "displayName": "Saka",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 24,
+          "sh": 43,
+          "ag": 25,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Gyokeres",
+          "displayName": "V Gyokeres",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 22,
+          "sh": 41,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Martinelli",
+          "displayName": "G Martinelli",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 40,
+          "ag": 24,
+          "min": 57,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 4,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Arrizabalaga",
+          "displayName": "K Arrizabalaga",
+          "position": "GK",
+          "st": 37,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 15,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_White",
+          "displayName": "B White",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 19,
+          "sh": 9,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Zinchenko",
+          "displayName": "O Zinchenko",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 24,
+          "sh": 9,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Merino",
+          "displayName": "M Merino",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 26,
+          "ag": 22,
+          "min": 37,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Madueke",
+          "displayName": "N Madueke",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 21,
+          "sh": 39,
+          "ag": 24,
+          "min": 37,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Borussia Dortmund",
+      "players": [
+        {
+          "name": "G_Kobel",
+          "displayName": "G Kobel",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 94,
+          "sav": 7,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Anton",
+          "displayName": "W Anton",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 7,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "N_Sule",
+          "displayName": "N Sule",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 4,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Bensebaini",
+          "displayName": "R Bensebaini",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 12,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Schlotterbeck",
+          "displayName": "N Schlotterbeck",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 17,
+          "sh": 7,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Gross",
+          "displayName": "P Gross",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 19,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Brandt",
+          "displayName": "J Brandt",
+          "position": "AM",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 26,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Jobe_Bellingham",
+          "displayName": "Jobe Bellingham",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 33,
+          "sh": 16,
+          "ag": 22,
+          "min": 94,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Reyna",
+          "displayName": "G Reyna",
+          "position": "AM",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 24,
+          "ag": 23,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Adeyemi",
+          "displayName": "K Adeyemi",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 40,
+          "ag": 26,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Guirassy",
+          "displayName": "S Guirassy",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 25,
+          "sh": 43,
+          "ag": 24,
+          "min": 94,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Meyer",
+          "displayName": "A Meyer",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Couto",
+          "displayName": "Y Couto",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 31,
+          "sh": 14,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Nmecha",
+          "displayName": "F Nmecha",
+          "position": "MF",
+          "st": 2,
+          "tk": 26,
+          "ps": 36,
+          "sh": 16,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Sabitzer",
+          "displayName": "M Sabitzer",
+          "position": "AM",
+          "st": 2,
+          "tk": 24,
+          "ps": 38,
+          "sh": 21,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Duranville",
+          "displayName": "J Duranville",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 33,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "ars",
+      "text": "Saka evita la entrada a ras de suelo de W_Anton con un giro Pisa el balón y sigue adelante ¿Estoy soñando? ¿Han visto lo mismo que yo? Jobe_Bellingham agarra a su rival de la camiseta Ambos se iban agarrando hace rato Creo que la decisión es injusta FALTA DIRECTA La barrera se coloca G_Magalhaes juega en corto para M_Zubimendi M_Zubimendi duerme el balón con el pecho y lo empalma de primeras G_Kobel despeja el balón... con el pecho Vaya manera de vacilar al contrario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "ars",
+      "text": "M_Odegaard supera a W_Anton Lleva loco a su marcador M_Odegaard busca el palo por bajo El disparo rebota en un defensa y se desvía GOOOOOL Qué mala suerte para el portero El Arsenal toma la iniciativa en el luminoso Arsenal 1-0 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 5,
+      "teamCode": "ars",
+      "text": "M_Odegaard hace un preciso control ¿Qué inventará ahora? M_Odegaard se saca una tijera ¡Qué bello! G_Kobel vuela hacia su escuadra derecha Logra meter la mano Impresionante Ha evitado el gol CÓRNER D_Rice centra con fuerza al área pequeña N_Schlotterbeck aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "ars",
+      "text": "M_Odegaard controla el balón y le hace un sombrero al defensa Sigue en carrera M_Odegaard golpea el balón a bote pronto G_Kobel se zambulle espectacularmente hacia su izquierda Qué paradón Se le ha aparecido la vírgen",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "bor",
+      "text": "K_Adeyemi cuelga de primeras para N_Schlotterbeck N_Schlotterbeck se saca una tijera ¡Qué bello! Los aficionados se levantan de sus asientos GOOOOOL Equilibrio de fuerzas Arsenal 1-1 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 13,
+      "teamCode": "ars",
+      "text": "M_Zubimendi controla un balón aéreo De primeras hacia G_Martinelli N_Sule envía al delantero al suelo y el balón sale fuera de banda El asistente indica... Saque de banda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "ars",
+      "text": "G_Martinelli encuentra una autopista en la defensa El entrenador se desgañita en la banda G_Martinelli suelta un chut con un efecto endiablado G_Kobel ha estado afortunado en esa jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "ars",
+      "text": "G_Martinelli gana metros G_Martinelli connecta el balón con la cabeza y lo peina hacia atrás G_Kobel se zambulle espectacularmente hacia su izquierda Qué paradón Se le ha aparecido la vírgen",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 23,
+      "teamCode": "ars",
+      "text": "M_Zubimendi ve especio entre el central y el lateral. Pone un peligroso pase diagonal para C_Mosquera J_Brandt efectúa un espectacular tackle El colegiado indica la falta... hacia el otro lado Tuvo suerte de no ver la cartulina \"Primer aviso... y último\" le espeta el colegiado FALTA DIRECTA Un poco más adelante del medio campo D_Rice toca en corto V_Gyokeres llega como un obús desde atrás V_Gyokeres golpea el balón ¡Uau! Ha hecho la \"folha seca\" ¡Mira cómo baja! G_Kobel no va a llegar GOOOOOL Le ha ganado la partida El Arsenal manda en el luminoso Arsenal 2-1 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "bor",
+      "text": "N_Schlotterbeck evita la entrada a ras de suelo de C_Mosquera con un giro Pisa el balón y sigue adelante ¿Estoy soñando? ¿Han visto lo mismo que yo? G_Magalhaes envía el balón a las gradas publicitarias",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "bor",
+      "text": "K_Adeyemi se la lleva con la mano El defensa se para Pero el árbitro no lo vio Pero C_Mosquera mete el cuerpo Y aparta del balón al delantero, que reclama un codazo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "ars",
+      "text": "M_Zubimendi tira la pared con su delantero G_Martinelli con un preciso pase de primeras Menuda jugada El lanzamiento rebota en el muslo de G_Martinelli y se encamina a puerta GOOOOOL Gran final Arsenal 3-1 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "ars",
+      "text": "Saka engaña a G_Reyna con una finta de cuerpo N_Sule se interpone entre el delantero y el balón. Ha ganado la posición",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "bor",
+      "text": "K_Adeyemi se tira el balón largo ante W_Saliba Se lleva al defensa por velocidad M_Odegaard suelta una entrada brutal No hay espacio en TSM para este tipo de acciones (ROJA) Mateu_Lahoz lo ha expulsado Menudo cabreo ha pillado su entrenador",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "bor",
+      "text": "P_Gross va al choque con el defensa Ambos caen al suelo Pero el delantero se levanta antes y coge el balón P_Gross regatea a su marcador y busca el gol D_Raya alcanza el cuero. Buena parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "bor",
+      "text": "K_Adeyemi está desmarcado K_Adeyemi toca el cuero de primeras D_Raya para. Le vino directo a las manos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "bor",
+      "text": "N_Sule hace una doble pared con R_Bensebaini Gran entrada a ras de suelo de C_Mosquera Se pierde por la línea de fondo CÓRNER P_Gross centra hacia el área Directo hacia Jobe_Bellingham Empalma de primeras D_Raya mete los puños Y la manda a fuera de banda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "bor",
+      "text": "K_Adeyemi hace un sombrero sobre M_LewisSkelly Pero C_Mosquera aparece desde atrás y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "ars",
+      "text": "D_Rice mete el balón a la espalda de la defensa Su compañero ya había empezado la carrera M_Zubimendi controla el balón N_Schlotterbeck se anticipa a la jugada y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "bor",
+      "text": "W_Anton se saca un pase en diagonal para S_Guirassy S_Guirassy impacta el cuero con fuerza El disparo rebota en un defensa y se desvía GOOOOOL Qué mala suerte para el portero Arsenal 3-2 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "bor",
+      "text": "R_Bensebaini pica el balón por encima de los centrales K_Adeyemi aparece de la nada. Los ha pillado despistados Espectacular remate de K_Adeyemi Rebota en el palo Se anticipa al defensa para el rebote Es gol de Abreu, Abreu, Abreeeeeeeeeeu Ha tirado fuera ¿Como? Si no había portero",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "ars",
+      "text": "D_Rice avanza hacia el córner Busca el centro hacia G_Martinelli G_Martinelli desde fuera del área G_Kobel mete los puños Y la manda a fuera de banda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "bor",
+      "text": "J_Brandt mira a la derecha Y cruza a la izquierda para S_Guirassy. Eso lo hacía Laudrup M_LewisSkelly entra con los tacos por delante Creo que buscaba el balón, pero debería calmarse un poquito Mateu_Lahoz intenta calmarlo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "ars",
+      "text": "N_Madueke sustituye a un descontento G_Martinelli para jugar de FW",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "ars",
+      "text": "La grada empieza a animar ya que M_Merino substituye a M_Zubimendi para jugar de MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "ars",
+      "text": "N_Madueke con un preciso pase hacia Saka Saka se levanta sobre su marcador, carga el cabezazo, lo suelta... ¡Peligro! La red se mueve OH Pegó en el lateral Parte de la grada cantó GOL",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "bor",
+      "text": "G_Reyna se saca un pase al primer toque hacia J_Brandt de la chistera C_Mosquera se hace con el balón y lo cede al portero D_Raya estaba descolocado Corre a la desesperada Fuera Por poco CÓRNER Jobe_Bellingham con un cerrado lanzamiento al primer palo El balón cruza un bosque de piernas y llega a P_Gross Mete el pie Pero D_Raya desvía levemente el balón Mateu_Lahoz da saque de puerta ¡Increíble! El portero la tocó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "ars",
+      "text": "G_Magalhaes con un pase milimétrico El balón pasa por encima de N_Schlotterbeck Y le llega a N_Madueke Jobe_Bellingham intuye el peligro y corta la acción",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "ars",
+      "text": "M_Merino para el balón Levanta la vista y ve a un compañero completamente solo Le envía el pase con el exterior Saka controla el milimétrico pase. Hasta yo lo hubiera hecho Saka resuelve la jugada con un taconazo Rebota en el palo Se anticipa al defensa para el rebote Tiene la portería para él solo ¡NOOOOOOOO! La ha tirado fuera Imposible No me lo creo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "ars",
+      "text": "Saka estira la pierna para llegar al pase Saka impacta el cuero con fuerza Roza el larguero Y se pierde por la línea de fondo Ese disparo llevaba veneno",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "bor",
+      "text": "G_Reyna se cuela por el extremo derecho Centro medido para K_Adeyemi D_Rice se lanza al corte Falta Ha jugado al límite del reglamento Mateu_Lahoz busca nerviosamente en sus bolsillos Medita su decisión (AMARILLA) Tanto cuento para esto...",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "bor",
+      "text": "Jobe_Bellingham mete el balón a la espalda de la defensa Su compañero ya había empezado la carrera S_Guirassy controla el balón S_Guirassy busca desequilibrar el partido D_Raya deja el balón suelto Su defensa cierra bien y envía el cuero a las gradas",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "bor",
+      "text": "P_Gross mira a la derecha Y cruza a la izquierda para Jobe_Bellingham. Eso lo hacía Laudrup Pero Saka lo aparta del balón con el codo. El delantero se queja, el defensa, sonríe",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "bor",
+      "text": "G_Reyna supera a C_Mosquera Este defensa es un tronco No tiene cintura G_Reyna chuta con la izquierda Pero D_Raya responde con una parada muy sencilla",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "bor",
+      "text": "P_Gross centra desde la banda, encuentra a Jobe_Bellingham en el área Jobe_Bellingham tiene tiempo y espacio Coloca suavemente el balón Se estrella en el larguero Y a la grada D_Raya tiene a los dioses de su lado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "ars",
+      "text": "W_Saliba pasa de rabona hacia Saka. Madre mía ¿Ha nacido en Brasil? oooooh Que entrada más dura de S_Guirassy",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "ars",
+      "text": "D_Raya se toca la rodilla Sale del campo para que lo atienda el fisio Es serio Habrá cambio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "ars",
+      "text": "K_Arrizabalaga entra por D_Raya, jugará de GK y sus aficionados reciben el cambio con alegría",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "bor",
+      "text": "G_Reyna llega el primero al balón Abre a la banda sobre P_Gross P_Gross con un tremendo cabezazo Impacta en la parte interior del palo K_Arrizabalaga trata de evitar que entre Pero el balón acaba en la red GOOOOOL Creo que K_Arrizabalaga pudo hacer algo más Borussia Dortmund lo ha logrado Creo que se va a llevar un punto Arsenal 3-3 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "bor",
+      "text": "S_Guirassy asiste a K_Adeyemi dentro del área M_LewisSkelly pone el pie y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "ars",
+      "text": "M_Merino se interna Le hace dos bicicletas a N_Schlotterbeck Lo ha roto. Centra a N_Madueke N_Madueke mira fijamente al portero Dispara entre las piernas de su marcador Los aficionados se levantan de sus asientos G_Kobel vuela y bloca el cuero Grande chico, grande",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "ars",
+      "text": "G_Magalhaes se acerca al área Ve a V_Gyokeres desmarcarse Le tira un pase medido V_Gyokeres con un disparo a ras de suelo GOOOOOL ¿Pero quién es este tío, la reencarnación de Pelé? Qué momento para marcar Hadejado a su rival sin márgen de reacción Arsenal 4-3 Borussia Dortmund ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "ars",
+      "text": "N_Madueke hace un sombrero sobre N_Schlotterbeck W_Anton llega segundos tarde al corte Se ha pasado dos pueblos (AMARILLA) Creo que el árbitro se ha pasado de riguroso",
+      "type": "yellow"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

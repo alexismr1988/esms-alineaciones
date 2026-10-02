@@ -1,0 +1,1355 @@
+{
+  "id": "liga-regular/j12/che_atm",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j12",
+  "roundLabel": "Jornada 12",
+  "fileName": "che_atm.txt",
+  "homeCode": "che",
+  "awayCode": "atm",
+  "homeTeam": "Chelsea",
+  "awayTeam": "Atletico Madrid",
+  "result": {
+    "home": 3,
+    "away": 3,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Chelsea 2-1 Atletico Madrid",
+  "formation": {
+    "home": "3-1-2-3-1 A",
+    "away": "4-3-3 A"
+  },
+  "referee": {
+    "name": "Manuel Mejuto",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "R_Sanchez",
+        "displayName": "R Sanchez",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "Colwill",
+        "displayName": "Colwill",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "B_Badiashile",
+        "displayName": "B Badiashile",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Adarabioyo",
+        "displayName": "Adarabioyo",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Caicedo",
+        "displayName": "M Caicedo",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "R_Lavia",
+        "displayName": "R Lavia",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Joao_Pedro",
+        "displayName": "Joao Pedro",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "E_Fernandez",
+        "displayName": "E Fernandez",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "C_Palmer",
+        "displayName": "C Palmer",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "P_Neto",
+        "displayName": "P Neto",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "Nico_Williams",
+        "displayName": "Nico Williams",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "G_Slonina",
+        "displayName": "G Slonina",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Cucurella",
+        "displayName": "M Cucurella",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Reece_James",
+        "displayName": "Reece James",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "C_Nkunku",
+        "displayName": "C Nkunku",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "N_Jackson",
+        "displayName": "N Jackson",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "J_Oblak",
+        "displayName": "J Oblak",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "R_LeNormand",
+        "displayName": "R LeNormand",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Gimenez",
+        "displayName": "J Gimenez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Ruggeri",
+        "displayName": "M Ruggeri",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Molina",
+        "displayName": "N Molina",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Koke",
+        "displayName": "Koke",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Baena",
+        "displayName": "A Baena",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "P_Barrios",
+        "displayName": "P Barrios",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Griezmann",
+        "displayName": "A Griezmann",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Alvarez",
+        "displayName": "J Alvarez",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "G_Raspadori",
+        "displayName": "G Raspadori",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Musso",
+        "displayName": "J Musso",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "C_Lenglet",
+        "displayName": "C Lenglet",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Galan",
+        "displayName": "J Galan",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "C_Gallagher",
+        "displayName": "C Gallagher",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_Sorloth",
+        "displayName": "A Sorloth",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Chelsea",
+      "mvp": "P_Neto",
+      "goals": "P_Neto (16), B_Badiashile (26), N_Jackson (68)",
+      "sentOff": "Nico_Williams (61)",
+      "booked": "C_Palmer (6)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Atletico Madrid",
+      "mvp": "A_Griezmann (Jugador del partido)",
+      "goals": "A_Baena (47), J_Alvarez (72), A_Griezmann (82)",
+      "sentOff": "N/A",
+      "booked": "A_Sorloth (50), J_Alvarez (87)",
+      "injured": "J_Gimenez (22)"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 15,
+      "away": 18
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 4,
+      "away": 8
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 11,
+      "away": 10
+    },
+    {
+      "label": "Posesión",
+      "home": 45,
+      "away": 55
+    },
+    {
+      "label": "Córners",
+      "home": 2,
+      "away": 3
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Sustituciones",
+      "home": 1,
+      "away": 3
+    },
+    {
+      "label": "Faltas",
+      "home": 10,
+      "away": 5
+    },
+    {
+      "label": "Entradas",
+      "home": 9,
+      "away": 10
+    },
+    {
+      "label": "Pases clave",
+      "home": 13,
+      "away": 18
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Chelsea",
+      "players": [
+        {
+          "name": "R_Sanchez",
+          "displayName": "R Sanchez",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 19,
+          "min": 98,
+          "sav": 9,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Colwill",
+          "displayName": "Colwill",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 17,
+          "sh": 7,
+          "ag": 18,
+          "min": 98,
+          "sav": 0,
+          "ktk": 5,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Badiashile",
+          "displayName": "B Badiashile",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 7,
+          "ag": 21,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Adarabioyo",
+          "displayName": "Adarabioyo",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 8,
+          "sh": 7,
+          "ag": 21,
+          "min": 98,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Caicedo",
+          "displayName": "M Caicedo",
+          "position": "DM",
+          "st": 2,
+          "tk": 31,
+          "ps": 43,
+          "sh": 16,
+          "ag": 22,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 4,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Lavia",
+          "displayName": "R Lavia",
+          "position": "MF",
+          "st": 2,
+          "tk": 28,
+          "ps": 39,
+          "sh": 14,
+          "ag": 20,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Joao_Pedro",
+          "displayName": "Joao Pedro",
+          "position": "AM",
+          "st": 2,
+          "tk": 5,
+          "ps": 11,
+          "sh": 38,
+          "ag": 16,
+          "min": 65,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Fernandez",
+          "displayName": "E Fernandez",
+          "position": "MF",
+          "st": 2,
+          "tk": 31,
+          "ps": 41,
+          "sh": 9,
+          "ag": 22,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 5,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Palmer",
+          "displayName": "C Palmer",
+          "position": "AM",
+          "st": 2,
+          "tk": 14,
+          "ps": 44,
+          "sh": 33,
+          "ag": 22,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "P_Neto",
+          "displayName": "P Neto",
+          "position": "AM",
+          "st": 2,
+          "tk": 19,
+          "ps": 22,
+          "sh": 39,
+          "ag": 21,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 4,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Nico_Williams",
+          "displayName": "Nico Williams",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 18,
+          "sh": 42,
+          "ag": 20,
+          "min": 65,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "G_Slonina",
+          "displayName": "G Slonina",
+          "position": "GK",
+          "st": 25,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 17,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Cucurella",
+          "displayName": "M Cucurella",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 18,
+          "sh": 21,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Reece_James",
+          "displayName": "Reece James",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 17,
+          "sh": 7,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Nkunku",
+          "displayName": "C Nkunku",
+          "position": "FW",
+          "st": 2,
+          "tk": 19,
+          "ps": 13,
+          "sh": 41,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Jackson",
+          "displayName": "N Jackson",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 14,
+          "sh": 39,
+          "ag": 17,
+          "min": 33,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Atletico Madrid",
+      "players": [
+        {
+          "name": "J_Oblak",
+          "displayName": "J Oblak",
+          "position": "GK",
+          "st": 45,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 98,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_LeNormand",
+          "displayName": "R LeNormand",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Gimenez",
+          "displayName": "J Gimenez",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 22,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Ruggeri",
+          "displayName": "M Ruggeri",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Molina",
+          "displayName": "N Molina",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 19,
+          "sh": 7,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 5,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Koke",
+          "displayName": "Koke",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 43,
+          "sh": 12,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 5,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Baena",
+          "displayName": "A Baena",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 39,
+          "sh": 21,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Barrios",
+          "displayName": "P Barrios",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 12,
+          "ag": 26,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Griezmann",
+          "displayName": "A Griezmann",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 28,
+          "sh": 44,
+          "ag": 28,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 2,
+          "sht": 4,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Alvarez",
+          "displayName": "J Alvarez",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 21,
+          "sh": 42,
+          "ag": 29,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 4,
+          "gls": 1,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "G_Raspadori",
+          "displayName": "G Raspadori",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 21,
+          "sh": 36,
+          "ag": 26,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Musso",
+          "displayName": "J Musso",
+          "position": "GK",
+          "st": 30,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Lenglet",
+          "displayName": "C Lenglet",
+          "position": "DF",
+          "st": 2,
+          "tk": 33,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 76,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Galan",
+          "displayName": "J Galan",
+          "position": "DF",
+          "st": 2,
+          "tk": 32,
+          "ps": 19,
+          "sh": 7,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Gallagher",
+          "displayName": "C Gallagher",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 14,
+          "ag": 26,
+          "min": 53,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Sorloth",
+          "displayName": "A Sorloth",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 36,
+          "ag": 27,
+          "min": 53,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "atm",
+      "text": "Koke salta con mucha potencia Se adelanta a su marcador Cabecea hacia A_Griezmann A_Griezmann levanta la cabeza, apunta a la escuadra y... ¡dispara! R_Sanchez está tapado. No ve venir el balón Pero lo despeja con los puños. Poco ortodoxo, pero efectivo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "che",
+      "text": "B_Badiashile se para ante M_Ruggeri... y le hace la 'cola de vaca' Oh Increíble solo se lo había visto hacer a Ronaldo y Romario J_Gimenez ve venir el pase y lo corta con facilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "atm",
+      "text": "A_Baena se cuela por el extremo derecho Centro medido para A_Griezmann C_Palmer caza a su oponente por detrás Está en problemas Manuel_Mejuto busca en su bolsillo Comprueba su número (AMARILLA) Debe sentirse afortunado que solo fuera eso",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "atm",
+      "text": "A_Griezmann se cambia el balón de pierna Regatea al defensa Vaya obra de arte A_Griezmann se saca una bicicleta de la nada y chuta R_Sanchez hace una parada sencillita El disparo no llevaba mucho peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "che",
+      "text": "P_Neto controla el balón con una gran calidad Despistó a su marcador Gran ocasión P_Neto se anticipa a su marcador Pega en la madera Y en la espalda de J_Oblak GOOOOOL Los jugadores del Atletico Madrid miran desolados a su portero A ver como administra su ventaja el Chelsea Chelsea 1-0 Atletico Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "atm",
+      "text": "El balón queda suelto A_Baena gana la posesión Nico_Williams placa a su oponente (AMARILLA) Se irá a la caseta si repite algo así FALTA DIRECTA Justo en el pico del área J_Alvarez coloca el balón con suavidad por encima de la barrera Se estrella en el larguero Pero remata de cabeza tras llegar al rechace Va a ser gol Pero un defensa saca al balón bajo la línea De dónde ha salido",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "che",
+      "text": "M_Caicedo con un pase entre los centrales R_Lavia aparece con velocidad desde atrás Pero N_Molina aparece desde atrás y corta el balón El público ruge pidiendo falta. Manuel_Mejuto se hace el sueco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "atm",
+      "text": "Koke encara al defensa Se va de Adarabioyo en velocidad Menudo cambio de ritmo Koke empalma con la derecha OOOOHHHHH Increible Se ha ido fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "che",
+      "text": "C_Palmer cambia el ritmo Se va por velocidad de M_Ruggeri C_Palmer busca un disparo con efecto Esto es fútbol El balón hace un mal bote sobre el césped y su disparo se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "atm",
+      "text": "J_Gimenez se toca la rodilla Sale del campo para que lo atienda el fisio Es serio Habrá cambio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "atm",
+      "text": "Confirmado Hay cambio C_Lenglet entrará en lugar de J_Gimenez. Se ubica como DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 23,
+      "teamCode": "atm",
+      "text": "P_Barrios se cuela por el extremo derecho Centro medido para Koke Perfecto corte de Adarabioyo Lo hizo fácil Pero no puede evitar que salga a córner CÓRNER N_Molina cuelga el centro al segundo palo R_Sanchez mete los puños con fuerza y aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "atm",
+      "text": "G_Raspadori sale lanzado por el carril R_Lavia intenta cortar su avance con una entrada a ras de suelo El delantero salta por encima ¡Qué reflejos! Colwill choca con el delantero Y el balón sale fuera Córner CÓRNER N_Molina le de mucho efecto a su lanzamiento R_Sanchez se eleva Y caza el centro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "che",
+      "text": "M_Caicedo golpea el balón al hueco. B_Badiashile aparece de la nada B_Badiashile se anticipa a su marcador GOOOOOL Bang Bang Bang Salió el pistolero Y sus fans enloquecen Chelsea 2-0 Atletico Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "che",
+      "text": "Joao_Pedro pisa el balón, arranca, vuelve a parar... el defensa está desquiciado Joao_Pedro mete el pie antes que su marcador J_Oblak mete los puños y desvía el balón Buena parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "atm",
+      "text": "P_Barrios pasa largo con el interior hacia Koke Koke con un toque de maestro Pero R_Sanchez saca una pierna milagrosa y desvía el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "che",
+      "text": "Nico_Williams hace un tremendo control al borde del área C_Lenglet se anticipa a la jugada y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "atm",
+      "text": "A_Baena tira la pared con su delantero A_Griezmann se la queda Encara a puerta A_Griezmann golpea el balón a bote pronto R_Sanchez hace una gran parada Pero no puede retener el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "che",
+      "text": "C_Palmer espera apoyos P_Neto sale de la cueva. Para él va el balón P_Neto se deshace de su marcador Buen movimiento ¡Y dispara! J_Oblak vuela sobre la línea de gol Y atrapa el cuero ¡Uau!, fue digno de la Araña Negra",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "atm",
+      "text": "J_Alvarez con el globo A_Griezmann la baja con la cabeza Pero Colwill roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "che",
+      "text": "E_Fernandez hace la diagonal Ve un desmarque por el rabillo del ojo Se la pasa a P_Neto P_Neto le pega como puede... con la espinilla J_Oblak cierra el ángulo El balón va directo hacia él J_Oblak mete los puños Córner Podría haberla blocado CÓRNER M_Caicedo centra con fuerza al área pequeña P_Neto remata de cabeza J_Oblak despeja sale por la línea de fondo CÓRNER R_Lavia centra hacia el área Nico_Williams empuja a su marcador y remata La red se mueve OH Pegó en el lateral Parte de la grada cantó GOL",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "atm",
+      "text": "A_Griezmann hace una rápida pared con un compañero Tiene un defensa delante Le hace una bicicleta y mira al portero Pero Colwill aparece de la nada y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "che",
+      "text": "R_Lavia pasa largo con el interior hacia Adarabioyo Adarabioyo chuta con la izquierda J_Oblak llega con la punta de los dedos La desvía hacia el palo, va a entrar Pero un defensa mete la cabeza en el último suspiro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "atm",
+      "text": "R_LeNormand con un inteligente pase hacia A_Griezmann Pero B_Badiashile aparece de la nada y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 4 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "atm",
+      "text": "A_Sorloth se despoja del chándal. Entrará por G_Raspadori y se ubicará de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "atm",
+      "text": "C_Gallagher entrará en el campo. Está impaciente por demostrar su clase P_Barrios dejará el terreno de juego Aplaude a los aficionados El técnico le indica que juegue de MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "atm",
+      "text": "A_Griezmann mira a A_Baena... y le manda un pase milimétrico Potente chut de A_Baena Precisa vaselina sobre R_Sanchez Trata de retroceder GOOOOOL ¡Qué calidad! Chelsea 2-1 Atletico Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "atm",
+      "text": "Koke espera apoyos J_Alvarez sale de la cueva. Para él va el balón Colwill sega el césped con una entrada terrorífica",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "che",
+      "text": "C_Palmer se para ante R_LeNormand... y le hace la 'cola de vaca' Oh Increíble solo se lo había visto hacer a Ronaldo y Romario C_Palmer duerme el balón con el pecho y lo empalma de primeras J_Oblak lo para cómodamente El disparo nunca llevó peligro real",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "che",
+      "text": "E_Fernandez asiste a C_Palmer dentro del área A_Sorloth placa a su oponente Manuel_Mejuto le hace señas de que se acerque (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "che",
+      "text": "C_Palmer se deshace por velocidad de la defensa Pero R_LeNormand mete el cuerpo Y aparta del balón al delantero, que reclama un codazo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "che",
+      "text": "E_Fernandez envía el esférico en profundidad. C_Palmer lo controla C_Palmer acomoda su cuerpo y suelta... ¡Uau! ¡Qué cañonazo! J_Oblak ha estado afortunado en esa jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "atm",
+      "text": "Koke mete el cuero en profundidad para la llegada de N_Molina N_Molina empalma con la zurda. Colocó mal el cuerpo R_Sanchez hace una parada realmente complicada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "atm",
+      "text": "A_Sorloth hace un sombrero sobre Adarabioyo Nico_Williams con una entrada desmesurada Creo que buscaba el balón, pero debería calmarse un poquito Segunda amarilla (EXPULSADO) Esto puede variar el desenlace del partido",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "che",
+      "text": "La grada ruge ya que N_Jackson substituye a Joao_Pedro para jugar de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "che",
+      "text": "C_Palmer lanza el contraataque Hace una pausa esperando apoyos P_Neto lo dobla recibe el pase N_Molina lo envía al césped Los aficionados reclaman penalti Pero Manuel_Mejuto se desentiende de la jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "che",
+      "text": "M_Caicedo sale del regate y mete un pase hacia N_Jackson N_Jackson cruza la línea de medios, avanza, mira al portero y chuta J_Oblak está batido Cruje el larguero Y a la grada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "atm",
+      "text": "A_Sorloth se cuela hasta la línea de fondo Amaga el centro Pasa raso atrás hacia Koke Koke toca el balón con mucha sutileza Dispara excesivamente alto Está horrorizado por lo que falló No es para menos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "atm",
+      "text": "C_Gallagher regatea a su marcador Va a disparar No Pasa hacia J_Alvarez Ha engañado a todos M_Caicedo agarra a su rival en el área El delantero pide ¡PENALTI! desesperdamente Pero Manuel_Mejuto hace que 'no' con la cabeza",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "che",
+      "text": "N_Jackson se planta en la frontal del área N_Jackson se lanza en plancha... ¡Qué valentía! Los aficionados se levantan de sus asientos GOOOOOL Chelsea 3-1 Atletico Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "che",
+      "text": "N_Jackson con el regate Se cuela en el área N_Molina se anticipa a la jugada y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "atm",
+      "text": "A_Griezmann se abre a la banda. Recibe el balón Levanta la cabeza, no hay salida Pero encuentra a J_Alvarez. ¡Qué visión de juego! J_Alvarez se saca una bicicleta de la nada y chuta GOOOOOL Tocó madera y para dentro. Imparable Chelsea 3-2 Atletico Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "che",
+      "text": "N_Jackson encara al defensa A_Griezmann sega el césped con una entrada terrorífica El delantero evita a su rival, pero pierde el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "che",
+      "text": "E_Fernandez juega al primer toque para P_Neto Corte finísimo de N_Molina Y evita el córner Está en un momento dulce",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "atm",
+      "text": "C_Gallagher para el balón con el pecho Está copmpletamente solo Mala señal Tiene tiempo de mirar y meter un pase largo A_Sorloth busca el cuero A_Sorloth rompe el intento de fuera de juego rival Creo que estaba más adelante que el último defensa R_Sanchez sale a la desesperada Regatea a R_Sanchez con mucha clase Es gol de Abreu, Abreu, Abreeeeu AHHHHH Ha fallado",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "atm",
+      "text": "A_Baena con un control impresionante Hace la croqueta ante Colwill Y centra hacia C_Gallagher. ¡Qué clase! Adarabioyo llega antes al balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "che",
+      "text": "M_Caicedo con un pase milimétrico El balón pasa por encima de Koke Y le llega a N_Jackson N_Molina se lanza hacia su oponente Y toca el balón Que clase",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "che",
+      "text": "R_Lavia gana el balón en su propio campo R_Lavia supera a J_Oblak con una precisa vaselina J_Oblak se saca una espectacular parada de la manga ¿Cómo lo hizo para llegar a ese balón?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "atm",
+      "text": "Koke para el balón Levanta la vista y ve a un compañero completamente solo Le envía el pase con el exterior A_Baena controla el milimétrico pase. Hasta yo lo hubiera hecho Colwill llega como un tren y corta el ataque lanzándose al suelo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "che",
+      "text": "N_Jackson con un regate eléctrico Pisa área... Falla en el control y M_Ruggeri no desaprovecha el regalo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "atm",
+      "text": "A_Griezmann evita la dura entrada de su marcador A_Griezmann golpea el balón a bote pronto Pega en la madera GOOOOOL Madre mía, qué golazo Todo apunta a que habrá reparto de puntos Chelsea 3-3 Atletico Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "atm",
+      "text": "A_Baena quiebra a E_Fernandez con un suave toque hacia el exterior le rompió la cintura A_Baena busca el gol R_Sanchez ve como el balón se pierde lejos de su marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "atm",
+      "text": "A_Baena pone el balón a la espalda de los centrales A_Griezmann se cuela desde atrás Adarabioyo choca con su oponente y lo envía al césped Hubo obstrucción Falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 86,
+      "teamCode": "atm",
+      "text": "J_Alvarez va en carrera junto a B_Badiashile El atacante es más rápido Adarabioyo entra con los tacos por delante ¡Ufff! Lleva la marca de la bota impresa en el muslo Manuel_Mejuto ignora las vehementes peticiones de tarjeta El técnico de Chelsea ha tenido suerte esta vez FALTA DIRECTA No fue ¡PENALTI! por centímetros A_Sorloth supera a la barrera por arriba R_Sanchez cierra el ángulo El balón va directo hacia él R_Sanchez mete los puños Córner Podría haberla blocado CÓRNER A_Baena saca al primer palo C_Lenglet al primer toque Pero se las arregla para fallar Pone cara de mala leche. Menudo fallo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "che",
+      "text": "E_Fernandez está cerrado por tres contrarios Pisa el balón dos veces y los deja sentados ¡OH! ¡Qué calse! Ahora mete el pase a P_Neto J_Alvarez llega segundos tarde al corte Se ha pasado dos pueblos Manuel_Mejuto le muestra la (AMARILLA) Madre mía, qué malos son los árbitros españoles",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 4 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "che",
+      "text": "P_Neto dispara en carrera Hay un rebote le cae a R_Lavia R_Lavia hace un gran control ¡Y dispara! OOOOHHHHH Increible Se ha ido fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 90,
+      "teamCode": "atm",
+      "text": "A_Sorloth hace una doble pared con C_Gallagher C_Gallagher salta con potencia por encima de la defensa Dispara al córner ¿Cómo hizo para pegarle tan mal?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 93,
+      "teamCode": "atm",
+      "text": "J_Alvarez pisa el balón ante R_Lavia Se lo enseña, se lo esconde, otra vez... lo va a marear J_Alvarez le pega 'mordida' El balón va haciendo extraños en el aire R_Sanchez mete el cuerpo El balón rebota hacia arriba Pero R_Sanchez se incorpora velozmente y lo atrapa",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 94,
+      "teamCode": "atm",
+      "text": "Koke pisa campo contrario. Mete un pase entre los centrales para J_Alvarez J_Alvarez se va de su defensor, mete el pie Rebota en el palo Se anticipa al defensa para el rebote Es gol de Abreu, Abreu, Abreeeeeeeeeeu Ha tirado fuera ¿Como? Si no había portero",
+      "type": "goal"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

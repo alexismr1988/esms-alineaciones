@@ -1,0 +1,1275 @@
+{
+  "id": "liga-regular/j21/bay_liv",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j21",
+  "roundLabel": "Jornada 21",
+  "fileName": "bay_liv.txt",
+  "homeCode": "bay",
+  "awayCode": "liv",
+  "homeTeam": "Bayern Munich",
+  "awayTeam": "Liverpool",
+  "result": {
+    "home": 3,
+    "away": 2,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Bayern Munich 2-2 Liverpool",
+  "formation": {
+    "home": "3-1-3-1-2 A",
+    "away": "4-1-3-2 N"
+  },
+  "referee": {
+    "name": "Viktor Kassai",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "M_Neuer",
+        "displayName": "M Neuer",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "S_Boey",
+        "displayName": "S Boey",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "H_Ito",
+        "displayName": "H Ito",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Stanisic",
+        "displayName": "J Stanisic",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Kimmich",
+        "displayName": "J Kimmich",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "A_Pavlovic",
+        "displayName": "A Pavlovic",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Xavi_Simmons",
+        "displayName": "Xavi Simmons",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "J_Musiala",
+        "displayName": "J Musiala",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Diaz",
+        "displayName": "L Diaz",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "P_Wanner",
+        "displayName": "P Wanner",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Olise",
+        "displayName": "M Olise",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Urbig",
+        "displayName": "J Urbig",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Upamecano",
+        "displayName": "D Upamecano",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Tah",
+        "displayName": "J Tah",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_DeBruyne",
+        "displayName": "K DeBruyne",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "H_Kane",
+        "displayName": "H Kane",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "Alisson",
+        "displayName": "Alisson",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "A_Robertson",
+        "displayName": "A Robertson",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "I_Konate",
+        "displayName": "I Konate",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "V_van_Dijk",
+        "displayName": "V van Dijk",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Kerkez",
+        "displayName": "M Kerkez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Gravenberch",
+        "displayName": "R Gravenberch",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "A_MacAllister",
+        "displayName": "A MacAllister",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Szoboszlai",
+        "displayName": "D Szoboszlai",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "F_Wirtz",
+        "displayName": "F Wirtz",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Gakpo",
+        "displayName": "Gakpo",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "M_Salah",
+        "displayName": "M Salah",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Marmardashvili",
+        "displayName": "Marmardashvili",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "R_Williams",
+        "displayName": "R Williams",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "C_Jones",
+        "displayName": "C Jones",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "T_Endo",
+        "displayName": "T Endo",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Etikite",
+        "displayName": "Etikite",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Bayern Munich",
+      "mvp": "L_Diaz",
+      "goals": "L_Diaz (11,81 pen), Xavi_Simmons (20)",
+      "sentOff": "Xavi_Simmons (50)",
+      "booked": "L_Diaz (62)",
+      "injured": "P_Wanner (9)"
+    },
+    {
+      "team": "Liverpool",
+      "mvp": "M_Salah (Jugador del partido)",
+      "goals": "M_Salah (26,41)",
+      "sentOff": "F_Wirtz (69)",
+      "booked": "N/A",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 13,
+      "away": 17
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 3,
+      "away": 9
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 10,
+      "away": 8
+    },
+    {
+      "label": "Posesión",
+      "home": 36,
+      "away": 64
+    },
+    {
+      "label": "Córners",
+      "home": 3,
+      "away": 2
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 1,
+      "away": 1
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Sustituciones",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Faltas",
+      "home": 14,
+      "away": 7
+    },
+    {
+      "label": "Entradas",
+      "home": 3,
+      "away": 6
+    },
+    {
+      "label": "Pases clave",
+      "home": 9,
+      "away": 12
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Bayern Munich",
+      "players": [
+        {
+          "name": "M_Neuer",
+          "displayName": "M Neuer",
+          "position": "GK",
+          "st": 43,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 95,
+          "sav": 6,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Boey",
+          "displayName": "S Boey",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 7,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Ito",
+          "displayName": "H Ito",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Stanisic",
+          "displayName": "J Stanisic",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 16,
+          "sh": 7,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Kimmich",
+          "displayName": "J Kimmich",
+          "position": "DM",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 14,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Pavlovic",
+          "displayName": "A Pavlovic",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 37,
+          "sh": 12,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Xavi_Simmons",
+          "displayName": "Xavi Simmons",
+          "position": "AM",
+          "st": 2,
+          "tk": 18,
+          "ps": 44,
+          "sh": 27,
+          "ag": 21,
+          "min": 51,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "J_Musiala",
+          "displayName": "J Musiala",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 44,
+          "sh": 21,
+          "ag": 28,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Diaz",
+          "displayName": "L Diaz",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 26,
+          "sh": 42,
+          "ag": 28,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 4,
+          "gls": 2,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "P_Wanner",
+          "displayName": "P Wanner",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 36,
+          "sh": 14,
+          "ag": 25,
+          "min": 9,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Olise",
+          "displayName": "M Olise",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 21,
+          "sh": 41,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Urbig",
+          "displayName": "J Urbig",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Upamecano",
+          "displayName": "D Upamecano",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Tah",
+          "displayName": "J Tah",
+          "position": "MF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 86,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_DeBruyne",
+          "displayName": "K DeBruyne",
+          "position": "MF",
+          "st": 2,
+          "tk": 18,
+          "ps": 45,
+          "sh": 26,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "H_Kane",
+          "displayName": "H Kane",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 45,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Liverpool",
+      "players": [
+        {
+          "name": "Alisson",
+          "displayName": "Alisson",
+          "position": "GK",
+          "st": 44,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 95,
+          "sav": 8,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Robertson",
+          "displayName": "A Robertson",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 21,
+          "sh": 7,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "I_Konate",
+          "displayName": "I Konate",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_van_Dijk",
+          "displayName": "V van Dijk",
+          "position": "DF",
+          "st": 2,
+          "tk": 48,
+          "ps": 19,
+          "sh": 7,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Kerkez",
+          "displayName": "M Kerkez",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 12,
+          "sh": 7,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Gravenberch",
+          "displayName": "R Gravenberch",
+          "position": "DM",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 14,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_MacAllister",
+          "displayName": "A MacAllister",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 16,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Szoboszlai",
+          "displayName": "D Szoboszlai",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 24,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Wirtz",
+          "displayName": "F Wirtz",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 46,
+          "sh": 22,
+          "ag": 25,
+          "min": 70,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "Gakpo",
+          "displayName": "Gakpo",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 14,
+          "sh": 41,
+          "ag": 14,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Salah",
+          "displayName": "M Salah",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 26,
+          "sh": 45,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 8,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Marmardashvili",
+          "displayName": "Marmardashvili",
+          "position": "GK",
+          "st": 43,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Williams",
+          "displayName": "R Williams",
+          "position": "DF",
+          "st": 2,
+          "tk": 28,
+          "ps": 12,
+          "sh": 4,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Jones",
+          "displayName": "C Jones",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 16,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Endo",
+          "displayName": "T Endo",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 35,
+          "sh": 12,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Etikite",
+          "displayName": "Etikite",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 12,
+          "sh": 38,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "bay",
+      "text": "J_Musiala con el lanzamiento de la falta Observa el desmarque de su compañero L_Diaz se ha zafado de su marcador L_Diaz resuelve la jugada con un tremendo disparo Alisson mete los puños y desvía el balón Buena parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "liv",
+      "text": "F_Wirtz se cuela hasta la línea de fondo Amaga el centro Pasa raso atrás hacia D_Szoboszlai M_Olise con la falta FALTA DIRECTA ¡Peligro! M_Kerkez busca un disparo raso por debajo de la barrera Dispara defectuosamente Tenía muy poco espacio para maniobrar",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "bay",
+      "text": "Peligroso centro de P_Wanner a Xavi_Simmons I_Konate corta el balón Despeja a lo loco La ha enviado a la grada CÓRNER Picado por Xavi_Simmons Directo hacia P_Wanner Remata como puede Alisson rechaza el balón con los pies Su defensa cierra el rebote y envía el balón al centro del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "liv",
+      "text": "A_MacAllister al primer toque para F_Wirtz F_Wirtz golpea el balón ¡Uau! Ha hecho la \"folha seca\" ¡Mira cómo baja! Bota en la línea tras golpear en el travesaño El colegiado duda... mira al asistente ¡Sigan! Dice No ha dado el gol Pues parecía que había cruzado la línea",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "bay",
+      "text": "M_Olise se aprovecha de un error de Gakpo Ese error puede costarle caro Pero F_Wirtz mete el cuerpo Y aparta del balón al delantero, que reclama un codazo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "bay",
+      "text": "P_Wanner está renqueante. Se prepara el cambio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "bay",
+      "text": "J_Tah entra y P_Wanner se va la ducha antes de tiempo Todo apunta a que se ubicará en MF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "liv",
+      "text": "M_Salah se aprovecha de un error de S_Boey Ese error puede costarle caro M_Salah duerme el balón con el pecho y lo empalma de primeras Pero M_Neuer manda el balón a córner Viktor_Kassai indicará córner No Marca saque de puerta Madre mía",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 11,
+      "teamCode": "bay",
+      "text": "J_Musiala llega primero al balón que ha quedado muerto Ve a su compañero entrando desde atrás L_Diaz controla en carrera L_Diaz toca el balón con mucha sutileza GOOOOOL ¡Qué golazo! Es para hacerle un monumento El Bayern Munich gana momentáneamente Bayern Munich 1-0 Liverpool ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "bay",
+      "text": "M_Olise se anticipa a su marcador Gran volea de M_Olise Dispara precipitadamente Fuera No puedo precisar el remate",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons se cuela por la banda Quiebra a A_Robertson en velocidad Mete un pase raso hacia L_Diaz Punterazo impresionante de L_Diaz Alisson ve como el balón se pierde lejos de su marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "bay",
+      "text": "S_Boey amaga el quiebro hacia un lado Pero sale por el otro. F_Wirtz está sorprendido Trata de zancallidearlo Pero lo esquiva Pero A_Robertson se anticipa a la jugada. Qué sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 20,
+      "teamCode": "bay",
+      "text": "Xavi_Simmons amaga el quiebro hacia un lado Pero sale por el otro. I_Konate está sorprendido Trata de zancallidearlo Pero lo esquiva Xavi_Simmons trata de sorprender a Alisson GOOOOOL Los seguidores del Bayern Munich lo celebran efusivamente Bayern Munich 2-0 Liverpool ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "liv",
+      "text": "Se veía venir. Liverpool ahora jugará E",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "liv",
+      "text": "A ver qué inventa F_Wirtz ahora. Pase de interior hacia Gakpo Gakpo salta con potencia por encima de la defensa M_Neuer para el lanzamiento Y aleja el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "bay",
+      "text": "A_Pavlovic recibe de espalda. Se inventa un taconazo hacia Xavi_Simmons Xavi_Simmons resuelve la jugada con un tremendo disparo Alisson tapa perfectamente el ángulo largo Y detiene el balón con sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "bay",
+      "text": "J_Musiala controla el balón suelto Lo juega hacia M_Olise M_Olise se saca una tijera ¡Qué bello! Alisson controla perfectamente la trayectoria del balón Gran parada CÓRNER L_Diaz cuelga el balón El centro va directo a las manos de Alisson",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "liv",
+      "text": "A_MacAllister ve especio entre el central y el lateral Qué pase en diagonal D_Szoboszlai pisa área. Peligro H_Ito despeja sin miramientos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "liv",
+      "text": "F_Wirtz acelera por la banda derecha Pone el balón en el área. Directo hacia R_Gravenberch R_Gravenberch suelta un chut con un efecto endiablado El balón sale rebotado Fuera Será córner... CÓRNER Picado por R_Gravenberch M_Salah remata de cabeza Coloca el cuerpo y suelta un ajustado disparo GOOOOOL Sus compañeros se funden en una piña Saldrá en todos los resúmenes de la jornada Bayern Munich 2-1 Liverpool ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "liv",
+      "text": "A_Robertson baja el balón con el pecho H_Ito controla el balón Ay va Vaya cañonazo ha pegado Si podía salir jugando",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 29,
+      "teamCode": "bay",
+      "text": "J_Musiala para el balón con el pecho Está copmpletamente solo Mala señal Tiene tiempo de mirar y meter un pase largo L_Diaz busca el cuero L_Diaz salta con potencia por encima de la defensa Alisson se las apaña para enviar el balón a córner CÓRNER A_Pavlovic con un peligroso lanzamiento al segundo palo V_van_Dijk se lanza en plancha y despeja el balón. Se ha jugado el físico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "liv",
+      "text": "Gakpo recibe el balón en el extremo Se va de su marcador por el interior Está en una posición inmejorable Xavi_Simmons gana el balón fácilmente Viktor_Kassai ha visto algo. La pregunta es qué (AMARILLA) Creo que el árbitro se ha pasado de riguroso",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "liv",
+      "text": "D_Szoboszlai con el lanzamiento de la falta Ve el desmarque de su compañero El balón va directo hacia el pie de M_Salah M_Salah supera a M_Neuer con una precisa vaselina El balón se le escurre a M_Neuer de las manos GOOOOOL Menudo error Liverpool empata el partido Bayern Munich 2-2 Liverpool ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "liv",
+      "text": "D_Szoboszlai frena el contraataque y espera algún apoyo Hay un desmarque al otro lado Cambia el juego y corre hacia arriba Le devuelve el balón, vaya combinación A_Pavlovic llega segundos tarde al corte Se levanta y se disculpa de su oponente Recibe una charla conciliadora de Viktor_Kassai",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "liv",
+      "text": "D_Szoboszlai encuentra un hueco en la defensa rival D_Szoboszlai con un toque sutil ¡El balón va a puerta! Golpea en la madera Y fuera Está desesperado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se va a añadir 1 minuto al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "bay",
+      "text": "M_Olise se deshace de V_van_Dijk Le amagó por un lado y salió por el otro M_Olise empalma el balon con una rabona ¡Qué frivolidad! Ay va Ha tirado a metros de la portería Creo que el míster lo va a poner a patear toda la semana como castigo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "bay",
+      "text": "M_Olise se va en un palmo de terreno M_Olise mete el interior del pie con mucha intención Alisson rechaza el cuero con los puños El colegiado pita saque de puerta Creo que el árbitro ha sido el único que no ha visto que Alisson tocó el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "liv",
+      "text": "A_Robertson hace la diagonal Ve un desmarque por el rabillo del ojo Se la pasa a M_Salah M_Salah busca el disparo M_Neuer palmea a córner Viktor_Kassai pita saque de puerta Increíble",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "liv",
+      "text": "F_Wirtz evita una entrada a ras de suelo y manda el balón por bajo a M_Salah M_Salah busca desequilibrar el partido Golpea en el larguero Bota hacia abajo M_Neuer la atrapa Evitó el gol Parte de la grada reclama el tanto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "liv",
+      "text": "R_Gravenberch con un impresionante desmarque R_Gravenberch hace un quiebro y dispara rápidamente El disparo agarra un efecto endiablado Un defensa mete la cabeza Y envía a córner CÓRNER F_Wirtz saca a la zona de peligro S_Boey se eleva sobre los demás Y despeja con la cabeza",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "liv",
+      "text": "M_Salah en carrera Le hace un túnel a H_Ito Ui, le ha soltado el pie Si lo pilla... M_Salah con un tremendo disparo M_Neuer lo para cómodamente El disparo nunca llevó peligro real",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "liv",
+      "text": "A_Robertson gana metros A_Robertson hace un gran control ¡Y dispara! Bota en la línea tras golpear en el travesaño El colegiado duda... mira al asistente ¡Sigan! Dice No ha dado el gol Pues parecía que había cruzado la línea",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "liv",
+      "text": "M_Salah encuentra un hueco en la defensa rival Xavi_Simmons se lleva bien el balón Viktor_Kassai pita falta ¡Bufff!, no vale ni para la Segunda B Segunda amarilla (EXPULSADO) Demasiado tarde para arrepentirse",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "liv",
+      "text": "A_MacAllister despista a H_Ito con una rapidísima bicicleta. ¿Es futbolista o Lance Armstrong? L_Diaz le pone la zancadilla ¡Qué entrada más ruin! Está en problemas (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "bay",
+      "text": "L_Diaz encara a su marcador Lo sienta con una croqueta Eso lo hacía Michael Laudrup Y ahora suelta un pase impresionante hacia J_Musiala J_Musiala prueba suerte Alisson se saca una espectacular parada de la manga ¿Cómo lo hizo para llegar a ese balón?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "bay",
+      "text": "M_Olise hace la croqueta ante I_Konate El defensa mete la pierna, pero el rebote va a parar al delantero V_van_Dijk pone el pie en el momento oportuno y despeja el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "liv",
+      "text": "A_MacAllister se cuela hasta la línea de fondo Centra al segundo palo D_Szoboszlai entra el remate D_Szoboszlai con un disparo a ras de suelo M_Neuer hace una parada realmente complicada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "liv",
+      "text": "M_Salah hace una pared con un compañero Se cuela en el área M_Salah mira fijamente al marco ¡Dispara! M_Neuer ve salir el balón demasiado alto Pero ojo con el efecto Pega en el palo Y fuera. M_Neuer parece sorprendido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "bay",
+      "text": "L_Diaz estira la pierna para llegar al pase F_Wirtz caza a su oponente brutalmente por detrás Eso ha sido malintencionado (ROJA) Se ha pasado dos pueblos",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 71,
+      "teamCode": "bay",
+      "text": "J_Stanisic pone el balón a la espalda de los centrales S_Boey se cuela desde atrás M_Salah intuye el peligro y corta la acción",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "liv",
+      "text": "D_Szoboszlai con un peligroso pase hacia M_Salah M_Salah remata con los ojos cerrados Pero M_Neuer saca una pierna milagrosa y desvía el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "liv",
+      "text": "R_Gravenberch en el centro del campo Cruza hacia Gakpo Pero J_Stanisic aparece de la nada y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "bay",
+      "text": "J_Musiala esquiva una entrada asesina Va directo a puerta A_Robertson entra con los tacos por delante \"FUERA, FUERA, FUERA\" ruge el estadio ¿PENALTI? Pareció un piscinazo Pero Viktor_Kassai lo revisa en el VAR y lo concede L_Diaz lo va a chutar Lo ha transformado GOOOOOL Qué momento para marcar Hadejado a su rival sin márgen de reacción Bayern Munich 3-2 Liverpool...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "bay",
+      "text": "Bayern Munich jugará ahora D",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "liv",
+      "text": "A_MacAllister levanta la cabeza, pasa hacia M_Salah M_Olise salta sobre su oponente y lo derriba Midió mal sus fuerzas Viktor_Kassai no tiene la menor intención de amonestarlo Me apuesto lo que quieras a que se le han caído las lentillas",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "liv",
+      "text": "M_Salah evita una entrada a ras de suelo y manda el balón por bajo a A_MacAllister A_MacAllister le da mucho efecto a su disparo Ha batido a M_Neuer Pero se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 4 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 93,
+      "teamCode": "bay",
+      "text": "J_Kimmich encara portería, levanta la cabeza Ve a V_van_Dijk en su camino y lo regatea Se lo ha quitado de encima Pero M_Kerkez aparece de la nada y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

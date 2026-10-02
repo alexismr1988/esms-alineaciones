@@ -1,0 +1,1194 @@
+{
+  "id": "liga-regular/j5/bar_man",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j5",
+  "roundLabel": "Jornada 5",
+  "fileName": "bar_man.txt",
+  "homeCode": "bar",
+  "awayCode": "man",
+  "homeTeam": "FC Barcelona",
+  "awayTeam": "Manchester United",
+  "result": {
+    "home": 8,
+    "away": 0,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "FC Barcelona 7-0 Manchester United",
+  "formation": {
+    "home": "4-1-2-1-2 A",
+    "away": "4-2-4 E"
+  },
+  "referee": {
+    "name": "Enriquez Negreira",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "M_TerStegen",
+        "displayName": "M TerStegen",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "R_Araujo",
+        "displayName": "R Araujo",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Fofana",
+        "displayName": "W Fofana",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "P_Cubarsi",
+        "displayName": "P Cubarsi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Guehi",
+        "displayName": "Guehi",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Estevao",
+        "displayName": "Estevao",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "Gavi",
+        "displayName": "Gavi",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Pedri",
+        "displayName": "Pedri",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Yamal",
+        "displayName": "L Yamal",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "R_Lewandowski",
+        "displayName": "R Lewandowski",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "F_Torres",
+        "displayName": "F Torres",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "J_Kounde",
+        "displayName": "J Kounde",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Garcia",
+        "displayName": "J Garcia",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_DeJong",
+        "displayName": "F DeJong",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Lopez",
+        "displayName": "F Lopez",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Rashford",
+        "displayName": "M Rashford",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "A_Onana",
+        "displayName": "A Onana",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "P_Dorgu",
+        "displayName": "P Dorgu",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "T_Malacia",
+        "displayName": "T Malacia",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "L_Shaw",
+        "displayName": "L Shaw",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Dalot",
+        "displayName": "D Dalot",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Mount",
+        "displayName": "M Mount",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Ugarte",
+        "displayName": "M Ugarte",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Zirkzee",
+        "displayName": "J Zirkzee",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Diallo",
+        "displayName": "A Diallo",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "B_Sesko",
+        "displayName": "B Sesko",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "C_Obi",
+        "displayName": "C Obi",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Bayindir",
+        "displayName": "A Bayindir",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "N_Mazraoui",
+        "displayName": "N Mazraoui",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "de_Ligt",
+        "displayName": "de Ligt",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "B_Fernandes",
+        "displayName": "B Fernandes",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Cunha",
+        "displayName": "M Cunha",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "FC Barcelona",
+      "mvp": "L_Yamal (Jugador del partido)",
+      "goals": "R_Lewandowski (2), F_Torres (4,16,21,74), L_Yamal (9,22,43)",
+      "sentOff": "N/A",
+      "booked": "Pedri (34)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Manchester United",
+      "mvp": "A_Diallo",
+      "goals": "N/A",
+      "sentOff": "N/A",
+      "booked": "D_Dalot (2), T_Malacia (74)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 18,
+      "away": 4
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 6,
+      "away": 1
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 12,
+      "away": 3
+    },
+    {
+      "label": "Posesión",
+      "home": 63,
+      "away": 37
+    },
+    {
+      "label": "Córners",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Sustituciones",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 10,
+      "away": 8
+    },
+    {
+      "label": "Entradas",
+      "home": 6,
+      "away": 1
+    },
+    {
+      "label": "Pases clave",
+      "home": 13,
+      "away": 5
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "FC Barcelona",
+      "players": [
+        {
+          "name": "M_TerStegen",
+          "displayName": "M TerStegen",
+          "position": "GK",
+          "st": 40,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 98,
+          "sav": 4,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Araujo",
+          "displayName": "R Araujo",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 14,
+          "sh": 4,
+          "ag": 26,
+          "min": 98,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Fofana",
+          "displayName": "W Fofana",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 16,
+          "sh": 7,
+          "ag": 22,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Cubarsi",
+          "displayName": "P Cubarsi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 4,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Guehi",
+          "displayName": "Guehi",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 2,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Estevao",
+          "displayName": "Estevao",
+          "position": "DM",
+          "st": 2,
+          "tk": 28,
+          "ps": 38,
+          "sh": 21,
+          "ag": 20,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Gavi",
+          "displayName": "Gavi",
+          "position": "DM",
+          "st": 2,
+          "tk": 24,
+          "ps": 42,
+          "sh": 16,
+          "ag": 26,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 2,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Pedri",
+          "displayName": "Pedri",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 16,
+          "ag": 27,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "L_Yamal",
+          "displayName": "L Yamal",
+          "position": "AM",
+          "st": 2,
+          "tk": 12,
+          "ps": 28,
+          "sh": 42,
+          "ag": 27,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 1,
+          "sht": 8,
+          "gls": 3,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Lewandowski",
+          "displayName": "R Lewandowski",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 48,
+          "ag": 26,
+          "min": 71,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Torres",
+          "displayName": "F Torres",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 40,
+          "ag": 27,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 7,
+          "gls": 4,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Kounde",
+          "displayName": "J Kounde",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 26,
+          "sh": 7,
+          "ag": 25,
+          "min": 27,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Garcia",
+          "displayName": "J Garcia",
+          "position": "GK",
+          "st": 32,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_DeJong",
+          "displayName": "F DeJong",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 14,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Lopez",
+          "displayName": "F Lopez",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 33,
+          "sh": 16,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Rashford",
+          "displayName": "M Rashford",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 38,
+          "ag": 28,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Manchester United",
+      "players": [
+        {
+          "name": "A_Onana",
+          "displayName": "A Onana",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 98,
+          "sav": 4,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Dorgu",
+          "displayName": "P Dorgu",
+          "position": "DF",
+          "st": 2,
+          "tk": 30,
+          "ps": 14,
+          "sh": 5,
+          "ag": 22,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Malacia",
+          "displayName": "T Malacia",
+          "position": "DF",
+          "st": 2,
+          "tk": 30,
+          "ps": 26,
+          "sh": 9,
+          "ag": 24,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "L_Shaw",
+          "displayName": "L Shaw",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Dalot",
+          "displayName": "D Dalot",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 9,
+          "ag": 25,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "M_Mount",
+          "displayName": "M Mount",
+          "position": "MF",
+          "st": 2,
+          "tk": 7,
+          "ps": 39,
+          "sh": 21,
+          "ag": 26,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Ugarte",
+          "displayName": "M Ugarte",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 38,
+          "sh": 8,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Zirkzee",
+          "displayName": "J Zirkzee",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 22,
+          "sh": 38,
+          "ag": 26,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Diallo",
+          "displayName": "A Diallo",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 16,
+          "sh": 35,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Sesko",
+          "displayName": "B Sesko",
+          "position": "FW",
+          "st": 2,
+          "tk": 13,
+          "ps": 21,
+          "sh": 38,
+          "ag": 27,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Obi",
+          "displayName": "C Obi",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 16,
+          "sh": 31,
+          "ag": 22,
+          "min": 54,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Bayindir",
+          "displayName": "A Bayindir",
+          "position": "GK",
+          "st": 33,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Mazraoui",
+          "displayName": "N Mazraoui",
+          "position": "DF",
+          "st": 2,
+          "tk": 29,
+          "ps": 27,
+          "sh": 9,
+          "ag": 25,
+          "min": 53,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "de_Ligt",
+          "displayName": "de Ligt",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Fernandes",
+          "displayName": "B Fernandes",
+          "position": "MF",
+          "st": 2,
+          "tk": 9,
+          "ps": 43,
+          "sh": 26,
+          "ag": 27,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Cunha",
+          "displayName": "M Cunha",
+          "position": "FW",
+          "st": 2,
+          "tk": 15,
+          "ps": 19,
+          "sh": 40,
+          "ag": 27,
+          "min": 44,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "bar",
+      "text": "W_Fofana combina con L_Yamal. Juegan de memoria L_Yamal se saca una tijera ¡Qué bello! A_Onana alcanza el cuero. Buena parada El árbitro pita falta sobre A_Onana , de todas maneras",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "bar",
+      "text": "L_Yamal con un pase de 50 metros Gavi D_Dalot gana el balón fácilmente Enriquez_Negreira ha visto algo. La pregunta es qué Habrá tarjeta y será... (AMARILLA) FALTA DIRECTA A escasos centímetros del área R_Lewandowski dispara a puerta GOOOOOL A_Onana he hecho vista y se la ha tragado El FC Barcelona se cobra ventaja ¿Podrá mantenerla hasta el final? FC Barcelona 1-0 Manchester United ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "bar",
+      "text": "F_Torres salta sobre la tremenda entrada de L_Shaw F_Torres suelta un disparo muy débil GOOOOOL Salta con el puño hacia el cielo FC Barcelona 2-0 Manchester United ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "man",
+      "text": "M_Mount controla el balón y encara a W_Fofana. ¡Qué regate! Pero Gavi roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "bar",
+      "text": "L_Yamal usa su potencia para deshacerse de la defensa L_Yamal chuta con el interior GOOOOOL Hace un mortal hacia atrás. Ei Eso lo inventó Hugo Sánchez FC Barcelona 3-0 Manchester United ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "man",
+      "text": "A_Diallo está desmarcado Controla el cuero A_Diallo supera a M_TerStegen con una precisa vaselina M_TerStegen para Colocación y reflejos, la clave en un portero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 11,
+      "teamCode": "man",
+      "text": "T_Malacia se saca un pase en diagonal para C_Obi R_Araujo agarra a su rival en el área El delantero pide ¡PENALTI! desesperdamente Pero Enriquez_Negreira hace que 'no' con la cabeza",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "man",
+      "text": "M_Ugarte centra desde la banda, encuentra a B_Sesko en el área B_Sesko trata de colar el cuero entre las piernas del defensa M_TerStegen agranda su figura y atrapa la pelota espectacularmente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "bar",
+      "text": "Gavi dispara en carrera Hay un rebote le cae a L_Yamal L_Yamal vuela con bravura para rematar en plancha A_Onana resbala Pero el balón se pierde por la línea de fondo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "bar",
+      "text": "L_Yamal recupera el balón y pasa largo hacia F_Torres. Ha pillado a la defensa desolocada F_Torres impacta el balón con dureza GOOOOOL Qué manera de acabar la jugada FC Barcelona 4-0 Manchester United ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "bar",
+      "text": "Gavi controla el balón en una demostración de clase Abre el juego a la derecha F_Torres recibe el cuero F_Torres acomoda el balón Y le pega GOOOOOL A_Onana recoge el balón de la red con parsimonia Y es su hat trick Los jugadores del FC Barcelona lo felicitan FC Barcelona 5-0 Manchester United ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "bar",
+      "text": "Guehi mete el cuero en profundidad para la llegada de L_Yamal L_Yamal suelta un terrible disparo por debajo de las piernas de su marcador GOOOOOL Está haciendo pases con una muleta imaginaria FC Barcelona 6-0 Manchester United ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "bar",
+      "text": "Estevao para el balón con el pecho Está copmpletamente solo Mala señal Tiene tiempo de mirar y meter un pase largo Gavi busca el cuero Gavi mira fijamente al marco ¡Dispara! Busca la escuadra Ojo con el efecto. El portero no va a llegar Pero aterriza en la grada superior de la portería A_Onana sonríe. Estaba batido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "bar",
+      "text": "R_Lewandowski se la lleva con la mano El defensa se para Pero el árbitro no lo vio R_Lewandowski hace un quiebro y dispara rápidamente Pero A_Onana hace una gran parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "man",
+      "text": "A_Diallo supera a W_Fofana Perfecto corte de Estevao Lo hizo fácil Pero no puede evitar que salga a córner CÓRNER M_Mount saca el balón a la frontal Guehi salta en el primer palo Y mete la cabeza. Ha cortado la jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 27,
+      "teamCode": "man",
+      "text": "M_TerStegen se la saca de encima el balón le cae a A_Diallo A_Diallo trata de sorprender al portero con una inesperada vaselina M_TerStegen no va a llegar El esférico se estrella en la madera Y fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "man",
+      "text": "B_Sesko supera a R_Araujo El defensa está viviendo una pesadilla Pedri entra con los tacos por delante \"FUERA, FUERA, FUERA\" ruge el estadio Eso será tarjeta y con todo merecimiento (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "man",
+      "text": "P_Dorgu controla el balón en una demostración de clase Abre el juego a la izquierda A_Diallo es el destinatario A_Diallo rompe el intento de fuera de juego rival Creo que estaba más adelante que el último defensa M_TerStegen sale a la desesperada Sienta a M_TerStegen en el suelo con un gran regate Tiene la puerta vacía pero M_TerStegen se rehace y le roba la cartera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 4 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "bar",
+      "text": "Pedri mete el cuero en profundidad para la llegada de L_Yamal L_Yamal tiene tiempo y espacio ¡Dispara por bajo! GOOOOOL Se agarra la camiseta y la enseña a la grada rival Vaya lluvia de objetos le está cayendo Lo ha logrado Hat trick Qué tío FC Barcelona 7-0 Manchester United ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "man",
+      "text": "N_Mazraoui se despoja del chándal. Entrará por D_Dalot Jugará de DF El entrenador reza para que el cambio de sus frutos",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 49,
+      "teamCode": "man",
+      "text": "J_Zirkzee hace un movimiento eléctrico Pero Guehi cuelga el balón a la grada Z",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "man",
+      "text": "El ayudante del entrenador llama a M_Cunha C_Obi va a ser sustituído Está decepcionado porque no puede seguir Su sustituto jugará de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "bar",
+      "text": "W_Fofana mira a F_Torres... y le manda un pase milimétrico B_Sesko placa a su oponente Se marcha con una simple amonestación",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "bar",
+      "text": "L_Yamal se va solo El asistente no levanta la bandera L_Yamal le pega con la zurda Se estrella en el larguero Y a la grada A_Onana tiene a los dioses de su lado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "bar",
+      "text": "F_Torres se va de T_Malacia Lo ha dejado sentado F_Torres suelta un cañonazo. Problemas para A_Onana Sale fuera y será saque de puerta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "man",
+      "text": "M_Mount de tacón para J_Zirkzee R_Araujo mete la pierna y manda el balón a córner CÓRNER B_Sesko saca al primer palo M_TerStegen mete los puños con fuerza y aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "bar",
+      "text": "La grada ruge ya que J_Kounde substituye a R_Lewandowski para jugar de DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "man",
+      "text": "A_Diallo se la lleva con la mano El defensa se para Pero el árbitro no lo vio Guehi placa a su oponente \"FUERA, FUERA, FUERA\" ruge el estadio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "bar",
+      "text": "Gavi ve perfectamente el desmarque de F_Torres F_Torres vuela con bravura para rematar en plancha Se mueve la red GOOOOOL Hace una voltereta, dos, tres ¡Qué barbaridad! FC Barcelona 8-0 Manchester United ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "bar",
+      "text": "F_Torres recibe un gran pase T_Malacia agarra a su rival de la camiseta Enriquez_Negreira hace sonar el silbato Enriquez_Negreira está pitando bien hoy Enriquez_Negreira busca nerviosamente en sus bolsillos Medita su decisión (AMARILLA) Tanto cuento para esto... FALTA DIRECTA Muy lejana, no creo que llegue Estevao con la jugada de estrategia L_Yamal recibe el pase L_Yamal tiene el disparo a punto A_Onana despeja CÓRNER Gavi saca a la zona de peligro El balón cruza un bosque de piernas y llega a L_Yamal Mete el pie Se estrella en el palo Y cae directamente a las manos de A_Onana Qué suerte ¿Habrá pisado... ? Es igual",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "bar",
+      "text": "Se veía venir. FC Barcelona ahora jugará D",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "bar",
+      "text": "Gavi pasa a jugar de DM tras recibir las indicaciones de su entrenador",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 81,
+      "teamCode": "bar",
+      "text": "J_Kounde busca algún apoyo Ojo Casi pierde el balón en una zona peligrosa Pero consigue meter el pase para F_Torres J_Zirkzee arriesgo con una entrada a ras de suelo Ay Le ha dado El árbitro no lo ha visto así",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "bar",
+      "text": "L_Yamal pide desesperado un apoyo No aparece nadie Está rodeado Abre hacia el extremo F_Torres controla el cuero F_Torres pica el balón por encima del portero Sitúa el balón suavemente lejos del alcance del portero Pero va a parar al larguero Y fuera A_Onana acaricia su portería. No me extraña",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "bar",
+      "text": "Guehi se acerca al área Ve a F_Torres desmarcarse Le tira un pase medido F_Torres trata de sorprender a A_Onana A_Onana mete la mano y alcanza el balón con la punta de los dedos córner, marca Enriquez_Negreira Pero el asistente lo corrige ¿Eso es asistir?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "man",
+      "text": "M_Cunha con el lanzamiento de la falta Ojo que la defensa está mal colocada Vuela directa hacia P_Dorgu R_Araujo se lanza hacia su oponente Y toca el balón Que clase",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 4 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

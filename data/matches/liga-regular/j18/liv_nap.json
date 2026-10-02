@@ -1,0 +1,1324 @@
+{
+  "id": "liga-regular/j18/liv_nap",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j18",
+  "roundLabel": "Jornada 18",
+  "fileName": "liv_nap.txt",
+  "homeCode": "liv",
+  "awayCode": "nap",
+  "homeTeam": "Liverpool",
+  "awayTeam": "Napoles",
+  "result": {
+    "home": 3,
+    "away": 3,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Liverpool 1-2 Napoles",
+  "formation": {
+    "home": "4-1-3-2 P",
+    "away": "4-3-1-2 P"
+  },
+  "referee": {
+    "name": "Bjorn Kuipers",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "Alisson",
+        "displayName": "Alisson",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "R_Williams",
+        "displayName": "R Williams",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "V_van_Dijk",
+        "displayName": "V van Dijk",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Gomez",
+        "displayName": "J Gomez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Kerkez",
+        "displayName": "M Kerkez",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Gravenberch",
+        "displayName": "R Gravenberch",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "A_MacAllister",
+        "displayName": "A MacAllister",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Szoboszlai",
+        "displayName": "D Szoboszlai",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "F_Wirtz",
+        "displayName": "F Wirtz",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "F_Chiesa",
+        "displayName": "F Chiesa",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "M_Salah",
+        "displayName": "M Salah",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Marmardashvili",
+        "displayName": "Marmardashvili",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_Robertson",
+        "displayName": "A Robertson",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "C_Jones",
+        "displayName": "C Jones",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "T_Endo",
+        "displayName": "T Endo",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Gakpo",
+        "displayName": "Gakpo",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "A_Meret",
+        "displayName": "A Meret",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "A_Buongiorno",
+        "displayName": "A Buongiorno",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Kim",
+        "displayName": "M Kim",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Oliveira",
+        "displayName": "M Oliveira",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "G_DiLorenzo",
+        "displayName": "G DiLorenzo",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "S_Lobotka",
+        "displayName": "S Lobotka",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "L_Goretzka",
+        "displayName": "L Goretzka",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Gilmour",
+        "displayName": "B Gilmour",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "S_McTominay",
+        "displayName": "S McTominay",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "K_Kvaratskhelia",
+        "displayName": "K Kvaratskhelia",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "S_Gnabry",
+        "displayName": "S Gnabry",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "V_Milinkovic",
+        "displayName": "V Milinkovic",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_Spinazzola",
+        "displayName": "L Spinazzola",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Anguissa",
+        "displayName": "F Anguissa",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "R_Lukaku",
+        "displayName": "R Lukaku",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "R_KoloMuani",
+        "displayName": "R KoloMuani",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Liverpool",
+      "mvp": "F_Chiesa (Jugador del partido)",
+      "goals": "F_Chiesa (4,52), D_Szoboszlai (62)",
+      "sentOff": "N/A",
+      "booked": "J_Gomez (19), V_van_Dijk (22)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Napoles",
+      "mvp": "S_Gnabry",
+      "goals": "S_Gnabry (35), K_Kvaratskhelia (44), R_KoloMuani (75)",
+      "sentOff": "N/A",
+      "booked": "K_Kvaratskhelia (4), L_Spinazzola (46)",
+      "injured": "M_Oliveira (30)"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 16,
+      "away": 19
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 10,
+      "away": 9
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 6,
+      "away": 10
+    },
+    {
+      "label": "Posesión",
+      "home": 43,
+      "away": 57
+    },
+    {
+      "label": "Córners",
+      "home": 2,
+      "away": 2
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 2,
+      "away": 2
+    },
+    {
+      "label": "Sustituciones",
+      "home": 0,
+      "away": 3
+    },
+    {
+      "label": "Faltas",
+      "home": 8,
+      "away": 4
+    },
+    {
+      "label": "Entradas",
+      "home": 4,
+      "away": 6
+    },
+    {
+      "label": "Pases clave",
+      "home": 14,
+      "away": 13
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Liverpool",
+      "players": [
+        {
+          "name": "Alisson",
+          "displayName": "Alisson",
+          "position": "GK",
+          "st": 44,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 20,
+          "min": 98,
+          "sav": 7,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Williams",
+          "displayName": "R Williams",
+          "position": "DF",
+          "st": 2,
+          "tk": 28,
+          "ps": 12,
+          "sh": 4,
+          "ag": 22,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_van_Dijk",
+          "displayName": "V van Dijk",
+          "position": "DF",
+          "st": 2,
+          "tk": 48,
+          "ps": 19,
+          "sh": 7,
+          "ag": 27,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "J_Gomez",
+          "displayName": "J Gomez",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "M_Kerkez",
+          "displayName": "M Kerkez",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 12,
+          "sh": 7,
+          "ag": 24,
+          "min": 98,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Gravenberch",
+          "displayName": "R Gravenberch",
+          "position": "DM",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 14,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 1,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_MacAllister",
+          "displayName": "A MacAllister",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 16,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Szoboszlai",
+          "displayName": "D Szoboszlai",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 40,
+          "sh": 24,
+          "ag": 27,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Wirtz",
+          "displayName": "F Wirtz",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 46,
+          "sh": 22,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Chiesa",
+          "displayName": "F Chiesa",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 14,
+          "sh": 42,
+          "ag": 14,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 5,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Salah",
+          "displayName": "M Salah",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 26,
+          "sh": 45,
+          "ag": 22,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 6,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Marmardashvili",
+          "displayName": "Marmardashvili",
+          "position": "GK",
+          "st": 43,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Robertson",
+          "displayName": "A Robertson",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 21,
+          "sh": 7,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Jones",
+          "displayName": "C Jones",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 16,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Endo",
+          "displayName": "T Endo",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 35,
+          "sh": 12,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Gakpo",
+          "displayName": "Gakpo",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 14,
+          "sh": 41,
+          "ag": 14,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Napoles",
+      "players": [
+        {
+          "name": "A_Meret",
+          "displayName": "A Meret",
+          "position": "GK",
+          "st": 40,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 19,
+          "min": 98,
+          "sav": 3,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Buongiorno",
+          "displayName": "A Buongiorno",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 7,
+          "ag": 21,
+          "min": 98,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Kim",
+          "displayName": "M Kim",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 14,
+          "sh": 4,
+          "ag": 25,
+          "min": 98,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 4,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Oliveira",
+          "displayName": "M Oliveira",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 28,
+          "sh": 12,
+          "ag": 20,
+          "min": 30,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_DiLorenzo",
+          "displayName": "G DiLorenzo",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 31,
+          "sh": 12,
+          "ag": 21,
+          "min": 98,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Lobotka",
+          "displayName": "S Lobotka",
+          "position": "MF",
+          "st": 2,
+          "tk": 27,
+          "ps": 41,
+          "sh": 14,
+          "ag": 21,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Goretzka",
+          "displayName": "L Goretzka",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 42,
+          "sh": 16,
+          "ag": 26,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Gilmour",
+          "displayName": "B Gilmour",
+          "position": "MF",
+          "st": 2,
+          "tk": 25,
+          "ps": 38,
+          "sh": 14,
+          "ag": 21,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_McTominay",
+          "displayName": "S McTominay",
+          "position": "AM",
+          "st": 2,
+          "tk": 19,
+          "ps": 42,
+          "sh": 29,
+          "ag": 22,
+          "min": 59,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Kvaratskhelia",
+          "displayName": "K Kvaratskhelia",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 31,
+          "sh": 40,
+          "ag": 26,
+          "min": 98,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "S_Gnabry",
+          "displayName": "S Gnabry",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 41,
+          "ag": 27,
+          "min": 74,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 5,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Milinkovic",
+          "displayName": "V Milinkovic",
+          "position": "GK",
+          "st": 30,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Spinazzola",
+          "displayName": "L Spinazzola",
+          "position": "DF",
+          "st": 2,
+          "tk": 39,
+          "ps": 31,
+          "sh": 14,
+          "ag": 20,
+          "min": 68,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "F_Anguissa",
+          "displayName": "F Anguissa",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 38,
+          "sh": 16,
+          "ag": 21,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Lukaku",
+          "displayName": "R Lukaku",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 20,
+          "sh": 41,
+          "ag": 20,
+          "min": 24,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_KoloMuani",
+          "displayName": "R KoloMuani",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 28,
+          "sh": 41,
+          "ag": 25,
+          "min": 39,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "liv",
+      "text": "F_Wirtz para F_Chiesa F_Chiesa suelta un cañonazo ¡Uou! Ni Oliver y Benji hacían eso A_Meret resbala Pero llega a desviar el disparo Golpea en el palo... GOOOOOL Qué mala suerte Gritos de \"TONTO, TONTO\" en la grada A ver como administra su ventaja el Liverpool Liverpool 1-0 Napoles ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "liv",
+      "text": "F_Wirtz se gira, está tapado por dos rivales Pisa el balón y mira arriba pasa larga hacia la posición de M_Salah K_Kvaratskhelia efectúa un espectacular tackle pero Bjorn_Kuipers el colegiado pita falta del delantero (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "liv",
+      "text": "M_Salah va en carrera M_Kim pone el pie en el momento oportuno y despeja el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "nap",
+      "text": "S_Gnabry se ofrece, está solo Preciso cabezazo de S_Gnabry El balón busca el ángulo Peligro Alisson salta con agilidad ¿Llegará a tiempo? Alisson detiene el remate con estilo Su técnico aplaude",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "nap",
+      "text": "B_Gilmour con el globo S_McTominay la baja con la cabeza Hace un mal control M_Kerkez está muy encima en su marcaje y le arrebata el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "nap",
+      "text": "M_Oliveira se deshace de V_van_Dijk Le amagó por un lado y salió por el otro M_Oliveira impacta el balón con dureza Pero golpea en un defensa y se va córner CÓRNER L_Goretzka saca el balón a la frontal G_DiLorenzo se levanta sobre la defensa La red se mueve OH Pegó en el lateral Parte de la grada cantó GOL",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "nap",
+      "text": "K_Kvaratskhelia puede disparar J_Gomez levanta demasiado la pierna Bjorn_Kuipers busca nerviosamente en sus bolsillos Medita su decisión (AMARILLA) Tanto cuento para esto...",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "liv",
+      "text": "D_Szoboszlai coge el cuero en el flanco Se deshace de A_Buongiorno con una bicicleta Y pasa atrás hacia M_Salah. ¡Qué jugada! M_Salah tiene tiempo y espacio ¡Dispara por bajo! Su disparo es rechazado por el portero Se hace con el rebote Y dispara fuera Se precipitó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "nap",
+      "text": "L_Goretzka larco para A_Buongiorno V_van_Dijk suelta una entrada muy bien medida pero Bjorn_Kuipers está cortando demasiado fino hoy. Falta Habrá tarjeta y será... (AMARILLA) FALTA INDIRECTA L_Goretzka toca en corto S_Gnabry llega como un obús desde atrás Punterazo endiablado de S_Gnabry El balón coge un efecto envenenado Alisson se zambulle desesperadamente para tratar de frenarlo Y Alisson lo logra Qué reflejos CÓRNER S_Lobotka le de mucho efecto a su lanzamiento El balón cruza un bosque de piernas y llega a A_Buongiorno Mete el pie Alisson tapa perfectamente el ángulo largo Y detiene el balón con sobriedad",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "nap",
+      "text": "S_Lobotka coge el cuero en el flanco Se deshace de V_van_Dijk con una bicicleta Y pasa atrás hacia A_Buongiorno. ¡Qué jugada! A_Buongiorno se lanza en plancha... ¡Qué valentía! Alisson adivina la direeción del balón y lo retiene",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 27,
+      "teamCode": "liv",
+      "text": "F_Wirtz encara al defensa Oh, lo ha dejado sentado con un regate eléctrico F_Wirtz se va de su defensor, mete el pie Terrorífico disparo Rebota en el pie del defensa Se aleja del marco Pero el portero no puede evitar el córner CÓRNER Picado por R_Gravenberch M_Salah dispara Pero golpea en un defensa y se va córner CÓRNER D_Szoboszlai cuelga el balón S_Gnabry controla el balón Y lo manda al centro del campo No se ha complicado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "nap",
+      "text": "M_Oliveira hace ostensibles gestos de dolor Trata de seguir... Imposible",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "nap",
+      "text": "L_Spinazzola sustituye a M_Oliveira en la posición de DF",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "nap",
+      "text": "S_Gnabry controla un balón complicadísimo Levanta la cabeza y busca el pase Pero se decide por la jugada individual S_Gnabry golpea el balón ¡Uau! Ha hecho la \"folha seca\" ¡Mira cómo baja! Alisson resbala GOOOOOL Alisson está avergonzado. No es para menos Napoles nivela el luminoso Liverpool 1-1 Napoles ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "liv",
+      "text": "M_Salah hace una pared con un compañero Se cuela en el área A_Buongiorno se juega el físico con una entrada durísima. Era su única opción",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "liv",
+      "text": "A_MacAllister se cuela hasta la línea de fondo Amaga el centro Pasa raso atrás hacia R_Gravenberch R_Gravenberch coloca un preciso disparo Pero el balón se pierde inofensivamente por la línea de meta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "nap",
+      "text": "M_Kim recupera el balón Levanta la cabeza Ve el desmarque de su compañero K_Kvaratskhelia recibe un pase increíble Se marcha M_Kerkez levanta al delantero dos metros del suelo ¡Ay va! Qué entrada El colegiado se acerca corriendo Y le dice al delantero que no haga cuento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 4 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "liv",
+      "text": "J_Gomez toca de primeras al área para F_Chiesa F_Chiesa se saca una tijera ¡Qué bello! A_Meret alcanza el cuero. Buena parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "nap",
+      "text": "S_Gnabry ve a A_Buongiorno completamente solo A_Buongiorno con un toque de maestro La manda fuera del estadio ¿Eso ha sido un disparo de fútbol o un kick de fútbol americano?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "liv",
+      "text": "F_Wirtz con un inteligente pase hacia F_Chiesa F_Chiesa trata de sorprender con un chut lejano Busca la vaselina A las nubes ¿Se habrá cambiado hoy de botas?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "nap",
+      "text": "K_Kvaratskhelia se anticipa a su marcador Le ha ganado la espalda Preciso cabezazo de K_Kvaratskhelia GOOOOOL Limpió las telarañas de la escuadra Se levanta la camiseta En la de debajo pone: 10 goles este año y subiendo El Napoles toma la iniciativa en el luminoso Liverpool 1-2 Napoles ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "liv",
+      "text": "Liverpool jugará ahora A tras los cambios ordenados por su técnico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "liv",
+      "text": "D_Szoboszlai se revuelve buscando espacio para el disparo Desliza un pase hacia M_Salah L_Spinazzola se desliza... y derriba a su adversario (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "liv",
+      "text": "V_van_Dijk corta de manera impresionante Arma el contraataque Es un dos contra dos M_Salah se desmarca y recibe el pase G_DiLorenzo agarra a su rival en el área El delantero pide ¡PENALTI! desesperdamente Pero Bjorn_Kuipers hace que 'no' con la cabeza",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "nap",
+      "text": "G_DiLorenzo se aprovecha de un error de J_Gomez Corre hacia el marco G_DiLorenzo busca una de las dos escuadras Pero falla Este tío no le mete un gol ni en el arco iris",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 48,
+      "teamCode": "nap",
+      "text": "M_Kim tiene el cuero Le hace un túnel a J_Gomez Ohhh Esto es caviar del bueno Y pasa a S_Gnabry S_Gnabry salta por encima de la defensa rival y mete la cabeza Alisson llega con la punta de los dedos al balón y sale rozando el palo Qué gran intervención",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "liv",
+      "text": "F_Chiesa sale lanzado por el carril B_Gilmour intenta cortar su avance con una entrada a ras de suelo El delantero salta por encima ¡Qué reflejos! F_Chiesa le pega con dureza No ha precisado demasiado Demasiado alta, la ha tirado a Agraria",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "liv",
+      "text": "M_Salah encuentra a F_Chiesa F_Chiesa tiene el disparo a punto Se mueve la red GOOOOOL Corre enloquecido hacia las gradas Y se tira hacia el público Qué loco Equilibrio de fuerzas Liverpool 2-2 Napoles ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "nap",
+      "text": "Napoles jugará ahora A tras los cambios ordenados por su técnico",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "liv",
+      "text": "F_Chiesa centra desde la banda, encuentra a M_Salah en el área M_Salah busca la vaselina Pero se las arregla para fallar Los aficionados del Napoles se ríen de él",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "nap",
+      "text": "S_McTominay espera a que alguien le acompañe en ataque Levanta los brazos, nadie se desmarca Busca la individual Prepara el disparo Rebota en un defensa y cae a pies de K_Kvaratskhelia R_Gravenberch se anticipa la acción Vaya pedazo de defensa Los aficionados corean su nombre",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "nap",
+      "text": "El ayudante del entrenador llama a R_KoloMuani S_McTominay va a ser sustituído El técnico le indica que juegue de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "liv",
+      "text": "A_MacAllister recupera el balón y pasa largo hacia D_Szoboszlai. Ha pillado a la defensa desolocada D_Szoboszlai resuelve la jugada con un tremendo disparo Pero se las arregla para fallar Los aficionados del Napoles se ríen de él",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "nap",
+      "text": "K_Kvaratskhelia con el cambio de ritmo Se va de cara a puerta Los aficionados se levantan J_Gomez va al suelo con los dos pies por delante Bjorn_Kuipers estaba encima, pero no ha visto falta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "liv",
+      "text": "M_Salah lleva el balón hacia arriba G_DiLorenzo se anticipa a la jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "liv",
+      "text": "R_Gravenberch se saca un pase en diagonal para D_Szoboszlai D_Szoboszlai tiene tiempo y espacio Chuta GOOOOOL Corre como un poseso hacia el córner Agarra el banderín y lo mece al viento El Liverpool gana momentáneamente Liverpool 3-2 Napoles ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "nap",
+      "text": "S_Lobotka hace un tremendo control al borde del área S_Lobotka busca un disparo con efecto Esto es fútbol Es incapaz de chutar a puerta Un defensa le arrebató el balón en el último momento Este tío juega a cámara lenta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "liv",
+      "text": "F_Wirtz en el centro del campo Cruza hacia D_Szoboszlai S_Lobotka se lanza al corte Falta Ha jugado al límite del reglamento",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "liv",
+      "text": "R_Gravenberch gana metros R_Gravenberch le da mucho efecto a su disparo A_Meret no llegará a ese balón Impacta en la madera Y se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 68,
+      "teamCode": "nap",
+      "text": "S_Gnabry encara al defensa Se va R_Gravenberch se deja caer No hay espacio en TSM para este tipo de acciones Tuvo suerte de no ver la cartulina \"Primer aviso... y último\" le espeta el colegiado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "nap",
+      "text": "S_Gnabry supera a V_van_Dijk Este defensa es un tronco No tiene cintura Punterazo impresionante de S_Gnabry Alisson tapa perfectamente el ángulo largo Y detiene el balón con sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "nap",
+      "text": "El ayudante del entrenador llama a R_Lukaku S_Gnabry va a ser sustituído Aplaude al público Su sustituto se ubica en FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 70,
+      "teamCode": "nap",
+      "text": "L_Spinazzola de tacón para R_KoloMuani R_KoloMuani le pega con dureza No ha precisado demasiado Pero el balón se va lejos del marco, ha ido a Agraria",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "liv",
+      "text": "M_Kerkez habilita a M_Salah con un preciso toque M_Salah impacta el balón con una volea defectuosa A_Meret hace una gran parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "nap",
+      "text": "R_KoloMuani cuelga de primeras para K_Kvaratskhelia K_Kvaratskhelia trata de colar el cuero entre las piernas del defensa El disparo se le escurre a Alisson de las manos rueda lentamente hacia el marco Pero sale a centímetros del palo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "nap",
+      "text": "L_Goretzka rompe la defensa con un preciso pase sobre R_KoloMuani R_KoloMuani acomoda su cuerpo y suelta... ¡Uau! ¡Qué cañonazo! GOOOOOL Buscó el disparo raso y ajustado al palo Ahora están igualados Liverpool 3-3 Napoles ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "nap",
+      "text": "M_Kim sale a la contra. Mete un pase medido a S_Lobotka S_Lobotka con un toque de maestro Pero Alisson alcanza el cuero con el puño Es el amo de su área. Buen portero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 82,
+      "teamCode": "liv",
+      "text": "M_Salah se aprovecha de un error de M_Kim M_Salah supera a A_Meret con una precisa vaselina Pero A_Meret saca una pierna milagrosa y desvía el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "liv",
+      "text": "M_Salah regatea y se cuela en el área M_Salah saca un disparo durísimo desde lejos Pero el cuero sale lejos de la portería",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 4 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "nap",
+      "text": "M_Kim con el lanzamiento de la falta Ve el desmarque de su compañero El balón va directo hacia el pie de R_Lukaku R_Lukaku se abre un hueco entre la defensa rival y dispara A la quinta gradería Seguro que se puso la bota derecha en el pie derecho",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "nap",
+      "text": "L_Spinazzola le pega mal Pero le llega a R_Lukaku Eso ha sido de leche R_Gravenberch salta de cabeza con su rival Falta Lo estaba agarrando",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "liv",
+      "text": "R_Gravenberch va en carrera M_Kim se hace con el balón Y lo manda hacia arriba",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 93,
+      "teamCode": "liv",
+      "text": "R_Gravenberch se gira, está tapado por dos rivales Pisa el balón y mira arriba pasa larga hacia la posición de A_MacAllister M_Kim se interpone entre el delantero y el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 94,
+      "teamCode": "nap",
+      "text": "L_Goretzka tiene campo por delante Sigue avanzando. Nadie le sale al paso Con todo el tiempo del mundo pone el balón para R_KoloMuani R_KoloMuani regatea a uno, dos y chuta El diparo coge el efecto cambiado ¡Fuera! Impactó mal el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

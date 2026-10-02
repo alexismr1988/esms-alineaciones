@@ -1,0 +1,52 @@
+name: Actualizar datos ESMS
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'rosters/**'
+      - 'partidos/**'
+      - 'clasificacion/**'
+      - 'lib/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'package.json'
+  pull_request:
+    paths:
+      - 'rosters/**'
+      - 'partidos/**'
+      - 'clasificacion/**'
+      - 'lib/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'package.json'
+
+permissions:
+  contents: write
+
+jobs:
+  datos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Probar parsers
+        run: npm test
+      - name: Generar datos normalizados
+        run: npm run build
+      - name: Verificar datos de la pull request
+        if: github.event_name == 'pull_request'
+        run: git diff --exit-code -- data
+      - name: Guardar datos generados
+        if: github.event_name == 'push' && github.actor != 'github-actions[bot]'
+        run: |
+          if git diff --quiet -- data; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "actualizar datos generados [skip ci]"
+          git push

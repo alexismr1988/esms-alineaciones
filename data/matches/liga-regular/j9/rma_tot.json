@@ -1,0 +1,1306 @@
+{
+  "id": "liga-regular/j9/rma_tot",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j9",
+  "roundLabel": "Jornada 9",
+  "fileName": "rma_tot.txt",
+  "homeCode": "rma",
+  "awayCode": "tot",
+  "homeTeam": "Real Madrid",
+  "awayTeam": "Tottenham",
+  "result": {
+    "home": 5,
+    "away": 1,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Real Madrid 5-0 Tottenham",
+  "formation": {
+    "home": "4-1-2-1-2 P",
+    "away": "3-5-2 A"
+  },
+  "referee": {
+    "name": "Pierluigi Collina",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "T_Courtois",
+        "displayName": "T Courtois",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "D_Huijsen",
+        "displayName": "D Huijsen",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Asencio",
+        "displayName": "R Asencio",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "E_Militao",
+        "displayName": "E Militao",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Rudiger",
+        "displayName": "A Rudiger",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Ceballos",
+        "displayName": "D Ceballos",
+        "position": "DM",
+        "substitute": false
+      },
+      {
+        "name": "J_Bellingham",
+        "displayName": "J Bellingham",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "F_Valverde",
+        "displayName": "F Valverde",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Guler",
+        "displayName": "A Guler",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "V_Junior",
+        "displayName": "V Junior",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "K_Mbappe",
+        "displayName": "K Mbappe",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "D_Carvajal",
+        "displayName": "D Carvajal",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_Lunin",
+        "displayName": "A Lunin",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "E_Camavinga",
+        "displayName": "E Camavinga",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Rodrygo",
+        "displayName": "Rodrygo",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Endrick",
+        "displayName": "Endrick",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "G_Vicario",
+        "displayName": "G Vicario",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "P_Porro",
+        "displayName": "P Porro",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "C_Romero",
+        "displayName": "C Romero",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Dragusin",
+        "displayName": "R Dragusin",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Maddison",
+        "displayName": "J Maddison",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "R_Bentancur",
+        "displayName": "R Bentancur",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Kulusevski",
+        "displayName": "D Kulusevski",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "A_Gray",
+        "displayName": "A Gray",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "Y_Bissouma",
+        "displayName": "Y Bissouma",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Johnson",
+        "displayName": "B Johnson",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Richarlison",
+        "displayName": "Richarlison",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Kinsky",
+        "displayName": "A Kinsky",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "K_Danso",
+        "displayName": "K Danso",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Udogie",
+        "displayName": "D Udogie",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "L_Bergvall",
+        "displayName": "L Bergvall",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "D_Solanke",
+        "displayName": "D Solanke",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Real Madrid",
+      "mvp": "Rodrygo (Jugador del partido)",
+      "goals": "V_Junior (2), K_Mbappe (15), A_Rudiger (32), Rodrygo (40,43)",
+      "sentOff": "N/A",
+      "booked": "A_Rudiger (32), R_Asencio (75)",
+      "injured": "K_Mbappe (36)"
+    },
+    {
+      "team": "Tottenham",
+      "mvp": "Richarlison",
+      "goals": "B_Johnson (66)",
+      "sentOff": "N/A",
+      "booked": "C_Romero (9)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 22,
+      "away": 18
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 12,
+      "away": 7
+    },
+    {
+      "label": "Disparos a puerta",
+      "home": 10,
+      "away": 11
+    },
+    {
+      "label": "Posesión",
+      "home": 53,
+      "away": 47
+    },
+    {
+      "label": "Córners",
+      "home": 6,
+      "away": 2
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 2,
+      "away": 1
+    },
+    {
+      "label": "Sustituciones",
+      "home": 1,
+      "away": 2
+    },
+    {
+      "label": "Faltas",
+      "home": 11,
+      "away": 5
+    },
+    {
+      "label": "Entradas",
+      "home": 5,
+      "away": 4
+    },
+    {
+      "label": "Pases clave",
+      "home": 15,
+      "away": 14
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Real Madrid",
+      "players": [
+        {
+          "name": "T_Courtois",
+          "displayName": "T Courtois",
+          "position": "GK",
+          "st": 45,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 95,
+          "sav": 10,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Huijsen",
+          "displayName": "D Huijsen",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Asencio",
+          "displayName": "R Asencio",
+          "position": "DF",
+          "st": 2,
+          "tk": 32,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "E_Militao",
+          "displayName": "E Militao",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 12,
+          "sh": 4,
+          "ag": 26,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Rudiger",
+          "displayName": "A Rudiger",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 9,
+          "sh": 4,
+          "ag": 24,
+          "min": 95,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "D_Ceballos",
+          "displayName": "D Ceballos",
+          "position": "DM",
+          "st": 2,
+          "tk": 16,
+          "ps": 37,
+          "sh": 12,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Bellingham",
+          "displayName": "J Bellingham",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 45,
+          "sh": 24,
+          "ag": 28,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Valverde",
+          "displayName": "F Valverde",
+          "position": "MF",
+          "st": 2,
+          "tk": 27,
+          "ps": 43,
+          "sh": 16,
+          "ag": 27,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Guler",
+          "displayName": "A Guler",
+          "position": "AM",
+          "st": 2,
+          "tk": 14,
+          "ps": 37,
+          "sh": 19,
+          "ag": 25,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 1,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "V_Junior",
+          "displayName": "V Junior",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 23,
+          "sh": 45,
+          "ag": 30,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 7,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Mbappe",
+          "displayName": "K Mbappe",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 49,
+          "ag": 30,
+          "min": 36,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Carvajal",
+          "displayName": "D Carvajal",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 7,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Lunin",
+          "displayName": "A Lunin",
+          "position": "GK",
+          "st": 37,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Camavinga",
+          "displayName": "E Camavinga",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 14,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rodrygo",
+          "displayName": "Rodrygo",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 40,
+          "ag": 28,
+          "min": 59,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 5,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Endrick",
+          "displayName": "Endrick",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 16,
+          "sh": 37,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Tottenham",
+      "players": [
+        {
+          "name": "G_Vicario",
+          "displayName": "G Vicario",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 95,
+          "sav": 6,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Porro",
+          "displayName": "P Porro",
+          "position": "DF",
+          "st": 2,
+          "tk": 41,
+          "ps": 28,
+          "sh": 14,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "C_Romero",
+          "displayName": "C Romero",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 15,
+          "sh": 7,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "R_Dragusin",
+          "displayName": "R Dragusin",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 7,
+          "ag": 22,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Maddison",
+          "displayName": "J Maddison",
+          "position": "MF",
+          "st": 2,
+          "tk": 12,
+          "ps": 41,
+          "sh": 18,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Bentancur",
+          "displayName": "R Bentancur",
+          "position": "MF",
+          "st": 2,
+          "tk": 28,
+          "ps": 38,
+          "sh": 16,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Kulusevski",
+          "displayName": "D Kulusevski",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 14,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Gray",
+          "displayName": "A Gray",
+          "position": "MF",
+          "st": 2,
+          "tk": 8,
+          "ps": 36,
+          "sh": 14,
+          "ag": 22,
+          "min": 95,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Bissouma",
+          "displayName": "Y Bissouma",
+          "position": "MF",
+          "st": 2,
+          "tk": 18,
+          "ps": 36,
+          "sh": 14,
+          "ag": 22,
+          "min": 45,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Johnson",
+          "displayName": "B Johnson",
+          "position": "FW",
+          "st": 2,
+          "tk": 19,
+          "ps": 20,
+          "sh": 41,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 4,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Richarlison",
+          "displayName": "Richarlison",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 26,
+          "sh": 40,
+          "ag": 23,
+          "min": 95,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 7,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Kinsky",
+          "displayName": "A Kinsky",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Danso",
+          "displayName": "K Danso",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 5,
+          "sh": 7,
+          "ag": 21,
+          "min": 50,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Udogie",
+          "displayName": "D Udogie",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 18,
+          "sh": 12,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "L_Bergvall",
+          "displayName": "L Bergvall",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 36,
+          "sh": 16,
+          "ag": 22,
+          "min": 50,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Solanke",
+          "displayName": "D Solanke",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 14,
+          "sh": 36,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 1,
+      "teamCode": "tot",
+      "text": "Richarlison se acerca al área Ve a A_Gray desmarcarse Le tira un pase medido A_Gray suelta un disparo con el exterior del pie Qué agilidad T_Courtois ha estado tremendo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "rma",
+      "text": "F_Valverde avanza metros Mira el extremo derecho Y le pone un pase de oro a V_Junior en el otro lado ¡Qué clase! V_Junior cabecea con claridad G_Vicario lo va a detener cómodamente Pero el balón bota en el césped y hace un extraño G_Vicario trata de reaccionar Ha entrado GOOOOOL El Real Madrid manda en el luminoso Real Madrid 1-0 Tottenham ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "tot",
+      "text": "P_Porro regatea a un rival A otro Esté en racha Y mete el pase hacia Richarlison Richarlison rompe el intento de fuera de juego rival Se va solo solo tiene que superar a T_Courtois Regatea a T_Courtois con mucha clase Está escorado, pero chuta Al palo T_Courtois corre y atrapa el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "rma",
+      "text": "V_Junior quiebra a A_Gray con un suave toque hacia el exterior le rompió la cintura Pero P_Porro aparece desde atrás y corta el balón El público ruge pidiendo falta. Pierluigi_Collina se hace el sueco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "rma",
+      "text": "V_Junior con el regate Peligro C_Romero agarra a su rival de la camiseta Pierluigi_Collina hace sonar el silbato Pierluigi_Collina está pitando bien hoy Se lleva una (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 11,
+      "teamCode": "tot",
+      "text": "B_Johnson aprovecha una mala cesión de E_Militao R_Asencio se le anticipa y le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "tot",
+      "text": "A_Gray se cuela hasta la línea de fondo Centra al segundo palo J_Maddison entra el remate J_Maddison se levanta sobre su marcador, carga el cabezazo, lo suelta... ¡Peligro! Pero T_Courtois rechaza el balón Y la defensa, muy atenta, aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "rma",
+      "text": "J_Bellingham con un balón a la espalda del lateral K_Mbappe corre hacia el cuero Llega antes que el defensa, qué gran esfuerzo K_Mbappe mira fijamente al portero Dispara entre las piernas de su marcador Se va fuera No, ha tomado efecto GOOOOOL Real Madrid 2-0 Tottenham ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "tot",
+      "text": "R_Dragusin con un pase milimétrico El balón pasa por encima de A_Rudiger Y le llega a A_Gray A_Gray mira fijamente al portero Dispara entre las piernas de su marcador Bota mal sobre un césped demasiado mojado Pero impacta en el lateral de la red CÓRNER A_Gray centra hacia el área Y_Bissouma dispara Pero T_Courtois bloca el remate con mucha seguridad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 18,
+      "teamCode": "tot",
+      "text": "Richarlison hace una croqueta Evita la dura entrada de E_Militao. ¡Qué clase! K_Mbappe levanta demasiado la pierna Lo dice en el reglamento: FALTA Se marcha con una simple amonestación ¿Se habrá dejado las tarjetas en el vestuario? El técnico de Tottenham está desesperado. Vaya arbitraje",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "rma",
+      "text": "A_Guler encara al defensa Se va de R_Bentancur en velocidad Menudo cambio de ritmo A_Guler cruza la línea de medios, avanza, mira al portero y chuta G_Vicario con una excepcional intervención CÓRNER A_Guler cuelga el centro al segundo palo E_Militao dispara G_Vicario la ve venir con calma, va muy alta Oh, ha medido mal G_Vicario reacciona a la desesperada y mete la mano CÓRNER F_Valverde cuelga el centro al segundo palo El balón cruza un bosque de piernas y llega a R_Asencio Mete el pie G_Vicario no va a llegar El esférico se estrella en la madera Y fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "tot",
+      "text": "Richarlison para en seco y busca apoyos Un compañero lo dobla Aprovecha el espacio que le ha abierto para colarse entre la defensa A_Guler se anticipa a la jugada y corta de cabeza",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 24,
+      "teamCode": "rma",
+      "text": "J_Bellingham espera apoyos K_Mbappe sale de la cueva. Para él va el balón K_Mbappe con un toque sutil ¡El balón va a puerta! Al centro del marco, dondé está G_Vicario Trata de cogerla... pero se le escapa El rebote queda libre G_Vicario reacciona rápidamente Y la despeja con los pies a la grada Su error estuvo a punto de costarle caro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "rma",
+      "text": "K_Mbappe tiene el cuero Le hace un túnel a C_Romero Ohhh Esto es caviar del bueno Y pasa a V_Junior El lanzamiento rebota en el muslo de V_Junior y se encamina a puerta G_Vicario alcanza el cuero. Buena parada El árbitro pita falta sobre G_Vicario , de todas maneras",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "tot",
+      "text": "D_Kulusevski mete un balón medido para B_Johnson A_Rudiger placa a su oponente El otro día vi una acción así en la NHL Pierluigi_Collina le pega una sonora reprimenda",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 25,
+      "teamCode": "tot",
+      "text": "Richarlison cruza hacia J_Maddison Gran volea de J_Maddison Bota en la línea tras golpear en el travesaño El colegiado duda... mira al asistente ¡Sigan! Dice No ha dado el gol Pues parecía que había cruzado la línea",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "rma",
+      "text": "D_Huijsen se abre a la banda y cambie el juego hacia V_Junior V_Junior chuta G_Vicario ve venir el balón Y lo atrapa con facilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "tot",
+      "text": "A_Gray con un control impresionante Hace la croqueta ante D_Huijsen Y centra hacia B_Johnson. ¡Qué clase! B_Johnson regatea a su marcador y busca el gol T_Courtois mete la planta del pie y despeja el cuero CÓRNER J_Maddison centra con fuerza al área pequeña Y_Bissouma se levanta sobre la defensa T_Courtois se las apaña para meter los guantes",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "rma",
+      "text": "A_Guler se acerca al área Ve a A_Rudiger desmarcarse Le tira un pase medido A_Rudiger rompe el intento de fuera de juego rival Corre hacia G_Vicario Amaga el disparo y regatea a G_Vicario GOOOOOL Real Madrid 3-0 Tottenham ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "tot",
+      "text": "D_Kulusevski recupera el balón Levanta la cabeza Ve el desmarque de su compañero R_Bentancur recibe un pase increíble Se marcha oooooh Que entrada más dura de A_Rudiger Pierluigi_Collina lo llama inmediatamente (AMARILLA) Tendrá que medir un pocos sus acciones desde este momento",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 33,
+      "teamCode": "rma",
+      "text": "K_Mbappe mete un balón medido para A_Guler R_Bentancur se hace con el balón y lo cede al portero G_Vicario resbala Ay Fuera Ha salido a córner CÓRNER D_Ceballos saca el balón a la frontal A_Guler al primer toque El disparo rebota en el defensa y va directo hacía la grada CÓRNER J_Bellingham coloca el balón con mucha suavidad Directo hacia A_Rudiger Remata como puede Pero falla Este tío no le mete un gol ni en el arco iris",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "rma",
+      "text": "K_Mbappe se tuerce gravemente el tobillo No continuará Eso es un esguince como mínimo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "rma",
+      "text": "La grada ruge ya que Rodrygo substituye a K_Mbappe para jugar de FW",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "tot",
+      "text": "C_Romero tiene tiempo para meditar la jugada C_Romero desde fuera del área Coloca el balón suavemente lejos del alcance del portero Pero sale rozando el palo T_Courtois estaba vendido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "rma",
+      "text": "Rodrygo avanza con el balón y se va de cuantos le salen al paso Rodrygo empalma con la derecha GOOOOOL Lo celebra haciendo el perrito Qué mal gusto Real Madrid 4-0 Tottenham ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "rma",
+      "text": "Rodrygo amaga el quiebro hacia un lado Pero sale por el otro. P_Porro está sorprendido Trata de zancallidearlo Pero lo esquiva Rodrygo con un verdadero obús GOOOOOL ¿Pero quién es este tío, la reencarnación de Pelé? Real Madrid 5-0 Tottenham ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "tot",
+      "text": "L_Bergvall entra por Y_Bissouma y jugará de MF para regocizo de sus aficionados",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "tot",
+      "text": "K_Danso sustituye a R_Dragusin en la posición de DF",
+      "type": "substitution"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "rma",
+      "text": "V_Junior se anticipa a su marcador Suelta un latigazo con su pierna izquierda Pero el cuero sale lejos de la portería",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "rma",
+      "text": "D_Ceballos con el lanzamiento de la falta Ve el desmarque de su compañero El balón va directo hacia el pie de Rodrygo K_Danso choca con el delantero Y el balón sale fuera Córner CÓRNER D_Huijsen le de mucho efecto a su lanzamiento G_Vicario coge con facilidad el defectuoso centro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "rma",
+      "text": "J_Bellingham va directo a puerta J_Bellingham busca el gol El disparo coge un efecto envenenado ¡Fuera! Si llega a ir a puerta...",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 53,
+      "teamCode": "tot",
+      "text": "D_Kulusevski avanza metros Mira el extremo derecho Y le pone un pase de oro a Richarlison en el otro lado ¡Qué clase! Richarlison trata de sorprender al portero Está muy adelantado T_Courtois mete el cuerpo El balón rebota hacia arriba Pero T_Courtois se incorpora velozmente y lo atrapa",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 54,
+      "teamCode": "rma",
+      "text": "V_Junior hace la pared con Rodrygo Rodrygo otea la posición de G_Vicario ¡Dispara! Roza el palo Y fuera Buen disparo, mala suerte",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "tot",
+      "text": "J_Maddison acelera por la banda derecha Pone el balón en el área. Directo hacia B_Johnson Corte finísimo y preciso de R_Asencio Podría haber cometido la falta perfectamente si no hubiera estado tan fino",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 57,
+      "teamCode": "rma",
+      "text": "D_Ceballos se interna por la banda Pone un medido centro sobre V_Junior A_Gray entra zon dureza y corta el balón. Está metido en el partido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "rma",
+      "text": "F_Valverde se va de uno, de dos, de tres Mira a un lado... y pasa hacia Rodrygo al otro lado OH Rodrygo trata de regatear a G_Vicario Pero el balón se pierde inofensivamente por la línea de meta",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "rma",
+      "text": "R_Asencio se resiente del tobillo El fisio examina la zona dolorida Todo parece indicar que va a seguir",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "rma",
+      "text": "D_Ceballos busca algún apoyo Ojo Casi pierde el balón en una zona peligrosa Pero consigue meter el pase para V_Junior V_Junior trata de sorprender al portero Está muy adelantado Golpea en el larguero Bota hacia abajo G_Vicario la atrapa Evitó el gol Parte de la grada reclama el tanto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "tot",
+      "text": "B_Johnson controla el balón con una gran calidad Despistó a su marcador Gran ocasión B_Johnson le pega con dureza No ha precisado demasiado Se mueve la red GOOOOOL Besa su camiseta Eso es amor por los colores Los aficionados corean su nombre Real Madrid 5-1 Tottenham ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 67,
+      "teamCode": "rma",
+      "text": "A_Guler tiene campo por delante Sigue avanzando. Nadie le sale al paso Con todo el tiempo del mundo pone el balón para V_Junior V_Junior salta y pica el balón perfectamente de cabeza Bota mal sobre un césped demasiado mojado G_Vicario trata de reaccionar Se va a centímetros del palo CÓRNER F_Valverde coloca el balón con mucha suavidad Rodrygo llega al centro G_Vicario adivina la direeción del balón y lo retiene",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 72,
+      "teamCode": "rma",
+      "text": "R_Asencio mete un balón medido para V_Junior Preciso cabezazo de V_Junior Coloca el balón lejos del alcance del portero Pero da en el palo Bueno, los palos también juegan",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "tot",
+      "text": "P_Porro supera a R_Asencio Pero A_Rudiger mete el cuerpo Y aparta del balón al delantero, que reclama un codazo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "tot",
+      "text": "El defensa está presionado Se saca el balón de encima Richarlison se va solo R_Asencio comete la falta Se ha pasado Tengo mis dudas que eso sea tarjeta SÍ (AMARILLA) FALTA DIRECTA A escasos centímetros del área Richarlison trata de superar la barrera T_Courtois mete los puños y manda el cuero al centro del campo",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "rma",
+      "text": "D_Ceballos se cuela hasta la línea de fondo Amaga el centro Pasa raso atrás hacia F_Valverde Punterazo impresionante de F_Valverde Pero dispara ancho ¿Dónde estaría apuntando?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "tot",
+      "text": "C_Romero amaga el quiebro hacia un lado Pero sale por el otro. R_Asencio está sorprendido Trata de zancallidearlo Pero lo esquiva Corte finísimo y preciso de A_Rudiger Podría haber cometido la falta perfectamente si no hubiera estado tan fino",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 80,
+      "teamCode": "tot",
+      "text": "D_Kulusevski en carrera con su marcador. Mete el hombro Lo aparta del cuero Continúa avanzando Balón para la entrada de Richarlison Balón bombeado Richarlison se anticipa al defensa de cabeza Se va solo hacia T_Courtois Amaga el disparo y chuta de cuchara T_Courtois Poco preciso Fuera Creo que habían soluciones mejores",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "tot",
+      "text": "B_Johnson pisa el balón ante A_Rudiger Le suelta el túnel y recibe un agarrón de la camiseta Pierluigi_Collina da la ley de la ventaja B_Johnson resuelve la jugada con un tremendo disparo El balón busca el ángulo Peligro T_Courtois salta con agilidad ¿Llegará a tiempo? T_Courtois detiene el remate con estilo Su técnico aplaude",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "tot",
+      "text": "K_Danso recupera el balón Levanta la cabeza Ve el desmarque de su compañero B_Johnson recibe un pase increíble Se marcha B_Johnson con un verdadero obús OOOOHHHHH Fuera Tenía una posición clara El entrenador le está abroncando",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 86,
+      "teamCode": "tot",
+      "text": "R_Bentancur toca de primeras al área para Richarlison Richarlison empalma el balon con una rabona ¡Qué frivolidad! Pero dispara ancho ¿Dónde estaría apuntando?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "tot",
+      "text": "Richarlison deja a V_Junior en el camino Richarlison con un tremendo disparo T_Courtois no va a llegar El esférico se estrella en la madera Y fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 3 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "rma",
+      "text": "V_Junior ha roto por completo el fuera de juego Encara a G_Vicario P_Porro lo derriba en el área Pierluigi_Collina no lo amonesta Vaya, yo creo que es de los peores árbitros de TSM",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "tot",
+      "text": "L_Bergvall larco para Richarlison Richarlison busca una de las dos escuadras Pero T_Courtois se saca de la manga la parada del partido",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

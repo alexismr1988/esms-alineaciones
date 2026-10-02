@@ -1,0 +1,4718 @@
+{
+  "schemaVersion": 1,
+  "competitions": [
+    {
+      "id": "liga-regular",
+      "label": "Liga Regular",
+      "icon": "⚽",
+      "rounds": [
+        {
+          "id": "j1",
+          "label": "Jornada 1",
+          "matchIds": [
+            "liga-regular/j1/bar_tot",
+            "liga-regular/j1/bor_rma",
+            "liga-regular/j1/int_ars",
+            "liga-regular/j1/liv_che",
+            "liga-regular/j1/man_bay",
+            "liga-regular/j1/nap_cit",
+            "liga-regular/j1/psg_atm"
+          ]
+        },
+        {
+          "id": "j2",
+          "label": "Jornada 2",
+          "matchIds": [
+            "liga-regular/j2/ars_man",
+            "liga-regular/j2/atm_liv",
+            "liga-regular/j2/bay_bor",
+            "liga-regular/j2/che_nap",
+            "liga-regular/j2/cit_tot",
+            "liga-regular/j2/psg_int",
+            "liga-regular/j2/rma_bar"
+          ]
+        },
+        {
+          "id": "j3",
+          "label": "Jornada 3",
+          "matchIds": [
+            "liga-regular/j3/bar_bay",
+            "liga-regular/j3/bor_ars",
+            "liga-regular/j3/cit_rma",
+            "liga-regular/j3/int_man",
+            "liga-regular/j3/liv_psg",
+            "liga-regular/j3/nap_atm",
+            "liga-regular/j3/tot_che"
+          ]
+        },
+        {
+          "id": "j4",
+          "label": "Jornada 4",
+          "matchIds": [
+            "liga-regular/j4/ars_bar",
+            "liga-regular/j4/atm_tot",
+            "liga-regular/j4/bay_cit",
+            "liga-regular/j4/che_rma",
+            "liga-regular/j4/liv_int",
+            "liga-regular/j4/man_bor",
+            "liga-regular/j4/psg_nap"
+          ]
+        },
+        {
+          "id": "j5",
+          "label": "Jornada 5",
+          "matchIds": [
+            "liga-regular/j5/bar_man",
+            "liga-regular/j5/che_bay",
+            "liga-regular/j5/cit_ars",
+            "liga-regular/j5/int_bor",
+            "liga-regular/j5/nap_liv",
+            "liga-regular/j5/rma_atm",
+            "liga-regular/j5/tot_psg"
+          ]
+        },
+        {
+          "id": "j6",
+          "label": "Jornada 6",
+          "matchIds": [
+            "liga-regular/j6/ars_che",
+            "liga-regular/j6/atm_bay",
+            "liga-regular/j6/bor_bar",
+            "liga-regular/j6/liv_tot",
+            "liga-regular/j6/man_cit",
+            "liga-regular/j6/nap_int",
+            "liga-regular/j6/psg_rma"
+          ]
+        },
+        {
+          "id": "j7",
+          "label": "Jornada 7",
+          "matchIds": [
+            "liga-regular/j7/atm_ars",
+            "liga-regular/j7/bay_psg",
+            "liga-regular/j7/che_man",
+            "liga-regular/j7/cit_bor",
+            "liga-regular/j7/int_bar",
+            "liga-regular/j7/rma_liv",
+            "liga-regular/j7/tot_nap"
+          ]
+        },
+        {
+          "id": "j8",
+          "label": "Jornada 8",
+          "matchIds": [
+            "liga-regular/j8/bar_cit",
+            "liga-regular/j8/bor_che",
+            "liga-regular/j8/liv_bay",
+            "liga-regular/j8/man_atm",
+            "liga-regular/j8/nap_rma",
+            "liga-regular/j8/psg_ars",
+            "liga-regular/j8/tot_int"
+          ]
+        },
+        {
+          "id": "j9",
+          "label": "Jornada 9",
+          "matchIds": [
+            "liga-regular/j9/ars_liv",
+            "liga-regular/j9/atm_bor",
+            "liga-regular/j9/bay_nap",
+            "liga-regular/j9/che_bar",
+            "liga-regular/j9/int_cit",
+            "liga-regular/j9/psg_man",
+            "liga-regular/j9/rma_tot"
+          ]
+        },
+        {
+          "id": "j10",
+          "label": "Jornada 10",
+          "matchIds": [
+            "liga-regular/j10/bar_atm",
+            "liga-regular/j10/bor_psg",
+            "liga-regular/j10/cit_che",
+            "liga-regular/j10/liv_man",
+            "liga-regular/j10/nap_ars",
+            "liga-regular/j10/rma_int",
+            "liga-regular/j10/tot_bay"
+          ]
+        },
+        {
+          "id": "j11",
+          "label": "Jornada 11",
+          "matchIds": [
+            "liga-regular/j11/ars_tot",
+            "liga-regular/j11/atm_cit",
+            "liga-regular/j11/bay_rma",
+            "liga-regular/j11/int_che",
+            "liga-regular/j11/liv_bor",
+            "liga-regular/j11/man_nap",
+            "liga-regular/j11/psg_bar"
+          ]
+        },
+        {
+          "id": "j12",
+          "label": "Jornada 12",
+          "matchIds": [
+            "liga-regular/j12/bar_liv",
+            "liga-regular/j12/bay_int",
+            "liga-regular/j12/che_atm",
+            "liga-regular/j12/cit_psg",
+            "liga-regular/j12/nap_bor",
+            "liga-regular/j12/rma_ars",
+            "liga-regular/j12/tot_man"
+          ]
+        },
+        {
+          "id": "j13",
+          "label": "Jornada 13",
+          "matchIds": [
+            "liga-regular/j13/ars_bay",
+            "liga-regular/j13/bor_tot",
+            "liga-regular/j13/int_atm",
+            "liga-regular/j13/liv_cit",
+            "liga-regular/j13/man_rma",
+            "liga-regular/j13/nap_bar",
+            "liga-regular/j13/psg_che"
+          ]
+        },
+        {
+          "id": "j14",
+          "label": "Jornada 14",
+          "matchIds": [
+            "liga-regular/j14/ars_int",
+            "liga-regular/j14/atm_psg",
+            "liga-regular/j14/bay_man",
+            "liga-regular/j14/che_liv",
+            "liga-regular/j14/cit_nap",
+            "liga-regular/j14/rma_bor",
+            "liga-regular/j14/tot_bar"
+          ]
+        },
+        {
+          "id": "j15",
+          "label": "Jornada 15",
+          "matchIds": [
+            "liga-regular/j15/bar_rma",
+            "liga-regular/j15/bor_bay",
+            "liga-regular/j15/int_psg",
+            "liga-regular/j15/liv_atm",
+            "liga-regular/j15/man_ars",
+            "liga-regular/j15/nap_che",
+            "liga-regular/j15/tot_cit"
+          ]
+        },
+        {
+          "id": "j16",
+          "label": "Jornada 16",
+          "matchIds": [
+            "liga-regular/j16/ars_bor",
+            "liga-regular/j16/atm_nap",
+            "liga-regular/j16/bay_bar",
+            "liga-regular/j16/che_tot",
+            "liga-regular/j16/man_int",
+            "liga-regular/j16/psg_liv",
+            "liga-regular/j16/rma_cit"
+          ]
+        },
+        {
+          "id": "j17",
+          "label": "Jornada 17",
+          "matchIds": [
+            "liga-regular/j17/bar_ars",
+            "liga-regular/j17/bor_man",
+            "liga-regular/j17/cit_bay",
+            "liga-regular/j17/int_liv",
+            "liga-regular/j17/nap_psg",
+            "liga-regular/j17/rma_che",
+            "liga-regular/j17/tot_atm"
+          ]
+        },
+        {
+          "id": "j18",
+          "label": "Jornada 18",
+          "matchIds": [
+            "liga-regular/j18/ars_cit",
+            "liga-regular/j18/atm_rma",
+            "liga-regular/j18/bay_che",
+            "liga-regular/j18/bor_int",
+            "liga-regular/j18/liv_nap",
+            "liga-regular/j18/man_bar",
+            "liga-regular/j18/psg_tot"
+          ]
+        },
+        {
+          "id": "j19",
+          "label": "Jornada 19",
+          "matchIds": [
+            "liga-regular/j19/bay_atm",
+            "liga-regular/j19/che_ars",
+            "liga-regular/j19/cit_man",
+            "liga-regular/j19/int_nap",
+            "liga-regular/j19/rma_psg",
+            "liga-regular/j19/tot_liv"
+          ]
+        },
+        {
+          "id": "j20",
+          "label": "Jornada 20",
+          "matchIds": [
+            "liga-regular/j20/ars_atm",
+            "liga-regular/j20/bar_int",
+            "liga-regular/j20/bor_cit",
+            "liga-regular/j20/liv_rma",
+            "liga-regular/j20/man_che",
+            "liga-regular/j20/nap_tot",
+            "liga-regular/j20/psg_bay"
+          ]
+        },
+        {
+          "id": "j21",
+          "label": "Jornada 21",
+          "matchIds": [
+            "liga-regular/j21/ars_psg",
+            "liga-regular/j21/atm_man",
+            "liga-regular/j21/bay_liv",
+            "liga-regular/j21/che_bor",
+            "liga-regular/j21/cit_bar",
+            "liga-regular/j21/int_tot",
+            "liga-regular/j21/rma_nap"
+          ]
+        },
+        {
+          "id": "j22",
+          "label": "Jornada 22",
+          "matchIds": [
+            "liga-regular/j22/bar_che",
+            "liga-regular/j22/bor_atm",
+            "liga-regular/j22/cit_int",
+            "liga-regular/j22/liv_ars",
+            "liga-regular/j22/man_psg",
+            "liga-regular/j22/nap_bay",
+            "liga-regular/j22/tot_rma"
+          ]
+        },
+        {
+          "id": "j23",
+          "label": "Jornada 23",
+          "matchIds": [
+            "liga-regular/j23/ars_nap",
+            "liga-regular/j23/atm_bar",
+            "liga-regular/j23/bay_tot",
+            "liga-regular/j23/che_cit",
+            "liga-regular/j23/int_rma",
+            "liga-regular/j23/man_liv",
+            "liga-regular/j23/psg_bor"
+          ]
+        },
+        {
+          "id": "j24",
+          "label": "Jornada 24",
+          "matchIds": []
+        },
+        {
+          "id": "j25",
+          "label": "Jornada 25",
+          "matchIds": []
+        },
+        {
+          "id": "j26",
+          "label": "Jornada 26",
+          "matchIds": []
+        }
+      ]
+    },
+    {
+      "id": "copa-sli",
+      "label": "Copa SLI",
+      "icon": "🏆",
+      "rounds": [
+        {
+          "id": "r1-ida",
+          "label": "1ª Ronda · Ida",
+          "matchIds": [
+            "copa-sli/r1-ida/atm_ars",
+            "copa-sli/r1-ida/cit_tot",
+            "copa-sli/r1-ida/int_che",
+            "copa-sli/r1-ida/liv_bay",
+            "copa-sli/r1-ida/man_bor",
+            "copa-sli/r1-ida/rma_nap"
+          ]
+        },
+        {
+          "id": "r1-vuelta",
+          "label": "1ª Ronda · Vuelta",
+          "matchIds": [
+            "copa-sli/r1-vuelta/ars_atm",
+            "copa-sli/r1-vuelta/bay_liv",
+            "copa-sli/r1-vuelta/bor_man",
+            "copa-sli/r1-vuelta/che_int",
+            "copa-sli/r1-vuelta/nap_rma",
+            "copa-sli/r1-vuelta/tot_cit"
+          ]
+        },
+        {
+          "id": "cuartos-ida",
+          "label": "Cuartos · Ida",
+          "matchIds": [
+            "copa-sli/cuartos-ida/bar_che",
+            "copa-sli/cuartos-ida/cit_ars",
+            "copa-sli/cuartos-ida/psg_liv",
+            "copa-sli/cuartos-ida/rma_bor"
+          ]
+        },
+        {
+          "id": "cuartos-vuelta",
+          "label": "Cuartos · Vuelta",
+          "matchIds": [
+            "copa-sli/cuartos-vuelta/ars_cit",
+            "copa-sli/cuartos-vuelta/bor_rma",
+            "copa-sli/cuartos-vuelta/che_bar",
+            "copa-sli/cuartos-vuelta/liv_psg"
+          ]
+        },
+        {
+          "id": "final",
+          "label": "Final",
+          "matchIds": [
+            "copa-sli/final/bar_cit"
+          ]
+        },
+        {
+          "id": "semis-ida",
+          "label": "Semifinales · Ida",
+          "matchIds": [
+            "copa-sli/semis-ida/bar_rma",
+            "copa-sli/semis-ida/cit_liv"
+          ]
+        },
+        {
+          "id": "semis-vuelta",
+          "label": "Semifinales · Vuelta",
+          "matchIds": [
+            "copa-sli/semis-vuelta/liv_cit",
+            "copa-sli/semis-vuelta/rma_bar"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trofeo-midseason",
+      "label": "Trofeo Mid-Season",
+      "icon": "⭐",
+      "rounds": [
+        {
+          "id": "r1",
+          "label": "1ª Ronda",
+          "matchIds": [
+            "trofeo-midseason/r1/int_atm"
+          ]
+        },
+        {
+          "id": "final",
+          "label": "Final",
+          "matchIds": [
+            "trofeo-midseason/final/psg_bar"
+          ]
+        },
+        {
+          "id": "semis",
+          "label": "Semifinales",
+          "matchIds": [
+            "trofeo-midseason/semis/bar_atm",
+            "trofeo-midseason/semis/psg_cit"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "copa-federacion",
+      "label": "Copa Federación",
+      "icon": "🏀",
+      "rounds": [
+        {
+          "id": "r1",
+          "label": "1ª Ronda",
+          "matchIds": [
+            "copa-federacion/r1/atm_che",
+            "copa-federacion/r1/bar_int",
+            "copa-federacion/r1/bay_rma",
+            "copa-federacion/r1/bor_cit",
+            "copa-federacion/r1/liv_man",
+            "copa-federacion/r1/tot_nap"
+          ]
+        },
+        {
+          "id": "cuartos",
+          "label": "Cuartos",
+          "matchIds": [
+            "copa-federacion/cuartos/atm_ars",
+            "copa-federacion/cuartos/bay_bar",
+            "copa-federacion/cuartos/bor_nap",
+            "copa-federacion/cuartos/liv_psg"
+          ]
+        },
+        {
+          "id": "final",
+          "label": "Final",
+          "matchIds": []
+        },
+        {
+          "id": "semis",
+          "label": "Semifinales",
+          "matchIds": [
+            "copa-federacion/semis/liv_ars",
+            "copa-federacion/semis/nap_bay"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "copa-desprestigio",
+      "label": "Copa Desprestigio",
+      "icon": "💀",
+      "rounds": [
+        {
+          "id": "grupo-j1",
+          "label": "Grupos · Jornada 1",
+          "matchIds": []
+        },
+        {
+          "id": "grupo-j2",
+          "label": "Grupos · Jornada 2",
+          "matchIds": []
+        },
+        {
+          "id": "grupo-j3",
+          "label": "Grupos · Jornada 3",
+          "matchIds": []
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "id": "copa-federacion/cuartos/atm_ars",
+      "detailPath": "./data/matches/copa-federacion/cuartos/atm_ars.json",
+      "competitionId": "copa-federacion",
+      "roundId": "cuartos",
+      "homeCode": "atm",
+      "awayCode": "ars",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Arsenal",
+      "result": {
+        "home": 0,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-4-1 L",
+        "away": "5-4-1 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-federacion/cuartos/bay_bar",
+      "detailPath": "./data/matches/copa-federacion/cuartos/bay_bar.json",
+      "competitionId": "copa-federacion",
+      "roundId": "cuartos",
+      "homeCode": "bay",
+      "awayCode": "bar",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "FC Barcelona",
+      "result": {
+        "home": 2,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-1-1 P",
+        "away": "4-1-2-1-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-federacion/cuartos/bor_nap",
+      "detailPath": "./data/matches/copa-federacion/cuartos/bor_nap.json",
+      "competitionId": "copa-federacion",
+      "roundId": "cuartos",
+      "homeCode": "bor",
+      "awayCode": "nap",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Napoles",
+      "result": {
+        "home": 1,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 E",
+        "away": "4-4-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-federacion/cuartos/liv_psg",
+      "detailPath": "./data/matches/copa-federacion/cuartos/liv_psg.json",
+      "competitionId": "copa-federacion",
+      "roundId": "cuartos",
+      "homeCode": "liv",
+      "awayCode": "psg",
+      "homeTeam": "Liverpool",
+      "awayTeam": "PSG",
+      "result": {
+        "home": 3,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-2-2 C",
+        "away": "4-4-1-1 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-federacion/r1/atm_che",
+      "detailPath": "./data/matches/copa-federacion/r1/atm_che.json",
+      "competitionId": "copa-federacion",
+      "roundId": "r1",
+      "homeCode": "atm",
+      "awayCode": "che",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Chelsea",
+      "result": {
+        "home": 6,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-4-1 P",
+        "away": "4-1-2-1-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-federacion/r1/bar_int",
+      "detailPath": "./data/matches/copa-federacion/r1/bar_int.json",
+      "competitionId": "copa-federacion",
+      "roundId": "r1",
+      "homeCode": "bar",
+      "awayCode": "int",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Inter Milan",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 N",
+        "away": "4-5-1 L"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-federacion/r1/bay_rma",
+      "detailPath": "./data/matches/copa-federacion/r1/bay_rma.json",
+      "competitionId": "copa-federacion",
+      "roundId": "r1",
+      "homeCode": "bay",
+      "awayCode": "rma",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Real Madrid",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 N",
+        "away": "4-3-1-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-federacion/r1/bor_cit",
+      "detailPath": "./data/matches/copa-federacion/r1/bor_cit.json",
+      "competitionId": "copa-federacion",
+      "roundId": "r1",
+      "homeCode": "bor",
+      "awayCode": "cit",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 1,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-2-2 C",
+        "away": "4-1-2-1-2 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-federacion/r1/liv_man",
+      "detailPath": "./data/matches/copa-federacion/r1/liv_man.json",
+      "competitionId": "copa-federacion",
+      "roundId": "r1",
+      "homeCode": "liv",
+      "awayCode": "man",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Manchester United",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-2 P",
+        "away": "4-2-4 D"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-federacion/r1/tot_nap",
+      "detailPath": "./data/matches/copa-federacion/r1/tot_nap.json",
+      "competitionId": "copa-federacion",
+      "roundId": "r1",
+      "homeCode": "tot",
+      "awayCode": "nap",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Napoles",
+      "result": {
+        "home": 1,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-4-3 E",
+        "away": "4-1-2-3 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-federacion/semis/liv_ars",
+      "detailPath": "./data/matches/copa-federacion/semis/liv_ars.json",
+      "competitionId": "copa-federacion",
+      "roundId": "semis",
+      "homeCode": "liv",
+      "awayCode": "ars",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Arsenal",
+      "result": {
+        "home": 1,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-2-2 C",
+        "away": "5-2-3 D"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-federacion/semis/nap_bay",
+      "detailPath": "./data/matches/copa-federacion/semis/nap_bay.json",
+      "competitionId": "copa-federacion",
+      "roundId": "semis",
+      "homeCode": "nap",
+      "awayCode": "bay",
+      "homeTeam": "Napoles",
+      "awayTeam": "Bayern Munich",
+      "result": {
+        "home": 5,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-2 C",
+        "away": "4-1-3-1-1 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/cuartos-ida/bar_che",
+      "detailPath": "./data/matches/copa-sli/cuartos-ida/bar_che.json",
+      "competitionId": "copa-sli",
+      "roundId": "cuartos-ida",
+      "homeCode": "bar",
+      "awayCode": "che",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Chelsea",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "4-1-2-1-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/cuartos-ida/cit_ars",
+      "detailPath": "./data/matches/copa-sli/cuartos-ida/cit_ars.json",
+      "competitionId": "copa-sli",
+      "roundId": "cuartos-ida",
+      "homeCode": "cit",
+      "awayCode": "ars",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Arsenal",
+      "result": {
+        "home": 6,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 N",
+        "away": "4-4-2 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/cuartos-ida/psg_liv",
+      "detailPath": "./data/matches/copa-sli/cuartos-ida/psg_liv.json",
+      "competitionId": "copa-sli",
+      "roundId": "cuartos-ida",
+      "homeCode": "psg",
+      "awayCode": "liv",
+      "homeTeam": "PSG",
+      "awayTeam": "Liverpool",
+      "result": {
+        "home": 0,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-4-1 N",
+        "away": "4-2-2-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/cuartos-ida/rma_bor",
+      "detailPath": "./data/matches/copa-sli/cuartos-ida/rma_bor.json",
+      "competitionId": "copa-sli",
+      "roundId": "cuartos-ida",
+      "homeCode": "rma",
+      "awayCode": "bor",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Borussia Dortmund",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-3 P",
+        "away": "3-6-1 L"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/cuartos-vuelta/ars_cit",
+      "detailPath": "./data/matches/copa-sli/cuartos-vuelta/ars_cit.json",
+      "competitionId": "copa-sli",
+      "roundId": "cuartos-vuelta",
+      "homeCode": "ars",
+      "awayCode": "cit",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 1,
+        "away": 3,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-4-3 L",
+        "away": "4-3-1-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/cuartos-vuelta/bor_rma",
+      "detailPath": "./data/matches/copa-sli/cuartos-vuelta/bor_rma.json",
+      "competitionId": "copa-sli",
+      "roundId": "cuartos-vuelta",
+      "homeCode": "bor",
+      "awayCode": "rma",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Real Madrid",
+      "result": {
+        "home": 2,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-2-2 E",
+        "away": "4-2-1-3 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/cuartos-vuelta/che_bar",
+      "detailPath": "./data/matches/copa-sli/cuartos-vuelta/che_bar.json",
+      "competitionId": "copa-sli",
+      "roundId": "cuartos-vuelta",
+      "homeCode": "che",
+      "awayCode": "bar",
+      "homeTeam": "Chelsea",
+      "awayTeam": "FC Barcelona",
+      "result": {
+        "home": 2,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-2-1 L",
+        "away": "5-3-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/cuartos-vuelta/liv_psg",
+      "detailPath": "./data/matches/copa-sli/cuartos-vuelta/liv_psg.json",
+      "competitionId": "copa-sli",
+      "roundId": "cuartos-vuelta",
+      "homeCode": "liv",
+      "awayCode": "psg",
+      "homeTeam": "Liverpool",
+      "awayTeam": "PSG",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-2-2 N",
+        "away": "4-1-2-1-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/final/bar_cit",
+      "detailPath": "./data/matches/copa-sli/final/bar_cit.json",
+      "competitionId": "copa-sli",
+      "roundId": "final",
+      "homeCode": "bar",
+      "awayCode": "cit",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-1-2-1-1 C",
+        "away": "4-3-1-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/r1-ida/atm_ars",
+      "detailPath": "./data/matches/copa-sli/r1-ida/atm_ars.json",
+      "competitionId": "copa-sli",
+      "roundId": "r1-ida",
+      "homeCode": "atm",
+      "awayCode": "ars",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Arsenal",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-3 C",
+        "away": "5-3-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/r1-ida/cit_tot",
+      "detailPath": "./data/matches/copa-sli/r1-ida/cit_tot.json",
+      "competitionId": "copa-sli",
+      "roundId": "r1-ida",
+      "homeCode": "cit",
+      "awayCode": "tot",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Tottenham",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-2 N",
+        "away": "3-4-3 D"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/r1-ida/int_che",
+      "detailPath": "./data/matches/copa-sli/r1-ida/int_che.json",
+      "competitionId": "copa-sli",
+      "roundId": "r1-ida",
+      "homeCode": "int",
+      "awayCode": "che",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Chelsea",
+      "result": {
+        "home": 0,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-4 C",
+        "away": "4-1-4-1 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/r1-ida/liv_bay",
+      "detailPath": "./data/matches/copa-sli/r1-ida/liv_bay.json",
+      "competitionId": "copa-sli",
+      "roundId": "r1-ida",
+      "homeCode": "liv",
+      "awayCode": "bay",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Bayern Munich",
+      "result": {
+        "home": 2,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-2 N",
+        "away": "4-1-3-1-1 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/r1-ida/man_bor",
+      "detailPath": "./data/matches/copa-sli/r1-ida/man_bor.json",
+      "competitionId": "copa-sli",
+      "roundId": "r1-ida",
+      "homeCode": "man",
+      "awayCode": "bor",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Borussia Dortmund",
+      "result": {
+        "home": 6,
+        "away": 5,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-5-1 A",
+        "away": "4-4-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/r1-ida/rma_nap",
+      "detailPath": "./data/matches/copa-sli/r1-ida/rma_nap.json",
+      "competitionId": "copa-sli",
+      "roundId": "r1-ida",
+      "homeCode": "rma",
+      "awayCode": "nap",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Napoles",
+      "result": {
+        "home": 4,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 A",
+        "away": "5-3-1-1 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/r1-vuelta/ars_atm",
+      "detailPath": "./data/matches/copa-sli/r1-vuelta/ars_atm.json",
+      "competitionId": "copa-sli",
+      "roundId": "r1-vuelta",
+      "homeCode": "ars",
+      "awayCode": "atm",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Atletico Madrid",
+      "result": {
+        "home": 3,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-3-2 N",
+        "away": "4-3-3 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/r1-vuelta/bay_liv",
+      "detailPath": "./data/matches/copa-sli/r1-vuelta/bay_liv.json",
+      "competitionId": "copa-sli",
+      "roundId": "r1-vuelta",
+      "homeCode": "bay",
+      "awayCode": "liv",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Liverpool",
+      "result": {
+        "home": 2,
+        "away": 5,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 N",
+        "away": "4-1-3-2 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/r1-vuelta/bor_man",
+      "detailPath": "./data/matches/copa-sli/r1-vuelta/bor_man.json",
+      "competitionId": "copa-sli",
+      "roundId": "r1-vuelta",
+      "homeCode": "bor",
+      "awayCode": "man",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Manchester United",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": {
+        "home": 4,
+        "away": 3
+      },
+      "formation": {
+        "home": "4-4-2 N",
+        "away": "4-5-1 D"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/r1-vuelta/che_int",
+      "detailPath": "./data/matches/copa-sli/r1-vuelta/che_int.json",
+      "competitionId": "copa-sli",
+      "roundId": "r1-vuelta",
+      "homeCode": "che",
+      "awayCode": "int",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Inter Milan",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-3-1 N",
+        "away": "5-4-1 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/r1-vuelta/nap_rma",
+      "detailPath": "./data/matches/copa-sli/r1-vuelta/nap_rma.json",
+      "competitionId": "copa-sli",
+      "roundId": "r1-vuelta",
+      "homeCode": "nap",
+      "awayCode": "rma",
+      "homeTeam": "Napoles",
+      "awayTeam": "Real Madrid",
+      "result": {
+        "home": 4,
+        "away": 3,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 C",
+        "away": "4-1-2-1-2 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/r1-vuelta/tot_cit",
+      "detailPath": "./data/matches/copa-sli/r1-vuelta/tot_cit.json",
+      "competitionId": "copa-sli",
+      "roundId": "r1-vuelta",
+      "homeCode": "tot",
+      "awayCode": "cit",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 3,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-4 P",
+        "away": "5-1-2-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/semis-ida/bar_rma",
+      "detailPath": "./data/matches/copa-sli/semis-ida/bar_rma.json",
+      "competitionId": "copa-sli",
+      "roundId": "semis-ida",
+      "homeCode": "bar",
+      "awayCode": "rma",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Real Madrid",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 N",
+        "away": "5-1-2-2 D"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/semis-ida/cit_liv",
+      "detailPath": "./data/matches/copa-sli/semis-ida/cit_liv.json",
+      "competitionId": "copa-sli",
+      "roundId": "semis-ida",
+      "homeCode": "cit",
+      "awayCode": "liv",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Liverpool",
+      "result": {
+        "home": 4,
+        "away": 3,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 E",
+        "away": "4-1-3-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/semis-vuelta/liv_cit",
+      "detailPath": "./data/matches/copa-sli/semis-vuelta/liv_cit.json",
+      "competitionId": "copa-sli",
+      "roundId": "semis-vuelta",
+      "homeCode": "liv",
+      "awayCode": "cit",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 1,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-2 P",
+        "away": "4-3-1-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "copa-sli/semis-vuelta/rma_bar",
+      "detailPath": "./data/matches/copa-sli/semis-vuelta/rma_bar.json",
+      "competitionId": "copa-sli",
+      "roundId": "semis-vuelta",
+      "homeCode": "rma",
+      "awayCode": "bar",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "FC Barcelona",
+      "result": {
+        "home": 0,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-3-4 A",
+        "away": "5-3-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j1/bar_tot",
+      "detailPath": "./data/matches/liga-regular/j1/bar_tot.json",
+      "competitionId": "liga-regular",
+      "roundId": "j1",
+      "homeCode": "bar",
+      "awayCode": "tot",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Tottenham",
+      "result": {
+        "home": 2,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 A",
+        "away": "5-2-3 D"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j1/bor_rma",
+      "detailPath": "./data/matches/liga-regular/j1/bor_rma.json",
+      "competitionId": "liga-regular",
+      "roundId": "j1",
+      "homeCode": "bor",
+      "awayCode": "rma",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Real Madrid",
+      "result": {
+        "home": 1,
+        "away": 3,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 N",
+        "away": "4-1-2-1-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j1/int_ars",
+      "detailPath": "./data/matches/liga-regular/j1/int_ars.json",
+      "competitionId": "liga-regular",
+      "roundId": "j1",
+      "homeCode": "int",
+      "awayCode": "ars",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Arsenal",
+      "result": {
+        "home": 1,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-2-3 A",
+        "away": "4-3-3 L"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j1/liv_che",
+      "detailPath": "./data/matches/liga-regular/j1/liv_che.json",
+      "competitionId": "liga-regular",
+      "roundId": "j1",
+      "homeCode": "liv",
+      "awayCode": "che",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Chelsea",
+      "result": {
+        "home": 4,
+        "away": 3,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "4-1-3-2 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j1/man_bay",
+      "detailPath": "./data/matches/liga-regular/j1/man_bay.json",
+      "competitionId": "liga-regular",
+      "roundId": "j1",
+      "homeCode": "man",
+      "awayCode": "bay",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Bayern Munich",
+      "result": {
+        "home": 2,
+        "away": 3,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-5-2 C",
+        "away": "4-3-1-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j1/nap_cit",
+      "detailPath": "./data/matches/liga-regular/j1/nap_cit.json",
+      "competitionId": "liga-regular",
+      "roundId": "j1",
+      "homeCode": "nap",
+      "awayCode": "cit",
+      "homeTeam": "Napoles",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 1,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 P",
+        "away": "4-1-2-1-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j1/psg_atm",
+      "detailPath": "./data/matches/liga-regular/j1/psg_atm.json",
+      "competitionId": "liga-regular",
+      "roundId": "j1",
+      "homeCode": "psg",
+      "awayCode": "atm",
+      "homeTeam": "PSG",
+      "awayTeam": "Atletico Madrid",
+      "result": {
+        "home": 4,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "3-4-3 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j10/bar_atm",
+      "detailPath": "./data/matches/liga-regular/j10/bar_atm.json",
+      "competitionId": "liga-regular",
+      "roundId": "j10",
+      "homeCode": "bar",
+      "awayCode": "atm",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Atletico Madrid",
+      "result": {
+        "home": 2,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "4-2-4 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j10/bor_psg",
+      "detailPath": "./data/matches/liga-regular/j10/bor_psg.json",
+      "competitionId": "liga-regular",
+      "roundId": "j10",
+      "homeCode": "bor",
+      "awayCode": "psg",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "PSG",
+      "result": {
+        "home": 0,
+        "away": 3,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 N",
+        "away": "4-4-2 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j10/cit_che",
+      "detailPath": "./data/matches/liga-regular/j10/cit_che.json",
+      "competitionId": "liga-regular",
+      "roundId": "j10",
+      "homeCode": "cit",
+      "awayCode": "che",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Chelsea",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-3 C",
+        "away": "4-1-2-1-2 L"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j10/liv_man",
+      "detailPath": "./data/matches/liga-regular/j10/liv_man.json",
+      "competitionId": "liga-regular",
+      "roundId": "j10",
+      "homeCode": "liv",
+      "awayCode": "man",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Manchester United",
+      "result": {
+        "home": 0,
+        "away": 4,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-2 N",
+        "away": "4-5-1 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j10/nap_ars",
+      "detailPath": "./data/matches/liga-regular/j10/nap_ars.json",
+      "competitionId": "liga-regular",
+      "roundId": "j10",
+      "homeCode": "nap",
+      "awayCode": "ars",
+      "homeTeam": "Napoles",
+      "awayTeam": "Arsenal",
+      "result": {
+        "home": 3,
+        "away": 3,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "4-4-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j10/rma_int",
+      "detailPath": "./data/matches/liga-regular/j10/rma_int.json",
+      "competitionId": "liga-regular",
+      "roundId": "j10",
+      "homeCode": "rma",
+      "awayCode": "int",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Inter Milan",
+      "result": {
+        "home": 2,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 A",
+        "away": "4-2-4 D"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j10/tot_bay",
+      "detailPath": "./data/matches/liga-regular/j10/tot_bay.json",
+      "competitionId": "liga-regular",
+      "roundId": "j10",
+      "homeCode": "tot",
+      "awayCode": "bay",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Bayern Munich",
+      "result": {
+        "home": 2,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 A",
+        "away": "4-3-1-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j11/ars_tot",
+      "detailPath": "./data/matches/liga-regular/j11/ars_tot.json",
+      "competitionId": "liga-regular",
+      "roundId": "j11",
+      "homeCode": "ars",
+      "awayCode": "tot",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Tottenham",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-4-1 A",
+        "away": "4-3-3 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j11/atm_cit",
+      "detailPath": "./data/matches/liga-regular/j11/atm_cit.json",
+      "competitionId": "liga-regular",
+      "roundId": "j11",
+      "homeCode": "atm",
+      "awayCode": "cit",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 3,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 D",
+        "away": "4-3-1-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j11/bay_rma",
+      "detailPath": "./data/matches/liga-regular/j11/bay_rma.json",
+      "competitionId": "liga-regular",
+      "roundId": "j11",
+      "homeCode": "bay",
+      "awayCode": "rma",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Real Madrid",
+      "result": {
+        "home": 1,
+        "away": 5,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-3 A",
+        "away": "4-2-4 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j11/int_che",
+      "detailPath": "./data/matches/liga-regular/j11/int_che.json",
+      "competitionId": "liga-regular",
+      "roundId": "j11",
+      "homeCode": "int",
+      "awayCode": "che",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Chelsea",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-2-3 C",
+        "away": "4-2-3-1 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j11/liv_bor",
+      "detailPath": "./data/matches/liga-regular/j11/liv_bor.json",
+      "competitionId": "liga-regular",
+      "roundId": "j11",
+      "homeCode": "liv",
+      "awayCode": "bor",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Borussia Dortmund",
+      "result": {
+        "home": 5,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-2 P",
+        "away": "4-4-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j11/man_nap",
+      "detailPath": "./data/matches/liga-regular/j11/man_nap.json",
+      "competitionId": "liga-regular",
+      "roundId": "j11",
+      "homeCode": "man",
+      "awayCode": "nap",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Napoles",
+      "result": {
+        "home": 0,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-3-2 L",
+        "away": "4-3-1-2 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j11/psg_bar",
+      "detailPath": "./data/matches/liga-regular/j11/psg_bar.json",
+      "competitionId": "liga-regular",
+      "roundId": "j11",
+      "homeCode": "psg",
+      "awayCode": "bar",
+      "homeTeam": "PSG",
+      "awayTeam": "FC Barcelona",
+      "result": {
+        "home": 1,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 A",
+        "away": "4-1-2-1-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j12/bar_liv",
+      "detailPath": "./data/matches/liga-regular/j12/bar_liv.json",
+      "competitionId": "liga-regular",
+      "roundId": "j12",
+      "homeCode": "bar",
+      "awayCode": "liv",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Liverpool",
+      "result": {
+        "home": 3,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 N",
+        "away": "4-1-3-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j12/bay_int",
+      "detailPath": "./data/matches/liga-regular/j12/bay_int.json",
+      "competitionId": "liga-regular",
+      "roundId": "j12",
+      "homeCode": "bay",
+      "awayCode": "int",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Inter Milan",
+      "result": {
+        "home": 1,
+        "away": 3,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 E",
+        "away": "5-2-3 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j12/che_atm",
+      "detailPath": "./data/matches/liga-regular/j12/che_atm.json",
+      "competitionId": "liga-regular",
+      "roundId": "j12",
+      "homeCode": "che",
+      "awayCode": "atm",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Atletico Madrid",
+      "result": {
+        "home": 3,
+        "away": 3,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-1-2-3-1 A",
+        "away": "4-3-3 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j12/cit_psg",
+      "detailPath": "./data/matches/liga-regular/j12/cit_psg.json",
+      "competitionId": "liga-regular",
+      "roundId": "j12",
+      "homeCode": "cit",
+      "awayCode": "psg",
+      "homeTeam": "Manchester City",
+      "awayTeam": "PSG",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 C",
+        "away": "4-4-1-1 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j12/nap_bor",
+      "detailPath": "./data/matches/liga-regular/j12/nap_bor.json",
+      "competitionId": "liga-regular",
+      "roundId": "j12",
+      "homeCode": "nap",
+      "awayCode": "bor",
+      "homeTeam": "Napoles",
+      "awayTeam": "Borussia Dortmund",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "3-6-1 L"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j12/rma_ars",
+      "detailPath": "./data/matches/liga-regular/j12/rma_ars.json",
+      "competitionId": "liga-regular",
+      "roundId": "j12",
+      "homeCode": "rma",
+      "awayCode": "ars",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Arsenal",
+      "result": {
+        "home": 2,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-1-3 A",
+        "away": "4-4-2 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j12/tot_man",
+      "detailPath": "./data/matches/liga-regular/j12/tot_man.json",
+      "competitionId": "liga-regular",
+      "roundId": "j12",
+      "homeCode": "tot",
+      "awayCode": "man",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Manchester United",
+      "result": {
+        "home": 0,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-3 P",
+        "away": "4-4-2 D"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j13/ars_bay",
+      "detailPath": "./data/matches/liga-regular/j13/ars_bay.json",
+      "competitionId": "liga-regular",
+      "roundId": "j13",
+      "homeCode": "ars",
+      "awayCode": "bay",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Bayern Munich",
+      "result": {
+        "home": 3,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-3 L",
+        "away": "4-4-2 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j13/bor_tot",
+      "detailPath": "./data/matches/liga-regular/j13/bor_tot.json",
+      "competitionId": "liga-regular",
+      "roundId": "j13",
+      "homeCode": "bor",
+      "awayCode": "tot",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Tottenham",
+      "result": {
+        "home": 1,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 E",
+        "away": "4-2-4 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j13/int_atm",
+      "detailPath": "./data/matches/liga-regular/j13/int_atm.json",
+      "competitionId": "liga-regular",
+      "roundId": "j13",
+      "homeCode": "int",
+      "awayCode": "atm",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Atletico Madrid",
+      "result": {
+        "home": 2,
+        "away": 5,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 A",
+        "away": "4-2-4 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j13/liv_cit",
+      "detailPath": "./data/matches/liga-regular/j13/liv_cit.json",
+      "competitionId": "liga-regular",
+      "roundId": "j13",
+      "homeCode": "liv",
+      "awayCode": "cit",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 3,
+        "away": 3,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-2 P",
+        "away": "4-3-1-2 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j13/man_rma",
+      "detailPath": "./data/matches/liga-regular/j13/man_rma.json",
+      "competitionId": "liga-regular",
+      "roundId": "j13",
+      "homeCode": "man",
+      "awayCode": "rma",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Real Madrid",
+      "result": {
+        "home": 1,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-4-3 N",
+        "away": "4-3-3 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j13/nap_bar",
+      "detailPath": "./data/matches/liga-regular/j13/nap_bar.json",
+      "competitionId": "liga-regular",
+      "roundId": "j13",
+      "homeCode": "nap",
+      "awayCode": "bar",
+      "homeTeam": "Napoles",
+      "awayTeam": "FC Barcelona",
+      "result": {
+        "home": 2,
+        "away": 6,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-1-1 C",
+        "away": "4-1-2-1-2 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j13/psg_che",
+      "detailPath": "./data/matches/liga-regular/j13/psg_che.json",
+      "competitionId": "liga-regular",
+      "roundId": "j13",
+      "homeCode": "psg",
+      "awayCode": "che",
+      "homeTeam": "PSG",
+      "awayTeam": "Chelsea",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-4-1 C",
+        "away": "4-1-2-1-2 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j14/ars_int",
+      "detailPath": "./data/matches/liga-regular/j14/ars_int.json",
+      "competitionId": "liga-regular",
+      "roundId": "j14",
+      "homeCode": "ars",
+      "awayCode": "int",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Inter Milan",
+      "result": {
+        "home": 5,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-3 E",
+        "away": "4-3-3 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j14/atm_psg",
+      "detailPath": "./data/matches/liga-regular/j14/atm_psg.json",
+      "competitionId": "liga-regular",
+      "roundId": "j14",
+      "homeCode": "atm",
+      "awayCode": "psg",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "PSG",
+      "result": {
+        "home": 3,
+        "away": 4,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-4 P",
+        "away": "4-1-2-1-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j14/bay_man",
+      "detailPath": "./data/matches/liga-regular/j14/bay_man.json",
+      "competitionId": "liga-regular",
+      "roundId": "j14",
+      "homeCode": "bay",
+      "awayCode": "man",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Manchester United",
+      "result": {
+        "home": 5,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 P",
+        "away": "5-3-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j14/che_liv",
+      "detailPath": "./data/matches/liga-regular/j14/che_liv.json",
+      "competitionId": "liga-regular",
+      "roundId": "j14",
+      "homeCode": "che",
+      "awayCode": "liv",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Liverpool",
+      "result": {
+        "home": 2,
+        "away": 3,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 N",
+        "away": "4-1-3-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j14/cit_nap",
+      "detailPath": "./data/matches/liga-regular/j14/cit_nap.json",
+      "competitionId": "liga-regular",
+      "roundId": "j14",
+      "homeCode": "cit",
+      "awayCode": "nap",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Napoles",
+      "result": {
+        "home": 7,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 P",
+        "away": "4-4-1-1 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j14/rma_bor",
+      "detailPath": "./data/matches/liga-regular/j14/rma_bor.json",
+      "competitionId": "liga-regular",
+      "roundId": "j14",
+      "homeCode": "rma",
+      "awayCode": "bor",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Borussia Dortmund",
+      "result": {
+        "home": 4,
+        "away": 4,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-3 A",
+        "away": "4-3-1-2 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j14/tot_bar",
+      "detailPath": "./data/matches/liga-regular/j14/tot_bar.json",
+      "competitionId": "liga-regular",
+      "roundId": "j14",
+      "homeCode": "tot",
+      "awayCode": "bar",
+      "homeTeam": "Tottenham",
+      "awayTeam": "FC Barcelona",
+      "result": {
+        "home": 0,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-3 D",
+        "away": "4-1-2-1-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j15/bar_rma",
+      "detailPath": "./data/matches/liga-regular/j15/bar_rma.json",
+      "competitionId": "liga-regular",
+      "roundId": "j15",
+      "homeCode": "bar",
+      "awayCode": "rma",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Real Madrid",
+      "result": {
+        "home": 3,
+        "away": 3,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 N",
+        "away": "4-1-2-3 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j15/bor_bay",
+      "detailPath": "./data/matches/liga-regular/j15/bor_bay.json",
+      "competitionId": "liga-regular",
+      "roundId": "j15",
+      "homeCode": "bor",
+      "awayCode": "bay",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Bayern Munich",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-6-1 L",
+        "away": "4-4-1-1 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j15/int_psg",
+      "detailPath": "./data/matches/liga-regular/j15/int_psg.json",
+      "competitionId": "liga-regular",
+      "roundId": "j15",
+      "homeCode": "int",
+      "awayCode": "psg",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "PSG",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-4-1 L",
+        "away": "4-1-2-1-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j15/liv_atm",
+      "detailPath": "./data/matches/liga-regular/j15/liv_atm.json",
+      "competitionId": "liga-regular",
+      "roundId": "j15",
+      "homeCode": "liv",
+      "awayCode": "atm",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Atletico Madrid",
+      "result": {
+        "home": 1,
+        "away": 4,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-2 P",
+        "away": "4-2-4 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j15/man_ars",
+      "detailPath": "./data/matches/liga-regular/j15/man_ars.json",
+      "competitionId": "liga-regular",
+      "roundId": "j15",
+      "homeCode": "man",
+      "awayCode": "ars",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Arsenal",
+      "result": {
+        "home": 2,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-4 D",
+        "away": "4-3-3 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j15/nap_che",
+      "detailPath": "./data/matches/liga-regular/j15/nap_che.json",
+      "competitionId": "liga-regular",
+      "roundId": "j15",
+      "homeCode": "nap",
+      "awayCode": "che",
+      "homeTeam": "Napoles",
+      "awayTeam": "Chelsea",
+      "result": {
+        "home": 4,
+        "away": 3,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-1-1 P",
+        "away": "3-2-3-1-1 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j15/tot_cit",
+      "detailPath": "./data/matches/liga-regular/j15/tot_cit.json",
+      "competitionId": "liga-regular",
+      "roundId": "j15",
+      "homeCode": "tot",
+      "awayCode": "cit",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 0,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-3 D",
+        "away": "4-4-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j16/ars_bor",
+      "detailPath": "./data/matches/liga-regular/j16/ars_bor.json",
+      "competitionId": "liga-regular",
+      "roundId": "j16",
+      "homeCode": "ars",
+      "awayCode": "bor",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Borussia Dortmund",
+      "result": {
+        "home": 4,
+        "away": 3,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-3 A",
+        "away": "4-2-2-2 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j16/atm_nap",
+      "detailPath": "./data/matches/liga-regular/j16/atm_nap.json",
+      "competitionId": "liga-regular",
+      "roundId": "j16",
+      "homeCode": "atm",
+      "awayCode": "nap",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Napoles",
+      "result": {
+        "home": 1,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 E",
+        "away": "4-3-1-2 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j16/bay_bar",
+      "detailPath": "./data/matches/liga-regular/j16/bay_bar.json",
+      "competitionId": "liga-regular",
+      "roundId": "j16",
+      "homeCode": "bay",
+      "awayCode": "bar",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "FC Barcelona",
+      "result": {
+        "home": 0,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-3 L",
+        "away": "4-1-2-1-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j16/che_tot",
+      "detailPath": "./data/matches/liga-regular/j16/che_tot.json",
+      "competitionId": "liga-regular",
+      "roundId": "j16",
+      "homeCode": "che",
+      "awayCode": "tot",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Tottenham",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-2-3-1-1 C",
+        "away": "4-5-1 D"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j16/man_int",
+      "detailPath": "./data/matches/liga-regular/j16/man_int.json",
+      "competitionId": "liga-regular",
+      "roundId": "j16",
+      "homeCode": "man",
+      "awayCode": "int",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Inter Milan",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-4-1 P",
+        "away": "5-4-1 D"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j16/psg_liv",
+      "detailPath": "./data/matches/liga-regular/j16/psg_liv.json",
+      "competitionId": "liga-regular",
+      "roundId": "j16",
+      "homeCode": "psg",
+      "awayCode": "liv",
+      "homeTeam": "PSG",
+      "awayTeam": "Liverpool",
+      "result": {
+        "home": 1,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 C",
+        "away": "4-2-1-3 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j16/rma_cit",
+      "detailPath": "./data/matches/liga-regular/j16/rma_cit.json",
+      "competitionId": "liga-regular",
+      "roundId": "j16",
+      "homeCode": "rma",
+      "awayCode": "cit",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 3,
+        "away": 5,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-1-2-1-3 A",
+        "away": "4-3-1-2 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j17/bar_ars",
+      "detailPath": "./data/matches/liga-regular/j17/bar_ars.json",
+      "competitionId": "liga-regular",
+      "roundId": "j17",
+      "homeCode": "bar",
+      "awayCode": "ars",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Arsenal",
+      "result": {
+        "home": 2,
+        "away": 5,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "5-3-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j17/bor_man",
+      "detailPath": "./data/matches/liga-regular/j17/bor_man.json",
+      "competitionId": "liga-regular",
+      "roundId": "j17",
+      "homeCode": "bor",
+      "awayCode": "man",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Manchester United",
+      "result": {
+        "home": 2,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-2-2 E",
+        "away": "4-5-1 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j17/cit_bay",
+      "detailPath": "./data/matches/liga-regular/j17/cit_bay.json",
+      "competitionId": "liga-regular",
+      "roundId": "j17",
+      "homeCode": "cit",
+      "awayCode": "bay",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Bayern Munich",
+      "result": {
+        "home": 1,
+        "away": 3,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 A",
+        "away": "4-3-1-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j17/int_liv",
+      "detailPath": "./data/matches/liga-regular/j17/int_liv.json",
+      "competitionId": "liga-regular",
+      "roundId": "j17",
+      "homeCode": "int",
+      "awayCode": "liv",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Liverpool",
+      "result": {
+        "home": 2,
+        "away": 3,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-4-3 N",
+        "away": "4-2-2-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j17/nap_psg",
+      "detailPath": "./data/matches/liga-regular/j17/nap_psg.json",
+      "competitionId": "liga-regular",
+      "roundId": "j17",
+      "homeCode": "nap",
+      "awayCode": "psg",
+      "homeTeam": "Napoles",
+      "awayTeam": "PSG",
+      "result": {
+        "home": 0,
+        "away": 3,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-3-1-1 C",
+        "away": "4-1-2-1-2 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j17/rma_che",
+      "detailPath": "./data/matches/liga-regular/j17/rma_che.json",
+      "competitionId": "liga-regular",
+      "roundId": "j17",
+      "homeCode": "rma",
+      "awayCode": "che",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Chelsea",
+      "result": {
+        "home": 2,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-1-2-1-3 N",
+        "away": "3-2-2-1-2 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j17/tot_atm",
+      "detailPath": "./data/matches/liga-regular/j17/tot_atm.json",
+      "competitionId": "liga-regular",
+      "roundId": "j17",
+      "homeCode": "tot",
+      "awayCode": "atm",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Atletico Madrid",
+      "result": {
+        "home": 0,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-4-1 A",
+        "away": "4-2-4 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j18/ars_cit",
+      "detailPath": "./data/matches/liga-regular/j18/ars_cit.json",
+      "competitionId": "liga-regular",
+      "roundId": "j18",
+      "homeCode": "ars",
+      "awayCode": "cit",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 5,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 P",
+        "away": "4-3-1-2 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j18/atm_rma",
+      "detailPath": "./data/matches/liga-regular/j18/atm_rma.json",
+      "competitionId": "liga-regular",
+      "roundId": "j18",
+      "homeCode": "atm",
+      "awayCode": "rma",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Real Madrid",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-4 N",
+        "away": "4-1-1-1-3 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j18/bay_che",
+      "detailPath": "./data/matches/liga-regular/j18/bay_che.json",
+      "competitionId": "liga-regular",
+      "roundId": "j18",
+      "homeCode": "bay",
+      "awayCode": "che",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Chelsea",
+      "result": {
+        "home": 7,
+        "away": 4,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 P",
+        "away": "3-1-3-1-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j18/bor_int",
+      "detailPath": "./data/matches/liga-regular/j18/bor_int.json",
+      "competitionId": "liga-regular",
+      "roundId": "j18",
+      "homeCode": "bor",
+      "awayCode": "int",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Inter Milan",
+      "result": {
+        "home": 0,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-6-1 L",
+        "away": "4-3-3 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j18/liv_nap",
+      "detailPath": "./data/matches/liga-regular/j18/liv_nap.json",
+      "competitionId": "liga-regular",
+      "roundId": "j18",
+      "homeCode": "liv",
+      "awayCode": "nap",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Napoles",
+      "result": {
+        "home": 3,
+        "away": 3,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-2 P",
+        "away": "4-3-1-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j18/man_bar",
+      "detailPath": "./data/matches/liga-regular/j18/man_bar.json",
+      "competitionId": "liga-regular",
+      "roundId": "j18",
+      "homeCode": "man",
+      "awayCode": "bar",
+      "homeTeam": "Manchester United",
+      "awayTeam": "FC Barcelona",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-2-3 A",
+        "away": "4-1-2-1-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j18/psg_tot",
+      "detailPath": "./data/matches/liga-regular/j18/psg_tot.json",
+      "competitionId": "liga-regular",
+      "roundId": "j18",
+      "homeCode": "psg",
+      "awayCode": "tot",
+      "homeTeam": "PSG",
+      "awayTeam": "Tottenham",
+      "result": {
+        "home": 3,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-2-2 E",
+        "away": "3-5-2 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j19/bay_atm",
+      "detailPath": "./data/matches/liga-regular/j19/bay_atm.json",
+      "competitionId": "liga-regular",
+      "roundId": "j19",
+      "homeCode": "bay",
+      "awayCode": "atm",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Atletico Madrid",
+      "result": {
+        "home": 1,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 N",
+        "away": "4-2-4 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j19/che_ars",
+      "detailPath": "./data/matches/liga-regular/j19/che_ars.json",
+      "competitionId": "liga-regular",
+      "roundId": "j19",
+      "homeCode": "che",
+      "awayCode": "ars",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Arsenal",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-6-1 L",
+        "away": "4-4-2 D"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j19/cit_man",
+      "detailPath": "./data/matches/liga-regular/j19/cit_man.json",
+      "competitionId": "liga-regular",
+      "roundId": "j19",
+      "homeCode": "cit",
+      "awayCode": "man",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Manchester United",
+      "result": {
+        "home": 3,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 A",
+        "away": "5-2-3 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j19/int_nap",
+      "detailPath": "./data/matches/liga-regular/j19/int_nap.json",
+      "competitionId": "liga-regular",
+      "roundId": "j19",
+      "homeCode": "int",
+      "awayCode": "nap",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Napoles",
+      "result": {
+        "home": 1,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-5-1 C",
+        "away": "4-3-1-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j19/rma_psg",
+      "detailPath": "./data/matches/liga-regular/j19/rma_psg.json",
+      "competitionId": "liga-regular",
+      "roundId": "j19",
+      "homeCode": "rma",
+      "awayCode": "psg",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "PSG",
+      "result": {
+        "home": 0,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-3 E",
+        "away": "4-4-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j19/tot_liv",
+      "detailPath": "./data/matches/liga-regular/j19/tot_liv.json",
+      "competitionId": "liga-regular",
+      "roundId": "j19",
+      "homeCode": "tot",
+      "awayCode": "liv",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Liverpool",
+      "result": {
+        "home": 3,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-4-1 N",
+        "away": "4-1-3-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j2/ars_man",
+      "detailPath": "./data/matches/liga-regular/j2/ars_man.json",
+      "competitionId": "liga-regular",
+      "roundId": "j2",
+      "homeCode": "ars",
+      "awayCode": "man",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Manchester United",
+      "result": {
+        "home": 1,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-5-2 P",
+        "away": "5-2-3 D"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j2/atm_liv",
+      "detailPath": "./data/matches/liga-regular/j2/atm_liv.json",
+      "competitionId": "liga-regular",
+      "roundId": "j2",
+      "homeCode": "atm",
+      "awayCode": "liv",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Liverpool",
+      "result": {
+        "home": 2,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-4 A",
+        "away": "4-1-3-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j2/bay_bor",
+      "detailPath": "./data/matches/liga-regular/j2/bay_bor.json",
+      "competitionId": "liga-regular",
+      "roundId": "j2",
+      "homeCode": "bay",
+      "awayCode": "bor",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Borussia Dortmund",
+      "result": {
+        "home": 1,
+        "away": 5,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-1-3-1-2 P",
+        "away": "4-2-2-2 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j2/che_nap",
+      "detailPath": "./data/matches/liga-regular/j2/che_nap.json",
+      "competitionId": "liga-regular",
+      "roundId": "j2",
+      "homeCode": "che",
+      "awayCode": "nap",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Napoles",
+      "result": {
+        "home": 2,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-1-3-3 A",
+        "away": "4-1-2-3 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j2/cit_tot",
+      "detailPath": "./data/matches/liga-regular/j2/cit_tot.json",
+      "competitionId": "liga-regular",
+      "roundId": "j2",
+      "homeCode": "cit",
+      "awayCode": "tot",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Tottenham",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 N",
+        "away": "4-4-2 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j2/psg_int",
+      "detailPath": "./data/matches/liga-regular/j2/psg_int.json",
+      "competitionId": "liga-regular",
+      "roundId": "j2",
+      "homeCode": "psg",
+      "awayCode": "int",
+      "homeTeam": "PSG",
+      "awayTeam": "Inter Milan",
+      "result": {
+        "home": 2,
+        "away": 3,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-3 A",
+        "away": "4-5-1 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j2/rma_bar",
+      "detailPath": "./data/matches/liga-regular/j2/rma_bar.json",
+      "competitionId": "liga-regular",
+      "roundId": "j2",
+      "homeCode": "rma",
+      "awayCode": "bar",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "FC Barcelona",
+      "result": {
+        "home": 4,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-1-3-1-2 A",
+        "away": "5-3-2 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j20/ars_atm",
+      "detailPath": "./data/matches/liga-regular/j20/ars_atm.json",
+      "competitionId": "liga-regular",
+      "roundId": "j20",
+      "homeCode": "ars",
+      "awayCode": "atm",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Atletico Madrid",
+      "result": {
+        "home": 4,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-5-2 N",
+        "away": "3-4-3 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j20/bar_int",
+      "detailPath": "./data/matches/liga-regular/j20/bar_int.json",
+      "competitionId": "liga-regular",
+      "roundId": "j20",
+      "homeCode": "bar",
+      "awayCode": "int",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Inter Milan",
+      "result": {
+        "home": 3,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "4-5-1 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j20/bor_cit",
+      "detailPath": "./data/matches/liga-regular/j20/bor_cit.json",
+      "competitionId": "liga-regular",
+      "roundId": "j20",
+      "homeCode": "bor",
+      "awayCode": "cit",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 2,
+        "away": 9,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 E",
+        "away": "4-3-1-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j20/liv_rma",
+      "detailPath": "./data/matches/liga-regular/j20/liv_rma.json",
+      "competitionId": "liga-regular",
+      "roundId": "j20",
+      "homeCode": "liv",
+      "awayCode": "rma",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Real Madrid",
+      "result": {
+        "home": 5,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-2 N",
+        "away": "3-1-2-1-3 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j20/man_che",
+      "detailPath": "./data/matches/liga-regular/j20/man_che.json",
+      "competitionId": "liga-regular",
+      "roundId": "j20",
+      "homeCode": "man",
+      "awayCode": "che",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Chelsea",
+      "result": {
+        "home": 0,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-3-2 C",
+        "away": "3-6-1 L"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j20/nap_tot",
+      "detailPath": "./data/matches/liga-regular/j20/nap_tot.json",
+      "competitionId": "liga-regular",
+      "roundId": "j20",
+      "homeCode": "nap",
+      "awayCode": "tot",
+      "homeTeam": "Napoles",
+      "awayTeam": "Tottenham",
+      "result": {
+        "home": 1,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-1-2-2 C",
+        "away": "3-4-3 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j20/psg_bay",
+      "detailPath": "./data/matches/liga-regular/j20/psg_bay.json",
+      "competitionId": "liga-regular",
+      "roundId": "j20",
+      "homeCode": "psg",
+      "awayCode": "bay",
+      "homeTeam": "PSG",
+      "awayTeam": "Bayern Munich",
+      "result": {
+        "home": 4,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "4-3-1-2 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j21/ars_psg",
+      "detailPath": "./data/matches/liga-regular/j21/ars_psg.json",
+      "competitionId": "liga-regular",
+      "roundId": "j21",
+      "homeCode": "ars",
+      "awayCode": "psg",
+      "homeTeam": "Arsenal",
+      "awayTeam": "PSG",
+      "result": {
+        "home": 0,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-2-3 E",
+        "away": "4-4-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j21/atm_man",
+      "detailPath": "./data/matches/liga-regular/j21/atm_man.json",
+      "competitionId": "liga-regular",
+      "roundId": "j21",
+      "homeCode": "atm",
+      "awayCode": "man",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Manchester United",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-4 C",
+        "away": "5-4-1 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j21/bay_liv",
+      "detailPath": "./data/matches/liga-regular/j21/bay_liv.json",
+      "competitionId": "liga-regular",
+      "roundId": "j21",
+      "homeCode": "bay",
+      "awayCode": "liv",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Liverpool",
+      "result": {
+        "home": 3,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-1-3-1-2 A",
+        "away": "4-1-3-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j21/che_bor",
+      "detailPath": "./data/matches/liga-regular/j21/che_bor.json",
+      "competitionId": "liga-regular",
+      "roundId": "j21",
+      "homeCode": "che",
+      "awayCode": "bor",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Borussia Dortmund",
+      "result": {
+        "home": 0,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-2 N",
+        "away": "3-6-1 L"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j21/cit_bar",
+      "detailPath": "./data/matches/liga-regular/j21/cit_bar.json",
+      "competitionId": "liga-regular",
+      "roundId": "j21",
+      "homeCode": "cit",
+      "awayCode": "bar",
+      "homeTeam": "Manchester City",
+      "awayTeam": "FC Barcelona",
+      "result": {
+        "home": 5,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 P",
+        "away": "4-1-2-1-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j21/int_tot",
+      "detailPath": "./data/matches/liga-regular/j21/int_tot.json",
+      "competitionId": "liga-regular",
+      "roundId": "j21",
+      "homeCode": "int",
+      "awayCode": "tot",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Tottenham",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-4-3 L",
+        "away": "5-2-3 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j21/rma_nap",
+      "detailPath": "./data/matches/liga-regular/j21/rma_nap.json",
+      "competitionId": "liga-regular",
+      "roundId": "j21",
+      "homeCode": "rma",
+      "awayCode": "nap",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Napoles",
+      "result": {
+        "home": 1,
+        "away": 4,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-2-1-4 A",
+        "away": "3-6-1 L"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j22/bar_che",
+      "detailPath": "./data/matches/liga-regular/j22/bar_che.json",
+      "competitionId": "liga-regular",
+      "roundId": "j22",
+      "homeCode": "bar",
+      "awayCode": "che",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Chelsea",
+      "result": {
+        "home": 4,
+        "away": 3,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "4-1-2-1-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j22/bor_atm",
+      "detailPath": "./data/matches/liga-regular/j22/bor_atm.json",
+      "competitionId": "liga-regular",
+      "roundId": "j22",
+      "homeCode": "bor",
+      "awayCode": "atm",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Atletico Madrid",
+      "result": {
+        "home": 1,
+        "away": 3,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 N",
+        "away": "5-2-3 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j22/cit_int",
+      "detailPath": "./data/matches/liga-regular/j22/cit_int.json",
+      "competitionId": "liga-regular",
+      "roundId": "j22",
+      "homeCode": "cit",
+      "awayCode": "int",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Inter Milan",
+      "result": {
+        "home": 1,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 N",
+        "away": "4-5-1 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j22/liv_ars",
+      "detailPath": "./data/matches/liga-regular/j22/liv_ars.json",
+      "competitionId": "liga-regular",
+      "roundId": "j22",
+      "homeCode": "liv",
+      "awayCode": "ars",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Arsenal",
+      "result": {
+        "home": 1,
+        "away": 3,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-2 A",
+        "away": "4-5-1 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j22/man_psg",
+      "detailPath": "./data/matches/liga-regular/j22/man_psg.json",
+      "competitionId": "liga-regular",
+      "roundId": "j22",
+      "homeCode": "man",
+      "awayCode": "psg",
+      "homeTeam": "Manchester United",
+      "awayTeam": "PSG",
+      "result": {
+        "home": 1,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 P",
+        "away": "4-1-2-1-2 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j22/nap_bay",
+      "detailPath": "./data/matches/liga-regular/j22/nap_bay.json",
+      "competitionId": "liga-regular",
+      "roundId": "j22",
+      "homeCode": "nap",
+      "awayCode": "bay",
+      "homeTeam": "Napoles",
+      "awayTeam": "Bayern Munich",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-1-1 P",
+        "away": "4-4-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j22/tot_rma",
+      "detailPath": "./data/matches/liga-regular/j22/tot_rma.json",
+      "competitionId": "liga-regular",
+      "roundId": "j22",
+      "homeCode": "tot",
+      "awayCode": "rma",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Real Madrid",
+      "result": {
+        "home": 2,
+        "away": 4,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-5-2 D",
+        "away": "3-3-1-3 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j23/ars_nap",
+      "detailPath": "./data/matches/liga-regular/j23/ars_nap.json",
+      "competitionId": "liga-regular",
+      "roundId": "j23",
+      "homeCode": "ars",
+      "awayCode": "nap",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Napoles",
+      "result": {
+        "home": 2,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-3 P",
+        "away": "5-1-2-1-1 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j23/atm_bar",
+      "detailPath": "./data/matches/liga-regular/j23/atm_bar.json",
+      "competitionId": "liga-regular",
+      "roundId": "j23",
+      "homeCode": "atm",
+      "awayCode": "bar",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "FC Barcelona",
+      "result": {
+        "home": 3,
+        "away": 3,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-4 L",
+        "away": "4-1-2-1-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j23/bay_tot",
+      "detailPath": "./data/matches/liga-regular/j23/bay_tot.json",
+      "competitionId": "liga-regular",
+      "roundId": "j23",
+      "homeCode": "bay",
+      "awayCode": "tot",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Tottenham",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 A",
+        "away": "4-4-2 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j23/che_cit",
+      "detailPath": "./data/matches/liga-regular/j23/che_cit.json",
+      "competitionId": "liga-regular",
+      "roundId": "j23",
+      "homeCode": "che",
+      "awayCode": "cit",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 4,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-2-2-1-2 A",
+        "away": "4-3-1-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j23/int_rma",
+      "detailPath": "./data/matches/liga-regular/j23/int_rma.json",
+      "competitionId": "liga-regular",
+      "roundId": "j23",
+      "homeCode": "int",
+      "awayCode": "rma",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Real Madrid",
+      "result": {
+        "home": 0,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-2-3 D",
+        "away": "4-2-1-3 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j23/man_liv",
+      "detailPath": "./data/matches/liga-regular/j23/man_liv.json",
+      "competitionId": "liga-regular",
+      "roundId": "j23",
+      "homeCode": "man",
+      "awayCode": "liv",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Liverpool",
+      "result": {
+        "home": 2,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-3 C",
+        "away": "4-1-3-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j23/psg_bor",
+      "detailPath": "./data/matches/liga-regular/j23/psg_bor.json",
+      "competitionId": "liga-regular",
+      "roundId": "j23",
+      "homeCode": "psg",
+      "awayCode": "bor",
+      "homeTeam": "PSG",
+      "awayTeam": "Borussia Dortmund",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "3-6-1 L"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j3/bar_bay",
+      "detailPath": "./data/matches/liga-regular/j3/bar_bay.json",
+      "competitionId": "liga-regular",
+      "roundId": "j3",
+      "homeCode": "bar",
+      "awayCode": "bay",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Bayern Munich",
+      "result": {
+        "home": 5,
+        "away": 3,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-5-1 P",
+        "away": "3-1-3-1-2 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j3/bor_ars",
+      "detailPath": "./data/matches/liga-regular/j3/bor_ars.json",
+      "competitionId": "liga-regular",
+      "roundId": "j3",
+      "homeCode": "bor",
+      "awayCode": "ars",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Arsenal",
+      "result": {
+        "home": 0,
+        "away": 3,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 N",
+        "away": "4-3-3 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j3/cit_rma",
+      "detailPath": "./data/matches/liga-regular/j3/cit_rma.json",
+      "competitionId": "liga-regular",
+      "roundId": "j3",
+      "homeCode": "cit",
+      "awayCode": "rma",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Real Madrid",
+      "result": {
+        "home": 0,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 E",
+        "away": "4-4-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j3/int_man",
+      "detailPath": "./data/matches/liga-regular/j3/int_man.json",
+      "competitionId": "liga-regular",
+      "roundId": "j3",
+      "homeCode": "int",
+      "awayCode": "man",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Manchester United",
+      "result": {
+        "home": 1,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-3-2 L",
+        "away": "5-4-1 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j3/liv_psg",
+      "detailPath": "./data/matches/liga-regular/j3/liv_psg.json",
+      "competitionId": "liga-regular",
+      "roundId": "j3",
+      "homeCode": "liv",
+      "awayCode": "psg",
+      "homeTeam": "Liverpool",
+      "awayTeam": "PSG",
+      "result": {
+        "home": 0,
+        "away": 5,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-2 C",
+        "away": "4-1-2-1-2 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j3/nap_atm",
+      "detailPath": "./data/matches/liga-regular/j3/nap_atm.json",
+      "competitionId": "liga-regular",
+      "roundId": "j3",
+      "homeCode": "nap",
+      "awayCode": "atm",
+      "homeTeam": "Napoles",
+      "awayTeam": "Atletico Madrid",
+      "result": {
+        "home": 0,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-1-3-1-2 P",
+        "away": "4-5-1 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j3/tot_che",
+      "detailPath": "./data/matches/liga-regular/j3/tot_che.json",
+      "competitionId": "liga-regular",
+      "roundId": "j3",
+      "homeCode": "tot",
+      "awayCode": "che",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Chelsea",
+      "result": {
+        "home": 0,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 C",
+        "away": "4-3-1-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j4/ars_bar",
+      "detailPath": "./data/matches/liga-regular/j4/ars_bar.json",
+      "competitionId": "liga-regular",
+      "roundId": "j4",
+      "homeCode": "ars",
+      "awayCode": "bar",
+      "homeTeam": "Arsenal",
+      "awayTeam": "FC Barcelona",
+      "result": {
+        "home": 2,
+        "away": 3,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 D",
+        "away": "4-3-1-2 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j4/atm_tot",
+      "detailPath": "./data/matches/liga-regular/j4/atm_tot.json",
+      "competitionId": "liga-regular",
+      "roundId": "j4",
+      "homeCode": "atm",
+      "awayCode": "tot",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Tottenham",
+      "result": {
+        "home": 0,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-5-1 D",
+        "away": "4-4-2 L"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j4/bay_cit",
+      "detailPath": "./data/matches/liga-regular/j4/bay_cit.json",
+      "competitionId": "liga-regular",
+      "roundId": "j4",
+      "homeCode": "bay",
+      "awayCode": "cit",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 N",
+        "away": "4-1-2-1-2 L"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j4/che_rma",
+      "detailPath": "./data/matches/liga-regular/j4/che_rma.json",
+      "competitionId": "liga-regular",
+      "roundId": "j4",
+      "homeCode": "che",
+      "awayCode": "rma",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Real Madrid",
+      "result": {
+        "home": 0,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-1-1 E",
+        "away": "4-4-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j4/liv_int",
+      "detailPath": "./data/matches/liga-regular/j4/liv_int.json",
+      "competitionId": "liga-regular",
+      "roundId": "j4",
+      "homeCode": "liv",
+      "awayCode": "int",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Inter Milan",
+      "result": {
+        "home": 4,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-2 P",
+        "away": "4-4-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j4/man_bor",
+      "detailPath": "./data/matches/liga-regular/j4/man_bor.json",
+      "competitionId": "liga-regular",
+      "roundId": "j4",
+      "homeCode": "man",
+      "awayCode": "bor",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Borussia Dortmund",
+      "result": {
+        "home": 5,
+        "away": 3,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-2-3 A",
+        "away": "4-4-2 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j4/psg_nap",
+      "detailPath": "./data/matches/liga-regular/j4/psg_nap.json",
+      "competitionId": "liga-regular",
+      "roundId": "j4",
+      "homeCode": "psg",
+      "awayCode": "nap",
+      "homeTeam": "PSG",
+      "awayTeam": "Napoles",
+      "result": {
+        "home": 2,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-1-1 P",
+        "away": "4-1-3-1-1 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j5/bar_man",
+      "detailPath": "./data/matches/liga-regular/j5/bar_man.json",
+      "competitionId": "liga-regular",
+      "roundId": "j5",
+      "homeCode": "bar",
+      "awayCode": "man",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Manchester United",
+      "result": {
+        "home": 8,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 A",
+        "away": "4-2-4 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j5/che_bay",
+      "detailPath": "./data/matches/liga-regular/j5/che_bay.json",
+      "competitionId": "liga-regular",
+      "roundId": "j5",
+      "homeCode": "che",
+      "awayCode": "bay",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Bayern Munich",
+      "result": {
+        "home": 0,
+        "away": 3,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-1-1 E",
+        "away": "4-4-1-1 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j5/cit_ars",
+      "detailPath": "./data/matches/liga-regular/j5/cit_ars.json",
+      "competitionId": "liga-regular",
+      "roundId": "j5",
+      "homeCode": "cit",
+      "awayCode": "ars",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Arsenal",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 P",
+        "away": "3-6-1 L"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j5/int_bor",
+      "detailPath": "./data/matches/liga-regular/j5/int_bor.json",
+      "competitionId": "liga-regular",
+      "roundId": "j5",
+      "homeCode": "int",
+      "awayCode": "bor",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Borussia Dortmund",
+      "result": {
+        "home": 5,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-4-1 N",
+        "away": "4-4-2 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j5/nap_liv",
+      "detailPath": "./data/matches/liga-regular/j5/nap_liv.json",
+      "competitionId": "liga-regular",
+      "roundId": "j5",
+      "homeCode": "nap",
+      "awayCode": "liv",
+      "homeTeam": "Napoles",
+      "awayTeam": "Liverpool",
+      "result": {
+        "home": 3,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 A",
+        "away": "4-1-3-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j5/rma_atm",
+      "detailPath": "./data/matches/liga-regular/j5/rma_atm.json",
+      "competitionId": "liga-regular",
+      "roundId": "j5",
+      "homeCode": "rma",
+      "awayCode": "atm",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Atletico Madrid",
+      "result": {
+        "home": 1,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 E",
+        "away": "4-5-1 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j5/tot_psg",
+      "detailPath": "./data/matches/liga-regular/j5/tot_psg.json",
+      "competitionId": "liga-regular",
+      "roundId": "j5",
+      "homeCode": "tot",
+      "awayCode": "psg",
+      "homeTeam": "Tottenham",
+      "awayTeam": "PSG",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-3-2 L",
+        "away": "4-3-1-2 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j6/ars_che",
+      "detailPath": "./data/matches/liga-regular/j6/ars_che.json",
+      "competitionId": "liga-regular",
+      "roundId": "j6",
+      "homeCode": "ars",
+      "awayCode": "che",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Chelsea",
+      "result": {
+        "home": 1,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-6-1 L",
+        "away": "4-4-1-1 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j6/atm_bay",
+      "detailPath": "./data/matches/liga-regular/j6/atm_bay.json",
+      "competitionId": "liga-regular",
+      "roundId": "j6",
+      "homeCode": "atm",
+      "awayCode": "bay",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Bayern Munich",
+      "result": {
+        "home": 1,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-2-3 A",
+        "away": "4-4-1-1 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j6/bor_bar",
+      "detailPath": "./data/matches/liga-regular/j6/bor_bar.json",
+      "competitionId": "liga-regular",
+      "roundId": "j6",
+      "homeCode": "bor",
+      "awayCode": "bar",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "FC Barcelona",
+      "result": {
+        "home": 3,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 N",
+        "away": "4-1-2-1-2 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j6/liv_tot",
+      "detailPath": "./data/matches/liga-regular/j6/liv_tot.json",
+      "competitionId": "liga-regular",
+      "roundId": "j6",
+      "homeCode": "liv",
+      "awayCode": "tot",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Tottenham",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "4-5-1 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j6/man_cit",
+      "detailPath": "./data/matches/liga-regular/j6/man_cit.json",
+      "competitionId": "liga-regular",
+      "roundId": "j6",
+      "homeCode": "man",
+      "awayCode": "cit",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 2,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 P",
+        "away": "4-1-2-1-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j6/nap_int",
+      "detailPath": "./data/matches/liga-regular/j6/nap_int.json",
+      "competitionId": "liga-regular",
+      "roundId": "j6",
+      "homeCode": "nap",
+      "awayCode": "int",
+      "homeTeam": "Napoles",
+      "awayTeam": "Inter Milan",
+      "result": {
+        "home": 0,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 P",
+        "away": "5-4-1 D"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j6/psg_rma",
+      "detailPath": "./data/matches/liga-regular/j6/psg_rma.json",
+      "competitionId": "liga-regular",
+      "roundId": "j6",
+      "homeCode": "psg",
+      "awayCode": "rma",
+      "homeTeam": "PSG",
+      "awayTeam": "Real Madrid",
+      "result": {
+        "home": 4,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 N",
+        "away": "3-1-2-1-3 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j7/atm_ars",
+      "detailPath": "./data/matches/liga-regular/j7/atm_ars.json",
+      "competitionId": "liga-regular",
+      "roundId": "j7",
+      "homeCode": "atm",
+      "awayCode": "ars",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Arsenal",
+      "result": {
+        "home": 1,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-4-3 N",
+        "away": "3-6-1 L"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j7/bay_psg",
+      "detailPath": "./data/matches/liga-regular/j7/bay_psg.json",
+      "competitionId": "liga-regular",
+      "roundId": "j7",
+      "homeCode": "bay",
+      "awayCode": "psg",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "PSG",
+      "result": {
+        "home": 2,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-5-1 P",
+        "away": "4-4-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j7/che_man",
+      "detailPath": "./data/matches/liga-regular/j7/che_man.json",
+      "competitionId": "liga-regular",
+      "roundId": "j7",
+      "homeCode": "che",
+      "awayCode": "man",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Manchester United",
+      "result": {
+        "home": 2,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-2-2-1-2 P",
+        "away": "3-5-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j7/cit_bor",
+      "detailPath": "./data/matches/liga-regular/j7/cit_bor.json",
+      "competitionId": "liga-regular",
+      "roundId": "j7",
+      "homeCode": "cit",
+      "awayCode": "bor",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Borussia Dortmund",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "4-4-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j7/int_bar",
+      "detailPath": "./data/matches/liga-regular/j7/int_bar.json",
+      "competitionId": "liga-regular",
+      "roundId": "j7",
+      "homeCode": "int",
+      "awayCode": "bar",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "FC Barcelona",
+      "result": {
+        "home": 2,
+        "away": 3,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-4-3 E",
+        "away": "4-1-2-1-2 E"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j7/rma_liv",
+      "detailPath": "./data/matches/liga-regular/j7/rma_liv.json",
+      "competitionId": "liga-regular",
+      "roundId": "j7",
+      "homeCode": "rma",
+      "awayCode": "liv",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Liverpool",
+      "result": {
+        "home": 2,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "4-1-3-2 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j7/tot_nap",
+      "detailPath": "./data/matches/liga-regular/j7/tot_nap.json",
+      "competitionId": "liga-regular",
+      "roundId": "j7",
+      "homeCode": "tot",
+      "awayCode": "nap",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Napoles",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 L",
+        "away": "4-1-3-2 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j8/bar_cit",
+      "detailPath": "./data/matches/liga-regular/j8/bar_cit.json",
+      "competitionId": "liga-regular",
+      "roundId": "j8",
+      "homeCode": "bar",
+      "awayCode": "cit",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "4-1-3-2 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j8/bor_che",
+      "detailPath": "./data/matches/liga-regular/j8/bor_che.json",
+      "competitionId": "liga-regular",
+      "roundId": "j8",
+      "homeCode": "bor",
+      "awayCode": "che",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Chelsea",
+      "result": {
+        "home": 2,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-4-2 C",
+        "away": "4-1-3-1-1 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j8/liv_bay",
+      "detailPath": "./data/matches/liga-regular/j8/liv_bay.json",
+      "competitionId": "liga-regular",
+      "roundId": "j8",
+      "homeCode": "liv",
+      "awayCode": "bay",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Bayern Munich",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-2 C",
+        "away": "4-1-3-1-1 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j8/man_atm",
+      "detailPath": "./data/matches/liga-regular/j8/man_atm.json",
+      "competitionId": "liga-regular",
+      "roundId": "j8",
+      "homeCode": "man",
+      "awayCode": "atm",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Atletico Madrid",
+      "result": {
+        "home": 0,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-3-2 E",
+        "away": "4-3-3 L"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j8/nap_rma",
+      "detailPath": "./data/matches/liga-regular/j8/nap_rma.json",
+      "competitionId": "liga-regular",
+      "roundId": "j8",
+      "homeCode": "nap",
+      "awayCode": "rma",
+      "homeTeam": "Napoles",
+      "awayTeam": "Real Madrid",
+      "result": {
+        "home": 3,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-3-1-1 C",
+        "away": "3-1-2-1-3 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j8/psg_ars",
+      "detailPath": "./data/matches/liga-regular/j8/psg_ars.json",
+      "competitionId": "liga-regular",
+      "roundId": "j8",
+      "homeCode": "psg",
+      "awayCode": "ars",
+      "homeTeam": "PSG",
+      "awayTeam": "Arsenal",
+      "result": {
+        "home": 2,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 C",
+        "away": "5-2-3 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j8/tot_int",
+      "detailPath": "./data/matches/liga-regular/j8/tot_int.json",
+      "competitionId": "liga-regular",
+      "roundId": "j8",
+      "homeCode": "tot",
+      "awayCode": "int",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Inter Milan",
+      "result": {
+        "home": 0,
+        "away": 1,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-2-3 C",
+        "away": "5-2-3 L"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j9/ars_liv",
+      "detailPath": "./data/matches/liga-regular/j9/ars_liv.json",
+      "competitionId": "liga-regular",
+      "roundId": "j9",
+      "homeCode": "ars",
+      "awayCode": "liv",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Liverpool",
+      "result": {
+        "home": 7,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-5-2 A",
+        "away": "4-1-3-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j9/atm_bor",
+      "detailPath": "./data/matches/liga-regular/j9/atm_bor.json",
+      "competitionId": "liga-regular",
+      "roundId": "j9",
+      "homeCode": "atm",
+      "awayCode": "bor",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "Borussia Dortmund",
+      "result": {
+        "home": 4,
+        "away": 0,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-2-4 P",
+        "away": "4-4-2 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j9/bay_nap",
+      "detailPath": "./data/matches/liga-regular/j9/bay_nap.json",
+      "competitionId": "liga-regular",
+      "roundId": "j9",
+      "homeCode": "bay",
+      "awayCode": "nap",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Napoles",
+      "result": {
+        "home": 2,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "4-1-2-3 L"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j9/che_bar",
+      "detailPath": "./data/matches/liga-regular/j9/che_bar.json",
+      "competitionId": "liga-regular",
+      "roundId": "j9",
+      "homeCode": "che",
+      "awayCode": "bar",
+      "homeTeam": "Chelsea",
+      "awayTeam": "FC Barcelona",
+      "result": {
+        "home": 1,
+        "away": 3,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "3-2-1-1-3 E",
+        "away": "4-1-2-1-2 P"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j9/int_cit",
+      "detailPath": "./data/matches/liga-regular/j9/int_cit.json",
+      "competitionId": "liga-regular",
+      "roundId": "j9",
+      "homeCode": "int",
+      "awayCode": "cit",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 0,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "5-4-1 C",
+        "away": "4-1-3-2 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j9/psg_man",
+      "detailPath": "./data/matches/liga-regular/j9/psg_man.json",
+      "competitionId": "liga-regular",
+      "roundId": "j9",
+      "homeCode": "psg",
+      "awayCode": "man",
+      "homeTeam": "PSG",
+      "awayTeam": "Manchester United",
+      "result": {
+        "home": 2,
+        "away": 4,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 C",
+        "away": "4-5-1 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "liga-regular/j9/rma_tot",
+      "detailPath": "./data/matches/liga-regular/j9/rma_tot.json",
+      "competitionId": "liga-regular",
+      "roundId": "j9",
+      "homeCode": "rma",
+      "awayCode": "tot",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Tottenham",
+      "result": {
+        "home": 5,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "3-5-2 A"
+      },
+      "warnings": []
+    },
+    {
+      "id": "trofeo-midseason/final/psg_bar",
+      "detailPath": "./data/matches/trofeo-midseason/final/psg_bar.json",
+      "competitionId": "trofeo-midseason",
+      "roundId": "final",
+      "homeCode": "psg",
+      "awayCode": "bar",
+      "homeTeam": "PSG",
+      "awayTeam": "FC Barcelona",
+      "result": {
+        "home": 0,
+        "away": 1,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-3-1-2 P",
+        "away": "5-4-1 N"
+      },
+      "warnings": []
+    },
+    {
+      "id": "trofeo-midseason/r1/int_atm",
+      "detailPath": "./data/matches/trofeo-midseason/r1/int_atm.json",
+      "competitionId": "trofeo-midseason",
+      "roundId": "r1",
+      "homeCode": "int",
+      "awayCode": "atm",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Atletico Madrid",
+      "result": {
+        "home": 0,
+        "away": 2,
+        "source": "Resultado final"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-5-1 L",
+        "away": "4-4-2 C"
+      },
+      "warnings": []
+    },
+    {
+      "id": "trofeo-midseason/semis/bar_atm",
+      "detailPath": "./data/matches/trofeo-midseason/semis/bar_atm.json",
+      "competitionId": "trofeo-midseason",
+      "roundId": "semis",
+      "homeCode": "bar",
+      "awayCode": "atm",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Atletico Madrid",
+      "result": {
+        "home": 1,
+        "away": 0,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 P",
+        "away": "5-4-1 L"
+      },
+      "warnings": []
+    },
+    {
+      "id": "trofeo-midseason/semis/psg_cit",
+      "detailPath": "./data/matches/trofeo-midseason/semis/psg_cit.json",
+      "competitionId": "trofeo-midseason",
+      "roundId": "semis",
+      "homeCode": "psg",
+      "awayCode": "cit",
+      "homeTeam": "PSG",
+      "awayTeam": "Manchester City",
+      "result": {
+        "home": 3,
+        "away": 2,
+        "source": "Marcador"
+      },
+      "penaltyShootout": null,
+      "formation": {
+        "home": "4-1-2-1-2 N",
+        "away": "4-4-2 N"
+      },
+      "warnings": []
+    }
+  ]
+}

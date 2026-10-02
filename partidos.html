@@ -97,21 +97,23 @@ nav a:hover{color:var(--accent);}
 @keyframes spin{to{transform:rotate(360deg);}}
 .msg{text-align:center;color:var(--muted);padding:3rem 1rem;}
 </style>
+<link rel="stylesheet" href="./assets/site.css">
 </head>
-<body>
+<body class="league-page">
 <header>
   <span class="logo">Liga SLI</span>
-  <nav>
-    <a href="main.html">&#127968;</a>
-    <a href="index.html">&#128203;</a>
-    <a href="plantillas.html">&#128101;</a>
-    <a href="stats.html">&#128202;</a>
-    <a href="clasificacion.html">&#127942;</a>
+  <nav aria-label="Navegación principal">
+    <a href="main.html" title="Inicio" aria-label="Inicio">&#127968;</a>
+    <a href="index.html" title="Alineaciones" aria-label="Alineaciones">&#128203;</a>
+    <a href="plantillas.html" title="Plantillas" aria-label="Plantillas">&#128101;</a>
+    <a href="partidos.html" title="Partidos" aria-label="Partidos" aria-current="page">&#127953;</a>
+    <a href="stats.html" title="Estadísticas" aria-label="Estadísticas">&#128202;</a>
+    <a href="clasificacion.html" title="Clasificación" aria-label="Clasificación">&#127942;</a>
   </nav>
 </header>
 
 <div class="section" id="comp-section">
-  <div class="section-title">&#127953; Competicion</div>
+  <div class="section-title">&#127953; Competición</div>
   <div class="comp-grid" id="comp-grid"></div>
 </div>
 <div class="section" id="jornadas-section">
@@ -127,7 +129,7 @@ nav a:hover{color:var(--accent);}
   <div id="visor-content"></div>
 </div>
 
-<script>
+<script type="text/plain" id="legacy-partidos-script">
 var REPO = "alexismr1988/esms-alineaciones";
 var LABEL = {
   ars:'Arsenal',atm:'Atletico Madrid',bar:'FC Barcelona',bay:'Bayern Munich',
@@ -615,5 +617,6 @@ function renderVisor(partido){
   }
 }
 </script>
+<script type="module" src="./assets/partidos.js"></script>
 </body>
 </html>

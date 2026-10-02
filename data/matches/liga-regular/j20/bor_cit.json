@@ -1,0 +1,1327 @@
+{
+  "id": "liga-regular/j20/bor_cit",
+  "competitionId": "liga-regular",
+  "competitionLabel": "Liga Regular",
+  "roundId": "j20",
+  "roundLabel": "Jornada 20",
+  "fileName": "bor_cit.txt",
+  "homeCode": "bor",
+  "awayCode": "cit",
+  "homeTeam": "Borussia Dortmund",
+  "awayTeam": "Manchester City",
+  "result": {
+    "home": 2,
+    "away": 9,
+    "source": "Marcador"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Borussia Dortmund 1-7 Manchester City",
+  "formation": {
+    "home": "4-4-2 E",
+    "away": "4-3-1-2 N"
+  },
+  "referee": {
+    "name": "Anders Frisk",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "G_Kobel",
+        "displayName": "G Kobel",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "N_Schlotterbeck",
+        "displayName": "N Schlotterbeck",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "W_Anton",
+        "displayName": "W Anton",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Sule",
+        "displayName": "N Sule",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Bensebaini",
+        "displayName": "R Bensebaini",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "M_Sabitzer",
+        "displayName": "M Sabitzer",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "G_Reyna",
+        "displayName": "G Reyna",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "P_Gross",
+        "displayName": "P Gross",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Brandt",
+        "displayName": "J Brandt",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "K_Adeyemi",
+        "displayName": "K Adeyemi",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "S_Guirassy",
+        "displayName": "S Guirassy",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Meyer",
+        "displayName": "A Meyer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Y_Couto",
+        "displayName": "Y Couto",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Nmecha",
+        "displayName": "F Nmecha",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Duranville",
+        "displayName": "J Duranville",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Beier",
+        "displayName": "M Beier",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "Unai_Simon",
+        "displayName": "Unai Simon",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "Laporte",
+        "displayName": "Laporte",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Dias",
+        "displayName": "R Dias",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Stones",
+        "displayName": "J Stones",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "J_Gvardiol",
+        "displayName": "J Gvardiol",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "Rodri",
+        "displayName": "Rodri",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "I_Gundogan",
+        "displayName": "I Gundogan",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "M_Nunes",
+        "displayName": "M Nunes",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "B_Silva",
+        "displayName": "B Silva",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "E_Haaland",
+        "displayName": "E Haaland",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "O_Marmoush",
+        "displayName": "O Marmoush",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "Ederson",
+        "displayName": "Ederson",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "A_Khusanov",
+        "displayName": "A Khusanov",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "T_Reijnders",
+        "displayName": "T Reijnders",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "N_Gonzalez",
+        "displayName": "N Gonzalez",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Lookman",
+        "displayName": "Lookman",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Borussia Dortmund",
+      "mvp": "K_Adeyemi",
+      "goals": "K_Adeyemi (15,51)",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "N/A"
+    },
+    {
+      "team": "Manchester City",
+      "mvp": "O_Marmoush (Jugador del partido)",
+      "goals": "E_Haaland (9,17), A_Khusanov (10), O_Marmoush (16,38,44,46), I_Gundogan (19), R_Bensebaini (78 og)",
+      "sentOff": "N/A",
+      "booked": "N/A",
+      "injured": "J_Gvardiol (9)"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 15,
+      "away": 20
+    },
+    {
+      "label": "Tiros fuera",
+      "home": 3,
+      "away": 6
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 12,
+      "away": 14
+    },
+    {
+      "label": "Posesión",
+      "home": 50,
+      "away": 50
+    },
+    {
+      "label": "Córners",
+      "home": 5,
+      "away": 3
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Sustituciones",
+      "home": 0,
+      "away": 1
+    },
+    {
+      "label": "Faltas",
+      "home": 7,
+      "away": 8
+    },
+    {
+      "label": "Entradas",
+      "home": 5,
+      "away": 11
+    },
+    {
+      "label": "Pases clave",
+      "home": 15,
+      "away": 13
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Borussia Dortmund",
+      "players": [
+        {
+          "name": "G_Kobel",
+          "displayName": "G Kobel",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 93,
+          "sav": 6,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Schlotterbeck",
+          "displayName": "N Schlotterbeck",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 17,
+          "sh": 7,
+          "ag": 23,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Anton",
+          "displayName": "W Anton",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 7,
+          "ag": 22,
+          "min": 93,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Sule",
+          "displayName": "N Sule",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 4,
+          "ag": 22,
+          "min": 93,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Bensebaini",
+          "displayName": "R Bensebaini",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 12,
+          "ag": 22,
+          "min": 93,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Sabitzer",
+          "displayName": "M Sabitzer",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 38,
+          "sh": 21,
+          "ag": 23,
+          "min": 93,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Reyna",
+          "displayName": "G Reyna",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 24,
+          "ag": 23,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Gross",
+          "displayName": "P Gross",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 19,
+          "ag": 22,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 2,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Brandt",
+          "displayName": "J Brandt",
+          "position": "MF",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 26,
+          "ag": 24,
+          "min": 93,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Adeyemi",
+          "displayName": "K Adeyemi",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 40,
+          "ag": 26,
+          "min": 93,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 6,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "S_Guirassy",
+          "displayName": "S Guirassy",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 25,
+          "sh": 43,
+          "ag": 24,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 5,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Meyer",
+          "displayName": "A Meyer",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Couto",
+          "displayName": "Y Couto",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 31,
+          "sh": 14,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Nmecha",
+          "displayName": "F Nmecha",
+          "position": "MF",
+          "st": 2,
+          "tk": 26,
+          "ps": 36,
+          "sh": 16,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Duranville",
+          "displayName": "J Duranville",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 33,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Beier",
+          "displayName": "M Beier",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 24,
+          "sh": 38,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Manchester City",
+      "players": [
+        {
+          "name": "Unai_Simon",
+          "displayName": "Unai Simon",
+          "position": "GK",
+          "st": 43,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 93,
+          "sav": 10,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Laporte",
+          "displayName": "Laporte",
+          "position": "DF",
+          "st": 2,
+          "tk": 42,
+          "ps": 11,
+          "sh": 9,
+          "ag": 19,
+          "min": 93,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Dias",
+          "displayName": "R Dias",
+          "position": "DF",
+          "st": 2,
+          "tk": 43,
+          "ps": 15,
+          "sh": 4,
+          "ag": 26,
+          "min": 93,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Stones",
+          "displayName": "J Stones",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Gvardiol",
+          "displayName": "J Gvardiol",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 9,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rodri",
+          "displayName": "Rodri",
+          "position": "MF",
+          "st": 2,
+          "tk": 29,
+          "ps": 47,
+          "sh": 9,
+          "ag": 27,
+          "min": 93,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 6,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "I_Gundogan",
+          "displayName": "I Gundogan",
+          "position": "MF",
+          "st": 2,
+          "tk": 14,
+          "ps": 40,
+          "sh": 14,
+          "ag": 24,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 1,
+          "ass": 1,
+          "sht": 3,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Nunes",
+          "displayName": "M Nunes",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 35,
+          "sh": 14,
+          "ag": 25,
+          "min": 93,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 4,
+          "ass": 1,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "B_Silva",
+          "displayName": "B Silva",
+          "position": "AM",
+          "st": 2,
+          "tk": 9,
+          "ps": 43,
+          "sh": 21,
+          "ag": 27,
+          "min": 93,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 1,
+          "ass": 0,
+          "sht": 2,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Haaland",
+          "displayName": "E Haaland",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 12,
+          "sh": 49,
+          "ag": 30,
+          "min": 93,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 7,
+          "gls": 2,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "O_Marmoush",
+          "displayName": "O Marmoush",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 14,
+          "sh": 43,
+          "ag": 28,
+          "min": 93,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 5,
+          "gls": 4,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Ederson",
+          "displayName": "Ederson",
+          "position": "GK",
+          "st": 39,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Khusanov",
+          "displayName": "A Khusanov",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 84,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 0,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "T_Reijnders",
+          "displayName": "T Reijnders",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 38,
+          "sh": 14,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Gonzalez",
+          "displayName": "N Gonzalez",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 35,
+          "sh": 14,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Lookman",
+          "displayName": "Lookman",
+          "position": "FW",
+          "st": 2,
+          "tk": 8,
+          "ps": 22,
+          "sh": 40,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "bor",
+      "text": "S_Guirassy encuentra una autopista en la defensa La defensa estaba embobada Interceptada por Rodri",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "cit",
+      "text": "Rodri coge el cuero en el flanco Se deshace de W_Anton con una bicicleta Y pasa atrás hacia J_Stones. ¡Qué jugada! J_Stones impacta el cuero al primer toque G_Kobel mete el cuerpo El balón rebota hacia arriba Pero G_Kobel se incorpora velozmente y lo atrapa",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "cit",
+      "text": "E_Haaland controla el cuero. ¡Uau! Qué detalle Busca el pase Pero rebote en un defensa y lea cae limpia. Se va solo E_Haaland trata de colar el cuero entre las piernas del defensa GOOOOOL ¿Es una sonrisa eso que hay en la cara de su entrenador? El Manchester City toma la iniciativa en el luminoso Borussia Dortmund 0-1 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "cit",
+      "text": "J_Gvardiol se tuerce gravemente el tobillo No continuará Eso es un esguince como mínimo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "cit",
+      "text": "El ayudante del entrenador llama a A_Khusanov J_Gvardiol va a ser sustituído Aplaude al público Su sustituto se ubica en DF",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "bor",
+      "text": "N_Schlotterbeck controla un balón aéreo De primeras hacia S_Guirassy S_Guirassy empalma con la derecha Pero Unai_Simon hace una gran parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "cit",
+      "text": "M_Nunes se saca un pase en diagonal para A_Khusanov A_Khusanov regatea a uno, dos y chuta GOOOOOL Limpió las telarañas de la escuadra Hace al avioncito para celebrarlo Borussia Dortmund 0-2 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 11,
+      "teamCode": "bor",
+      "text": "J_Brandt combina con K_Adeyemi con espacio por delante K_Adeyemi dispara sin levantar la cabeza Unai_Simon para Pero el balón queda muerto GOOOOOL La defensa ha ido a por uvas Pero ha sido ANULADO El técnico pierde los nervios y grita al colegiado Y ve la (AMARILLA)",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 11,
+      "teamCode": "cit",
+      "text": "Rodri se saca un pase al primer toque hacia E_Haaland de la chistera E_Haaland empalma con la derecha G_Kobel alcanza el cuero. Buena parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "bor",
+      "text": "P_Gross para el balón Levanta la vista y ve a un compañero completamente solo Le envía el pase con el exterior J_Brandt controla el milimétrico pase. Hasta yo lo hubiera hecho Gran entrada a ras de suelo de A_Khusanov Se pierde por la línea de fondo CÓRNER J_Brandt con un cerrado lanzamiento al primer palo R_Dias mira atentamente el centro... y lo despeja",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 14,
+      "teamCode": "bor",
+      "text": "S_Guirassy supera a A_Khusanov Lleva loco a su marcador O_Marmoush agarra a su rival de la camiseta Ambos se iban agarrando hace rato Creo que la decisión es injusta Anders_Frisk lo reclama No hay tarjeta FALTA DIRECTA Anders_Frisk dice que es indirecta M_Sabitzer dispara a puerta S_Guirassy trata de desviar la trayectoria Pero M_Nunes aparece desde atrás y corta el balón El público ruge pidiendo falta. Anders_Frisk se hace el sueco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "bor",
+      "text": "R_Bensebaini para el balón Levanta la vista y ve a un compañero completamente solo Le envía el pase con el exterior S_Guirassy controla el milimétrico pase. Hasta yo lo hubiera hecho M_Nunes levanta demasiado la pierna Lo dice en el reglamento: FALTA FALTA DIRECTA Es una oportunidad buenísima K_Adeyemi coloca el balón con suavidad por encima de la barrera GOOOOOL ¡Qué golazo! Es para hacerle un monumento Borussia Dortmund 1-2 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "cit",
+      "text": "I_Gundogan mete la pierna. Cortó el balón Se lo pone a O_Marmoush en el pie O_Marmoush impacta el balón con dureza GOOOOOL Se quita la camiseta y la lanza al público. Lo adoran Borussia Dortmund 1-3 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "cit",
+      "text": "J_Stones cambia de dirección Ve a un compañero desdoblándolo Le cede el cuero a E_Haaland, que va lanzado en carrera E_Haaland le pega con dureza No ha precisado demasiado GOOOOOL Es un súper clase Borussia Dortmund 1-4 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "bor",
+      "text": "K_Adeyemi pisa campo contrario. Mete un pase entre los centrales para S_Guirassy S_Guirassy impacta el balón de primeras Pero el cuero sale lejos de la portería",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "cit",
+      "text": "I_Gundogan controla el balón con facilidad I_Gundogan trata de sorprender a G_Kobel con una inesperada vaselina Parece un balón fácil para G_Kobel Pero hace un extraño GOOOOOL G_Kobel estaba en Babia Borussia Dortmund 1-5 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 26,
+      "teamCode": "bor",
+      "text": "G_Reyna se cuela hasta la línea de fondo Centra al segundo palo R_Bensebaini entra el remate R_Bensebaini tiene tiempo y espacio Chuta Al lateral de la red Se queda parado mirando hacia el cielo Creo que ni Diós sabe como pudo fallar eso",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "cit",
+      "text": "O_Marmoush encara al defensa Oh, lo ha dejado sentado con un regate eléctrico O_Marmoush hace un gran control ¡Y dispara! G_Kobel observa como el balón se va lejos de su marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 32,
+      "teamCode": "cit",
+      "text": "M_Nunes para el balón con la planta del pie Qué calidad, tiene un guante en el pie Se revuelve Engaña a su par y cruza al balón sobre la llegada de Rodri K_Adeyemi se anticipa a la jugada y se apodera del balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "bor",
+      "text": "K_Adeyemi hace una rápida pared con un compañero Tiene un defensa delante Le hace una bicicleta y mira al portero A_Khusanov intercepta el pase",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 34,
+      "teamCode": "cit",
+      "text": "E_Haaland controla un balón complicadísimo Regatea al defensa Se va solo Vaya dos detalles de calidad Corte finísimo y preciso de R_Bensebaini Podría haber cometido la falta perfectamente si no hubiera estado tan fino",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 35,
+      "teamCode": "bor",
+      "text": "G_Reyna se interna por la banda Pone un medido centro sobre S_Guirassy S_Guirassy le pega con la zurda Envía un disparo colocadísimo Unai_Simon llega con la punta de los dedos Gran parada Estas acciones pueden ser claves en un partido CÓRNER El lanzamiento va a cargo de P_Gross Directo hacia M_Sabitzer Remata como puede Unai_Simon está tapado. No verá el balón Qué reflejos Lo ha atrapado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "cit",
+      "text": "B_Silva aguanta el balón Cambia súbitamente hacia M_Nunes M_Nunes regatea a uno, dos y... oh Chuta Va directo hacia G_Kobel Pone mal la pierna Sale rebotada hacia atrás G_Kobel mira el balón alarmado Y lo ve salir al lado del palo, suspira de alivio, menudo fallo CÓRNER M_Nunes con un cerrado lanzamiento al primer palo I_Gundogan entra desde atrás El cuero va a puerta a gran velocidad G_Kobel reacciona rápidamente ¿Llegará? G_Kobel mete el puño y envía el balón a córner CÓRNER I_Gundogan cuelga el centro al segundo palo El balón va directo hacia J_Brandt, que despeja con contundencia",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 37,
+      "teamCode": "bor",
+      "text": "G_Reyna está cerrado por tres contrarios Se saca el balón de encima le cae a S_Guirassy ¿Suerte o calidad? S_Guirassy tiene una oportunidad de oro Unai_Simon para Colocación y reflejos, la clave en un portero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "cit",
+      "text": "Rodri pisa campo contrario. Mete un pase entre los centrales para O_Marmoush O_Marmoush con un verdadero obús GOOOOOL Golpea las vallas publicitarias en un gesto de rabia Borussia Dortmund 1-6 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "bor",
+      "text": "R_Bensebaini ve especio entre el central y el lateral. Pone un peligroso pase diagonal para G_Reyna R_Dias le roba el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 41,
+      "teamCode": "bor",
+      "text": "P_Gross hace una bicicleta y cambia el juego hacia J_Brandt Corte finísimo de R_Dias Y evita el córner Está en un momento dulce",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "cit",
+      "text": "M_Nunes se saca un pase al primer toque hacia B_Silva de la chistera B_Silva hace una diagonal Y suelta un sorprendente disparo G_Kobel despeja el balón... con el pecho Vaya manera de vacilar al contrario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 44,
+      "teamCode": "cit",
+      "text": "O_Marmoush con un impresionante desmarque Punterazo impresionante de O_Marmoush GOOOOOL Regateó a G_Kobel Hat trick Vaya tarde Borussia Dortmund 1-7 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "bor",
+      "text": "R_Bensebaini gambetea ante J_Stones, lo está desquiciando Pero B_Silva se hace con el balón Gran anticipación",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "cit",
+      "text": "E_Haaland hace una pared con un compañero Se va directo a puerta E_Haaland busca el disparo Pero falla Este tío no le mete un gol ni en el arco iris",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "cit",
+      "text": "E_Haaland va flechado hacia la portería Sortea a N_Schlotterbeck Encara portería E_Haaland chuta El balón hace un mal bote sobre el césped y su disparo se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "cit",
+      "text": "O_Marmoush se deshace de su marcador Se va directo a puerta O_Marmoush empalma con la derecha G_Kobel está sorprendido No va a tener tiempo de llegar GOOOOOL Se tapa la cara con los guantes Esto lo lleva a celebrar su tanto número 10 de la temporada Qué jugadorazo Borussia Dortmund 1-8 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "bor",
+      "text": "K_Adeyemi regatea y se cuela en el área K_Adeyemi trata de sorprender con un chut lejano GOOOOOL Unai_Simon recoge el balón de la red con parsimonia Borussia Dortmund 2-8 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "cit",
+      "text": "M_Nunes con un pase milimétrico El balón pasa por encima de K_Adeyemi Y le llega a E_Haaland E_Haaland ha encontrado un hueco entre la defensa Su marcador se ha despistado Se va solo hacia G_Kobel Se adelanta el balón ante G_Kobel G_Kobel se lanza a sus pies jugándose el físico y atrapa el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 52,
+      "teamCode": "bor",
+      "text": "R_Bensebaini hace la croqueta ante M_Nunes El defensa mete la pierna, pero el rebote va a parar al delantero J_Stones suelta una entrada brutal Los aficionados gritan \"FUERA, FUERA\" Anders_Frisk intenta calmarlo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "bor",
+      "text": "W_Anton avanza pegado a la línea de banda Despista al defensa con un gran regate Y la pone en el área por bajo hacia S_Guirassy S_Guirassy le pega con dureza No ha precisado demasiado Unai_Simon vuela hacia su escuadra derecha Y llega a desviar el balón Qué paradón Está en forma CÓRNER R_Bensebaini saca a la zona de peligro Unai_Simon mete el puño derecho y despeja el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 56,
+      "teamCode": "cit",
+      "text": "E_Haaland tira hacia arriba E_Haaland trata de regatear a G_Kobel G_Kobel hace una parada realmente complicada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "bor",
+      "text": "K_Adeyemi se le cuela a R_Dias por dentro Le ha dado demasiado espacio K_Adeyemi salta y pica el balón perfectamente de cabeza Unai_Simon mete la mano y alcanza el balón con la punta de los dedos córner, marca Anders_Frisk Pero el asistente lo corrige ¿Eso es asistir?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 59,
+      "teamCode": "cit",
+      "text": "Rodri combina con E_Haaland. Juegan de memoria N_Sule corta la jugada con un cabezazo en plancha",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 61,
+      "teamCode": "bor",
+      "text": "P_Gross se aprovecha de un error de R_Dias ¿Lo aprovechará? Corte finísimo de E_Haaland Y evita el córner Está en un momento dulce",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "bor",
+      "text": "M_Sabitzer corta de manera impresionante Arma el contraataque Es un dos contra dos S_Guirassy se desmarca y recibe el pase Pero Laporte cuelga el balón a la grada Z",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "cit",
+      "text": "Rodri llega al área, prepara el disparo... Pero en su lugar pasa hacia B_Silva. ¡Qué calidad! B_Silva busca la escuadra Al lateral de la red Se queda parado mirando hacia el cielo Creo que ni Diós sabe como pudo fallar eso",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "bor",
+      "text": "M_Sabitzer se interna por una banda Túnel al defensa Oh ¿Lo han visto? Quiebra al lateral Qué jugada K_Adeyemi tira el desmarque en el centro Le pone una pase medido K_Adeyemi otea la posición de Unai_Simon ¡Dispara! Se va fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 74,
+      "teamCode": "cit",
+      "text": "Rodri combina con E_Haaland con espacio por delante M_Sabitzer ve venir el pase y lo corta con facilidad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "bor",
+      "text": "N_Schlotterbeck llega primero al balón que ha quedado muerto Ve a su compañero entrando desde atrás K_Adeyemi controla en carrera E_Haaland eleva demasiado el pie",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 76,
+      "teamCode": "cit",
+      "text": "El técnico grita vehementemente a sus jugadores Creo que va a cambiar de formación Manchester City jugará ahora C",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "cit",
+      "text": "O_Marmoush va directo hacia los centrales K_Adeyemi salta de cabeza con su rival Falta, le ha impedido saltar Le pide que se enfríe un poco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 78,
+      "teamCode": "bor",
+      "text": "R_Bensebaini falla en el momento de alejar el balón G_Kobel reacciona rápidamente GOOOOOL Qué error Gol en propia puerta Borussia Dortmund 2-9 Manchester City ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 83,
+      "teamCode": "cit",
+      "text": "I_Gundogan controla de espaldas a la portería. Ojo Se ha girado I_Gundogan saca un disparo durísimo desde lejos El balón sale rebotado Fuera Será córner... CÓRNER M_Nunes impacta el cuero con el interior del pie W_Anton se anticipa a la delantera rival Y conjura el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 84,
+      "teamCode": "bor",
+      "text": "M_Sabitzer está presionado, retrocede Está en peligro, se saca el balón de encima OH Le ha salida una maravillosa asistencia hacia K_Adeyemi K_Adeyemi resuelve la jugada con un taconazo Pero Unai_Simon rechaza con los puños Córner CÓRNER M_Sabitzer le de mucho efecto a su lanzamiento N_Schlotterbeck se deshace de su marcador y mete la cabeza Unai_Simon se queda quieto Parece que va fuera No Ha medido mal Unai_Simon reacciona Mete la mano y envía el balón a córner CÓRNER J_Brandt coloca el balón con mucha suavidad Laporte controla el balón tras varios rebotes Sale jugando por bajo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "bor",
+      "text": "M_Sabitzer tiene tiempo para meditar la jugada M_Nunes arriesgo con una entrada a ras de suelo Ay Le ha dado El árbitro no lo ha visto así",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 86,
+      "teamCode": "cit",
+      "text": "B_Silva supera a N_Sule El defensa está viviendo una pesadilla N_Sule reacciona rápidamente y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que va a haber 1 minuto de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "bor",
+      "text": "N_Sule acelera por la banda izquierda Juega para G_Reyna G_Reyna se anticipa a su marcador solo Unai_Simon puede detenerle Está solo ante Unai_Simon Unai_Simon se juega el físico y para el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "bor",
+      "text": "G_Reyna pica el balón por encima de los centrales K_Adeyemi aparece de la nada. Los ha pillado despistados Corte finísimo de Laporte Y evita el córner Está en un momento dulce",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}

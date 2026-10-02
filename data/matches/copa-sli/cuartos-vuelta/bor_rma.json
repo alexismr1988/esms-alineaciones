@@ -1,0 +1,1485 @@
+{
+  "id": "copa-sli/cuartos-vuelta/bor_rma",
+  "competitionId": "copa-sli",
+  "competitionLabel": "Copa SLI",
+  "roundId": "cuartos-vuelta",
+  "roundLabel": "Cuartos · Vuelta",
+  "fileName": "bor_rma.txt",
+  "homeCode": "bor",
+  "awayCode": "rma",
+  "homeTeam": "Borussia Dortmund",
+  "awayTeam": "Real Madrid",
+  "result": {
+    "home": 2,
+    "away": 2,
+    "source": "Resultado final"
+  },
+  "penaltyShootout": null,
+  "halfTime": "Borussia Dortmund 1-0 Real Madrid",
+  "formation": {
+    "home": "4-2-2-2 E",
+    "away": "4-2-1-3 A"
+  },
+  "referee": {
+    "name": "Tom Henning Ovrebo",
+    "country": ""
+  },
+  "lineups": {
+    "home": [
+      {
+        "name": "G_Kobel",
+        "displayName": "G Kobel",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "W_Anton",
+        "displayName": "W Anton",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Sule",
+        "displayName": "N Sule",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Bensebaini",
+        "displayName": "R Bensebaini",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "N_Schlotterbeck",
+        "displayName": "N Schlotterbeck",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "P_Gross",
+        "displayName": "P Gross",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "J_Brandt",
+        "displayName": "J Brandt",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "Jobe_Bellingham",
+        "displayName": "Jobe Bellingham",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "G_Reyna",
+        "displayName": "G Reyna",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "K_Adeyemi",
+        "displayName": "K Adeyemi",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "S_Guirassy",
+        "displayName": "S Guirassy",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Meyer",
+        "displayName": "A Meyer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Y_Couto",
+        "displayName": "Y Couto",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "F_Nmecha",
+        "displayName": "F Nmecha",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "M_Sabitzer",
+        "displayName": "M Sabitzer",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Duranville",
+        "displayName": "J Duranville",
+        "position": "SUB",
+        "substitute": true
+      }
+    ],
+    "away": [
+      {
+        "name": "T_Courtois",
+        "displayName": "T Courtois",
+        "position": "GK",
+        "substitute": false
+      },
+      {
+        "name": "D_Huijsen",
+        "displayName": "D Huijsen",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "R_Asencio",
+        "displayName": "R Asencio",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "E_Militao",
+        "displayName": "E Militao",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "D_Ceballos",
+        "displayName": "D Ceballos",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "E_Camavinga",
+        "displayName": "E Camavinga",
+        "position": "MF",
+        "substitute": false
+      },
+      {
+        "name": "D_Carvajal",
+        "displayName": "D Carvajal",
+        "position": "DF",
+        "substitute": false
+      },
+      {
+        "name": "A_Guler",
+        "displayName": "A Guler",
+        "position": "AM",
+        "substitute": false
+      },
+      {
+        "name": "Rodrygo",
+        "displayName": "Rodrygo",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "K_Mbappe",
+        "displayName": "K Mbappe",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "V_Junior",
+        "displayName": "V Junior",
+        "position": "FW",
+        "substitute": false
+      },
+      {
+        "name": "A_Lunin",
+        "displayName": "A Lunin",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "J_Carreras",
+        "displayName": "J Carreras",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Mastantuono",
+        "displayName": "Mastantuono",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "Endrick",
+        "displayName": "Endrick",
+        "position": "SUB",
+        "substitute": true
+      },
+      {
+        "name": "G_Garcia",
+        "displayName": "G Garcia",
+        "position": "SUB",
+        "substitute": true
+      }
+    ]
+  },
+  "info": [
+    {
+      "team": "Borussia Dortmund",
+      "mvp": "S_Guirassy",
+      "goals": "N_Schlotterbeck (16), S_Guirassy (69 pen)",
+      "sentOff": "N_Sule (95)",
+      "booked": "K_Adeyemi (10)",
+      "injured": "N/A"
+    },
+    {
+      "team": "Real Madrid",
+      "mvp": "V_Junior (Jugador del partido)",
+      "goals": "Rodrygo (65), V_Junior (101)",
+      "sentOff": "N/A",
+      "booked": "E_Camavinga (4), K_Mbappe (21), V_Junior (30)",
+      "injured": "N/A"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Ocasiones de gol",
+      "home": 26,
+      "away": 27
+    },
+    {
+      "label": "Disparos desviados",
+      "home": 14,
+      "away": 16
+    },
+    {
+      "label": "Tiros a puerta",
+      "home": 12,
+      "away": 11
+    },
+    {
+      "label": "Posesión",
+      "home": 50,
+      "away": 50
+    },
+    {
+      "label": "Córners",
+      "home": 3,
+      "away": 4
+    },
+    {
+      "label": "Tarjetas rojas",
+      "home": 1,
+      "away": 0
+    },
+    {
+      "label": "Tarjetas amarillas",
+      "home": 1,
+      "away": 3
+    },
+    {
+      "label": "Sustituciones",
+      "home": 0,
+      "away": 0
+    },
+    {
+      "label": "Faltas",
+      "home": 8,
+      "away": 10
+    },
+    {
+      "label": "Entradas",
+      "home": 8,
+      "away": 8
+    },
+    {
+      "label": "Pases clave",
+      "home": 20,
+      "away": 24
+    }
+  ],
+  "playerStats": [
+    {
+      "team": "Borussia Dortmund",
+      "players": [
+        {
+          "name": "G_Kobel",
+          "displayName": "G Kobel",
+          "position": "GK",
+          "st": 42,
+          "tk": 3,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 125,
+          "sav": 11,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "W_Anton",
+          "displayName": "W Anton",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 7,
+          "ag": 22,
+          "min": 125,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Sule",
+          "displayName": "N Sule",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 15,
+          "sh": 4,
+          "ag": 22,
+          "min": 98,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 1
+        },
+        {
+          "name": "R_Bensebaini",
+          "displayName": "R Bensebaini",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 28,
+          "sh": 12,
+          "ag": 22,
+          "min": 125,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 4,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "N_Schlotterbeck",
+          "displayName": "N Schlotterbeck",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 17,
+          "sh": 7,
+          "ag": 23,
+          "min": 125,
+          "sav": 0,
+          "ktk": 2,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "P_Gross",
+          "displayName": "P Gross",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 40,
+          "sh": 19,
+          "ag": 22,
+          "min": 125,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 3,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Brandt",
+          "displayName": "J Brandt",
+          "position": "AM",
+          "st": 2,
+          "tk": 19,
+          "ps": 43,
+          "sh": 26,
+          "ag": 24,
+          "min": 125,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Jobe_Bellingham",
+          "displayName": "Jobe Bellingham",
+          "position": "MF",
+          "st": 2,
+          "tk": 24,
+          "ps": 33,
+          "sh": 16,
+          "ag": 22,
+          "min": 125,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 4,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Reyna",
+          "displayName": "G Reyna",
+          "position": "AM",
+          "st": 2,
+          "tk": 19,
+          "ps": 38,
+          "sh": 24,
+          "ag": 23,
+          "min": 125,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 2,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Adeyemi",
+          "displayName": "K Adeyemi",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 40,
+          "ag": 26,
+          "min": 125,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 9,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "S_Guirassy",
+          "displayName": "S Guirassy",
+          "position": "FW",
+          "st": 2,
+          "tk": 14,
+          "ps": 25,
+          "sh": 43,
+          "ag": 24,
+          "min": 125,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 4,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Meyer",
+          "displayName": "A Meyer",
+          "position": "GK",
+          "st": 27,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 18,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Y_Couto",
+          "displayName": "Y Couto",
+          "position": "DF",
+          "st": 2,
+          "tk": 36,
+          "ps": 31,
+          "sh": 14,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "F_Nmecha",
+          "displayName": "F Nmecha",
+          "position": "MF",
+          "st": 2,
+          "tk": 26,
+          "ps": 36,
+          "sh": 16,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "M_Sabitzer",
+          "displayName": "M Sabitzer",
+          "position": "AM",
+          "st": 2,
+          "tk": 24,
+          "ps": 38,
+          "sh": 21,
+          "ag": 23,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Duranville",
+          "displayName": "J Duranville",
+          "position": "FW",
+          "st": 2,
+          "tk": 16,
+          "ps": 28,
+          "sh": 33,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "team": "Real Madrid",
+      "players": [
+        {
+          "name": "T_Courtois",
+          "displayName": "T Courtois",
+          "position": "GK",
+          "st": 45,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 24,
+          "min": 125,
+          "sav": 10,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Huijsen",
+          "displayName": "D Huijsen",
+          "position": "DF",
+          "st": 2,
+          "tk": 38,
+          "ps": 12,
+          "sh": 4,
+          "ag": 25,
+          "min": 125,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "R_Asencio",
+          "displayName": "R Asencio",
+          "position": "DF",
+          "st": 2,
+          "tk": 32,
+          "ps": 14,
+          "sh": 4,
+          "ag": 24,
+          "min": 125,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 2,
+          "ass": 1,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Militao",
+          "displayName": "E Militao",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 12,
+          "sh": 4,
+          "ag": 26,
+          "min": 125,
+          "sav": 0,
+          "ktk": 1,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "D_Ceballos",
+          "displayName": "D Ceballos",
+          "position": "MF",
+          "st": 2,
+          "tk": 16,
+          "ps": 37,
+          "sh": 12,
+          "ag": 25,
+          "min": 125,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 6,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "E_Camavinga",
+          "displayName": "E Camavinga",
+          "position": "MF",
+          "st": 2,
+          "tk": 21,
+          "ps": 38,
+          "sh": 14,
+          "ag": 26,
+          "min": 125,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 6,
+          "ass": 0,
+          "sht": 3,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "D_Carvajal",
+          "displayName": "D Carvajal",
+          "position": "DF",
+          "st": 2,
+          "tk": 40,
+          "ps": 19,
+          "sh": 7,
+          "ag": 26,
+          "min": 125,
+          "sav": 0,
+          "ktk": 3,
+          "kps": 1,
+          "ass": 0,
+          "sht": 1,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "A_Guler",
+          "displayName": "A Guler",
+          "position": "AM",
+          "st": 2,
+          "tk": 14,
+          "ps": 37,
+          "sh": 19,
+          "ag": 25,
+          "min": 125,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 5,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Rodrygo",
+          "displayName": "Rodrygo",
+          "position": "FW",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 40,
+          "ag": 28,
+          "min": 125,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 7,
+          "gls": 1,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "K_Mbappe",
+          "displayName": "K Mbappe",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 24,
+          "sh": 49,
+          "ag": 30,
+          "min": 125,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 5,
+          "gls": 0,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "V_Junior",
+          "displayName": "V Junior",
+          "position": "FW",
+          "st": 2,
+          "tk": 12,
+          "ps": 23,
+          "sh": 45,
+          "ag": 30,
+          "min": 125,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 3,
+          "ass": 0,
+          "sht": 11,
+          "gls": 1,
+          "yel": 1,
+          "red": 0
+        },
+        {
+          "name": "A_Lunin",
+          "displayName": "A Lunin",
+          "position": "GK",
+          "st": 37,
+          "tk": 2,
+          "ps": 2,
+          "sh": 2,
+          "ag": 22,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "J_Carreras",
+          "displayName": "J Carreras",
+          "position": "DF",
+          "st": 2,
+          "tk": 37,
+          "ps": 16,
+          "sh": 7,
+          "ag": 25,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Mastantuono",
+          "displayName": "Mastantuono",
+          "position": "MF",
+          "st": 2,
+          "tk": 9,
+          "ps": 19,
+          "sh": 34,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "Endrick",
+          "displayName": "Endrick",
+          "position": "MF",
+          "st": 2,
+          "tk": 9,
+          "ps": 16,
+          "sh": 37,
+          "ag": 26,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        },
+        {
+          "name": "G_Garcia",
+          "displayName": "G Garcia",
+          "position": "FW",
+          "st": 2,
+          "tk": 7,
+          "ps": 14,
+          "sh": 32,
+          "ag": 24,
+          "min": 0,
+          "sav": 0,
+          "ktk": 0,
+          "kps": 0,
+          "ass": 0,
+          "sht": 0,
+          "gls": 0,
+          "yel": 0,
+          "red": 0
+        }
+      ]
+    }
+  ],
+  "commentary": [
+    {
+      "kind": "event",
+      "minute": 2,
+      "teamCode": "rma",
+      "text": "A_Guler con un pase muy fuerte para V_Junior V_Junior golpea el balón ¡Uau! Ha hecho la \"folha seca\" ¡Mira cómo baja! G_Kobel se juega el físico y mete la mano ¡UAU! Vaya parada Ha chocado contra el palo de lo ajustado que iba el disparo CÓRNER A_Guler con un peligroso lanzamiento al segundo palo Rodrygo entra desde atrás G_Kobel mete la pierna Hay que blocar el balón jefe",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "bor",
+      "text": "K_Adeyemi mete el pase E_Militao resbala Jobe_Bellingham se apodera del balón Corte finísimo de D_Huijsen Y evita el córner Está en un momento dulce",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 3,
+      "teamCode": "rma",
+      "text": "K_Mbappe se cuela con potencia entre los centrales Pero pisa un charco y cae al suelo N_Schlotterbeck recoge el balón. Menudo marcaje le está haciendo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "bor",
+      "text": "Jobe_Bellingham supera a D_Carvajal Jobe_Bellingham saca un disparo durísimo desde lejos T_Courtois palmea a córner Tom_Henning_Ovrebo pita saque de puerta Increíble",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 4,
+      "teamCode": "bor",
+      "text": "W_Anton tira la pared con su delantero K_Adeyemi con un preciso pase de primeras Menuda jugada E_Camavinga agarra a su rival de la camiseta Bien visto por al árbitro Tom_Henning_Ovrebo busca nerviosamente en sus bolsillos Medita su decisión (AMARILLA) Tanto cuento para esto...",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 6,
+      "teamCode": "bor",
+      "text": "P_Gross recupera el balón y pasa largo hacia G_Reyna. Ha pillado a la defensa desolocada D_Carvajal se hace con el balón y lo cede al portero T_Courtois estaba descolocado Corre a la desesperada Fuera Por poco CÓRNER P_Gross centra con fuerza al área pequeña D_Carvajal cubre el segundo palo Y evita el remate del delantero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 7,
+      "teamCode": "bor",
+      "text": "Jobe_Bellingham Con un pase demasiado fuerte. K_Adeyemi va a llegar K_Adeyemi controla el balón, amaga y... dispara ¡Oh! T_Courtois rechaza el balón con los pies Su defensa cierra el rebote y envía el balón al centro del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "bor",
+      "text": "R_Bensebaini hace un bicicleta, pisa área... R_Bensebaini suelta un cañonazo ¡Uou! Ni Oliver y Benji hacían eso A las nubes Dejó el cuerpo atrás y no controló bien el disparo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 8,
+      "teamCode": "rma",
+      "text": "Rodrygo salta sobre la tremenda entrada de N_Schlotterbeck Rodrygo prueba suerte con un disparo raso G_Kobel flota sobre la línea de meta Mete la mano ¿Córner? No se equivocó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "bor",
+      "text": "S_Guirassy cambia de dirección D_Huijsen, que lo estaba persiguiendo, resbala S_Guirassy busca el palo largo Se estrella en el larguero Controla el rebote con el pecho OHHHHHHHH Un defensa ha estado más rápido y ha enviado el balón fuera",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 9,
+      "teamCode": "rma",
+      "text": "E_Camavinga está desmarcado E_Camavinga con un sutil toque de puntera El balón sale rebotado Fuera Será córner... CÓRNER K_Mbappe con un peligroso lanzamiento al segundo palo G_Kobel sale con valentía y atrapa el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "rma",
+      "text": "Rodrygo hace un sombrero sobre K_Adeyemi K_Adeyemi placa a su oponente Este tío tiene futuro... en la NFL Eso será tarjeta y con todo merecimiento (AMARILLA)",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 10,
+      "teamCode": "rma",
+      "text": "D_Ceballos se va de uno, de dos, de tres Mira a un lado... y pasa hacia V_Junior al otro lado OH V_Junior levanta la cabeza, apunta a la escuadra y... ¡dispara! Qué agilidad G_Kobel ha estado tremendo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 12,
+      "teamCode": "rma",
+      "text": "A_Guler cruza para Rodrygo Rodrygo mira a G_Kobel Trata de superarlo por el palo largo G_Kobel cubre su ángulo El balón hace un extraño G_Kobel ha quedado descolocado Pero sale desviada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 15,
+      "teamCode": "bor",
+      "text": "J_Brandt encuentra a K_Adeyemi con un pase largo Rodrygo se lleva bien el balón Tom_Henning_Ovrebo pita falta ¡Bufff!, no vale ni para la Segunda B Tom_Henning_Ovrebo simplemente lo avisa. Ahí ha acertado FALTA DIRECTA Muy lejana, no creo que llegue G_Reyna engaña al equipo rival mete el pase para S_Guirassy S_Guirassy toca el balón con mucha sutileza Espectacular parada de T_Courtois Seguro que su seleccionador nacional habrá tomado buena nota",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "bor",
+      "text": "N_Schlotterbeck supera a E_Militao Lleva loco a su marcador N_Schlotterbeck trata de sorprender con un chut lejano GOOOOOL Qué manera de acabar la jugada El Borussia Dortmund se pone por delante Borussia Dortmund 1-0 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 16,
+      "teamCode": "rma",
+      "text": "R_Asencio avanza Cambia el ritmo ante Jobe_Bellingham. Wow eso me recordó a Cruyff Lo deja atrás Mete el pase hacia V_Junior V_Junior mira fijamente al portero Dispara entre las piernas de su marcador G_Kobel hace una gran parada Y se las arregla para controlar el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 17,
+      "teamCode": "rma",
+      "text": "D_Ceballos ve perfectamente el desmarque de D_Carvajal D_Carvajal busca una de las dos escuadras G_Kobel no va a llegar OH Sale rozando el larguero G_Kobel sonríe El que ríe último...",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 19,
+      "teamCode": "rma",
+      "text": "A_Guler con un pase largo V_Junior V_Junior no va a llegar. Sí, mete el pie... Rebota en el palo El rebote le cae en los pies Trata de regatear al portero Se ha enredado con el balón Vaya fallo Su entrenador está dando puñetazos al banquillo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "rma",
+      "text": "V_Junior se abre a la banda y cambie el juego hacia Rodrygo P_Gross se interpone entre el delantero y el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 21,
+      "teamCode": "bor",
+      "text": "W_Anton hace la croqueta ante E_Militao El defensa mete la pierna, pero el rebote va a parar al delantero K_Mbappe con una entrada durísima \"FUERA, FUERA, FUERA\" ruge el estadio (AMARILLA) Se irá a la caseta si repite algo así",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "rma",
+      "text": "A_Guler dispara en carrera El defensa mete la pierna sale rebotada hacia E_Camavinga E_Camavinga busca la vaselina... desde MEDIO CAMPO G_Kobel alcanza el cuero. Buena parada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 22,
+      "teamCode": "bor",
+      "text": "J_Brandt supera a D_Carvajal Este defensa es un tronco No tiene cintura R_Asencio realiza una entrada terrible",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 28,
+      "teamCode": "rma",
+      "text": "E_Camavinga tira la pared con su delantero V_Junior se la queda Encara a puerta G_Reyna placa a su oponente Eso es tarjeta aquí, en Argentina y en la China",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 30,
+      "teamCode": "bor",
+      "text": "W_Anton hace una bicicleta y descoloca a D_Carvajal V_Junior empuja a ru rival Qué animal El colegiado le muestra la cartulina (AMARILLA) Chico, frena que te vas a la calle",
+      "type": "yellow"
+    },
+    {
+      "kind": "event",
+      "minute": 31,
+      "teamCode": "bor",
+      "text": "K_Adeyemi se va en un palmo de terreno K_Adeyemi resuelve la jugada con un taconazo T_Courtois no va a llegar OH Se marcha desviado T_Courtois sonríe ¿Habría llegado al balón?",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 36,
+      "teamCode": "rma",
+      "text": "K_Mbappe controla un balón que bajaba con nieve Arranca en un suspiro y se planta en el área Gran entrada a ras de suelo de W_Anton Se pierde por la línea de fondo CÓRNER El lanzamiento va a cargo de A_Guler N_Sule controla el balón Y lo manda al centro del campo No se ha complicado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 38,
+      "teamCode": "bor",
+      "text": "Jobe_Bellingham golpea el balón hacia K_Adeyemi K_Adeyemi con una preciosa vaselina T_Courtois tapa perfectamente el ángulo largo Y detiene el balón con sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 39,
+      "teamCode": "bor",
+      "text": "G_Reyna sale lanzado por el carril E_Militao intenta cortar su avance con una entrada a ras de suelo El delantero salta por encima ¡Qué reflejos! G_Reyna regatea a su marcador y busca el gol T_Courtois no va a llegar OH Se pierde por encima del larguero T_Courtois sonríe ¿Sabía que iba fuera? No se, no se...",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 40,
+      "teamCode": "rma",
+      "text": "D_Huijsen con el saque de banda Ve a un compañero solo El balón vuela hacia Rodrygo Rodrygo trata de sorprender a G_Kobel desde fuera del área Al lateral de la red Parte del estadio cantó gol",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 42,
+      "teamCode": "rma",
+      "text": "K_Mbappe encara al defensa Oh Vaya momento más inoportuno para resbalar K_Mbappe con un disparo a ras de suelo G_Kobel bloquea el disparo con las piernas La pelota sale rebotada hacia el centro del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 43,
+      "teamCode": "REF",
+      "text": "Aparece el cartel indicando que van a haber 2 minutos de tiempo añadido",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 45,
+      "teamCode": "bor",
+      "text": "R_Bensebaini supera a D_Huijsen El defensa está viviendo una pesadilla R_Bensebaini cabecea con claridad T_Courtois mete la pierna Hay que blocar el balón jefe",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "bor",
+      "text": "R_Bensebaini avanza Cambia el ritmo ante K_Mbappe. Wow eso me recordó a Cruyff Lo deja atrás Mete el pase hacia S_Guirassy S_Guirassy le da mucho efecto a su disparo T_Courtois se queda quieto Parece que va fuera No Ha medido mal T_Courtois reacciona Mete la mano y envía el balón a córner CÓRNER P_Gross acaricia el cuero R_Asencio mira atentamente el centro... y lo despeja",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 46,
+      "teamCode": "rma",
+      "text": "E_Camavinga para V_Junior Pero W_Anton se hace con el balón Gran anticipación",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 47,
+      "teamCode": "bor",
+      "text": "K_Adeyemi encara al defensa Se va de D_Huijsen en velocidad Menudo cambio de ritmo K_Adeyemi empalma el balón a la perfección T_Courtois detiene el balón con una mano El rebote cae al centro, limpio para el delantero Remata FUERA Qué fallo Está desesperado",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 50,
+      "teamCode": "bor",
+      "text": "K_Adeyemi busca algún apoyo Ojo Casi pierde el balón en una zona peligrosa Pero consigue meter el pase para G_Reyna G_Reyna chuta T_Courtois no va a llegar OH Se pierde por encima del larguero T_Courtois sonríe ¿Sabía que iba fuera? No se, no se...",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 51,
+      "teamCode": "bor",
+      "text": "K_Adeyemi con el regate Se cuela en el área K_Adeyemi empalma con la zurda. Colocó mal el cuerpo Pero se las arregla para fallar Los aficionados del Real Madrid se ríen de él",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 55,
+      "teamCode": "bor",
+      "text": "G_Reyna controla un balón aéreo De primeras hacia K_Adeyemi K_Adeyemi remata forzado... con la rodilla Al lateral de la red Ha tirado a la basura una ocasión de oro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 58,
+      "teamCode": "bor",
+      "text": "K_Adeyemi se abre a la banda. Recibe el balón Levanta la cabeza, no hay salida Pero encuentra a S_Guirassy. ¡Qué visión de juego! S_Guirassy busca la escuadra T_Courtois lo atrapa fácilmente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 60,
+      "teamCode": "bor",
+      "text": "J_Brandt ve perfectamente el desmarque de R_Bensebaini R_Bensebaini acomoda el balón Y le pega T_Courtois tapa perfectamente el ángulo largo Y detiene el balón con sobriedad",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "rma",
+      "text": "K_Mbappe se aprovecha de un error de N_Schlotterbeck Ha tenido suerte S_Guirassy envía a su oponente al césped Menudo trompazo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 62,
+      "teamCode": "rma",
+      "text": "D_Carvajal con el saque de banda Ve a un compañero solo El balón vuela hacia V_Junior V_Junior mira fijamente al marco ¡Dispara! Pero se las arregla para fallar Los aficionados del Borussia Dortmund se ríen de él",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 63,
+      "teamCode": "rma",
+      "text": "K_Mbappe encara al defensa P_Gross mete la pierna, pero el rebote favorece al atacante Fue un golpe de suerte, pero continúa hacia adelante K_Mbappe suelta un chut con un efecto endiablado La manda fuera del estadio",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 64,
+      "teamCode": "rma",
+      "text": "E_Camavinga aguanta el balón Cambia súbitamente hacia K_Mbappe K_Mbappe salta por encima de la defensa rival y mete la cabeza G_Kobel está batido Cruje el larguero Y a la grada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 65,
+      "teamCode": "rma",
+      "text": "R_Asencio cruza para Rodrygo Rodrygo toca el balón con mucha sutileza GOOOOOL Gran final Se levanta la camiseta En la de debajo pone: 10 goles este año y subiendo Empate Menudo final de partido nos espera Borussia Dortmund 1-1 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 66,
+      "teamCode": "rma",
+      "text": "V_Junior aprovecha un fallo defensivo El entrenador está abroncando a su defensa Gran volea de V_Junior A las nubes Dejó el cuerpo atrás y no controló bien el disparo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 69,
+      "teamCode": "bor",
+      "text": "Jobe_Bellingham recupera el balón y pasa largo hacia R_Bensebaini. Ha pillado a la defensa desolocada E_Camavinga placa a su oponente Como si fuera un jugador de rugby ¡PENALTI! Tom_Henning_Ovrebo huye de los jugadores que le piden explicaciones S_Guirassy ya está en los 11 metros T_Courtois vuela GOOOOOL Poco podía hacer el portero ante un lanzamiento así El Borussia Dortmund golpea. Ahora manda en el marcador Borussia Dortmund 2-1 Real Madrid...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 73,
+      "teamCode": "bor",
+      "text": "J_Brandt se aprovecha de un error de E_Militao Corre hacia el marco J_Brandt empalma el balon con una rabona ¡Qué frivolidad! Dispara precipitadamente Fuera No puedo precisar el remate",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 75,
+      "teamCode": "bor",
+      "text": "G_Reyna avanza pegado a la línea de banda Mete el balón al área N_Sule Pierde el control del balón R_Asencio mete el pie y lo envía a la grada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 77,
+      "teamCode": "rma",
+      "text": "V_Junior con un peligroso pase hacia K_Mbappe K_Mbappe coloca un preciso disparo Dispara ancho",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 79,
+      "teamCode": "bor",
+      "text": "Jobe_Bellingham regatea a su marcador D_Carvajal se lanza al corte Despeja el cuero Trata de evitar el córner Ha salido CÓRNER P_Gross le de mucho efecto a su lanzamiento R_Bensebaini entra desde atrás T_Courtois hace una parada sencillita El disparo no llevaba mucho peligro",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 85,
+      "teamCode": "rma",
+      "text": "Rodrygo en una posición inmejorable Rodrygo se va de su defensor, mete el pie El disparo se le escurre a G_Kobel de las manos rueda lentamente hacia el marco Pero sale a centímetros del palo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 87,
+      "teamCode": "rma",
+      "text": "E_Camavinga pasa hacia K_Mbappe N_Sule arriesgo con una entrada a ras de suelo Ay Le ha dado El árbitro no lo ha visto así",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se va a añadir 1 minuto al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 88,
+      "teamCode": "bor",
+      "text": "Jobe_Bellingham inicia el ataque Pase picado por G_Reyna D_Huijsen lee la jugada antes de que se produzca y corta el balón",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "bor",
+      "text": "N_Sule mete el pase D_Carvajal resbala G_Reyna se apodera del balón R_Asencio se anticipa a la jugada",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 89,
+      "teamCode": "rma",
+      "text": "K_Mbappe controla de espaldas a la portería Pisa el balón y se gira. Peligro Hace un mal control G_Reyna está muy encima en su marcaje y le arrebata el cuero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "bor",
+      "text": "P_Gross en el centro del campo Cruza hacia J_Brandt J_Brandt mete el interior del pie con mucha intención Su disparo es rechazado por el portero Se hace con el rebote Y dispara fuera Se precipitó",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 91,
+      "teamCode": "rma",
+      "text": "E_Camavinga encara a su marcador Lo sienta con una croqueta Eso lo hacía Michael Laudrup Y ahora suelta un pase impresionante hacia V_Junior V_Junior no va a llegar. Sí, mete el pie... Pero el balón se pierde inofensivamente por encima del larguero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 92,
+      "teamCode": "bor",
+      "text": "G_Reyna pisa el balón ante R_Asencio Se lo enseña, se lo esconde, otra vez... lo va a marear G_Reyna tiene tiempo y espacio ¡Dispara por bajo! Los aficionados se levantan de sus asientos Pero el balón se va por encima del larguero",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 95,
+      "teamCode": "bor",
+      "text": "N_Sule impacta a D_Ceballos con un tremendo codazo (ROJA) Se ha pasado dos pueblos",
+      "type": "red"
+    },
+    {
+      "kind": "event",
+      "minute": 96,
+      "teamCode": "rma",
+      "text": "A_Guler avanza Cambia el ritmo ante J_Brandt. Wow eso me recordó a Cruyff Lo deja atrás Mete el pase hacia V_Junior V_Junior tiene una oportunidad de oro G_Kobel lo atrapa cómodamente",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 97,
+      "teamCode": "rma",
+      "text": "V_Junior se va de N_Schlotterbeck Lo ha dejado sentado V_Junior busca la escuadra G_Kobel despeja el balón... con el pecho Vaya manera de vacilar al contrario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 99,
+      "teamCode": "bor",
+      "text": "N_Schlotterbeck con un preciso pase hacia K_Adeyemi K_Adeyemi rompe el intento de fuera de juego rival Creo que estaba más adelante que el último defensa T_Courtois sale a la desesperada Sienta a T_Courtois con un regate seco Dispara de primeras ¡Al palo!",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 100,
+      "teamCode": "bor",
+      "text": "P_Gross envía largo para K_Adeyemi K_Adeyemi busca desequilibrar el partido Dispara excesivamente alto Está horrorizado por lo que falló ¿Su entrenador está hablando solo? Ui no, creo que era un insulto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 101,
+      "teamCode": "rma",
+      "text": "V_Junior se aprovecha de un error de N_Schlotterbeck Corre hacia el marco V_Junior solo tiene una cosa en la cabeza: el GOL ¡Suelta un potente latigazo! G_Kobel está batido Golpea en el larguero GOOOOOL El portero solo ha podido mirárselo Real Madrid lo ha logrado Creo que se va a llevar un punto Borussia Dortmund 2-2 Real Madrid ...",
+      "type": "goal"
+    },
+    {
+      "kind": "event",
+      "minute": 102,
+      "teamCode": "bor",
+      "text": "J_Brandt hace una bicicleta y cambia el juego hacia K_Adeyemi K_Adeyemi prueba suerte Dispara excesivamente alto Está horrorizado por lo que falló ¿Su entrenador está hablando solo? Ui no, creo que era un insulto",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 103,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se va a añadir 1 minuto al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 104,
+      "teamCode": "rma",
+      "text": "V_Junior con el globo Rodrygo la baja con la cabeza Rodrygo se abre un hueco entre la defensa rival y dispara El disparo agarra un efecto endiablado G_Kobel reacciona con velocidad No va a llegar Se cuela Pero un defensa se lanza en plancha y mete el cuerpo CÓRNER K_Mbappe centra con fuerza al área pequeña G_Kobel mete los puños con fuerza y aleja el peligro",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Descanso"
+    },
+    {
+      "kind": "event",
+      "minute": 110,
+      "teamCode": "bor",
+      "text": "R_Bensebaini ve especio entre el central y el lateral. Pone un peligroso pase diagonal para J_Brandt J_Brandt regatea a uno, dos y chuta T_Courtois bloquea el disparo con las piernas La pelota sale rebotada hacia el centro del campo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 111,
+      "teamCode": "bor",
+      "text": "J_Brandt se va de su marcador Lo lleva por el camino de la amargura Corte finísimo y preciso de D_Huijsen Ha medido muy bien",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 115,
+      "teamCode": "rma",
+      "text": "D_Ceballos hace la diagonal Ve un desmarque por el rabillo del ojo Se la pasa a E_Camavinga E_Camavinga trata de ajustar el cuero al palo Chuta con el exterior ¡Uhhhhh! Ha salido a metros del marco",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 116,
+      "teamCode": "rma",
+      "text": "Rodrygo recoge el balón muerto y arranca hacia la portería Falla en el control y N_Schlotterbeck no desaprovecha el regalo",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 117,
+      "teamCode": "rma",
+      "text": "E_Camavinga ve a V_Junior completamente solo R_Bensebaini se interpone entre el delantero y el balón. Ha ganado la posición",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 118,
+      "teamCode": "REF",
+      "text": "El cuarto árbitro indica que se van a añadir 2 minutos al tiempo reglamentario",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 118,
+      "teamCode": "rma",
+      "text": "D_Ceballos se cuela por la banda Quiebra a W_Anton en velocidad Mete un pase raso hacia V_Junior V_Junior rompe el intento de fuera de juego rival Se va solo G_Kobel sale desesperadamente Sienta a G_Kobel con una bicicleta ¡Oh! ¡Qué hace! La defensa se le ha echado encima Busca el disparo Imposible Impacta en su marcador",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 121,
+      "teamCode": "bor",
+      "text": "Jobe_Bellingham volea el cuero. Va directo hacia P_Gross Corte finísimo de E_Militao Y evita el córner Está en un momento dulce",
+      "type": "play"
+    },
+    {
+      "kind": "event",
+      "minute": 121,
+      "teamCode": "rma",
+      "text": "D_Ceballos se cuela hasta la línea de fondo Amaga el centro Pasa raso atrás hacia K_Mbappe K_Mbappe impacta el balón con una volea defectuosa Al palo y fuera Bueno, a veces entra, a veces no...",
+      "type": "play"
+    },
+    {
+      "kind": "break",
+      "label": "Final del partido"
+    }
+  ],
+  "warnings": [],
+  "sourceEncoding": "windows-1252"
+}
