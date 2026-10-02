@@ -1,6 +1,8 @@
 import { crestImage } from './team-crests.js';
 
-const manifestUrl = './data/matches.json';
+const dataVersion = Date.now().toString(36);
+const freshUrl = url => `${url}${url.includes('?') ? '&' : '?'}v=${dataVersion}`;
+const manifestUrl = freshUrl('./data/matches.json');
 const state = { manifest: null, competition: null, round: null, summaries: [], detailCache: new Map() };
 
 const byId = id => document.getElementById(id);
@@ -188,7 +190,7 @@ async function openViewer(summary) {
   try {
     let match = state.detailCache.get(summary.id);
     if (!match) {
-      const response = await fetch(summary.detailPath);
+      const response = await fetch(freshUrl(summary.detailPath), { cache: 'no-store' });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       match = await response.json();
       state.detailCache.set(summary.id, match);
@@ -207,7 +209,7 @@ byId('visor-back').addEventListener('click', () => {
 
 async function init() {
   try {
-    const response = await fetch(manifestUrl);
+    const response = await fetch(manifestUrl, { cache: 'no-store' });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     state.manifest = await response.json();
     renderCompetitions();

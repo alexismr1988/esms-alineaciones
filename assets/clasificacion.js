@@ -1,6 +1,7 @@
 import { crestImage, teamCodeFor } from './team-crests.js';
 
 const esc = value => String(value ?? '').replace(/[&<>'"]/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' })[char]);
+const dataUrl = `./data/standings.json?v=${Date.now().toString(36)}`;
 
 function zone(position, total) {
   if (position === 1) return { row: 'z-green', ball: 'c-green' };
@@ -33,7 +34,7 @@ function render(rows) {
   document.getElementById('loading').style.display = 'none';
 }
 
-fetch('./data/standings.json').then(response => {
+fetch(dataUrl, { cache: 'no-store' }).then(response => {
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   return response.json();
 }).then(data => render(data.rows)).catch(error => {

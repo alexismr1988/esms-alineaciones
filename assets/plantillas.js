@@ -4,6 +4,7 @@ const loading = document.getElementById('loading');
 import { crestImage } from './team-crests.js';
 
 const esc = value => String(value ?? '').replace(/[&<>'"]/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' })[char]);
+const dataUrl = `./data/rosters.json?v=${Date.now().toString(36)}`;
 let data;
 let activeTeam;
 
@@ -36,7 +37,7 @@ window.loadTeam = loadTeam;
 
 async function init() {
   try {
-    const response = await fetch('./data/rosters.json');
+    const response = await fetch(dataUrl, { cache: 'no-store' });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     data = await response.json();
     teamsHost.innerHTML = data.teams.map(team => `<button class="team-btn" type="button" data-id="${esc(team.code)}">${crestImage(team.code, team.name)}<span>${esc(team.name)}</span></button>`).join('');

@@ -17,6 +17,7 @@ const categories = [
   { id: 'inj', icon: '🩹', label: 'Lesionados', desc: 'Partidos de baja por lesión', color: '#e67e22', list: true }
 ];
 const esc = value => String(value ?? '').replace(/[&<>'"]/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;' })[char]);
+const dataUrl = `./data/rosters.json?v=${Date.now().toString(36)}`;
 let players = [];
 let active;
 
@@ -76,7 +77,7 @@ function renderCategories() {
 async function init() {
   renderCategories();
   try {
-    const response = await fetch('./data/rosters.json');
+    const response = await fetch(dataUrl, { cache: 'no-store' });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
     players = data.teams.flatMap(team => data.rosters[team.code].players.map(player => ({ ...player, teamCode: team.code, teamName: team.shortName })));

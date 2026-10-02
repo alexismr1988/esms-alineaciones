@@ -459,12 +459,12 @@ function switchTab(name){
 /* ═══════════════════════════════════════════════════
    GITHUB ROSTER LOADER
 ═══════════════════════════════════════════════════ */
-const DATA_URL = './data/rosters.json';
+const DATA_URL = './data/rosters.json?v='+Date.now().toString(36);
 let rosterDataPromise = null;
 
 function getRosterData(){
   if(!rosterDataPromise){
-    rosterDataPromise = fetch(DATA_URL).then(r=>{
+    rosterDataPromise = fetch(DATA_URL,{cache:'no-store'}).then(r=>{
       if(!r.ok) throw new Error('HTTP '+r.status);
       return r.json();
     });
