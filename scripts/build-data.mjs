@@ -98,7 +98,8 @@ async function writeJson(name, value) {
   const content = `${JSON.stringify(value, null, 2)}\n`;
   if (checkOnly) {
     const current = await readFile(path, 'utf8').catch(() => '');
-    if (current !== content) throw new Error(`${name} no esta actualizado. Ejecuta npm run build.`);
+    const normalizedCurrent = current.replace(/\r\n/g, '\n');
+    if (normalizedCurrent !== content) throw new Error(`${name} no está actualizado. Ejecuta npm run build.`);
     return;
   }
   await mkdir(dirname(path), { recursive: true });

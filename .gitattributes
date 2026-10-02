@@ -1,0 +1,6 @@
+data/**/*.json text eol=lf
+*.json text eol=lf
+*.mjs text eol=lf
+*.js text eol=lf
+*.yml text eol=lf
+
